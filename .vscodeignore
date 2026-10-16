@@ -1,0 +1,12 @@
+.vscode/**
+.git/**
+.draun/**
+AGENTS.md
+src/**
+assets/**
+make_icon.py
+*.vsix
+preview/**
+
+tests/**
+images/screenshots/**

@@ -1,0 +1,434 @@
+{
+  "Brasileirão: Flamengo": {
+    "slug": "flamengo",
+    "titles": {
+      "brasileirao": [
+        1980,
+        1982,
+        1983,
+        1987,
+        1992,
+        2009,
+        2019,
+        2020,
+        2025
+      ],
+      "copaDoBrasil": [
+        1990,
+        2006,
+        2013,
+        2022,
+        2024
+      ],
+      "libertadores": [
+        1981,
+        2019,
+        2022,
+        2025
+      ]
+    },
+    "swatch": "🟥⬛⬜",
+    "accent": "#ff5a45",
+    "primary": "#c52613",
+    "statusFg": "#ffffff",
+    "background": "fundo-814e453e.svg",
+    "backgroundTint": false,
+    "backgroundSize": null,
+    "backgroundPosition": "42.4% 50%",
+    "iconTheme": "brasileirao-flamengo",
+    "colors": [
+      "rgba(255,90,69,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,154,138,0.08)",
+      "rgba(189,189,189,0.08)"
+    ]
+  },
+  "Brasileirão: Fluminense": {
+    "slug": "fluminense",
+    "titles": {
+      "brasileirao": [
+        1970,
+        1984,
+        2010,
+        2012
+      ],
+      "copaDoBrasil": [
+        2007
+      ],
+      "libertadores": [
+        2023
+      ]
+    },
+    "swatch": "🟥🟩⬜",
+    "accent": "#ec7898",
+    "primary": "#8f1d3d",
+    "statusFg": "#ffffff",
+    "background": "fundo-0ce339aa.svg",
+    "backgroundTint": false,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-fluminense",
+    "colors": [
+      "rgba(236,120,152,0.08)",
+      "rgba(63,192,123,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(217,79,119,0.08)"
+    ]
+  },
+  "Brasileirão: Botafogo": {
+    "slug": "botafogo",
+    "titles": {
+      "brasileirao": [
+        1968,
+        1995,
+        2024
+      ],
+      "copaDoBrasil": [],
+      "libertadores": [
+        2024
+      ]
+    },
+    "swatch": "⬛⬜",
+    "accent": "#ffffff",
+    "primary": "#eef3f9",
+    "statusFg": "#0b0b0c",
+    "background": "fundo-f7cde9e3.svg",
+    "backgroundTint": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-botafogo",
+    "colors": [
+      "rgba(255,255,255,0.08)",
+      "rgba(195,204,214,0.08)",
+      "rgba(143,154,166,0.08)",
+      "rgba(255,255,255,0.08)"
+    ]
+  },
+  "Brasileirão: Vasco": {
+    "slug": "vasco",
+    "titles": {
+      "brasileirao": [
+        1974,
+        1989,
+        1997,
+        2000
+      ],
+      "copaDoBrasil": [
+        2011
+      ],
+      "libertadores": [
+        1998
+      ]
+    },
+    "swatch": "⬛⬜",
+    "accent": "#f0f0f0",
+    "primary": "#e0e0e0",
+    "statusFg": "#ffffff",
+    "background": "fundo-93d6be79.svg",
+    "backgroundTint": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-vasco",
+    "colors": [
+      "rgba(240,240,240,0.08)",
+      "rgba(181,181,181,0.08)",
+      "rgba(138,138,138,0.08)",
+      "rgba(240,240,240,0.08)"
+    ]
+  },
+  "Brasileirão: Corinthians": {
+    "slug": "corinthians",
+    "titles": {
+      "brasileirao": [
+        1990,
+        1998,
+        1999,
+        2005,
+        2011,
+        2015,
+        2017
+      ],
+      "copaDoBrasil": [
+        1995,
+        2002,
+        2009,
+        2025
+      ],
+      "libertadores": [
+        2012
+      ]
+    },
+    "swatch": "⬛⬜",
+    "accent": "#ffffff",
+    "primary": "#bdbdbd",
+    "statusFg": "#ffffff",
+    "background": "fundo-68f46279.svg",
+    "backgroundTint": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-corinthians",
+    "colors": [
+      "rgba(255,255,255,0.08)",
+      "rgba(201,201,201,0.08)",
+      "rgba(154,154,154,0.08)",
+      "rgba(255,255,255,0.08)"
+    ]
+  },
+  "Brasileirão: Palmeiras": {
+    "slug": "palmeiras",
+    "titles": {
+      "brasileirao": [
+        1960,
+        1967,
+        1967,
+        1969,
+        1972,
+        1973,
+        1993,
+        1994,
+        2016,
+        2018,
+        2022,
+        2023
+      ],
+      "copaDoBrasil": [
+        1998,
+        2012,
+        2015,
+        2020
+      ],
+      "libertadores": [
+        1999,
+        2020,
+        2021
+      ]
+    },
+    "swatch": "🟩⬜",
+    "accent": "#3ccf8a",
+    "primary": "#0b7a43",
+    "statusFg": "#ffffff",
+    "background": "fundo-edbb4fe2.svg",
+    "backgroundTint": false,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-palmeiras",
+    "colors": [
+      "rgba(60,207,138,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(143,227,185,0.08)",
+      "rgba(189,189,189,0.08)"
+    ]
+  },
+  "Brasileirão: São Paulo": {
+    "slug": "sao-paulo",
+    "titles": {
+      "brasileirao": [
+        1977,
+        1986,
+        1991,
+        2006,
+        2007,
+        2008
+      ],
+      "copaDoBrasil": [
+        2023
+      ],
+      "libertadores": [
+        1992,
+        1993,
+        2005
+      ]
+    },
+    "swatch": "🟥⬛⬜",
+    "accent": "#ff5c6c",
+    "primary": "#d3112d",
+    "statusFg": "#0d0d0d",
+    "background": "fundo-149bf9d8.svg",
+    "backgroundTint": false,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-sao-paulo",
+    "colors": [
+      "rgba(255,92,108,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,154,164,0.08)",
+      "rgba(189,189,189,0.08)"
+    ]
+  },
+  "Brasileirão: Santos": {
+    "slug": "santos",
+    "titles": {
+      "brasileirao": [
+        1961,
+        1962,
+        1963,
+        1964,
+        1965,
+        1968,
+        2002,
+        2004
+      ],
+      "copaDoBrasil": [
+        2010
+      ],
+      "libertadores": [
+        1962,
+        1963,
+        2011
+      ]
+    },
+    "swatch": "⬛⬜",
+    "accent": "#f6eedc",
+    "primary": "#f3ead8",
+    "statusFg": "#0e0d0c",
+    "background": "fundo-279a4dca.svg",
+    "backgroundTint": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-santos",
+    "colors": [
+      "rgba(246,238,220,0.08)",
+      "rgba(207,198,179,0.08)",
+      "rgba(154,146,127,0.08)",
+      "rgba(246,238,220,0.08)"
+    ]
+  },
+  "Brasileirão: Cruzeiro": {
+    "slug": "cruzeiro",
+    "titles": {
+      "brasileirao": [
+        1966,
+        2003,
+        2013,
+        2014
+      ],
+      "copaDoBrasil": [
+        1993,
+        1996,
+        2000,
+        2003,
+        2017,
+        2018
+      ],
+      "libertadores": [
+        1976,
+        1997
+      ]
+    },
+    "swatch": "🟦⬜",
+    "accent": "#7aa2ff",
+    "primary": "#1d4fc4",
+    "statusFg": "#ffffff",
+    "background": "fundo-d6b68f6c.svg",
+    "backgroundTint": false,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-cruzeiro",
+    "colors": [
+      "rgba(122,162,255,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(169,193,255,0.08)",
+      "rgba(189,189,189,0.08)"
+    ]
+  },
+  "Brasileirão: Atlético-MG": {
+    "slug": "atletico-mg",
+    "titles": {
+      "brasileirao": [
+        1937,
+        1971,
+        2021
+      ],
+      "copaDoBrasil": [
+        2014,
+        2021
+      ],
+      "libertadores": [
+        2013
+      ]
+    },
+    "swatch": "⬛⬜",
+    "accent": "#f5f5f5",
+    "primary": "#d0d0d0",
+    "statusFg": "#ffffff",
+    "background": "fundo-7228a08c.svg",
+    "backgroundTint": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-atletico-mg",
+    "colors": [
+      "rgba(245,245,245,0.08)",
+      "rgba(208,208,208,0.08)",
+      "rgba(157,157,157,0.08)",
+      "rgba(245,245,245,0.08)"
+    ]
+  },
+  "Brasileirão: Grêmio": {
+    "slug": "gremio",
+    "titles": {
+      "brasileirao": [
+        1981,
+        1996
+      ],
+      "copaDoBrasil": [
+        1989,
+        1994,
+        1997,
+        2001,
+        2016
+      ],
+      "libertadores": [
+        1983,
+        1995,
+        2017
+      ]
+    },
+    "swatch": "🟦⬛⬜",
+    "accent": "#4db8f5",
+    "primary": "#0b76b0",
+    "statusFg": "#ffffff",
+    "background": "fundo-80982357.svg",
+    "backgroundTint": false,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-gremio",
+    "colors": [
+      "rgba(77,184,245,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(155,216,250,0.08)",
+      "rgba(189,189,189,0.08)"
+    ]
+  },
+  "Brasileirão: Internacional": {
+    "slug": "internacional",
+    "titles": {
+      "brasileirao": [
+        1975,
+        1976,
+        1979
+      ],
+      "copaDoBrasil": [
+        1992
+      ],
+      "libertadores": [
+        2006,
+        2010
+      ]
+    },
+    "swatch": "🟥⬜",
+    "accent": "#ff5d5d",
+    "primary": "#d4161c",
+    "statusFg": "#ffffff",
+    "background": "fundo-f1210a39.svg",
+    "backgroundTint": false,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-internacional",
+    "colors": [
+      "rgba(255,93,93,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,154,154,0.08)",
+      "rgba(189,189,189,0.08)"
+    ]
+  }
+}

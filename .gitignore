@@ -1,0 +1,10 @@
+node_modules/
+*.vsix
+# escudos: marca registrada dos clubes, só para uso pessoal
+assets/escudos/
+icons/*/escudo.svg
+icons/*/fundo-*
+icons/_material/
+assets/icone.png
+images/icon.png
+preview/

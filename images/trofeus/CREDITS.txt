@@ -1,0 +1,17 @@
+Fotos dos troféus, recortadas do fundo e redimensionadas.
+
+- brasileirao.png
+  Obra: "Troféu Campeonato Brasileiro 2024.jpg"
+  Autor: Phill ad
+  Licença: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
+  Fonte: https://commons.wikimedia.org/wiki/File:Trof%C3%A9u_Campeonato_Brasileiro_2024.jpg
+
+- libertadores.png
+  Obra: "328-3287452 copa-libertadores-primer-trofeo-hd-png-download.png"
+  Autor: Mathiaseditorxd
+  Licença: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Fonte: https://commons.wikimedia.org/wiki/File:328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png
+  Esta versão é uma adaptação (recorte e redimensionamento) e é distribuída sob a mesma licença, CC BY-SA 4.0.
+
+- copa-do-brasil.png
+  Imagem fornecida pelo autor do projeto (render do troféu). Autor e licença não informados.

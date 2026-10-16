@@ -1,0 +1,209 @@
+{
+  "name": "brasileirao-theme",
+  "displayName": "Brasileirão Theme",
+  "description": "Um tema escuro e um tema de ícones para cada um dos 12 grandes do Brasileirão: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "version": "1.0.0",
+  "publisher": "lucasnicolau30",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasnicolau30/brasileirao-theme.git"
+  },
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "icon-theme",
+    "dark",
+    "futebol",
+    "brasileirão",
+    "times",
+    "brasileirão theme"
+  ],
+  "contributes": {
+    "views": {
+      "explorer": [
+        {
+          "type": "webview",
+          "id": "brasileirao.titulos",
+          "name": "Títulos",
+          "visibility": "visible",
+          "initialSize": 3,
+          "contextualTitle": "Brasileirão Theme"
+        }
+      ]
+    },
+    "themes": [
+      {
+        "label": "Brasileirão: Flamengo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/flamengo-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Fluminense",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fluminense-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Botafogo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/botafogo-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Vasco",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vasco-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Corinthians",
+        "uiTheme": "vs-dark",
+        "path": "./themes/corinthians-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Palmeiras",
+        "uiTheme": "vs-dark",
+        "path": "./themes/palmeiras-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: São Paulo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sao-paulo-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Santos",
+        "uiTheme": "vs-dark",
+        "path": "./themes/santos-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Cruzeiro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cruzeiro-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Atlético-MG",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atletico-mg-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Grêmio",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gremio-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Internacional",
+        "uiTheme": "vs-dark",
+        "path": "./themes/internacional-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "brasileirao-flamengo",
+        "label": "Brasileirão: Flamengo",
+        "path": "./icons/flamengo/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-fluminense",
+        "label": "Brasileirão: Fluminense",
+        "path": "./icons/fluminense/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-botafogo",
+        "label": "Brasileirão: Botafogo",
+        "path": "./icons/botafogo/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-vasco",
+        "label": "Brasileirão: Vasco",
+        "path": "./icons/vasco/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-corinthians",
+        "label": "Brasileirão: Corinthians",
+        "path": "./icons/corinthians/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-palmeiras",
+        "label": "Brasileirão: Palmeiras",
+        "path": "./icons/palmeiras/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-sao-paulo",
+        "label": "Brasileirão: São Paulo",
+        "path": "./icons/sao-paulo/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-santos",
+        "label": "Brasileirão: Santos",
+        "path": "./icons/santos/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro",
+        "label": "Brasileirão: Cruzeiro",
+        "path": "./icons/cruzeiro/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg",
+        "label": "Brasileirão: Atlético-MG",
+        "path": "./icons/atletico-mg/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-gremio",
+        "label": "Brasileirão: Grêmio",
+        "path": "./icons/gremio/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-internacional",
+        "label": "Brasileirão: Internacional",
+        "path": "./icons/internacional/icon-theme.json"
+      }
+    ],
+    "commands": [
+      {
+        "command": "brasileirao.escolherTime",
+        "title": "Brasileirão: Escolher time"
+      }
+    ],
+    "configuration": {
+      "title": "Brasileirão Theme",
+      "properties": {
+        "brasileirao.syncIconTheme": {
+          "type": "boolean",
+          "default": true,
+          "description": "Ao escolher um tema \"Brasileirão: <time>\", troca também o tema de ícones para o do mesmo time."
+        },
+        "brasileirao.crestBackground": {
+          "type": "boolean",
+          "default": true,
+          "description": "Mostra o escudo do time, em branco e bem discreto, no fundo do editor. Precisa da extensão \"Background\" (shalldie.background)."
+        },
+        "brasileirao.crestOpacity": {
+          "type": "number",
+          "default": 0.08,
+          "minimum": 0.01,
+          "maximum": 0.3,
+          "description": "Opacidade do escudo no fundo do editor (0.01 a 0.3)."
+        }
+      }
+    }
+  },
+  "scripts": {
+    "build": "node src/build.js",
+    "check": "node src/check-contrast.js",
+    "package": "node src/build.js && node src/check-contrast.js && npx --yes @vscode/vsce package --no-dependencies --out brasileirao-theme.vsix",
+    "instalar": "npm run package && code --install-extension brasileirao-theme.vsix --force",
+    "preview": "node src/build.js && node src/preview.js",
+    "test": "node --test"
+  },
+  "main": "./extension/extension.js",
+  "activationEvents": [
+    "onStartupFinished"
+  ],
+  "extensionKind": [
+    "ui"
+  ]
+}
