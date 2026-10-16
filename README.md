@@ -24,8 +24,6 @@ Teams: Flamengo, Fluminense, Botafogo, Vasco, Corinthians, Palmeiras, São Paulo
 
 ## Screenshots
 
-> Placeholders: add one image per club in `images/screenshots/<slug>.png` (about 1280×720). The names are in the table.
-
 | Club | Screenshot |
 | --- | --- |
 | Flamengo | ![Flamengo](images/screenshots/flamengo.png) |
@@ -40,14 +38,6 @@ Teams: Flamengo, Fluminense, Botafogo, Vasco, Corinthians, Palmeiras, São Paulo
 | Atlético-MG | ![Atlético-MG](images/screenshots/atletico-mg.png) |
 | Grêmio | ![Grêmio](images/screenshots/gremio.png) |
 | Internacional | ![Internacional](images/screenshots/internacional.png) |
-
-Extra images, if you want them:
-
-| What | File |
-| --- | --- |
-| The "Titles" section, with a trophy hovered (years box) | `images/screenshots/titulos.png` |
-| The team picker with crests | `images/screenshots/seletor.png` |
-| The status bar "Times" button | `images/screenshots/botao-times.png` |
 
 ## Installation
 

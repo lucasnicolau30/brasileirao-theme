@@ -24,8 +24,6 @@ Times: Flamengo, Fluminense, Botafogo, Vasco, Corinthians, Palmeiras, São Paulo
 
 ## Capturas de tela
 
-> Espaços reservados: coloque uma imagem por clube em `images/screenshots/<slug>.png` (cerca de 1280×720). Os nomes estão na tabela.
-
 | Clube | Captura |
 | --- | --- |
 | Flamengo | ![Flamengo](images/screenshots/flamengo.png) |
@@ -40,14 +38,6 @@ Times: Flamengo, Fluminense, Botafogo, Vasco, Corinthians, Palmeiras, São Paulo
 | Atlético-MG | ![Atlético-MG](images/screenshots/atletico-mg.png) |
 | Grêmio | ![Grêmio](images/screenshots/gremio.png) |
 | Internacional | ![Internacional](images/screenshots/internacional.png) |
-
-Imagens extras, se quiser:
-
-| O quê | Arquivo |
-| --- | --- |
-| A seção "Títulos", com um troféu sob o mouse (caixa dos anos) | `images/screenshots/titulos.png` |
-| O seletor de times com escudos | `images/screenshots/seletor.png` |
-| O botão "Times" na barra de status | `images/screenshots/botao-times.png` |
 
 ## Instalação
 
