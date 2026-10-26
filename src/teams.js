@@ -18,6 +18,7 @@
 // bgColored  (opcional) true: o escudo atual no fundo do editor fica colorido, como em assets/escudos/fundo/<slug>.svg, em vez da silhueta branca (a extensão não aplica o filtro de branco)
 // crestLabel  nome do escudo atual no seletor; entre parênteses, "desde" o ano em que o desenho atual passou a valer, só quando a fonte é clara (Wikipédia pt e imprensa). Sem data firme, fica só o nome
 // iconFromBackground  (opcional) true: o escudo atual é só o símbolo (monograma, estrela, cruz...) e a pasta usa a mesma silhueta do fundo; o escudo inteiro entra como segundo escudo atual ("atual": true em src/escudos-retro.json)
+// titleCenter  (opcional) chave da competição que fica no centro da seção Títulos (ex.: 'copaDoBrasil'), no lugar da ordem padrão; vale com número ímpar de troféus
 // swatch      quadradinhos coloridos (emoji) com as cores do time, para o seletor 'Escolher time'
 // fg          cor do texto principal (um tom do branco, mais frio ou mais quente)
 const times = [
@@ -74,7 +75,9 @@ const times = [
   { slug: 'goias', uf: 'GO', crestLabel: 'Goiás (desde 2021)', bgColored: true, swatch: '🟩⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [1999, 2012], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Goiás', side: '#0a1b17', bg: '#071410', chrome: '#0a6b52', secondary: '#ffffff', fg: '#e2f0ec', primary: '#0aa876', accent: '#3fe0b0', statusBg: '#0a7a5c', statusFg: '#ffffff',
     brackets: ['#3fe0b0', '#ffffff', '#8ff0d2', '#1fbf92', '#d9f8ee', '#5fe8c0'] },
   { slug: 'chapecoense', uf: 'SC', crestLabel: 'Chapecoense (desde 2017)', bgColored: true, swatch: '🟩⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [2016], serieB: [2020], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Chapecoense', side: '#0b1b10', bg: '#08130b', chrome: '#0b5e2a', secondary: '#ffffff', fg: '#e4efe7', primary: '#17a344', accent: '#4fe08a', statusBg: '#0b7a32', statusFg: '#ffffff',
-    brackets: ['#4fe08a', '#ffffff', '#9aeec0', '#27c765', '#dcf7e6', '#6be5a0'] }
+    brackets: ['#4fe08a', '#ffffff', '#9aeec0', '#27c765', '#dcf7e6', '#6be5a0'] },
+  { slug: 'criciuma', uf: 'SC', crestLabel: 'Criciúma (desde 1984)', bgColored: true, titleCenter: 'copaDoBrasil', swatch: '🟨⬛', titles: { brasileirao: [], copaDoBrasil: [1991], libertadores: [], mundial: [], sulAmericana: [], serieB: [2002], serieC: [2006], serieD: [], copaDoNordeste: [] }, label: 'Criciúma', side: '#161409', bg: '#0b0b0a', activity: '#000000', title: '#f2c200', secondary: '#ffd800', fg: '#efecdf', primary: '#f2c200', accent: '#ffd84d', statusBg: '#f2c200', statusFg: '#0b0b0a',
+    brackets: ['#ffd84d', '#ffffff', '#ffe88a', '#f2c200', '#fff3c4', '#ffc400'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

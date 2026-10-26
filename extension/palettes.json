@@ -2998,5 +2998,111 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Criciúma": {
+    "slug": "criciuma",
+    "crestLabel": "Atual · desde 1984",
+    "crestIcon": "escudo-81730e03.svg",
+    "listIcon": "escudo-81730e03.svg",
+    "backgroundAspect": 1.596,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [
+        1991
+      ],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        2002
+      ],
+      "serieC": [
+        2006
+      ],
+      "serieD": [],
+      "copaDoNordeste": []
+    },
+    "titleCenter": "copaDoBrasil",
+    "retro": [
+      {
+        "id": "1947",
+        "label": "1947–1948",
+        "fullLabel": "1947–1948",
+        "atual": false,
+        "file": "retro-1947-cfe1a2bf.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-criciuma-1947"
+      },
+      {
+        "id": "1948",
+        "label": "1948–1978",
+        "fullLabel": "1948–1978",
+        "atual": false,
+        "file": "retro-1948-06bec9bb.svg",
+        "aspect": 0.835,
+        "iconTheme": "brasileirao-criciuma-1948"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟨⬛",
+    "primary": "#f2c200",
+    "background": "fundo-3cee33ba.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-criciuma",
+    "colors": [
+      "rgba(255,216,77,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,232,138,0.08)",
+      "rgba(242,194,0,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#f2c20033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ffd84d"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffe88a"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ffd84d"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

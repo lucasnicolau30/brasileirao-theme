@@ -90,9 +90,9 @@ async function syncIconTheme(context, palette) {
 
 // O VS Code não tem API para imagem de fundo; quem faz isso é a extensão Background, que lê `background.editor`.
 const CREST_SIZE = 'auto 80vh';
-// Todo escudo de fundo tem a mesma altura (80vh). Só uma imagem absurdamente larga (mais de 1,5 vez a altura) é limitada pela largura e fica
-// mais baixa, para não passar da área do editor; o monograma do Flamengo retrô (1,37) cabe e tem a altura igual à dos demais.
-const MAX_CREST_ASPECT = 1.5;
+// Todo escudo de fundo tem a mesma altura (80vh). Só uma imagem absurdamente larga (mais de 1,6 vez a altura) é limitada pela largura e fica
+// mais baixa, para não passar da área do editor; o monograma do Flamengo retrô (1,37) e o Criciúma (1,6) cabem e têm a altura igual à dos demais.
+const MAX_CREST_ASPECT = 1.6;
 const crestSize = (aspect) => (aspect > MAX_CREST_ASPECT ? `${Math.round(MAX_CREST_ASPECT * 80)}vh auto` : CREST_SIZE);
 const CREST_VARIANTS = 'crest.variants';
 
@@ -236,6 +236,13 @@ function presentTitles(palette) {
   if (mundial && present.length === 5) {
     const rest = present.filter((c) => c !== mundial);
     return [...rest.slice(0, 2), mundial, ...rest.slice(2)];
+  }
+  // `titleCenter` (opcional, em teams.js): a competição escolhida vai para o meio, e as demais mantêm a ordem em volta dela.
+  const center = present.find((c) => c.key === palette.titleCenter);
+  if (center && present.length % 2 === 1) {
+    const rest = present.filter((c) => c !== center);
+    const half = (present.length - 1) / 2;
+    return [...rest.slice(0, half), center, ...rest.slice(half)];
   }
   return present;
 }

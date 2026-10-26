@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 27 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 28 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -173,6 +173,11 @@
         "label": "Brasileirão: Chapecoense",
         "uiTheme": "vs-dark",
         "path": "./themes/chapecoense-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Criciúma",
+        "uiTheme": "vs-dark",
+        "path": "./themes/criciuma-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -620,6 +625,21 @@
         "id": "brasileirao-chapecoense-1975",
         "label": "Brasileirão: Chapecoense (retrô 1975–1984)",
         "path": "./icons/chapecoense/icon-theme-1975.json"
+      },
+      {
+        "id": "brasileirao-criciuma",
+        "label": "Brasileirão: Criciúma",
+        "path": "./icons/criciuma/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-criciuma-1947",
+        "label": "Brasileirão: Criciúma (retrô 1947–1948)",
+        "path": "./icons/criciuma/icon-theme-1947.json"
+      },
+      {
+        "id": "brasileirao-criciuma-1948",
+        "label": "Brasileirão: Criciúma (retrô 1948–1978)",
+        "path": "./icons/criciuma/icon-theme-1948.json"
       }
     ],
     "commands": [

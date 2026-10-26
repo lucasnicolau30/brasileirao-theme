@@ -714,5 +714,39 @@
       ],
       "nota": "escudo da Chapecoense de 1975 a 1984 (monograma ACF de letras irregulares, anel com o nome e 'CHAPECÓ SC'; sem ano nem estrelas), enviado pelo dono do projeto (WebP de 1000 px, com fundo transparente), período dado por ele; o verde foi clareado (#1fa046) para aparecer sobre o fundo escuro do editor"
     }
+  ],
+  "criciuma": [
+    {
+      "id": "1947",
+      "label": "1947–1948",
+      "local": "Criciuma-1947.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 1,
+      "suavidade": 1.5,
+      "minimo": 150,
+      "vetorizarPaleta": [
+        "#f4f4f0",
+        "#3b7ccc"
+      ],
+      "nota": "primeiro escudo do clube, quando ainda era o Comerciário (globo azul e branco com as letras C E C), enviado pelo dono do projeto (WebP de 200 px, ampliado e traçado); período de 1947 a 1948 segundo a página de símbolos do site oficial do Criciúma, que diz que ele só aparecia no segundo uniforme; o azul foi clareado (#3b7ccc) para aparecer sobre o fundo escuro do editor"
+    },
+    {
+      "id": "1948",
+      "label": "1948–1978",
+      "local": "Criciuma-1948.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 1,
+      "suavidade": 1.5,
+      "minimo": 150,
+      "vetorizarPaleta": [
+        "#f4f4f0",
+        "#3b7ccc"
+      ],
+      "nota": "segundo escudo do Comerciário, com o emblema do comércio (caduceu com asas) no centro, enviado pelo dono do projeto (PNG de 800 px); período de 1948 a 1978 segundo o site oficial do clube, que o manteve depois da mudança de nome para Criciúma Esporte Clube em 1978; o azul foi clareado (#3b7ccc) para aparecer sobre o fundo escuro do editor"
+    }
   ]
 }

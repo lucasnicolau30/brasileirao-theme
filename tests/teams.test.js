@@ -40,7 +40,8 @@ const EXPECTED = {
   goias: [0, 0, 0],
   bragantino: [0, 0, 0],
   mirassol: [0, 0, 0],
-  chapecoense: [0, 0, 0]
+  chapecoense: [0, 0, 0],
+  criciuma: [0, 1, 0]
 };
 const FIRST_YEAR = { brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994 };
 // Mundial (Intercontinental + Mundial da FIFA), Sul-Americana, Série B, C e D: [mundial, sulAmericana, serieB, serieC, serieD], conferido à mão nas listas oficiais.
@@ -71,7 +72,8 @@ const EXPECTED_OTHER = {
   goias: [0, 0, 2, 0, 0],
   bragantino: [0, 0, 2, 1, 0],
   mirassol: [0, 0, 0, 1, 1],
-  chapecoense: [0, 1, 1, 0, 0]
+  chapecoense: [0, 1, 1, 0, 0],
+  criciuma: [0, 0, 1, 1, 0]
 };
 const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
@@ -81,8 +83,8 @@ const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport:
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 27 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 27);
+test('há 28 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 28);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -253,6 +255,9 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('São Paulo'), ['Copa do Brasil', 'Libertadores', 'Mundial', 'Brasileirão', 'Sul-Americana']);
     // Com 5 competições o Mundial (o ápice) fica no centro.
     for (const time of ['São Paulo', 'Corinthians', 'Santos', 'Grêmio', 'Internacional']) assert.equal(itens(time)[2], 'Mundial', `${time}: Mundial deve ficar no centro`);
+    // Criciúma: a Copa do Brasil fica no centro (titleCenter em teams.js); os outros times mantêm a ordem padrão.
+    assert.deepEqual(itens('Criciúma'), ['Série B', 'Copa do Brasil', 'Série C']);
+    assert.deepEqual(itens('Bragantino'), ['Série B', 'Série C']);
     // Todos os troféus têm a mesma altura: nenhum item recebe classe de tamanho especial, e a altura vem de uma variável única.
     for (const time of ['São Paulo', 'Flamengo', 'Palmeiras', 'Amazonas']) assert.ok(!/class="item big/.test(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`])), `${time}: nenhum troféu pode ser maior que os outros`);
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: Flamengo`]).includes('var(--h)'), 'a altura dos troféus deve vir da variável única --h');
@@ -308,7 +313,8 @@ test('todo escudo de fundo tem a mesma altura (só uma imagem absurdamente larga
     assert.equal(m.exports.crestSize(0.8), 'auto 80vh');
     assert.equal(m.exports.crestSize(1.04), 'auto 80vh', 'o fundo do Flamengo (1,04), já aprovado, não muda');
     assert.equal(m.exports.crestSize(1.37), 'auto 80vh', 'o monograma largo do Flamengo retrô tem a mesma altura dos demais');
-    assert.equal(m.exports.crestSize(1.8), '120vh auto', 'uma imagem absurdamente larga é limitada pela largura');
+    assert.equal(m.exports.crestSize(1.596), 'auto 80vh', 'o escudo do Criciúma (1,596) tem a mesma altura dos demais');
+    assert.equal(m.exports.crestSize(1.8), '128vh auto', 'uma imagem absurdamente larga é limitada pela largura');
     assert.equal(m.exports.crestSize(null), 'auto 80vh', 'sem proporção conhecida, vale o padrão');
   } finally {
     Module._load = original;
@@ -364,5 +370,5 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de Libert
     assert.ok(la > lb || (la === lb && ba >= bb), `${a.slug} deveria vir depois de ${b.slug}`);
   }
   assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'bragantino', 'mirassol', 'cruzeiro', 'atletico-mg',
-    'gremio', 'internacional', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'sport', 'remo', 'paysandu', 'amazonas', 'goias', 'chapecoense']);
+    'gremio', 'internacional', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'sport', 'remo', 'paysandu', 'amazonas', 'goias', 'chapecoense', 'criciuma']);
 });

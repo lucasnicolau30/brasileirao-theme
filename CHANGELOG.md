@@ -1,5 +1,10 @@
 # Changelog
 
+## Próxima versão
+
+- **Criciúma** (28º time): tema de cores amarelo e preto, tema de ícones, escudo atual e títulos. O escudo atual vale "desde 1984", como a página de símbolos do site do clube lista; em outubro de 2025 o clube anunciou uma atualização para 2026 (estrelas preenchidas, letras mais grossas), que não está na imagem usada aqui. Retrôs, com os períodos do site oficial: **1947–1948** (globo com as letras C E C, do tempo do Comerciário) e **1948–1978** (emblema do comércio com o caduceu, mantido depois da mudança de nome em 1978). As imagens vieram do dono do projeto. Títulos: Copa do Brasil 1991, Série B 2002 e Série C 2006. O preto do escudo vira cinza (#6f6f6f) no fundo, para aparecer sobre o fundo escuro do editor.
+- Ficam **64 escudos antigos de 28 clubes**.
+
 ## 1.1.0 (2026-10-26)
 
 **27 times (eram 12)**
