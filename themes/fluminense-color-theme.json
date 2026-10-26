@@ -38,14 +38,14 @@
     "editorBracketHighlight.foreground3": "#ffffff",
     "editorBracketHighlight.foreground4": "#d94f77",
     "editorBracketHighlight.foreground5": "#7fdba5",
-    "editorBracketHighlight.foreground6": "#bdbdbd",
+    "editorBracketHighlight.foreground6": "#f2c9d5",
     "editorBracketHighlight.unexpectedBracket.foreground": "#ff6b5a",
     "editorBracketPairGuide.activeBackground1": "#ec7898",
     "editorBracketPairGuide.activeBackground2": "#3fc07b",
     "editorBracketPairGuide.activeBackground3": "#ffffff",
     "editorBracketPairGuide.activeBackground4": "#d94f77",
     "editorBracketPairGuide.activeBackground5": "#7fdba5",
-    "editorBracketPairGuide.activeBackground6": "#bdbdbd",
+    "editorBracketPairGuide.activeBackground6": "#f2c9d5",
     "editorLink.activeForeground": "#ec7898",
     "editorCodeLens.foreground": "#8a8a8a",
     "editorGutter.background": "#1a0b12",
@@ -371,6 +371,34 @@
       ],
       "settings": {
         "foreground": "#8a8a8a"
+      }
+    },
+    {
+      "name": "Colchetes",
+      "scope": [
+        "meta.brace",
+        "punctuation.parenthesis",
+        "punctuation.definition.block",
+        "punctuation.definition.parameters",
+        "punctuation.definition.array",
+        "punctuation.definition.dictionary",
+        "punctuation.definition.dict",
+        "punctuation.definition.list",
+        "punctuation.definition.set",
+        "punctuation.definition.binding-pattern",
+        "punctuation.section.block",
+        "punctuation.section.parens",
+        "punctuation.section.brackets",
+        "punctuation.section.braces",
+        "punctuation.section.property-list",
+        "punctuation.section.function",
+        "punctuation.section.arguments",
+        "punctuation.section.group",
+        "punctuation.section.array",
+        "punctuation.section.scope"
+      ],
+      "settings": {
+        "foreground": "#ec7898"
       }
     },
     {

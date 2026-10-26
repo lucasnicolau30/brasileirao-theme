@@ -1,5 +1,4 @@
 const path = require('path');
-const { mix } = require('./color');
 
 const SVG_OPEN = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">';
 const FONT = 'font-family="Arial,Helvetica,sans-serif" font-weight="700" text-anchor="middle"';
@@ -40,13 +39,6 @@ function folderClosed(color) {
   return `${SVG_OPEN}<path d="M1 3.5A1.5 1.5 0 0 1 2.5 2H6l1.5 1.5h6A1.5 1.5 0 0 1 15 5v7.5a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 1 12.5z" fill="${color}"/></svg>`;
 }
 
-function folderOpen(color) {
-  const back = mix(color, '#000000', 0.35);
-  const front = mix(color, '#ffffff', 0.2);
-  return `${SVG_OPEN}<path d="M1 3.5A1.5 1.5 0 0 1 2.5 2H6l1.5 1.5h6A1.5 1.5 0 0 1 15 5v7.5a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 1 12.5z" fill="${back}"/>` +
-    `<path d="M3.2 6.2A1 1 0 0 1 4.1 5.5H15l-1.6 7.6a1 1 0 0 1-1 .8H2.5z" fill="${front}"/></svg>`;
-}
-
 // Pastas especiais: a pasta do time mais uma marca no canto.
 function folderMarked(color, mark) {
   return folderClosed(color).replace('</svg>', `${mark}</svg>`);
@@ -56,12 +48,12 @@ const nodeModulesFolder = () =>
 const gitFolder = () =>
   folderMarked('#6b625d', '<path d="M11.5 7.9l2.6 2.6-2.6 2.6-2.6-2.6z" fill="#e8743c" stroke="#0d0d0d" stroke-width="0.8" stroke-linejoin="round"/>');
 
-// Monta o tema de ícones de um time. `crestFile` é o nome do arquivo do escudo (se existir).
+// Monta o tema de ícones de um time. `crestFile` é o nome do arquivo do escudo.
 function iconTheme(team, crestFile) {
   const defs = {
     _file: { iconPath: './file.svg' },
-    _folder: { iconPath: crestFile ? `./${crestFile}` : './folder.svg' },
-    _folder_open: { iconPath: crestFile ? `./${crestFile}` : './folder-open.svg' },
+    _folder: { iconPath: `./${crestFile}` },
+    _folder_open: { iconPath: `./${crestFile}` },
     _nm: { iconPath: './folder-node-modules.svg' },
     _git: { iconPath: './folder-git.svg' }
   };
@@ -94,8 +86,8 @@ function materialIconTheme(material, crestFile, materialRef) {
   const folderKeys = ['folderNames', 'folderNamesExpanded', 'rootFolderNames', 'rootFolderNamesExpanded'];
   const theme = JSON.parse(JSON.stringify(material));
   const own = {
-    _folder: { iconPath: crestFile ? `./${crestFile}` : './folder.svg' },
-    _folder_open: { iconPath: crestFile ? `./${crestFile}` : './folder-open.svg' }
+    _folder: { iconPath: `./${crestFile}` },
+    _folder_open: { iconPath: `./${crestFile}` }
   };
   for (const k of folderKeys) {
     theme[k] = {};
@@ -132,12 +124,8 @@ function materialIconTheme(material, crestFile, materialRef) {
 }
 
 // Arquivos SVG do tema de ícones (nome do arquivo -> conteúdo).
-function iconFiles(team, hasCrest, onlyFolders = false) {
+function iconFiles(onlyFolders = false) {
   const files = onlyFolders ? {} : { 'file.svg': genericFile(), 'folder-node-modules.svg': nodeModulesFolder(), 'folder-git.svg': gitFolder() };
-  if (!hasCrest) {
-    files['folder.svg'] = folderClosed(team.primary);
-    files['folder-open.svg'] = folderOpen(team.primary);
-  }
   if (!onlyFolders) for (const t of FILE_TYPES) files[`${t.id}.svg`] = badge(t.color, t.text, t.ink, t.size);
   return files;
 }

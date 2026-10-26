@@ -36,16 +36,16 @@
     "editorBracketHighlight.foreground1": "#4db8f5",
     "editorBracketHighlight.foreground2": "#ffffff",
     "editorBracketHighlight.foreground3": "#9bd8fa",
-    "editorBracketHighlight.foreground4": "#bdbdbd",
-    "editorBracketHighlight.foreground5": "#1e98dd",
-    "editorBracketHighlight.foreground6": "#8f8f8f",
+    "editorBracketHighlight.foreground4": "#1e98dd",
+    "editorBracketHighlight.foreground5": "#d4effc",
+    "editorBracketHighlight.foreground6": "#6fc6f7",
     "editorBracketHighlight.unexpectedBracket.foreground": "#ff6b5a",
     "editorBracketPairGuide.activeBackground1": "#4db8f5",
     "editorBracketPairGuide.activeBackground2": "#ffffff",
     "editorBracketPairGuide.activeBackground3": "#9bd8fa",
-    "editorBracketPairGuide.activeBackground4": "#bdbdbd",
-    "editorBracketPairGuide.activeBackground5": "#1e98dd",
-    "editorBracketPairGuide.activeBackground6": "#8f8f8f",
+    "editorBracketPairGuide.activeBackground4": "#1e98dd",
+    "editorBracketPairGuide.activeBackground5": "#d4effc",
+    "editorBracketPairGuide.activeBackground6": "#6fc6f7",
     "editorLink.activeForeground": "#4db8f5",
     "editorCodeLens.foreground": "#8a8a8a",
     "editorGutter.background": "#07131f",
@@ -371,6 +371,34 @@
       ],
       "settings": {
         "foreground": "#8a8a8a"
+      }
+    },
+    {
+      "name": "Colchetes",
+      "scope": [
+        "meta.brace",
+        "punctuation.parenthesis",
+        "punctuation.definition.block",
+        "punctuation.definition.parameters",
+        "punctuation.definition.array",
+        "punctuation.definition.dictionary",
+        "punctuation.definition.dict",
+        "punctuation.definition.list",
+        "punctuation.definition.set",
+        "punctuation.definition.binding-pattern",
+        "punctuation.section.block",
+        "punctuation.section.parens",
+        "punctuation.section.brackets",
+        "punctuation.section.braces",
+        "punctuation.section.property-list",
+        "punctuation.section.function",
+        "punctuation.section.arguments",
+        "punctuation.section.group",
+        "punctuation.section.array",
+        "punctuation.section.scope"
+      ],
+      "settings": {
+        "foreground": "#4db8f5"
       }
     },
     {

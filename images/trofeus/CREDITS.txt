@@ -15,3 +15,14 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - copa-do-brasil.png
   Imagem fornecida pelo autor do projeto (render do troféu). Autor e licença não informados.
+
+- mundial.png
+  Taça do Mundial de Clubes da FIFA: imagem fornecida pelo usuário (images.jpg), sem autor nem licença conhecidos.
+  Recortada do fundo branco (o JPG tinha um xadrez de transparência assado) e redimensionada para 380 px de altura.
+
+- sul-americana.png, serie-b.png, serie-c.png, serie-d.png
+  Fotos dos troféus da Copa Sul-Americana e do Brasileirão Séries B, C e D: imagens fornecidas pelo usuário (sulamericana.jpg, serie-b.webp, serie-c.webp, serie-d.jpg), sem autor nem licença conhecidos.
+  Recortadas do fundo claro e redimensionadas para 380 px de altura.
+
+- copa-do-nordeste.png
+  Taça da Copa do Nordeste: imagem fornecida pelo usuário (images (2).jpg), recortada do fundo, sem autor nem licença conhecidos.

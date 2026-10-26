@@ -1,12 +1,16 @@
+# O pacote (.vsix) leva o que está no local: temas, ícones, escudos (atuais e antigos), fundos, troféus e a extensão.
+# Fica de fora só o que é de desenvolvimento.
 .vscode/**
 .git/**
 .draun/**
+.gitignore
 AGENTS.md
 src/**
 assets/**
-make_icon.py
-*.vsix
-preview/**
-
 tests/**
+preview/**
 images/screenshots/**
+*.py
+__pycache__/**
+**/*.pyc
+*.vsix

@@ -289,6 +289,14 @@ function tokenColors(t) {
     rule('Tags e seletores', ['entity.name.tag', 'entity.name.tag.css', 'meta.tag', 'punctuation.definition.tag'], { foreground: t.accent }),
     rule('Atributos', ['entity.other.attribute-name', 'support.type.property-name.css'], { foreground: s.func }),
     rule('Pontuação', ['punctuation', 'meta.brace', 'meta.delimiter'], { foreground: s.punctuation }),
+    // Onde a coloração por par do VS Code não chega (linguagens sem suporte, colchetes dentro de strings), os colchetes ficam na cor do time em vez de cinza.
+    rule('Colchetes', [
+      'meta.brace', 'punctuation.parenthesis', 'punctuation.definition.block', 'punctuation.definition.parameters',
+      'punctuation.definition.array', 'punctuation.definition.dictionary', 'punctuation.definition.dict', 'punctuation.definition.list',
+      'punctuation.definition.set', 'punctuation.definition.binding-pattern', 'punctuation.section.block', 'punctuation.section.parens',
+      'punctuation.section.brackets', 'punctuation.section.braces', 'punctuation.section.property-list', 'punctuation.section.function',
+      'punctuation.section.arguments', 'punctuation.section.group', 'punctuation.section.array', 'punctuation.section.scope'
+    ], { foreground: t.brackets[0] }),
     rule('Decoradores e anotações', ['meta.decorator', 'entity.name.function.decorator', 'punctuation.decorator'], { foreground: s.escape }),
     rule('Markdown: títulos', ['markup.heading', 'entity.name.section.markdown'], { foreground: t.accent, fontStyle: 'bold' }),
     rule('Markdown: negrito', ['markup.bold'], { foreground: '#ffffff', fontStyle: 'bold' }),

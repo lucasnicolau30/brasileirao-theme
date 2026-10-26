@@ -1,4 +1,4 @@
-// Gera preview/index.html: os 12 temas lado a lado, com as cores e os ícones de cada time.
+// Gera preview/index.html: os temas lado a lado, com as cores e os ícones de cada time.
 // É uma simulação aproximada do VS Code (para comparar temas rápido), não o editor de verdade.
 // Uso: npm run preview            (gera e abre no navegador)
 //      node src/preview.js slugs  (só alguns times, ex.: flamengo,sao-paulo)
@@ -82,7 +82,7 @@ function card(team) {
     <div class="tab" style="background:${c['tab.activeBackground']};color:${c['tab.activeForeground']};border-top:2px solid ${c['tab.activeBorderTop']}">index.js</div>
     <div class="tab" style="color:${c['tab.inactiveForeground']}">app.ts</div>
   </div>
-  <div class="ed"><div class="crest" style="background:url(../icons/${team.slug}/${fundoOf(team.slug)}) 42% 50%/auto 85% no-repeat${team.bgColor ? ';filter:none' : ''}"></div>${code}</div>
+  <div class="ed"><div class="crest" style="background:url(../icons/${team.slug}/${fundoOf(team.slug)}) 42% 50%/auto 85% no-repeat${team.bgColored ? ';filter:none' : ''}"></div>${code}</div>
   <div class="status" style="background:${c['statusBar.background']};color:${c['statusBar.foreground']};border-top:1px solid ${c['statusBar.border']}"><span>⎇ main</span><span>JavaScript</span></div>
 </section>`;
 }

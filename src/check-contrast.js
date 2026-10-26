@@ -1,4 +1,4 @@
-// Checa os contrastes mínimos nos 12 temas. Sai com código 1 se algum falhar.
+// Checa os contrastes mínimos nos temas. Sai com código 1 se algum falhar.
 // Uso: node src/check-contrast.js
 const teams = require('./teams');
 const { buildTheme } = require('./theme');

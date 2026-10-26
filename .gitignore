@@ -1,10 +1,15 @@
 node_modules/
 *.vsix
-# escudos: marca registrada dos clubes, só para uso pessoal
+# escudos: marca registrada dos clubes. Não vão para o Git, mas vão no pacote (.vsix), que é gerado a partir da pasta local
 assets/escudos/
-icons/*/escudo.svg
+icons/*/escudo*.svg
 icons/*/fundo-*
 icons/_material/
 assets/icone.png
 images/icon.png
-preview/
+# escudos antigos (marcas dos clubes): idem
+icons/*/retro-*
+icons/retro-CREDITS.txt
+# Python
+__pycache__/
+*.pyc

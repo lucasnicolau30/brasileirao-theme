@@ -1,0 +1,718 @@
+{
+  "_comentario": "Escudos antigos por time: id (o ano em que o escudo começa, igual ao primeiro ano do label; é também o nome do arquivo em assets/escudos/retro/<slug>/<id>.<ext>), legenda e o arquivo na Wikimedia Commons. 'python baixar_escudos_retro.py' baixa tudo; o build copia o que existir.",
+  "flamengo": [
+    {
+      "id": "1895",
+      "label": "1895/2018",
+      "local": "Flamengo-rowing-2018.png",
+      "vetorizar": "cores",
+      "nota": "escudo do remo: usado em 1895 e de novo desde 2018, segundo o quadro de datas enviado pelo dono do projeto"
+    },
+    {
+      "id": "1897",
+      "label": "1897–1911",
+      "commons": "Flamengo-rowing-1895.svg"
+    },
+    {
+      "id": "1980",
+      "label": "1980–1981",
+      "local": "d07ad3c423e130fc56819d39df5af116.jpg",
+      "vetorizar": "monocromo",
+      "nota": "monograma CRF com 3 estrelas brancas (dos tricampeonatos cariocas, adotadas em 1980; a estrela dourada veio em 1981); arquivo enviado pelo dono do projeto, que informava o ano 1981"
+    },
+    {
+      "id": "1981",
+      "label": "1981–2018",
+      "commons": "Flamengo-RJ (1980-2018).svg"
+    }
+  ],
+  "botafogo": [
+    {
+      "id": "1894",
+      "label": "1894–1919",
+      "local": "CRB.png",
+      "vetorizar": "duas-tintas",
+      "nota": "escudo do Club de Regatas Botafogo (estrela, remos e monograma CRB), enviado pelo dono do projeto; o período é uma estimativa: o escudo era não oficial e a estrela passou a cobrir o monograma em 1919"
+    },
+    {
+      "id": "1904",
+      "label": "1904–1942",
+      "commons": "BotafogoFC1904.jpg",
+      "vetorizarAuto": true,
+      "limiarFundo": 150
+    }
+  ],
+  "vasco": [
+    {
+      "id": "1898",
+      "label": "1898–1903",
+      "commons": "Escudo Vasco 1898.png",
+      "cortarArgola": true,
+      "vetorizarAuto": {
+        "suavidade": 0.5,
+        "cores_fixas": [
+          "#f9e8ca",
+          "#000000",
+          "#c8161d"
+        ]
+      }
+    },
+    {
+      "id": "1903",
+      "label": "1903–1920",
+      "commons": "Escudo Vasco 1903.png",
+      "vetorizarAuto": true
+    },
+    {
+      "id": "1920",
+      "label": "1920–1921",
+      "commons": "Escudo Vasco 1920.png",
+      "vetorizarAuto": true
+    }
+  ],
+  "corinthians": [
+    {
+      "id": "1910",
+      "label": "1910–1914",
+      "local": "Corinthians-1910.png",
+      "vetorizar": "monocromo",
+      "cor": "#f2f2f2",
+      "nota": "monograma CP, primeiro emblema do clube, enviado pelo dono do projeto; usado até o escudo de 1914 (as fontes divergem se desde 1910 ou 1913); em branco, porque o preto original some no fundo escuro"
+    },
+    {
+      "id": "1939",
+      "label": "1939–1980",
+      "local": "Corinthians-1940.jpg",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#010101",
+        "#fe001a"
+      ],
+      "silhueta": "borda",
+      "nota": "escudo com âncora, remos e bandeira, enviado pelo dono do projeto; a âncora entrou em 1939 (Identidade Corinthiana) e as 13 listras só em 1980 (Bola Parada)",
+      "vazarFuros": [
+        "#fe001a"
+      ],
+      "aroDe": "#010101",
+      "refinar": true
+    }
+  ],
+  "palmeiras": [
+    {
+      "id": "1914",
+      "label": "1914–1942",
+      "local": "Palestra-Italia-1914.png",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#e30613",
+        "#fbb903",
+        "#019440"
+      ],
+      "silhueta": "borda",
+      "nota": "escudo institucional do Palestra Italia (círculo vermelho, Cruz de Savoia e PI), enviado pelo dono do projeto; período do site oficial do Palmeiras (1914 até a mudança de nome, em 1942)"
+    },
+    {
+      "id": "1916",
+      "label": "1916–1917",
+      "local": "Palmeiras-1916.png",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#e10101"
+      ],
+      "silhueta": "borda",
+      "nota": "Cruz de Savoia sozinha, escudo de camisa do Palestra Italia, enviado pelo dono do projeto (foto de papel, recortada); período dos escudos de camisa do site oficial do Palmeiras"
+    }
+  ],
+  "sao-paulo": [
+    {
+      "id": "1930",
+      "label": "1930–1935",
+      "commons": "São Paulo da Floresta logo.png",
+      "vetorizarAuto": true
+    },
+    {
+      "id": "1935",
+      "label": "1935–1981",
+      "local": "SaoPaulo-1935.png",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#000000",
+        "#ff0000"
+      ],
+      "silhueta": "borda",
+      "refinar": true,
+      "nota": "escudo S.P.F.C., com pontos entre as letras, enviado pelo dono do projeto; legendas da Wikipédia dão 1935–1981 (outras fontes dizem que os pontos saíram em 1980, 1982 ou 1984)"
+    }
+  ],
+  "santos": [
+    {
+      "id": "1912",
+      "label": "1912–1913",
+      "local": "Santos-1912.png",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#0a4a9b",
+        "#e0b50c"
+      ],
+      "silhueta": "borda",
+      "refinar": true,
+      "nota": "primeiro escudo do Santos (circular, SFC, azul, branco e dourado, como o do Clube Concórdia), enviado pelo dono do projeto; período do Lance (em 1913 o clube adotou o preto e branco)"
+    },
+    {
+      "id": "1925",
+      "label": "1925–1942/1944–1968",
+      "local": "Santos-1925.png",
+      "vetorizar": "duas-tintas",
+      "nota": "escudo listrado sem estrelas (surgiu em 1925), enviado pelo dono do projeto; foi usado de 1925 a 1942 e de novo de 1944 a 1968, quando o SFC branco ocupou 1942–1944 e entraram as estrelas dos títulos mundiais (Wikipédia, Lance)"
+    },
+    {
+      "id": "1942",
+      "label": "1942–1944",
+      "local": "Santos-1942.png",
+      "vetorizar": "duas-tintas",
+      "nota": "escudo SFC preto sobre fundo branco, adotado em 1942 e abandonado em 1944 (Lance e Wikipédia), enviado pelo dono do projeto"
+    },
+    {
+      "id": "1968",
+      "label": "1968–2022",
+      "local": "Santos-1968.png",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#000000",
+        "#d7ae00"
+      ],
+      "silhueta": "borda",
+      "refinar": true,
+      "nota": "escudo listrado com as duas estrelas dos títulos mundiais e sem coroa, enviado pelo dono do projeto; estrelas desde 1968 (Wikipédia) e coroa de Pelé só a partir de 2023"
+    }
+  ],
+  "cruzeiro": [
+    {
+      "id": "1927",
+      "label": "1927–1942",
+      "local": "Cruzeiro-1927.png",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#009640",
+        "#e30513",
+        "#f2bd00"
+      ],
+      "silhueta": "borda",
+      "usarAlpha": true,
+      "refinar": true,
+      "nota": "escudo do Palestra Itália com as letras SSPI (Società Sportiva Palestra Itália), enviado pelo dono do projeto"
+    },
+    {
+      "id": "1942",
+      "label": "1942–1959",
+      "local": "Cruzeiro-1942.png",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#0158a5"
+      ],
+      "silhueta": "borda",
+      "usarAlpha": true,
+      "refinar": true,
+      "nota": "primeiro escudo do Cruzeiro (círculo azul com as cinco estrelas), enviado pelo dono do projeto; o círculo foi recortado do fundo de losangos azuis da imagem"
+    },
+    {
+      "id": "1959",
+      "label": "1959–1961",
+      "local": "Cruzeiro-1959.png",
+      "vetorizar": "duas-tintas",
+      "tinta": "#2f4c88",
+      "nota": "escudo com o nome por extenso e a estrela menor à esquerda, enviado pelo dono do projeto (sem o '1959' escrito embaixo, que é legenda da imagem)"
+    },
+    {
+      "id": "2004",
+      "label": "2004–2015",
+      "local": "Cruzeiro-2004.png",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#005ea9",
+        "#0066ab",
+        "#f1bd36"
+      ],
+      "silhueta": "borda",
+      "refinar": true,
+      "nota": "escudo com a coroa dourada da Tríplice Coroa, enviado pelo dono do projeto (arquivo 'ESCUDO-DO-CRUZEIRO-2004-2015'; sem o '2004' escrito embaixo); as fontes dizem que a coroa entrou em 2003 e que em 2015 houve pequenos ajustes",
+      "vazarFuros": [
+        "#f1bd36"
+      ],
+      "vaoMinimo": 3
+    }
+  ],
+  "atletico-mg": [
+    {
+      "id": "1910",
+      "label": "1910–1922",
+      "local": "Atletico-1910.jpg",
+      "vetorizar": "monocromo",
+      "cor": "#dcdcdc",
+      "nota": "monograma CAM em oval, primeiro escudo do Atlético (usado nas décadas de 1910 e 1920, até 1922: Wikipédia e Superesportes), enviado pelo dono do projeto; em cinza-claro, porque o preto original some no fundo escuro; o começo em 1910 é a década do Commons"
+    },
+    {
+      "id": "1940",
+      "label": "1940–1949",
+      "commons": "1940 Clube Atlético Mineiro crest.jpg",
+      "vetorizarAuto": true,
+      "nota": "escudo dos anos 1940 (Commons: 'used in 1940s'); período = a década"
+    },
+    {
+      "id": "1971",
+      "label": "1971–1979",
+      "commons": "1970 Clube Atlético Mineiro crest.jpg",
+      "vetorizarAuto": true,
+      "nota": "escudo com a estrela amarela do título de 1971, usado nos anos 1970 (Commons); período = de 1971 ao fim da década"
+    }
+  ],
+  "internacional": [
+    {
+      "id": "1909",
+      "label": "1909–1957",
+      "commons": "Sport Club Internacional logo (1909-1957).svg"
+    },
+    {
+      "id": "1957",
+      "label": "1957–1977",
+      "commons": "Sport Club Internacional logo (1957-1977).svg"
+    },
+    {
+      "id": "1983",
+      "label": "1983–1992",
+      "commons": "Sport Club Internacional logo (1983-1992).svg"
+    }
+  ],
+  "bahia": [
+    {
+      "id": "1931",
+      "label": "1931–1940",
+      "commons": "Esporte Clube Bahia logo (1931–1940).svg"
+    },
+    {
+      "id": "1940",
+      "label": "1940–1959",
+      "commons": "Esporte Clube Bahia logo (1940–1959).png",
+      "vetorizarAuto": true
+    },
+    {
+      "id": "1985",
+      "label": "1985–1988",
+      "commons": "Esporte Clube Bahia logo (1985–1988).png",
+      "vetorizarAuto": true
+    }
+  ],
+  "remo": [
+    {
+      "id": "1905",
+      "label": "1905–1911",
+      "local": "Remo-1905.png",
+      "vetorizar": "alfa",
+      "vetorizarPaleta": [
+        "#e6ebf7"
+      ],
+      "nota": "âncora cercada por treze estrelas, o desenho da primeira bandeira do clube (artigo 15 do Estatuto de 1905), enviado pelo dono do projeto; período da tabela 'Evolução Cronológica dos Escudos' da Wikipédia (1905–1911). O desenho é azul-marinho; foi traçado em azul-claro quase branco para aparecer sobre o fundo escuro do editor (como o Corinthians 1910)"
+    },
+    {
+      "id": "1911",
+      "label": "1911–1914",
+      "local": "Remo-1911.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "vetorizarPaleta": [
+        "#36497a",
+        "#c9a24b",
+        "#f8f8f8"
+      ],
+      "nota": "escudo do Grupo do Remo depois da reorganização de 1911 (boia salva-vidas com as iniciais GR entrelaçadas, cruzada por um par de remos), enviado pelo dono do projeto; período da Wikipédia (1911–1914). O azul-marinho foi clareado (#36497a) para aparecer sobre o fundo escuro do editor; a imagem original (400 px, com contorno pontilhado) foi limpa antes de traçar: ampliada 4 vezes e reduzida a três cores puras (azul-marinho, ouro e branco), com os contornos alisados",
+      "escala": 2,
+      "suavidade": 1.4,
+      "minimo": 150
+    }
+  ],
+  "athletico-pr": [
+    {
+      "id": "1924",
+      "label": "1924–1936",
+      "commons": "Símbolo 1934.png",
+      "vetorizarAuto": true,
+      "nota": "escudo simples com as letras CAP entrelaçadas, sem listras, usado desde a fundação até 1936 (Olho no Lance, 'O escudo esquecido'); no Commons o arquivo se chama 'Símbolo 1934'"
+    },
+    {
+      "id": "1936",
+      "label": "1936–1944",
+      "commons": "Símbolo 1924.png",
+      "vetorizarAuto": true,
+      "nota": "escudo triangular de listras horizontais vermelhas e pretas, com o CAP em estilo gótico; as listras aparecem em 1936 (Olho no Lance) e o redesenho de Lolô, com as letras estilizadas, vem por volta de 1944 (UmDois Esportes), por isso o período termina em 1944 (data inferida); no Commons o arquivo se chama 'Símbolo 1924'"
+    },
+    {
+      "id": "1997",
+      "label": "1997–2018",
+      "commons": "Simbolo 2002.png",
+      "vetorizarAuto": true,
+      "nota": "escudo redondo, com as listras verticais e as letras de Lolô, adotado em 1997 e trocado na nova identidade de dezembro de 2018 (Wikipédia pt); no Commons o arquivo se chama 'Simbolo 2002'"
+    }
+  ],
+  "vitoria": [
+    {
+      "id": "1901",
+      "label": "1901–1909",
+      "local": "Vitoria-1901.png",
+      "vetorizar": "sombreado",
+      "niveis": 3,
+      "sigma": 2.0,
+      "nota": "primeiro escudo do Sport Club Victoria (boia com a data 13 de maio de 1899, âncora, remos, raquete e a bandeira rubro-negra), enviado pelo dono do projeto (JPG de 447 px, depois limpo do ruído e com o fundo branco transparente); traçado em 3 tons de luminosidade, uma camada de traços finos (texto, corda e contornos internos) e o vermelho da bandeira, sobre uma base escura (5 cores chapadas, contornos alisados) mais o vermelho da bandeira. Período estimado: o clube virou Sport Club Victoria em 1901 e o escudo de fundo vermelho aparece em 1909 (Correio e Arena Rubro-Negra); um historiador citado pelo Correio diz que o primeiro escudo tinha um livro aberto, então o período precisa de confirmação; a argola da âncora e a ponta do mastro foram redesenhadas à mão (campo 'retoques'), porque o traçado automático errava essas duas peças pequenas e curvas",
+      "escala": 3,
+      "limites": [
+        95,
+        200
+      ],
+      "alisar": 2.5,
+      "minimo": 250,
+      "tracos": 35,
+      "retoques": [
+        {
+          "svg": "<defs><clipPath id=\"cf\"><ellipse cx=\"237\" cy=\"55\" rx=\"24.5\" ry=\"31\"/></clipPath><clipPath id=\"cb\"><ellipse cx=\"241.5\" cy=\"25.5\" rx=\"19.5\" ry=\"21.5\" transform=\"rotate(8 241.5 25.5)\"/></clipPath></defs><g><!-- elo da frente (embaixo), com claro à esquerda e sombra à direita --><ellipse cx=\"237\" cy=\"55\" rx=\"24.5\" ry=\"31\" fill=\"#7a7163\"/><g clip-path=\"url(#cf)\"><ellipse cx=\"237\" cy=\"55\" rx=\"24.5\" ry=\"31\" fill=\"#bab099\"/><ellipse cx=\"247\" cy=\"55\" rx=\"24.5\" ry=\"31\" fill=\"#7a7163\"/><ellipse cx=\"259\" cy=\"56\" rx=\"24.5\" ry=\"31\" fill=\"#3c3735\"/></g><ellipse cx=\"237\" cy=\"55\" rx=\"24.5\" ry=\"31\" fill=\"none\" stroke=\"#3c3735\" stroke-width=\"1.5\"/><ellipse cx=\"237\" cy=\"59\" rx=\"11.8\" ry=\"14\" fill=\"#3c3735\"/><ellipse cx=\"237.4\" cy=\"60\" rx=\"10.2\" ry=\"12.4\" fill=\"#7a7163\"/><rect x=\"231\" y=\"47\" width=\"15\" height=\"12.5\" rx=\"1.3\" fill=\"#7a7163\" stroke=\"#3c3735\" stroke-width=\"1\"/><rect x=\"226.6\" y=\"46.5\" width=\"3.6\" height=\"11\" rx=\"1.4\" fill=\"#ebdebf\"/><rect x=\"247.4\" y=\"46.5\" width=\"2.2\" height=\"9\" rx=\"1\" fill=\"#bab099\"/><!-- elo de trás (em cima) --><g clip-path=\"url(#cb)\"><ellipse cx=\"241.5\" cy=\"25.5\" rx=\"19.5\" ry=\"21.5\" fill=\"#bab099\" transform=\"rotate(8 241.5 25.5)\"/><ellipse cx=\"246.5\" cy=\"26.5\" rx=\"19.5\" ry=\"21.5\" fill=\"#7a7163\" transform=\"rotate(8 241.5 25.5)\"/><ellipse cx=\"256\" cy=\"27\" rx=\"19.5\" ry=\"21.5\" fill=\"#3c3735\" transform=\"rotate(8 241.5 25.5)\"/></g><ellipse cx=\"241.5\" cy=\"25.5\" rx=\"19.5\" ry=\"21.5\" fill=\"none\" stroke=\"#3c3735\" stroke-width=\"1.5\" transform=\"rotate(8 241.5 25.5)\"/><ellipse cx=\"242.2\" cy=\"31\" rx=\"8\" ry=\"13.6\" fill=\"#3c3735\" transform=\"rotate(8 242.2 31)\"/><ellipse cx=\"242.8\" cy=\"31.6\" rx=\"6.4\" ry=\"12\" fill=\"#7a7163\" transform=\"rotate(8 242.2 31)\"/><ellipse cx=\"244.2\" cy=\"19.6\" rx=\"3.4\" ry=\"1.3\" fill=\"#ebdebf\" transform=\"rotate(8 242.2 31)\"/></g>",
+          "elipses": [
+            [
+              237,
+              55,
+              25.0,
+              31.5
+            ],
+            [
+              241.5,
+              25.5,
+              20.5,
+              22.5
+            ]
+          ]
+        },
+        {
+          "caixa": [
+            150.7,
+            129.2,
+            173,
+            151
+          ],
+          "svg": "<polygon points=\"149.5,132 153,138.5 160.5,144 167,146.5 172.5,149 174,152.4 149.5,152.4\" fill=\"#3c3735\"/><polygon points=\"156,129.8 160.2,129 172,141.5 172.6,148.6 167.4,146 168.8,143.8\" fill=\"#7a7163\" stroke=\"#3c3735\" stroke-width=\"0.7\"/><polygon points=\"150.4,130.8 155.6,127.8 168.8,144.4 167.2,146.6 160.4,143.8 153.2,138.6 151,134.2\" fill=\"#ebdebf\" stroke=\"#3c3735\" stroke-width=\"0.8\"/>"
+        }
+      ],
+      "detalhes": [
+        [
+          80,
+          30,
+          120,
+          70
+        ]
+      ],
+      "detalhe_sigma": 0.9,
+      "detalhe_alisar": 0.7
+    },
+    {
+      "id": "1939",
+      "label": "1939–1994",
+      "local": "Vitoria-monograma.png",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#ef3004",
+        "#020101"
+      ],
+      "silhueta": "borda",
+      "refinar": true,
+      "nota": "escudo vermelho e preto com o monograma SCV em branco, enviado pelo dono do projeto; em 1934 apareceu o escudo de fundo preto, em 1939 o vermelho e preto, e em 1994 o clube voltou ao escudo suíço de borda preta e branca (Arena Rubro-Negra e Wikipédia: datas conferidas só em parte)"
+    }
+  ],
+  "sport": [
+    {
+      "id": "1905",
+      "label": "1905–1919",
+      "local": "Sport-1905.jpg",
+      "vetorizar": "alfa",
+      "fundoBranco": true,
+      "vetorizarPaleta": [
+        "#f2c200",
+        "#b80c10"
+      ],
+      "nota": "primeiro brasão do clube (âncora, remos, boia, croqué, bola, taco e raquete, com a data 13-5-1905), imagem de 735 px enviada pelo dono do projeto; a Wikipédia o dá como o brasão de 1905, até a adoção do leão em 1919"
+    },
+    {
+      "id": "1940",
+      "label": "1940–1949",
+      "local": "Sport-1940.png",
+      "vetorizar": "alfa",
+      "fundoBranco": true,
+      "vetorizarPaleta": [
+        "#fddb00",
+        "#ea2126",
+        "#3b3335"
+      ],
+      "nota": "leão dourado segurando o escudo listrado com o monograma SCR e contorno preto fino, enviado pelo dono do projeto; período informado pelo dono do projeto (1940–1949). O preto foi clareado (#3b3335) para aparecer sobre o fundo escuro do editor",
+      "sobrepor": 1,
+      "nitido": true
+    }
+  ],
+  "guarani": [
+    {
+      "id": "1916",
+      "label": "1916–1923",
+      "commons": "Escudo Guarani 1916.png",
+      "modo": "duas-tintas",
+      "tinta": "#105a39"
+    },
+    {
+      "id": "1929",
+      "label": "1929–1938",
+      "local": "Guarani-1930.png",
+      "vetorizar": "duas-tintas",
+      "tinta": "#167358",
+      "nota": "escudo GUARANY F.C. CAMPINAS em alta resolução, enviado pelo dono do projeto (arquivo 'Guarani-1930'); período da Wikipédia (1929–1938)"
+    },
+    {
+      "id": "1949",
+      "label": "1949–1981",
+      "commons": "Escudo Guarani 1949 - 1981.png",
+      "modo": "duas-tintas",
+      "tinta": "#008400"
+    },
+    {
+      "id": "1981",
+      "label": "1981–2000",
+      "local": "Guarani-1981.png",
+      "vetorizar": "duas-tintas",
+      "tinta": "#486838",
+      "nota": "escudo GUARANI F. CLUBE CAMPINAS 1911 em alta resolução (2400 px, só o traço verde, assentado sobre branco), enviado pelo dono do projeto; sem as estrelas (dourada e prateada de 1982 a 1996, só a dourada de 1996 a 2000)"
+    }
+  ],
+  "paysandu": [
+    {
+      "id": "1914",
+      "label": "1914–1970",
+      "commons": "Paysandu-1914-1970-logo.png",
+      "vetorizarAuto": true
+    }
+  ],
+  "ceara": [
+    {
+      "id": "1914",
+      "label": "1914–1915",
+      "local": "Ceara-1914.jpg",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#8d6d9e",
+        "#000000"
+      ],
+      "silhueta": "borda",
+      "refinar": true,
+      "nota": "primeiro escudo oficial, do Rio Branco Foot-Ball Club (roxo e branco), enviado pelo dono do projeto; período da Wikipédia (1914–1915; o clube trocou as cores pela dificuldade de conseguir uniformes roxos e brancos)"
+    },
+    {
+      "id": "1955",
+      "label": "1955–1969",
+      "local": "Ceara-1955.jpg",
+      "vetorizar": "duas-tintas",
+      "nota": "terceiro escudo (inspirado no do Santos, com bola, a palavra Ceará e as listras pretas e brancas), enviado pelo dono do projeto; período da Wikipédia (1955–1969)"
+    }
+  ],
+  "coritiba": [
+    {
+      "id": "1909",
+      "label": "1909–1915",
+      "local": "Coritiba-1909.png",
+      "vetorizar": "alfa",
+      "vetorizarPaleta": [
+        "#67915f",
+        "#ffffff"
+      ],
+      "nota": "primeiro escudo do clube (brasão com a faixa branca e o monograma CFC), enviado pelo dono do projeto; usado de 1909 a 1915: uma foto de 1912 o mostra na camisa branca e em 1915 o clube trocou por um escudo mais simples (Arena Geral e Gazeta do Povo); a tabela 'Evolução do escudo' da Wikipédia lista 1909 e depois 1916"
+    }
+  ],
+  "fortaleza": [
+    {
+      "id": "1918",
+      "label": "1918–1935",
+      "commons": "Fortaleza SC 1920 crest.png",
+      "vetorizarAuto": true,
+      "nota": "primeiro escudo do clube (círculo com as iniciais FSC, de Fortaleza Sporting Club); a Wikipédia o chama de 'primeiro escudo' e mostra o seguinte em 1935, por isso o período vai da fundação (1918) a 1935"
+    },
+    {
+      "id": "1961",
+      "label": "1961–1966",
+      "local": "Fortaleza-1961.jpg",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#3e70c9",
+        "#f5473e"
+      ],
+      "silhueta": "borda",
+      "refinar": true,
+      "nota": "escudo com a palavra FORTALEZA no alto e três faixas verticais (azul, branca e vermelha), enviado pelo dono do projeto; a Wikipédia registra o nome 'Fortaleza' no escudo a partir de 1961 e a adoção do triângulo atual por volta de 1966 (período inferido dessas duas datas)"
+    }
+  ],
+  "fluminense": [
+    {
+      "id": "1902",
+      "label": "1902–1905",
+      "commons": "FLU E320-2.png",
+      "fundoSolido": 70,
+      "vetorizarPaleta": [
+        "#ed1c24",
+        "#c6c8ca",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1905",
+      "label": "1905–1906",
+      "local": "Fluminense-1905.png",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#a43752",
+        "#007f6d"
+      ],
+      "silhueta": "linha",
+      "nota": "escudo de 1905–1906 (grená e verde, monograma ornamentado), enviado pelo dono do projeto; período conferido no World Soccer Pins"
+    },
+    {
+      "id": "2011",
+      "label": "2011–2012",
+      "local": "Fluminense-2011.png",
+      "vetorizar": "paleta",
+      "nota": "escudo comemorativo de 2011–2012 (grená e dourado, segundo o World Soccer Pins), enviado pelo dono do projeto",
+      "vetorizarPaleta": [
+        "#a43752",
+        "#d2ae6d"
+      ]
+    }
+  ],
+  "gremio": [
+    {
+      "id": "1903",
+      "label": "1903–1910",
+      "local": "Gremio-1903.png",
+      "vetorizar": "duas-tintas",
+      "tinta": "#4f80b1",
+      "nota": "primeiro emblema do Grêmio, 'G / FOOTBALL / PA' em azul e branco (Grêmiopédia: 1903–1910), enviado pelo dono do projeto"
+    },
+    {
+      "id": "1922",
+      "label": "1922",
+      "local": "Gremio-1922.png",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#0089cd",
+        "#1a1b1c",
+        "#f0cc18"
+      ],
+      "silhueta": "borda",
+      "refinar": true,
+      "nota": "escudo comemorativo dos 100 anos da Independência do Brasil, com o amarelo (não oficial) e 'FOOT-BALL' em letras vazadas; não foi usado em competições (Grêmiopédia e Wikipédia), enviado pelo dono do projeto"
+    }
+  ],
+  "amazonas": [
+    {
+      "id": "2019",
+      "label": "2019–2023",
+      "local": "Amazonas-2019.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 100,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#f2c200",
+        "#8c8c8c",
+        "#e4e4e4",
+        "#f4f4f0"
+      ],
+      "nota": "escudo de 2019, o das origens, com o texto 'AMAZONAS F.C' e a estrela prateada em cima, enviado pelo dono do projeto (imagem de 443 px sobre fundo amarelo estampado): o contorno branco foi refeito como polígono liso, a estrela foi redesenhada limpa (5 pontas com duas faces) e o louro foi recortado da imagem; período: de 2019 até 14/11/2023, quando entraram as três estrelas e saíram as letras F.C (Wikipédia). O preto foi clareado (#46423a) para aparecer sobre o fundo escuro do editor"
+    }
+  ],
+  "goias": [
+    {
+      "id": "1943",
+      "label": "1943–1950",
+      "local": "Goias-escudo.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 150,
+      "vetorizarPaleta": [
+        "#2a8f68",
+        "#f4f4f0"
+      ],
+      "nota": "escudo em brasão (escudo branco com contorno verde e monograma entrelaçado das iniciais EC G), enviado pelo dono do projeto (PNG de 447 px com fundo preto, limpo e traçado); período 1943–1950 segundo a linha do tempo de escudos do World Soccer Pins (o clube e a Wikipédia não trazem a história dos escudos). O verde foi clareado (#2a8f68) para aparecer sobre o fundo escuro do editor"
+    },
+    {
+      "id": "2019",
+      "label": "2019–2021",
+      "local": "Goias-G-branco.png",
+      "vetorizar": "alfa",
+      "vetorizarPaleta": [
+        "#f4f4f0",
+        "#2f9e78"
+      ],
+      "nota": "escudo minimalista (G dentro de dois anéis), enviado pelo dono do projeto; o clube o oficializou em 18/01/2019 ('mais ênfase ao monograma G dentro do círculo', ESPN e Escudos do Mundo Inteiro); fim em 2021, quando o clube divulgou o escudo oficial atual (post de 06/04/2021 no site do clube; Commons: 'Goiás EC 2021'), ano aproximado; o estatuto do clube não permitia usá-lo nas camisas 1 e 2 (Mais Goiás). O disco interno foi preenchido de branco (como o escudo real, verde sobre branco, e como o brasão de 1943) para o fundo ter cor. O verde foi clareado (#2f9e78) para aparecer sobre o fundo escuro do editor"
+    }
+  ],
+  "bragantino": [
+    {
+      "id": "2007",
+      "label": "2007–2019",
+      "local": "CAB-estrelas.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 1,
+      "suavidade": 1.5,
+      "minimo": 80,
+      "vetorizarPaleta": [
+        "#f4f4f0",
+        "#f2c200",
+        "#4b4345"
+      ],
+      "nota": "escudo do Clube Atlético Bragantino (preto e branco, bola, faixa diagonal e três estrelas douradas), enviado pelo dono do projeto (JPG de 554 px, limpo e traçado); o fim em 2019 é firme (o clube anunciou o escudo do Red Bull Bragantino em 01/01/2020 e usou este até dezembro de 2019); o INÍCIO (2007) é estimativa: as três estrelas lembram o Paulista de 1990, a Série B de 1989 e a Série C de 2007 (blogs Abre o Jogo e Vem pra Garagem), então o desenho com as três só pode ser de 2007 em diante. O preto foi clareado (#4b4345) para aparecer sobre o fundo escuro do editor"
+    }
+  ],
+  "mirassol": [
+    {
+      "id": "1964",
+      "label": "1964–1981",
+      "local": "MAC.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 1,
+      "suavidade": 1.5,
+      "minimo": 80,
+      "vetorizarPaleta": [
+        "#f4f4f0",
+        "#3d4b9a"
+      ],
+      "nota": "escudo do Mirassol Atlético Clube (MAC, azul e branco), enviado pelo dono do projeto (JPG de 736 px, limpo e traçado); período de 1964 a 1981, quando o Mirassol e o GREC se fundiram no MAC e depois desfizeram a fusão, voltando ao nome e às cores originais (Wikipédia pt e en). O azul foi clareado (#3d4b9a) para aparecer sobre o fundo escuro do editor"
+    }
+  ],
+  "chapecoense": [
+    {
+      "id": "1975",
+      "label": "1975–1984",
+      "local": "Chapecoense-1975.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 1,
+      "suavidade": 1.5,
+      "minimo": 150,
+      "vetorizarPaleta": [
+        "#f4f4f0",
+        "#1fa046"
+      ],
+      "nota": "escudo da Chapecoense de 1975 a 1984 (monograma ACF de letras irregulares, anel com o nome e 'CHAPECÓ SC'; sem ano nem estrelas), enviado pelo dono do projeto (WebP de 1000 px, com fundo transparente), período dado por ele; o verde foi clareado (#1fa046) para aparecer sobre o fundo escuro do editor"
+    }
+  ]
+}
