@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 39 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 40 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -233,6 +233,11 @@
         "label": "Brasileirão: Sampaio Corrêa",
         "uiTheme": "vs-dark",
         "path": "./themes/sampaio-correa-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Cuiabá",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cuiaba-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -855,6 +860,16 @@
         "id": "brasileirao-sampaio-correa-1933",
         "label": "Brasileirão: Sampaio Corrêa (retrô 1933–1972)",
         "path": "./icons/sampaio-correa/icon-theme-1933.json"
+      },
+      {
+        "id": "brasileirao-cuiaba",
+        "label": "Brasileirão: Cuiabá",
+        "path": "./icons/cuiaba/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-cuiaba-2001",
+        "label": "Brasileirão: Cuiabá (retrô 2001–2010)",
+        "path": "./icons/cuiaba/icon-theme-2001.json"
       }
     ],
     "commands": [

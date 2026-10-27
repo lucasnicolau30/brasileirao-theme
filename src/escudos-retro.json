@@ -1072,5 +1072,22 @@
       ],
       "nota": "escudo com cinco estrelas, as quatro vermelhas do tetra goiano (1977 a 1980) e a amarela da Série C de 1996, enviado pelo dono do projeto (PNG de 320 px, traçado pelas cores); período 1996–2016 segundo O Popular e o Futebol Goiano: a estrela amarela vem do título de 1996 e, a partir de 2016, o escudo passou a ter duas estrelas amarelas (Série C 1996 e 2015)"
     }
+  ],
+  "cuiaba": [
+    {
+      "id": "2001",
+      "label": "2001–2010",
+      "local": "Cuiaba-2001.jpg",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#008820",
+        "#f8f000",
+        "#d01800",
+        "#000000"
+      ],
+      "nota": "primeiro escudo do clube, o escudo redondo com o nome em vermelho, o mapa de Mato Grosso, o obelisco do Centro Geodésico e \"Fundado em 12-12-2001\", enviado pelo dono do projeto (JPG de 554 px, traçado pelas cores); período 2001–2010 segundo o Logopedia (logos.fandom.com), que lista este como o primeiro escudo do clube"
+    }
   ]
 }

@@ -2,9 +2,9 @@
 
 ## Próxima versão
 
-- **12 times novos (39 no total):** Criciúma, Juventude, Paraná, Santo André, Santa Cruz, Sampaio Corrêa, Portuguesa, Ponte Preta, América-MG, Náutico, Atlético-GO e Vila Nova, cada um com tema de cores, tema de ícones, escudo atual, escudos antigos e títulos. Ficam **85 escudos antigos de 39 clubes**.
+- **13 times novos (40 no total):** Criciúma, Juventude, Paraná, Santo André, Santa Cruz, Sampaio Corrêa, Portuguesa, Ponte Preta, América-MG, Náutico, Atlético-GO, Vila Nova e Cuiabá, cada um com tema de cores, tema de ícones, escudo atual, escudos antigos e títulos. Ficam **86 escudos antigos de 40 clubes**.
 - **Paraná:** os dois retrôs são os escudos dos clubes que se fundiram em 1989, Colorado e Pinheiros ("Colorado · 1971–1989"). O título da Série B de 2000 (Copa João Havelange, que a CBF não reconhece) entra por decisão do dono do projeto.
-- **Copa Verde na seção Títulos:** nova competição, com a foto da taça, para os times do Norte e do Centro-Oeste que a venceram (Paysandu 6, Remo 1 e Goiás 1).
+- **Copa Verde na seção Títulos:** nova competição, com a foto da taça, para os times do Norte e do Centro-Oeste que a venceram (Paysandu 6, Cuiabá 2, Remo 1 e Goiás 1).
 - **Ordem dos times:** dentro de cada estado, depois da Libertadores e do Brasileirão, o desempate passa a seguir Copa do Brasil, Sul-Americana e Séries B, C e D (a B vale mais que a C, que vale mais que a D). Muda o Paysandu, que passa a vir antes do Remo, a ordem dos times de São Paulo sem título maior e Criciúma, que passa a vir antes da Chapecoense.
 - **Athletico-PR:** escudo atual refeito, com o contorno branco e as cores originais.
 - **Seção Títulos:** nova opção `titleOrder` em `src/teams.js` define a ordem dos troféus de um time (Sampaio Corrêa: Série C, Série B, Copa do Nordeste, Série D); `titleCenter` põe uma competição no meio (Criciúma: Copa do Brasil).

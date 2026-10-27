@@ -52,7 +52,8 @@ const EXPECTED = {
   'america-mg': [0, 0, 0],
   nautico: [0, 0, 0],
   'atletico-go': [0, 0, 0],
-  'vila-nova': [0, 0, 0]
+  'vila-nova': [0, 0, 0],
+  cuiaba: [0, 0, 0]
 };
 const FIRST_YEAR = { brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994, copaVerde: 2014 };
 // Mundial (Intercontinental + Mundial da FIFA), Sul-Americana, Série B, C e D: [mundial, sulAmericana, serieB, serieC, serieD], conferido à mão nas listas oficiais.
@@ -96,21 +97,22 @@ const EXPECTED_OTHER = {
   'america-mg': [0, 0, 2, 1, 0],
   nautico: [0, 0, 0, 1, 0],
   'atletico-go': [0, 0, 1, 2, 0],
-  'vila-nova': [0, 0, 0, 3, 0]
+  'vila-nova': [0, 0, 0, 3, 0],
+  cuiaba: [0, 0, 0, 0, 0]
 };
 const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
 const LAST_YEAR_VERDE = 2026; // a Copa Verde de 2026 já foi decidida (Paysandu)
 // Copa do Nordeste (só times do Nordeste), conferida à mão na Wikipédia: número de títulos por time.
 // Copa Verde (só times do Norte e do Centro-Oeste), conferida à mão na Wikipédia: número de títulos por time.
-const EXPECTED_VERDE = { paysandu: 6, remo: 1, goias: 1 };
+const EXPECTED_VERDE = { paysandu: 6, remo: 1, goias: 1, cuiaba: 2 };
 const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport: 3, 'santa-cruz': 1, 'sampaio-correa': 1 };
 // Ano repetido na mesma lista só quando houve dois títulos no mesmo ano.
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 39 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 39);
+test('há 40 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 40);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -294,8 +296,9 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Bahia'), ['Brasileirão', 'Copa do Nordeste']);
     assert.deepEqual(itens('Vitória'), ['Copa do Nordeste', 'Série B']);
     assert.deepEqual(itens('Sport'), ['Copa do Brasil', 'Brasileirão', 'Copa do Nordeste', 'Série B']);
-    // Copa Verde: Paysandu, Remo e Goiás a mostram, logo depois da Copa do Nordeste na ordem padrão.
+    // Copa Verde: Paysandu, Remo, Goiás e Cuiabá a mostram, logo depois da Copa do Nordeste na ordem padrão.
     assert.deepEqual(itens('Goiás'), ['Copa Verde', 'Série B']);
+    assert.deepEqual(itens('Cuiabá'), ['Copa Verde']);
     assert.deepEqual(itens('Remo'), ['Copa Verde', 'Série C']);
     assert.ok(itens('Paysandu').includes('Copa Verde') && !itens('Sport').includes('Copa Verde'), 'só quem venceu a Copa Verde mostra o troféu');
     assert.ok(!itens('Goiás').includes('Copa do Nordeste') && !itens('Remo').includes('Copa do Nordeste'), 'times de fora do Nordeste não mostram a Copa do Nordeste');
@@ -403,5 +406,5 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
     assert.ok(dif >= 0, `${b.slug} (mais títulos) deveria vir antes de ${a.slug}`);
   }
   assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'santo-andre', 'bragantino', 'portuguesa', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'gremio', 'internacional',
-    'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'sampaio-correa']);
+    'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'sampaio-correa', 'cuiaba']);
 });

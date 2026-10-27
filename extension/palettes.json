@@ -4281,5 +4281,99 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Cuiabá": {
+    "slug": "cuiaba",
+    "crestLabel": "Atual · desde 2020",
+    "crestIcon": "escudo-0697aed9.svg",
+    "listIcon": "escudo-0697aed9.svg",
+    "backgroundAspect": 0.653,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [
+        2015,
+        2019
+      ]
+    },
+    "retro": [
+      {
+        "id": "2001",
+        "label": "2001–2010",
+        "fullLabel": "2001–2010",
+        "atual": false,
+        "file": "retro-2001-4df5bd43.svg",
+        "aspect": 0.979,
+        "iconTheme": "brasileirao-cuiaba-2001"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩🟨",
+    "primary": "#e0b800",
+    "background": "fundo-10b48399.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-cuiaba",
+    "colors": [
+      "rgba(255,216,77,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(123,227,160,0.08)",
+      "rgba(224,184,0,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e0b80033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ffd84d"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#7be3a0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ffd84d"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }
