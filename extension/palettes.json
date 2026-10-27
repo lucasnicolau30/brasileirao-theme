@@ -1763,6 +1763,109 @@
       }
     ]
   },
+  "Brasileirão: Juventude": {
+    "slug": "juventude",
+    "crestLabel": "Atual · desde 1998",
+    "crestIcon": "escudo-f956c1d4.svg",
+    "listIcon": "escudo-f956c1d4.svg",
+    "backgroundAspect": 0.839,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [
+        1999
+      ],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1994
+      ],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": []
+    },
+    "retro": [
+      {
+        "id": "1949",
+        "label": "1949–1957",
+        "fullLabel": "1949–1957",
+        "atual": false,
+        "file": "retro-1949-94da2730.svg",
+        "aspect": 0.997,
+        "iconTheme": "brasileirao-juventude-1949"
+      },
+      {
+        "id": "1963",
+        "label": "1963–1974",
+        "fullLabel": "1963–1974",
+        "atual": false,
+        "file": "retro-1963-a8bb1c4d.svg",
+        "aspect": 0.991,
+        "iconTheme": "brasileirao-juventude-1963"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩⬜",
+    "primary": "#0b9a3c",
+    "background": "fundo-9c71e056.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-juventude",
+    "colors": [
+      "rgba(61,220,120,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(140,240,176,0.08)",
+      "rgba(31,191,92,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#0b9a3c33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#3ddc78"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#8cf0b0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#3ddc78"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Bahia": {
     "slug": "bahia",
     "crestLabel": "Atual · desde 2005",

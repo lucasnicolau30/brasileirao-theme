@@ -77,7 +77,9 @@ const times = [
   { slug: 'chapecoense', uf: 'SC', crestLabel: 'Chapecoense (desde 2017)', bgColored: true, swatch: '🟩⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [2016], serieB: [2020], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Chapecoense', side: '#0b1b10', bg: '#08130b', chrome: '#0b5e2a', secondary: '#ffffff', fg: '#e4efe7', primary: '#17a344', accent: '#4fe08a', statusBg: '#0b7a32', statusFg: '#ffffff',
     brackets: ['#4fe08a', '#ffffff', '#9aeec0', '#27c765', '#dcf7e6', '#6be5a0'] },
   { slug: 'criciuma', uf: 'SC', crestLabel: 'Criciúma (desde 1984)', bgColored: true, titleCenter: 'copaDoBrasil', swatch: '🟨⬛', titles: { brasileirao: [], copaDoBrasil: [1991], libertadores: [], mundial: [], sulAmericana: [], serieB: [2002], serieC: [2006], serieD: [], copaDoNordeste: [] }, label: 'Criciúma', side: '#161409', bg: '#0b0b0a', activity: '#000000', title: '#f2c200', secondary: '#ffd800', fg: '#efecdf', primary: '#f2c200', accent: '#ffd84d', statusBg: '#f2c200', statusFg: '#0b0b0a',
-    brackets: ['#ffd84d', '#ffffff', '#ffe88a', '#f2c200', '#fff3c4', '#ffc400'] }
+    brackets: ['#ffd84d', '#ffffff', '#ffe88a', '#f2c200', '#fff3c4', '#ffc400'] },
+  { slug: 'juventude', uf: 'RS', crestLabel: 'Juventude (desde 1998)', bgColored: true, swatch: '🟩⬜', titles: { brasileirao: [], copaDoBrasil: [1999], libertadores: [], mundial: [], sulAmericana: [], serieB: [1994], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Juventude', side: '#0a1c12', bg: '#06120a', chrome: '#087a30', secondary: '#ffffff', fg: '#e3efe7', primary: '#0b9a3c', accent: '#3ddc78', statusBg: '#08812f', statusFg: '#ffffff',
+    brackets: ['#3ddc78', '#ffffff', '#8cf0b0', '#1fbf5c', '#d6f7e2', '#5be892'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

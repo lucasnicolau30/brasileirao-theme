@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 28 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 29 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -113,6 +113,11 @@
         "label": "Brasileirão: Internacional",
         "uiTheme": "vs-dark",
         "path": "./themes/internacional-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Juventude",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juventude-color-theme.json"
       },
       {
         "label": "Brasileirão: Bahia",
@@ -455,6 +460,21 @@
         "id": "brasileirao-internacional-1983",
         "label": "Brasileirão: Internacional (retrô 1983–1992)",
         "path": "./icons/internacional/icon-theme-1983.json"
+      },
+      {
+        "id": "brasileirao-juventude",
+        "label": "Brasileirão: Juventude",
+        "path": "./icons/juventude/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-juventude-1949",
+        "label": "Brasileirão: Juventude (retrô 1949–1957)",
+        "path": "./icons/juventude/icon-theme-1949.json"
+      },
+      {
+        "id": "brasileirao-juventude-1963",
+        "label": "Brasileirão: Juventude (retrô 1963–1974)",
+        "path": "./icons/juventude/icon-theme-1963.json"
       },
       {
         "id": "brasileirao-bahia",

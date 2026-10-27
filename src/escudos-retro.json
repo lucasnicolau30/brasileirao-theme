@@ -748,5 +748,39 @@
       ],
       "nota": "segundo escudo do Comerciário, com o emblema do comércio (caduceu com asas) no centro, enviado pelo dono do projeto (PNG de 800 px); período de 1948 a 1978 segundo o site oficial do clube, que o manteve depois da mudança de nome para Criciúma Esporte Clube em 1978; o azul foi clareado (#3b7ccc) para aparecer sobre o fundo escuro do editor"
     }
+  ],
+  "juventude": [
+    {
+      "id": "1949",
+      "label": "1949–1957",
+      "local": "Juventude-1949.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.5,
+      "minimo": 150,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#00a038"
+      ],
+      "nota": "escudo redondo em forma de bola, com o S.C. Juventude e 1913, enviado pelo dono do projeto (PNG de 241 px, ampliado e traçado); período de 1949 a 1957 segundo a seção de símbolos da Wikipédia pt, que lista os períodos sem descrever os desenhos"
+    },
+    {
+      "id": "1963",
+      "label": "1963–1974",
+      "local": "Juventude-1963.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.2,
+      "minimo": 150,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#089050"
+      ],
+      "nota": "bola com o J grande, S.C., 1913 e ramos de louro em volta, enviado pelo dono do projeto (PNG de 2841 px, reduzido para 1000 px e traçado); período de 1963 a 1974 segundo a seção de símbolos da Wikipédia pt, que lista os períodos sem descrever os desenhos"
+    }
   ]
 }
