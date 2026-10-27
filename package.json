@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 35 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 36 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -118,6 +118,11 @@
         "label": "Brasileirão: Atlético-MG",
         "uiTheme": "vs-dark",
         "path": "./themes/atletico-mg-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: América-MG",
+        "uiTheme": "vs-dark",
+        "path": "./themes/america-mg-color-theme.json"
       },
       {
         "label": "Brasileirão: Grêmio",
@@ -495,6 +500,21 @@
         "id": "brasileirao-atletico-mg-1971",
         "label": "Brasileirão: Atlético-MG (retrô 1971–1979)",
         "path": "./icons/atletico-mg/icon-theme-1971.json"
+      },
+      {
+        "id": "brasileirao-america-mg",
+        "label": "Brasileirão: América-MG",
+        "path": "./icons/america-mg/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-america-mg-1912",
+        "label": "Brasileirão: América-MG (retrô 1912–1933)",
+        "path": "./icons/america-mg/icon-theme-1912.json"
+      },
+      {
+        "id": "brasileirao-america-mg-2017",
+        "label": "Brasileirão: América-MG (retrô 2017–2018)",
+        "path": "./icons/america-mg/icon-theme-2017.json"
       },
       {
         "id": "brasileirao-gremio",

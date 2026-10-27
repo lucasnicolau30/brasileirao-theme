@@ -1822,6 +1822,110 @@
       }
     ]
   },
+  "Brasileirão: América-MG": {
+    "slug": "america-mg",
+    "crestLabel": "Atual · desde 2018",
+    "crestIcon": "escudo-0ccf6f54.svg",
+    "listIcon": "escudo-0ccf6f54.svg",
+    "backgroundAspect": 0.588,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1997,
+        2017
+      ],
+      "serieC": [
+        2009
+      ],
+      "serieD": [],
+      "copaDoNordeste": []
+    },
+    "retro": [
+      {
+        "id": "1912",
+        "label": "1912–1933",
+        "fullLabel": "1912–1933",
+        "atual": false,
+        "file": "retro-1912-2d9de9db.svg",
+        "aspect": 0.858,
+        "iconTheme": "brasileirao-america-mg-1912"
+      },
+      {
+        "id": "2017",
+        "label": "2017–2018",
+        "fullLabel": "2017–2018",
+        "atual": false,
+        "file": "retro-2017-54757ccd.svg",
+        "aspect": 0.583,
+        "iconTheme": "brasileirao-america-mg-2017"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩⬜⬛",
+    "primary": "#12935a",
+    "background": "fundo-b31d2ca3.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-america-mg",
+    "colors": [
+      "rgba(76,220,152,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(154,238,198,0.08)",
+      "rgba(34,184,119,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#12935a33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#4cdc98"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#9aeec6"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#4cdc98"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Grêmio": {
     "slug": "gremio",
     "crestLabel": "Atual · desde 1993",

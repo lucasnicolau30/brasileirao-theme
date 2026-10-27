@@ -959,5 +959,33 @@
       ],
       "nota": "escudo com PONTE PRETA no lugar de AAPP, o círculo O PRIMEIRO CLUBE DE FUTEBOL DO BRASIL e a faixa com a data de fundação, enviado pelo dono do projeto (PNG de 801 px, traçado); período 1995–1996 definido pelo dono do projeto: a Wikipédia pt diz que o uniforme com esse escudo foi usado no segundo semestre de 1995 e que em 1996 o clube manteve PONTE PRETA no lugar de AAPP, mas tirou o círculo e a faixa"
     }
+  ],
+  "america-mg": [
+    {
+      "id": "1912",
+      "label": "1912–1933",
+      "local": "America-MG-1912.png",
+      "vetorizar": "alfa",
+      "sobrepor": 0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#ffffff"
+      ],
+      "nota": "primeiro escudo do clube, o monograma AFC em preto e branco (o clube foi alvinegro no início), enviado pelo dono do projeto (WebP de 800 px, traçado); período 1912–1933 segundo a lista de escudos do Logopedia (logos.fandom.com), onde o arquivo se chama América-MG-1912"
+    },
+    {
+      "id": "2017",
+      "label": "2017–2018",
+      "local": "America-MG-2017.png",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#006038",
+        "#f8c000",
+        "#b82820"
+      ],
+      "nota": "escudo verde com três estrelas (duas amarelas e uma vermelha, a da Copa Sul-Minas de 2000) e a faixa 1916 DECA 1925, enviado pelo dono do projeto (PNG de 343 px, traçado pelas cores); período 2017–2018 segundo a Wikipédia pt (\"escudo utilizado em 2017\"; em 2018 as estrelas mudaram para duas douradas) e o Logopedia"
+    }
   ]
 }
