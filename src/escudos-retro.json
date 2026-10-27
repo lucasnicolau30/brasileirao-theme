@@ -823,5 +823,35 @@
       ],
       "nota": "escudo SAFC, em verde e amarelo, com o X do brasão da cidade, enviado pelo dono do projeto (WebP de 1000 px, traçado); período de 1967 a 1975 inferido: a Wikipédia pt diz que o Santo André F.C. nasceu em 1967 com as cores da cidade e um detalhe do brasão no escudo, e que em 1975 o brasão inteiro virou o escudo e o verde e amarelo deu lugar ao azul e branco, mas não traz o desenho nem a data exata do escudo SAFC"
     }
+  ],
+  "santa-cruz": [
+    {
+      "id": "1914",
+      "label": "1914–1915",
+      "local": "Santa-Cruz-1914.png",
+      "vetorizar": "monocromo",
+      "cor": "#ffffff",
+      "nota": "primeiro símbolo do clube, só o monograma SCFC em linhas, enviado pelo dono do projeto (PNG de 447 px, traçado); período de 1914 a 1915 informado pelo dono do projeto (o clube foi fundado em 3 de fevereiro de 1914 e o escudo da âncora, de Teófilo de Carvalho, é de 1915); o desenho era preto e foi traçado em branco para aparecer sobre o fundo escuro do editor"
+    },
+    {
+      "id": "1940",
+      "label": "1940–1959",
+      "local": "Santa-Cruz-1940.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 100,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#d83040",
+        "#000000",
+        "#f0bc66"
+      ],
+      "nota": "escudo com contorno e monograma dourados sobre preto, branco e vermelho, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado); período informado pelo dono do projeto como \"dos anos 40/50\", registrado como 1940–1959 (aproximado, sem fonte que date o desenho)"
+    }
   ]
 }

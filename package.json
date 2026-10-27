@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 31 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 32 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -163,6 +163,11 @@
         "label": "Brasileirão: Sport",
         "uiTheme": "vs-dark",
         "path": "./themes/sport-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Santa Cruz",
+        "uiTheme": "vs-dark",
+        "path": "./themes/santa-cruz-color-theme.json"
       },
       {
         "label": "Brasileirão: Remo",
@@ -620,6 +625,21 @@
         "id": "brasileirao-sport-1940",
         "label": "Brasileirão: Sport (retrô 1940–1949)",
         "path": "./icons/sport/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-santa-cruz",
+        "label": "Brasileirão: Santa Cruz",
+        "path": "./icons/santa-cruz/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-santa-cruz-1914",
+        "label": "Brasileirão: Santa Cruz (retrô 1914–1915)",
+        "path": "./icons/santa-cruz/icon-theme-1914.json"
+      },
+      {
+        "id": "brasileirao-santa-cruz-1940",
+        "label": "Brasileirão: Santa Cruz (retrô 1940–1959)",
+        "path": "./icons/santa-cruz/icon-theme-1940.json"
       },
       {
         "id": "brasileirao-remo",

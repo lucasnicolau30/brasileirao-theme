@@ -2814,6 +2814,109 @@
       }
     ]
   },
+  "Brasileirão: Santa Cruz": {
+    "slug": "santa-cruz",
+    "crestLabel": "Atual · desde 1999",
+    "crestIcon": "escudo-d2ffbe89.svg",
+    "listIcon": "escudo-d2ffbe89.svg",
+    "backgroundAspect": 1.085,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2013
+      ],
+      "serieD": [],
+      "copaDoNordeste": [
+        2016
+      ]
+    },
+    "retro": [
+      {
+        "id": "1914",
+        "label": "1914–1915",
+        "fullLabel": "1914–1915",
+        "atual": false,
+        "file": "retro-1914-df7f93cc.svg",
+        "aspect": 1.044,
+        "iconTheme": "brasileirao-santa-cruz-1914"
+      },
+      {
+        "id": "1940",
+        "label": "1940–1959",
+        "fullLabel": "1940–1959",
+        "atual": false,
+        "file": "retro-1940-4a34cab2.svg",
+        "aspect": 0.893,
+        "iconTheme": "brasileirao-santa-cruz-1940"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛🟥⬜",
+    "primary": "#c81414",
+    "background": "fundo-b7efbae8.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-santa-cruz",
+    "colors": [
+      "rgba(255,96,96,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,154,154,0.08)",
+      "rgba(232,58,58,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#c8141433",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6060"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff9a9a"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6060"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Remo": {
     "slug": "remo",
     "crestLabel": "Atual · desde 2014",
