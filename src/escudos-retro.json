@@ -929,5 +929,35 @@
       ],
       "nota": "escudo modernizado, com a guarnição dourada em volta do contorno vermelho, enviado pelo dono do projeto (PNG de 492 px com o xadrez de transparência gravado na imagem, apagado e traçado); período de 2005 a 2015 segundo a Wikipédia pt (legenda do escudo e texto: em 2005 o logotipo foi modernizado e em 2015 voltou o distintivo dos anos 90)"
     }
+  ],
+  "ponte-preta": [
+    {
+      "id": "1928",
+      "label": "1928–1929",
+      "local": "Ponte-Preta-1928.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#181818"
+      ],
+      "nota": "escudo com dois P sobrepostos e as letras A A no canto superior esquerdo, enviado pelo dono do projeto (PNG de 482 px, ampliado e traçado); adotado em 1928 e substituído em 1929 por um com as letras PP, segundo a Wikipédia pt (tabela de evolução do escudo e texto)"
+    },
+    {
+      "id": "1995",
+      "label": "1995–1996",
+      "local": "Ponte-Preta-1995.png",
+      "vetorizar": "alfa",
+      "sobrepor": 0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#ffffff"
+      ],
+      "nota": "escudo com PONTE PRETA no lugar de AAPP, o círculo O PRIMEIRO CLUBE DE FUTEBOL DO BRASIL e a faixa com a data de fundação, enviado pelo dono do projeto (PNG de 801 px, traçado); período 1995–1996 definido pelo dono do projeto: a Wikipédia pt diz que o uniforme com esse escudo foi usado no segundo semestre de 1995 e que em 1996 o clube manteve PONTE PRETA no lugar de AAPP, mas tirou o círculo e a faixa"
+    }
   ]
 }

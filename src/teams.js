@@ -90,7 +90,9 @@ const times = [
   { slug: 'sampaio-correa', uf: 'MA', crestLabel: 'Sampaio Corrêa (desde 2019)', bgColored: true, titleOrder: ['serieC', 'serieB', 'copaDoNordeste', 'serieD'], swatch: '🟨🟩🟥', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [1972], serieC: [1997], serieD: [2012], copaDoNordeste: [2018] }, label: 'Sampaio Corrêa', side: '#0d1a10', bg: '#07110a', chrome: '#0b5a2a', secondary: '#d01820', fg: '#e6efe6', primary: '#e6b800', accent: '#ffd84d', statusBg: '#0b6a30', statusFg: '#ffffff',
     brackets: ['#ffd84d', '#ffffff', '#ff8a8e', '#4fe08a', '#fff3c4', '#e6b800'] },
   { slug: 'portuguesa', uf: 'SP', crestLabel: 'Portuguesa (desde 2015)', bgColored: true, swatch: '🟩🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [2011], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Portuguesa', side: '#0e1c12', bg: '#07120c', chrome: '#0e773e', secondary: '#e31e27', fg: '#e6efe8', primary: '#16924a', accent: '#46d68a', statusBg: '#0e773e', statusFg: '#ffffff',
-    brackets: ['#46d68a', '#ffffff', '#ff7d84', '#26b86a', '#d8f5e5', '#ff5a63'] }
+    brackets: ['#46d68a', '#ffffff', '#ff7d84', '#26b86a', '#d8f5e5', '#ff5a63'] },
+  { slug: 'ponte-preta', uf: 'SP', crestLabel: 'Ponte Preta (desde 2004)', bgColored: true, swatch: '⬛⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [2025], serieD: [], copaDoNordeste: [] }, label: 'Ponte Preta', side: '#19191c', bg: '#0d0d0f', activity: '#dcdce0', title: '#000000', fg: '#e6e6ea', primary: '#cfcfd6', accent: '#f2f2f6', statusBg: '#000000', statusFg: '#ffffff', statusBorder: '#e6e6ea',
+    brackets: ['#f2f2f6', '#c8c8d0', '#9a9aa6', '#f2f2f6', '#c8c8d0', '#9a9aa6'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 34 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 35 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -103,6 +103,11 @@
         "label": "Brasileirão: Portuguesa",
         "uiTheme": "vs-dark",
         "path": "./themes/portuguesa-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Ponte Preta",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ponte-preta-color-theme.json"
       },
       {
         "label": "Brasileirão: Cruzeiro",
@@ -430,6 +435,21 @@
         "id": "brasileirao-portuguesa-2005",
         "label": "Brasileirão: Portuguesa (retrô 2005–2015)",
         "path": "./icons/portuguesa/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-ponte-preta",
+        "label": "Brasileirão: Ponte Preta",
+        "path": "./icons/ponte-preta/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-ponte-preta-1928",
+        "label": "Brasileirão: Ponte Preta (retrô 1928–1929)",
+        "path": "./icons/ponte-preta/icon-theme-1928.json"
+      },
+      {
+        "id": "brasileirao-ponte-preta-1995",
+        "label": "Brasileirão: Ponte Preta (retrô 1995–1996)",
+        "path": "./icons/ponte-preta/icon-theme-1995.json"
       },
       {
         "id": "brasileirao-cruzeiro",

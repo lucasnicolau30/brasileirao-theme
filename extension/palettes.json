@@ -1472,6 +1472,107 @@
       }
     ]
   },
+  "Brasileirão: Ponte Preta": {
+    "slug": "ponte-preta",
+    "crestLabel": "Atual · desde 2004",
+    "crestIcon": "escudo-e0ed3f76.svg",
+    "listIcon": "escudo-e0ed3f76.svg",
+    "backgroundAspect": 0.804,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2025
+      ],
+      "serieD": [],
+      "copaDoNordeste": []
+    },
+    "retro": [
+      {
+        "id": "1928",
+        "label": "1928–1929",
+        "fullLabel": "1928–1929",
+        "atual": false,
+        "file": "retro-1928-5d59be28.svg",
+        "aspect": 1.083,
+        "iconTheme": "brasileirao-ponte-preta-1928"
+      },
+      {
+        "id": "1995",
+        "label": "1995–1996",
+        "fullLabel": "1995–1996",
+        "atual": false,
+        "file": "retro-1995-04c64238.svg",
+        "aspect": 0.937,
+        "iconTheme": "brasileirao-ponte-preta-1995"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜",
+    "primary": "#cfcfd6",
+    "background": "fundo-a0f0b705.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-ponte-preta",
+    "colors": [
+      "rgba(242,242,246,0.08)",
+      "rgba(200,200,208,0.08)",
+      "rgba(154,154,166,0.08)",
+      "rgba(242,242,246,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#cfcfd633",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f2f2f6"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#9a9aa6"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#c8c8d0"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f2f2f6"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Cruzeiro": {
     "slug": "cruzeiro",
     "crestLabel": "Atual · desde 2021",
