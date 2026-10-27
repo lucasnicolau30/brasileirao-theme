@@ -4285,8 +4285,8 @@
   "Brasileirão: Cuiabá": {
     "slug": "cuiaba",
     "crestLabel": "Atual · desde 2020",
-    "crestIcon": "escudo-0697aed9.svg",
-    "listIcon": "escudo-0697aed9.svg",
+    "crestIcon": "escudo-9c959a6e.svg",
+    "listIcon": "escudo-9c959a6e.svg",
     "backgroundAspect": 0.653,
     "titles": {
       "brasileirao": [],
@@ -4317,7 +4317,7 @@
     "alternates": [],
     "swatch": "🟩🟨",
     "primary": "#e0b800",
-    "background": "fundo-10b48399.svg",
+    "background": "fundo-a0dcdd3b.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
