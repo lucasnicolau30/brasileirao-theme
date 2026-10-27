@@ -11,7 +11,7 @@ Um tema escuro e um tema de ícones para cada um de 35 times do Brasileirão e d
 
 > Projeto independente. Sem ligação com nenhum clube de futebol, com a CBF ou com o Brasileirão. Os nomes e os escudos dos clubes são marcas dos respectivos donos. Veja [Créditos e licenças](#créditos-e-licenças).
 
-Times: Flamengo, Fluminense, Vasco, Botafogo, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Bragantino, Mirassol, Cruzeiro, Atlético-MG, Grêmio, Internacional, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Sport, Remo, Paysandu, Amazonas, Goiás, Chapecoense, Criciúma, Juventude, Paraná, Santo André, Santa Cruz, Sampaio Corrêa, Portuguesa e Ponte Preta.
+Times: Flamengo, Fluminense, Vasco, Botafogo, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Bragantino, Mirassol, Santo André, Portuguesa, Ponte Preta, Cruzeiro, Atlético-MG, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Remo, Paysandu, Amazonas, Goiás, Chapecoense, Criciúma e Sampaio Corrêa.
 
 ## O que você recebe
 
@@ -76,30 +76,30 @@ Os dados ficam no campo `titles` de `src/teams.js`, até a temporada 2025 (Copa 
 | Guarani | `#18a35a` | `#4fe08f` | `#0b6b3b` |
 | Bragantino | `#d81f3c` | `#ff5a6e` | `#b8142b` |
 | Mirassol | `#f2d21a` | `#ffe45c` | `#0b6b27` |
+| Santo André | `#3a3fb8` | `#8a92ff` | `#2b2f96` |
+| Portuguesa | `#16924a` | `#46d68a` | `#0e773e` |
+| Ponte Preta | `#cfcfd6` | `#f2f2f6` | `#000000` |
 | Cruzeiro | `#1d4fc4` | `#7aa2ff` | `#0f3fa8` |
 | Atlético-MG | `#d0d0d0` | `#f5f5f5` | `#000000` |
 | Grêmio | `#0b76b0` | `#4db8f5` | `#0a6aa3` |
 | Internacional | `#d4161c` | `#ff5d5d` | `#b8121a` |
+| Juventude | `#0b9a3c` | `#3ddc78` | `#08812f` |
 | Bahia | `#1f5fd1` | `#6ea4ff` | `#0d3f9a` |
 | Vitória | `#c8102e` | `#ff4d63` | `#c8102e` |
 | Fortaleza | `#2a52c9` | `#7c9bff` | `#12308f` |
 | Ceará | `#d8d8d8` | `#f4f4f4` | `#000000` |
 | Athletico-PR | `#d4161c` | `#ff5a60` | `#b8121a` |
 | Coritiba | `#0f9a4f` | `#3fd98a` | `#0a7a3f` |
+| Paraná | `#1b5fc0` | `#6aa8ff` | `#0b4aa0` |
 | Sport | `#d4141c` | `#ff5959` | `#b50f16` |
+| Santa Cruz | `#c81414` | `#ff6060` | `#a80f0f` |
 | Remo | `#2a56c6` | `#7a9dff` | `#0d2a73` |
 | Paysandu | `#1b8fd6` | `#8fd6ff` | `#0a6aa8` |
 | Amazonas | `#f2c200` | `#ffd84d` | `#f2c200` |
 | Goiás | `#0aa876` | `#3fe0b0` | `#0a7a5c` |
 | Chapecoense | `#17a344` | `#4fe08a` | `#0b7a32` |
 | Criciúma | `#f2c200` | `#ffd84d` | `#f2c200` |
-| Juventude | `#0b9a3c` | `#3ddc78` | `#08812f` |
-| Paraná | `#1b5fc0` | `#6aa8ff` | `#0b4aa0` |
-| Santo André | `#3a3fb8` | `#8a92ff` | `#2b2f96` |
-| Santa Cruz | `#c81414` | `#ff6060` | `#a80f0f` |
 | Sampaio Corrêa | `#e6b800` | `#ffd84d` | `#0b6a30` |
-| Portuguesa | `#16924a` | `#46d68a` | `#0e773e` |
-| Ponte Preta | `#cfcfd6` | `#f2f2f6` | `#000000` |
 
 A cor oficial do clube nem sempre serve como texto sobre fundo escuro (os azuis, por exemplo, ficam apagados). Por isso cada time tem a cor principal, usada em áreas preenchidas, e uma versão mais clara para texto.
 

@@ -2,9 +2,7 @@
 # Fica de fora só o que é de desenvolvimento.
 .vscode/**
 .git/**
-.draun/**
 .gitignore
-AGENTS.md
 src/**
 assets/**
 tests/**
