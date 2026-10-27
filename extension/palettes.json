@@ -3504,5 +3504,118 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Sampaio Corrêa": {
+    "slug": "sampaio-correa",
+    "crestLabel": "Atual · desde 2019",
+    "crestIcon": "escudo-13b0cff1.svg",
+    "listIcon": "escudo-13b0cff1.svg",
+    "backgroundAspect": 0.756,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1972
+      ],
+      "serieC": [
+        1997
+      ],
+      "serieD": [
+        2012
+      ],
+      "copaDoNordeste": [
+        2018
+      ]
+    },
+    "titleOrder": [
+      "serieC",
+      "serieB",
+      "copaDoNordeste",
+      "serieD"
+    ],
+    "retro": [
+      {
+        "id": "1923",
+        "label": "1923–1933",
+        "fullLabel": "1923–1933",
+        "atual": false,
+        "file": "retro-1923-3639ef3e.svg",
+        "aspect": 0.732,
+        "iconTheme": "brasileirao-sampaio-correa-1923"
+      },
+      {
+        "id": "1933",
+        "label": "1933–1972",
+        "fullLabel": "1933–1972",
+        "atual": false,
+        "file": "retro-1933-f333c0e0.svg",
+        "aspect": 0.718,
+        "iconTheme": "brasileirao-sampaio-correa-1933"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟨🟩🟥",
+    "primary": "#e6b800",
+    "background": "fundo-812c8903.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-sampaio-correa",
+    "colors": [
+      "rgba(255,216,77,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,138,142,0.08)",
+      "rgba(79,224,138,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e6b80033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ffd84d"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff8a8e"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ffd84d"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

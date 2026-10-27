@@ -853,5 +853,43 @@
       ],
       "nota": "escudo com contorno e monograma dourados sobre preto, branco e vermelho, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado); período informado pelo dono do projeto como \"dos anos 40/50\", registrado como 1940–1959 (aproximado, sem fonte que date o desenho)"
     }
+  ],
+  "sampaio-correa": [
+    {
+      "id": "1923",
+      "label": "1923–1933",
+      "local": "Sampaio-Correa-1923.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.5,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#f8f050",
+        "#28905f",
+        "#e03838"
+      ],
+      "nota": "primeiro escudo do clube: listras verticais vermelhas e verdes, S.C.F.C. e uma pequena bola no topo, enviado pelo dono do projeto (WebP de 200 px, ampliado e traçado); período de 1923 a 1933 segundo a lista de escudos do Logopedia (logos.fandom.com), onde o arquivo se chama Sampaio-Corrêa-1923"
+    },
+    {
+      "id": "1933",
+      "label": "1933–1972",
+      "local": "Sampaio-Correa-1933.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#f8f050",
+        "#28905f",
+        "#e03838"
+      ],
+      "nota": "escudo amarelo com listras verdes, S.C.F.C. em vermelho e a bola no topo, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado); período de 1933 a 1972 segundo a lista de escudos do Logopedia (logos.fandom.com), casado com o desenho"
+    }
   ]
 }

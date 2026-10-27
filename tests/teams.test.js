@@ -45,7 +45,8 @@ const EXPECTED = {
   juventude: [0, 1, 0],
   parana: [0, 0, 0],
   'santo-andre': [0, 1, 0],
-  'santa-cruz': [0, 0, 0]
+  'santa-cruz': [0, 0, 0],
+  'sampaio-correa': [0, 0, 0]
 };
 const FIRST_YEAR = { brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994 };
 // Mundial (Intercontinental + Mundial da FIFA), Sul-Americana, Série B, C e D: [mundial, sulAmericana, serieB, serieC, serieD], conferido à mão nas listas oficiais.
@@ -82,18 +83,19 @@ const EXPECTED_OTHER = {
   // Paraná: o segundo título de Série B (2000) é a Copa João Havelange (Módulo Amarelo), que o clube conta como Série B e a CBF não reconhece; entra por decisão do dono do projeto.
   parana: [0, 0, 2, 0, 0],
   'santo-andre': [0, 0, 0, 0, 0],
-  'santa-cruz': [0, 0, 0, 1, 0]
+  'santa-cruz': [0, 0, 0, 1, 0],
+  'sampaio-correa': [0, 0, 1, 1, 1]
 };
 const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
 // Copa do Nordeste (só times do Nordeste), conferida à mão na Wikipédia: número de títulos por time.
-const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport: 3, 'santa-cruz': 1 };
+const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport: 3, 'santa-cruz': 1, 'sampaio-correa': 1 };
 // Ano repetido na mesma lista só quando houve dois títulos no mesmo ano.
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 32 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 32);
+test('há 33 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 33);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -267,6 +269,8 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     // Criciúma: a Copa do Brasil fica no centro (titleCenter em teams.js); os outros times mantêm a ordem padrão.
     assert.deepEqual(itens('Criciúma'), ['Série B', 'Copa do Brasil', 'Série C']);
     assert.deepEqual(itens('Bragantino'), ['Série B', 'Série C']);
+    // Sampaio Corrêa: a ordem vem de titleOrder em teams.js (Série C, Série B, Copa do Nordeste, Série D), não da lista padrão.
+    assert.deepEqual(itens('Sampaio Corrêa'), ['Série C', 'Série B', 'Copa do Nordeste', 'Série D']);
     // Todos os troféus têm a mesma altura: nenhum item recebe classe de tamanho especial, e a altura vem de uma variável única.
     for (const time of ['São Paulo', 'Flamengo', 'Palmeiras', 'Amazonas']) assert.ok(!/class="item big/.test(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`])), `${time}: nenhum troféu pode ser maior que os outros`);
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: Flamengo`]).includes('var(--h)'), 'a altura dos troféus deve vir da variável única --h');
@@ -379,5 +383,5 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de Libert
     assert.ok(la > lb || (la === lb && ba >= bb), `${a.slug} deveria vir depois de ${b.slug}`);
   }
   assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'bragantino', 'mirassol', 'santo-andre', 'cruzeiro', 'atletico-mg',
-    'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'remo', 'paysandu', 'amazonas', 'goias', 'chapecoense', 'criciuma']);
+    'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'remo', 'paysandu', 'amazonas', 'goias', 'chapecoense', 'criciuma', 'sampaio-correa']);
 });

@@ -232,6 +232,11 @@ function tooltipText(label, years) {
 // no centro. (A ordem da lista COMPETITIONS já põe o Mundial depois da Libertadores; aqui só se garante o centro nos casos de 5.)
 function presentTitles(palette) {
   const present = COMPETITIONS.filter((c) => (palette.titles[c.key] || []).length);
+  // `titleOrder` (opcional, em teams.js): chaves das competições na ordem de exibição; as que ficarem fora da lista seguem depois, na ordem padrão.
+  if (palette.titleOrder) {
+    const rank = (c) => (palette.titleOrder.includes(c.key) ? palette.titleOrder.indexOf(c.key) : palette.titleOrder.length);
+    return [...present].sort((a, b) => rank(a) - rank(b));
+  }
   const mundial = present.find((c) => c.key === 'mundial');
   if (mundial && present.length === 5) {
     const rest = present.filter((c) => c !== mundial);

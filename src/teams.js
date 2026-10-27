@@ -19,6 +19,7 @@
 // crestLabel  nome do escudo atual no seletor; entre parênteses, "desde" o ano em que o desenho atual passou a valer, só quando a fonte é clara (Wikipédia pt e imprensa). Sem data firme, fica só o nome
 // iconFromBackground  (opcional) true: o escudo atual é só o símbolo (monograma, estrela, cruz...) e a pasta usa a mesma silhueta do fundo; o escudo inteiro entra como segundo escudo atual ("atual": true em src/escudos-retro.json)
 // titleCenter  (opcional) chave da competição que fica no centro da seção Títulos (ex.: 'copaDoBrasil'), no lugar da ordem padrão; vale com número ímpar de troféus
+// titleOrder   (opcional) chaves das competições na ordem em que aparecem na seção Títulos (ex.: ['serieC', 'serieB']), no lugar da ordem padrão; as que não estiverem na lista vêm depois
 // swatch      quadradinhos coloridos (emoji) com as cores do time, para o seletor 'Escolher time'
 // fg          cor do texto principal (um tom do branco, mais frio ou mais quente)
 const times = [
@@ -85,7 +86,9 @@ const times = [
   { slug: 'santo-andre', uf: 'SP', crestLabel: 'Santo André (desde 1975)', bgColored: true, swatch: '🟦⬜🟨', titles: { brasileirao: [], copaDoBrasil: [2004], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Santo André', side: '#0e1030', bg: '#090a1f', chrome: '#1c1f6a', secondary: '#f8c000', fg: '#e6e7f6', primary: '#3a3fb8', accent: '#8a92ff', statusBg: '#2b2f96', statusFg: '#ffffff',
     brackets: ['#8a92ff', '#ffffff', '#ffd84d', '#7c83f0', '#dcdeff', '#ffc400'] },
   { slug: 'santa-cruz', uf: 'PE', crestLabel: 'Santa Cruz (desde 1999)', bgColored: true, swatch: '⬛🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [2013], serieD: [], copaDoNordeste: [2016] }, label: 'Santa Cruz', side: '#161619', bg: '#0c0c0e', chrome: '#1b1b20', secondary: '#d80000', fg: '#ececec', primary: '#c81414', accent: '#ff6060', statusBg: '#a80f0f', statusFg: '#ffffff',
-    brackets: ['#ff6060', '#ffffff', '#ff9a9a', '#e83a3a', '#ffd0d0', '#ff7a7a'] }
+    brackets: ['#ff6060', '#ffffff', '#ff9a9a', '#e83a3a', '#ffd0d0', '#ff7a7a'] },
+  { slug: 'sampaio-correa', uf: 'MA', crestLabel: 'Sampaio Corrêa (desde 2019)', bgColored: true, titleOrder: ['serieC', 'serieB', 'copaDoNordeste', 'serieD'], swatch: '🟨🟩🟥', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [1972], serieC: [1997], serieD: [2012], copaDoNordeste: [2018] }, label: 'Sampaio Corrêa', side: '#0d1a10', bg: '#07110a', chrome: '#0b5a2a', secondary: '#d01820', fg: '#e6efe6', primary: '#e6b800', accent: '#ffd84d', statusBg: '#0b6a30', statusFg: '#ffffff',
+    brackets: ['#ffd84d', '#ffffff', '#ff8a8e', '#4fe08a', '#fff3c4', '#e6b800'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São
