@@ -3712,6 +3712,110 @@
       }
     ]
   },
+  "Brasileirão: Atlético-GO": {
+    "slug": "atletico-go",
+    "crestLabel": "Atual · desde 2020",
+    "crestIcon": "escudo-a66b1646.svg",
+    "listIcon": "escudo-a66b1646.svg",
+    "backgroundAspect": 0.595,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        2016
+      ],
+      "serieC": [
+        1990,
+        2008
+      ],
+      "serieD": [],
+      "copaDoNordeste": []
+    },
+    "retro": [
+      {
+        "id": "1937",
+        "label": "1937–1940",
+        "fullLabel": "1937–1940",
+        "atual": false,
+        "file": "retro-1937-b1fe31ab.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-atletico-go-1937"
+      },
+      {
+        "id": "2017",
+        "label": "2017–2020",
+        "fullLabel": "2017–2020",
+        "atual": false,
+        "file": "retro-2017-6ac75226.svg",
+        "aspect": 0.693,
+        "iconTheme": "brasileirao-atletico-go-2017"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬛",
+    "primary": "#c82018",
+    "background": "fundo-b15160b9.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-atletico-go",
+    "colors": [
+      "rgba(255,90,82,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,154,148,0.08)",
+      "rgba(232,57,47,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#c8201833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff5a52"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff9a94"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff5a52"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Chapecoense": {
     "slug": "chapecoense",
     "crestLabel": "Atual · desde 2017",

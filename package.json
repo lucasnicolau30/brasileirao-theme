@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 37 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 38 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -208,6 +208,11 @@
         "label": "Brasileirão: Goiás",
         "uiTheme": "vs-dark",
         "path": "./themes/goias-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Atlético-GO",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atletico-go-color-theme.json"
       },
       {
         "label": "Brasileirão: Chapecoense",
@@ -775,6 +780,21 @@
         "id": "brasileirao-goias-2019",
         "label": "Brasileirão: Goiás (retrô 2019–2021)",
         "path": "./icons/goias/icon-theme-2019.json"
+      },
+      {
+        "id": "brasileirao-atletico-go",
+        "label": "Brasileirão: Atlético-GO",
+        "path": "./icons/atletico-go/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-atletico-go-1937",
+        "label": "Brasileirão: Atlético-GO (retrô 1937–1940)",
+        "path": "./icons/atletico-go/icon-theme-1937.json"
+      },
+      {
+        "id": "brasileirao-atletico-go-2017",
+        "label": "Brasileirão: Atlético-GO (retrô 2017–2020)",
+        "path": "./icons/atletico-go/icon-theme-2017.json"
       },
       {
         "id": "brasileirao-chapecoense",

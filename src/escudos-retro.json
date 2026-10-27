@@ -1011,5 +1011,35 @@
       "preto": "#000000",
       "nota": "a bandeira listrada com o mastro e o CNC, enviada pelo dono do projeto (PNG de 399 px, traçado no modo \"finas\", que reforça as linhas de 1 px da bola, do X e das letras do cantão); período 1931–1969 segundo a tabela de evolução do escudo da Wikipédia pt (\"de 1931 a 1969\"; em 1969 entram as seis estrelas do hexa e em 1995 sai o mastro)"
     }
+  ],
+  "atletico-go": [
+    {
+      "id": "1937",
+      "label": "1937–1940",
+      "local": "Atletico-GO-1937.png",
+      "vetorizar": "alfa",
+      "sobrepor": 0,
+      "vetorizarPaleta": [
+        "#181810",
+        "#c82018",
+        "#ffffff"
+      ],
+      "nota": "círculo vermelho e preto com o monograma ACG em letras grandes, enviado pelo dono do projeto (PNG de 800 px, traçado); período 1937–1940 inferido: a Wikipédia pt diz que o escudo começou \"com letras garrafais\" e o Logopedia (logos.fandom.com) lista 1937–1940 como o primeiro período, mas não consegui ver a imagem dele para confirmar que é este desenho"
+    },
+    {
+      "id": "2017",
+      "label": "2017–2020",
+      "local": "Atletico-GO-2017.png",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#1d2125",
+        "#ee3c44",
+        "#c9a56d",
+        "#c6cacd"
+      ],
+      "nota": "escudo triangular com a placa A C G e as três estrelas (bronze, prata e bronze, que batem com a Série C 1990 e 2008 e a Série B 2016), enviado pelo dono do projeto (PNG de 148 px, traçado pelas cores); período 2017–2020 inferido: a Wikipédia pt tem este desenho como \"escudo 2017\" e diz que o formato atual foi incorporado em 2020, e a terceira estrela só pôde entrar depois do título da Série B de 2016"
+    }
   ]
 }

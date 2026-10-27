@@ -96,7 +96,9 @@ const times = [
   { slug: 'america-mg', uf: 'MG', crestLabel: 'América-MG (desde 2018)', bgColored: true, swatch: '🟩⬜⬛', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [1997, 2017], serieC: [2009], serieD: [], copaDoNordeste: [] }, label: 'América-MG', side: '#0c1b14', bg: '#07110d', chrome: '#064d2c', secondary: '#ffffff', fg: '#e4eee8', primary: '#12935a', accent: '#4cdc98', statusBg: '#0a6b3f', statusFg: '#ffffff',
     brackets: ['#4cdc98', '#ffffff', '#9aeec6', '#22b877', '#d6f6e6', '#6be3ae'] },
   { slug: 'nautico', uf: 'PE', crestLabel: 'Náutico (desde 2010)', bgColored: true, swatch: '🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [2019], serieD: [], copaDoNordeste: [] }, label: 'Náutico', side: '#1c0e10', bg: '#0f0809', chrome: '#8a1018', secondary: '#ffffff', fg: '#efe6e7', primary: '#d6232d', accent: '#ff5f68', statusBg: '#b81a22', statusFg: '#ffffff',
-    brackets: ['#ff5f68', '#ffffff', '#ff9aa0', '#e8404a', '#f9d8da', '#ff7c84'] }
+    brackets: ['#ff5f68', '#ffffff', '#ff9aa0', '#e8404a', '#f9d8da', '#ff7c84'] },
+  { slug: 'atletico-go', uf: 'GO', crestLabel: 'Atlético-GO (desde 2020)', bgColored: true, swatch: '🟥⬛', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [2016], serieC: [1990, 2008], serieD: [], copaDoNordeste: [] }, label: 'Atlético-GO', side: '#161010', bg: '#0a0808', activity: '#c82018', title: '#000000', secondary: '#ffffff', fg: '#ece6e6', primary: '#c82018', accent: '#ff5a52', statusBg: '#000000', statusFg: '#ffffff', statusBorder: '#c82018',
+    brackets: ['#ff5a52', '#ffffff', '#ff9a94', '#e8392f', '#f9d9d6', '#ff7a72'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

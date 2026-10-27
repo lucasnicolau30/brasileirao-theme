@@ -50,7 +50,8 @@ const EXPECTED = {
   portuguesa: [0, 0, 0],
   'ponte-preta': [0, 0, 0],
   'america-mg': [0, 0, 0],
-  nautico: [0, 0, 0]
+  nautico: [0, 0, 0],
+  'atletico-go': [0, 0, 0]
 };
 const FIRST_YEAR = { brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994 };
 // Mundial (Intercontinental + Mundial da FIFA), Sul-Americana, Série B, C e D: [mundial, sulAmericana, serieB, serieC, serieD], conferido à mão nas listas oficiais.
@@ -92,7 +93,8 @@ const EXPECTED_OTHER = {
   portuguesa: [0, 0, 1, 0, 0],
   'ponte-preta': [0, 0, 0, 1, 0],
   'america-mg': [0, 0, 2, 1, 0],
-  nautico: [0, 0, 0, 1, 0]
+  nautico: [0, 0, 0, 1, 0],
+  'atletico-go': [0, 0, 1, 2, 0]
 };
 const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
@@ -102,8 +104,8 @@ const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport:
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 37 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 37);
+test('há 38 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 38);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -391,5 +393,5 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de Libert
     assert.ok(la > lb || (la === lb && ba >= bb), `${a.slug} deveria vir depois de ${b.slug}`);
   }
   assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'bragantino', 'mirassol', 'santo-andre', 'portuguesa', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg',
-    'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'remo', 'paysandu', 'amazonas', 'goias', 'chapecoense', 'criciuma', 'sampaio-correa']);
+    'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'remo', 'paysandu', 'amazonas', 'goias', 'atletico-go', 'chapecoense', 'criciuma', 'sampaio-correa']);
 });
