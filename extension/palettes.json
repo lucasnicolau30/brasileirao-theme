@@ -2198,9 +2198,9 @@
   "Brasileirão: Athletico-PR": {
     "slug": "athletico-pr",
     "crestLabel": "Atual · desde 2018",
-    "crestIcon": "escudo-aad82117.svg",
-    "listIcon": "escudo-aad82117.svg",
-    "backgroundAspect": 0.751,
+    "crestIcon": "escudo-af9c0049.svg",
+    "listIcon": "escudo-af9c0049.svg",
+    "backgroundAspect": 0.743,
     "titles": {
       "brasileirao": [
         2001
@@ -2253,7 +2253,7 @@
     "alternates": [],
     "swatch": "🟥⬛",
     "primary": "#d4161c",
-    "background": "fundo-8a8e8bcf.svg",
+    "background": "fundo-d91db27f.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
