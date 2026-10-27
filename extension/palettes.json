@@ -1099,6 +1099,99 @@
       }
     ]
   },
+  "Brasileirão: Santo André": {
+    "slug": "santo-andre",
+    "crestLabel": "Atual · desde 1975",
+    "crestIcon": "escudo-ae51ec30.svg",
+    "listIcon": "escudo-ae51ec30.svg",
+    "backgroundAspect": 0.62,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [
+        2004
+      ],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": []
+    },
+    "retro": [
+      {
+        "id": "1967",
+        "label": "1967–1975",
+        "fullLabel": "1967–1975",
+        "atual": false,
+        "file": "retro-1967-cb7d082b.svg",
+        "aspect": 1.03,
+        "iconTheme": "brasileirao-santo-andre-1967"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟦⬜🟨",
+    "primary": "#3a3fb8",
+    "background": "fundo-e10204c7.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-santo-andre",
+    "colors": [
+      "rgba(138,146,255,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,216,77,0.08)",
+      "rgba(124,131,240,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#3a3fb833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#8a92ff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffd84d"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#8a92ff"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Bragantino": {
     "slug": "bragantino",
     "crestLabel": "Atual · desde 2020",
@@ -1183,194 +1276,6 @@
         "italic": false,
         "tag": "*",
         "color": "#ff5a6e"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Mirassol": {
-    "slug": "mirassol",
-    "crestLabel": "Atual · desde 2023",
-    "crestIcon": "escudo-7c700640.svg",
-    "listIcon": "escudo-7c700640.svg",
-    "backgroundAspect": 0.865,
-    "titles": {
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "libertadores": [],
-      "mundial": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [
-        2022
-      ],
-      "serieD": [
-        2020
-      ],
-      "copaDoNordeste": [],
-      "copaVerde": []
-    },
-    "retro": [
-      {
-        "id": "1964",
-        "label": "1964–1981",
-        "fullLabel": "1964–1981",
-        "atual": false,
-        "file": "retro-1964-d801df7e.svg",
-        "aspect": 1,
-        "iconTheme": "brasileirao-mirassol-1964"
-      }
-    ],
-    "alternates": [],
-    "swatch": "🟨🟩",
-    "primary": "#f2d21a",
-    "background": "fundo-2a290e47.svg",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-mirassol",
-    "colors": [
-      "rgba(255,228,92,0.08)",
-      "rgba(79,224,143,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(242,194,0,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#f2d21a33",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#ffe45c"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#4fe08f"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#ffe45c"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Santo André": {
-    "slug": "santo-andre",
-    "crestLabel": "Atual · desde 1975",
-    "crestIcon": "escudo-ae51ec30.svg",
-    "listIcon": "escudo-ae51ec30.svg",
-    "backgroundAspect": 0.62,
-    "titles": {
-      "brasileirao": [],
-      "copaDoBrasil": [
-        2004
-      ],
-      "libertadores": [],
-      "mundial": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": []
-    },
-    "retro": [
-      {
-        "id": "1967",
-        "label": "1967–1975",
-        "fullLabel": "1967–1975",
-        "atual": false,
-        "file": "retro-1967-cb7d082b.svg",
-        "aspect": 1.03,
-        "iconTheme": "brasileirao-santo-andre-1967"
-      }
-    ],
-    "alternates": [],
-    "swatch": "🟦⬜🟨",
-    "primary": "#3a3fb8",
-    "background": "fundo-e10204c7.svg",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-santo-andre",
-    "colors": [
-      "rgba(138,146,255,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(255,216,77,0.08)",
-      "rgba(124,131,240,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#3a3fb833",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#8a92ff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#ffd84d"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#8a92ff"
       },
       {
         "strikethrough": true,
@@ -1473,6 +1378,101 @@
         "italic": false,
         "tag": "*",
         "color": "#46d68a"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
+  "Brasileirão: Mirassol": {
+    "slug": "mirassol",
+    "crestLabel": "Atual · desde 2023",
+    "crestIcon": "escudo-7c700640.svg",
+    "listIcon": "escudo-7c700640.svg",
+    "backgroundAspect": 0.865,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2022
+      ],
+      "serieD": [
+        2020
+      ],
+      "copaDoNordeste": [],
+      "copaVerde": []
+    },
+    "retro": [
+      {
+        "id": "1964",
+        "label": "1964–1981",
+        "fullLabel": "1964–1981",
+        "atual": false,
+        "file": "retro-1964-d801df7e.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-mirassol-1964"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟨🟩",
+    "primary": "#f2d21a",
+    "background": "fundo-2a290e47.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-mirassol",
+    "colors": [
+      "rgba(255,228,92,0.08)",
+      "rgba(79,224,143,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(242,194,0,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#f2d21a33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ffe45c"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#4fe08f"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ffe45c"
       },
       {
         "strikethrough": true,
@@ -3354,6 +3354,107 @@
       }
     ]
   },
+  "Brasileirão: Paysandu": {
+    "slug": "paysandu",
+    "crestLabel": "Atual · desde 2016",
+    "crestIcon": "escudo-944af159.svg",
+    "listIcon": "escudo-944af159.svg",
+    "backgroundAspect": 0.803,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1991,
+        2001
+      ],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [
+        2016,
+        2018,
+        2022,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "retro": [
+      {
+        "id": "1914",
+        "label": "1914–1970",
+        "fullLabel": "1914–1970",
+        "atual": false,
+        "file": "retro-1914-053c95a4.svg",
+        "aspect": 0.9,
+        "iconTheme": "brasileirao-paysandu-1914"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟦⬜",
+    "primary": "#1b8fd6",
+    "background": "fundo-1302df67.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-paysandu",
+    "colors": [
+      "rgba(143,214,255,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(92,188,242,0.08)",
+      "rgba(47,163,230,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#1b8fd633",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#8fd6ff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#5cbcf2"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#8fd6ff"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Remo": {
     "slug": "remo",
     "crestLabel": "Atual · desde 2014",
@@ -3446,107 +3547,6 @@
         "italic": false,
         "tag": "*",
         "color": "#7a9dff"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Paysandu": {
-    "slug": "paysandu",
-    "crestLabel": "Atual · desde 2016",
-    "crestIcon": "escudo-944af159.svg",
-    "listIcon": "escudo-944af159.svg",
-    "backgroundAspect": 0.803,
-    "titles": {
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "libertadores": [],
-      "mundial": [],
-      "sulAmericana": [],
-      "serieB": [
-        1991,
-        2001
-      ],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [
-        2016,
-        2018,
-        2022,
-        2024,
-        2025,
-        2026
-      ]
-    },
-    "retro": [
-      {
-        "id": "1914",
-        "label": "1914–1970",
-        "fullLabel": "1914–1970",
-        "atual": false,
-        "file": "retro-1914-053c95a4.svg",
-        "aspect": 0.9,
-        "iconTheme": "brasileirao-paysandu-1914"
-      }
-    ],
-    "alternates": [],
-    "swatch": "🟦⬜",
-    "primary": "#1b8fd6",
-    "background": "fundo-1302df67.svg",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-paysandu",
-    "colors": [
-      "rgba(143,214,255,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(92,188,242,0.08)",
-      "rgba(47,163,230,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#1b8fd633",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#8fd6ff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#5cbcf2"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#8fd6ff"
       },
       {
         "strikethrough": true,
@@ -3966,101 +3966,6 @@
       }
     ]
   },
-  "Brasileirão: Chapecoense": {
-    "slug": "chapecoense",
-    "crestLabel": "Atual · desde 2017",
-    "crestIcon": "escudo-56fef9e8.svg",
-    "listIcon": "escudo-56fef9e8.svg",
-    "backgroundAspect": 0.828,
-    "titles": {
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "libertadores": [],
-      "mundial": [],
-      "sulAmericana": [
-        2016
-      ],
-      "serieB": [
-        2020
-      ],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": []
-    },
-    "retro": [
-      {
-        "id": "1975",
-        "label": "1975–1984",
-        "fullLabel": "1975–1984",
-        "atual": false,
-        "file": "retro-1975-e30fe6f6.svg",
-        "aspect": 1.077,
-        "iconTheme": "brasileirao-chapecoense-1975"
-      }
-    ],
-    "alternates": [],
-    "swatch": "🟩⬜",
-    "primary": "#17a344",
-    "background": "fundo-ca521b4a.svg",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-chapecoense",
-    "colors": [
-      "rgba(79,224,138,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(154,238,192,0.08)",
-      "rgba(39,199,101,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#17a34433",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#4fe08a"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#9aeec0"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#4fe08a"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
   "Brasileirão: Criciúma": {
     "slug": "criciuma",
     "crestLabel": "Atual · desde 1984",
@@ -4156,6 +4061,101 @@
         "italic": false,
         "tag": "*",
         "color": "#ffd84d"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
+  "Brasileirão: Chapecoense": {
+    "slug": "chapecoense",
+    "crestLabel": "Atual · desde 2017",
+    "crestIcon": "escudo-56fef9e8.svg",
+    "listIcon": "escudo-56fef9e8.svg",
+    "backgroundAspect": 0.828,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [
+        2016
+      ],
+      "serieB": [
+        2020
+      ],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": []
+    },
+    "retro": [
+      {
+        "id": "1975",
+        "label": "1975–1984",
+        "fullLabel": "1975–1984",
+        "atual": false,
+        "file": "retro-1975-e30fe6f6.svg",
+        "aspect": 1.077,
+        "iconTheme": "brasileirao-chapecoense-1975"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩⬜",
+    "primary": "#17a344",
+    "background": "fundo-ca521b4a.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-chapecoense",
+    "colors": [
+      "rgba(79,224,138,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(154,238,192,0.08)",
+      "rgba(39,199,101,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#17a34433",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#4fe08a"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#9aeec0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#4fe08a"
       },
       {
         "strikethrough": true,

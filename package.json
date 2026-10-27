@@ -85,24 +85,24 @@
         "path": "./themes/guarani-color-theme.json"
       },
       {
-        "label": "Brasileirão: Bragantino",
-        "uiTheme": "vs-dark",
-        "path": "./themes/bragantino-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Mirassol",
-        "uiTheme": "vs-dark",
-        "path": "./themes/mirassol-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Santo André",
         "uiTheme": "vs-dark",
         "path": "./themes/santo-andre-color-theme.json"
       },
       {
+        "label": "Brasileirão: Bragantino",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bragantino-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Portuguesa",
         "uiTheme": "vs-dark",
         "path": "./themes/portuguesa-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Mirassol",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mirassol-color-theme.json"
       },
       {
         "label": "Brasileirão: Ponte Preta",
@@ -190,14 +190,14 @@
         "path": "./themes/nautico-color-theme.json"
       },
       {
-        "label": "Brasileirão: Remo",
-        "uiTheme": "vs-dark",
-        "path": "./themes/remo-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Paysandu",
         "uiTheme": "vs-dark",
         "path": "./themes/paysandu-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Remo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/remo-color-theme.json"
       },
       {
         "label": "Brasileirão: Amazonas",
@@ -220,14 +220,14 @@
         "path": "./themes/vila-nova-color-theme.json"
       },
       {
-        "label": "Brasileirão: Chapecoense",
-        "uiTheme": "vs-dark",
-        "path": "./themes/chapecoense-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Criciúma",
         "uiTheme": "vs-dark",
         "path": "./themes/criciuma-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Chapecoense",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chapecoense-color-theme.json"
       },
       {
         "label": "Brasileirão: Sampaio Corrêa",
@@ -412,26 +412,6 @@
         "path": "./icons/guarani/icon-theme-1981.json"
       },
       {
-        "id": "brasileirao-bragantino",
-        "label": "Brasileirão: Bragantino",
-        "path": "./icons/bragantino/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-bragantino-2007",
-        "label": "Brasileirão: Bragantino (retrô 2007–2019)",
-        "path": "./icons/bragantino/icon-theme-2007.json"
-      },
-      {
-        "id": "brasileirao-mirassol",
-        "label": "Brasileirão: Mirassol",
-        "path": "./icons/mirassol/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-mirassol-1964",
-        "label": "Brasileirão: Mirassol (retrô 1964–1981)",
-        "path": "./icons/mirassol/icon-theme-1964.json"
-      },
-      {
         "id": "brasileirao-santo-andre",
         "label": "Brasileirão: Santo André",
         "path": "./icons/santo-andre/icon-theme.json"
@@ -440,6 +420,16 @@
         "id": "brasileirao-santo-andre-1967",
         "label": "Brasileirão: Santo André (retrô 1967–1975)",
         "path": "./icons/santo-andre/icon-theme-1967.json"
+      },
+      {
+        "id": "brasileirao-bragantino",
+        "label": "Brasileirão: Bragantino",
+        "path": "./icons/bragantino/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-bragantino-2007",
+        "label": "Brasileirão: Bragantino (retrô 2007–2019)",
+        "path": "./icons/bragantino/icon-theme-2007.json"
       },
       {
         "id": "brasileirao-portuguesa",
@@ -455,6 +445,16 @@
         "id": "brasileirao-portuguesa-2005",
         "label": "Brasileirão: Portuguesa (retrô 2005–2015)",
         "path": "./icons/portuguesa/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-mirassol",
+        "label": "Brasileirão: Mirassol",
+        "path": "./icons/mirassol/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-mirassol-1964",
+        "label": "Brasileirão: Mirassol (retrô 1964–1981)",
+        "path": "./icons/mirassol/icon-theme-1964.json"
       },
       {
         "id": "brasileirao-ponte-preta",
@@ -737,6 +737,16 @@
         "path": "./icons/nautico/icon-theme-1931.json"
       },
       {
+        "id": "brasileirao-paysandu",
+        "label": "Brasileirão: Paysandu",
+        "path": "./icons/paysandu/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-paysandu-1914",
+        "label": "Brasileirão: Paysandu (retrô 1914–1970)",
+        "path": "./icons/paysandu/icon-theme-1914.json"
+      },
+      {
         "id": "brasileirao-remo",
         "label": "Brasileirão: Remo",
         "path": "./icons/remo/icon-theme.json"
@@ -750,16 +760,6 @@
         "id": "brasileirao-remo-1911",
         "label": "Brasileirão: Remo (retrô 1911–1914)",
         "path": "./icons/remo/icon-theme-1911.json"
-      },
-      {
-        "id": "brasileirao-paysandu",
-        "label": "Brasileirão: Paysandu",
-        "path": "./icons/paysandu/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-paysandu-1914",
-        "label": "Brasileirão: Paysandu (retrô 1914–1970)",
-        "path": "./icons/paysandu/icon-theme-1914.json"
       },
       {
         "id": "brasileirao-amazonas",
@@ -817,16 +817,6 @@
         "path": "./icons/vila-nova/icon-theme-1996.json"
       },
       {
-        "id": "brasileirao-chapecoense",
-        "label": "Brasileirão: Chapecoense",
-        "path": "./icons/chapecoense/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-chapecoense-1975",
-        "label": "Brasileirão: Chapecoense (retrô 1975–1984)",
-        "path": "./icons/chapecoense/icon-theme-1975.json"
-      },
-      {
         "id": "brasileirao-criciuma",
         "label": "Brasileirão: Criciúma",
         "path": "./icons/criciuma/icon-theme.json"
@@ -840,6 +830,16 @@
         "id": "brasileirao-criciuma-1948",
         "label": "Brasileirão: Criciúma (retrô 1948–1978)",
         "path": "./icons/criciuma/icon-theme-1948.json"
+      },
+      {
+        "id": "brasileirao-chapecoense",
+        "label": "Brasileirão: Chapecoense",
+        "path": "./icons/chapecoense/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-chapecoense-1975",
+        "label": "Brasileirão: Chapecoense (retrô 1975–1984)",
+        "path": "./icons/chapecoense/icon-theme-1975.json"
       },
       {
         "id": "brasileirao-sampaio-correa",

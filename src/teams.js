@@ -104,10 +104,17 @@ const times = [
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São
-// Paulo, Minas, Rio Grande do Sul, Bahia, Ceará, Paraná, Pernambuco, Pará, Amazonas, Goiás). Dentro de cada estado, por títulos da Libertadores e, no empate,
-// do Brasileirão (mais títulos primeiro; persistindo o empate, vale a ordem do arquivo).
+// Paulo, Minas, Rio Grande do Sul, Bahia, Ceará, Paraná, Pernambuco, Pará, Amazonas, Goiás). Dentro de cada estado, por títulos, comparando nesta ordem:
+// Libertadores, Brasileirão, Copa do Brasil, Sul-Americana e Séries B, C e D (mais títulos primeiro; persistindo o empate, vale a ordem do arquivo).
 const estado = (t) => t.uf;
 const estados = [...new Set(times.map(estado))];
-const ordenado = estados.flatMap((uf) => times.filter((t) => estado(t) === uf)
-  .sort((a, b) => b.titles.libertadores.length - a.titles.libertadores.length || b.titles.brasileirao.length - a.titles.brasileirao.length));
+const CRITERIOS = ['libertadores', 'brasileirao', 'copaDoBrasil', 'sulAmericana', 'serieB', 'serieC', 'serieD'];
+const porTitulos = (a, b) => {
+  for (const k of CRITERIOS) {
+    const d = b.titles[k].length - a.titles[k].length;
+    if (d) return d;
+  }
+  return 0;
+};
+const ordenado = estados.flatMap((uf) => times.filter((t) => estado(t) === uf).sort(porTitulos));
 module.exports = ordenado;

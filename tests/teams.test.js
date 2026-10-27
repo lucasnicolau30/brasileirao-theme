@@ -385,7 +385,7 @@ test('os escudos antigos de todo time estão em ordem cronológica no seletor', 
   }
 });
 
-test('os times estão agrupados por estado e, em cada estado, em ordem de Libertadores e, no empate, de Brasileirão', () => {
+test('os times estão agrupados por estado e, em cada estado, em ordem de títulos (Libertadores, Brasileirão, Copa do Brasil, Sul-Americana, Séries B, C e D)', () => {
   const uf = (x) => x.uf;
   const vistos = [];
   teams.forEach((x, i) => {
@@ -397,10 +397,11 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de Libert
     const a = teams[i - 1];
     const b = teams[i];
     if (uf(a) !== uf(b)) continue;
-    const [la, ba] = [a.titles.libertadores.length, a.titles.brasileirao.length];
-    const [lb, bb] = [b.titles.libertadores.length, b.titles.brasileirao.length];
-    assert.ok(la > lb || (la === lb && ba >= bb), `${a.slug} deveria vir depois de ${b.slug}`);
+    // Mais títulos primeiro, comparando nesta ordem; só se tudo empata vale a ordem do arquivo (Série B vale mais que a C, que vale mais que a D).
+    const criterios = ['libertadores', 'brasileirao', 'copaDoBrasil', 'sulAmericana', 'serieB', 'serieC', 'serieD'];
+    const dif = criterios.map((k) => a.titles[k].length - b.titles[k].length).find((d) => d !== 0) || 0;
+    assert.ok(dif >= 0, `${b.slug} (mais títulos) deveria vir antes de ${a.slug}`);
   }
-  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'bragantino', 'mirassol', 'santo-andre', 'portuguesa', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg',
-    'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'remo', 'paysandu', 'amazonas', 'goias', 'atletico-go', 'vila-nova', 'chapecoense', 'criciuma', 'sampaio-correa']);
+  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'santo-andre', 'bragantino', 'portuguesa', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'gremio', 'internacional',
+    'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'sampaio-correa']);
 });

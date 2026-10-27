@@ -11,7 +11,7 @@ A dark theme and an icon theme for each of 39 clubs of the Brazilian league syst
 
 > Independent project. Not affiliated with any football club, with the CBF or with the Brasileirão. Club names and crests are trademarks of their owners. See [Credits and licenses](#credits-and-licenses).
 
-Teams: Flamengo, Fluminense, Vasco, Botafogo, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Bragantino, Mirassol, Santo André, Portuguesa, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Remo, Paysandu, Amazonas, Goiás, Atlético-GO, Vila Nova, Chapecoense, Criciúma and Sampaio Corrêa.
+Teams: Flamengo, Fluminense, Vasco, Botafogo, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Santo André, Bragantino, Portuguesa, Mirassol, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Paysandu, Remo, Amazonas, Goiás, Atlético-GO, Vila Nova, Criciúma, Chapecoense and Sampaio Corrêa.
 
 ## What you get
 
@@ -74,10 +74,10 @@ The data lives in the `titles` field of `src/teams.js`, up to the 2025 season (C
 | São Paulo | `#d3112d` | `#ff5c6c` | `#f4f4f4` |
 | Corinthians | `#bdbdbd` | `#ffffff` | `#000000` |
 | Guarani | `#18a35a` | `#4fe08f` | `#0b6b3b` |
-| Bragantino | `#d81f3c` | `#ff5a6e` | `#b8142b` |
-| Mirassol | `#f2d21a` | `#ffe45c` | `#0b6b27` |
 | Santo André | `#3a3fb8` | `#8a92ff` | `#2b2f96` |
+| Bragantino | `#d81f3c` | `#ff5a6e` | `#b8142b` |
 | Portuguesa | `#16924a` | `#46d68a` | `#0e773e` |
+| Mirassol | `#f2d21a` | `#ffe45c` | `#0b6b27` |
 | Ponte Preta | `#cfcfd6` | `#f2f2f6` | `#000000` |
 | Cruzeiro | `#1d4fc4` | `#7aa2ff` | `#0f3fa8` |
 | Atlético-MG | `#d0d0d0` | `#f5f5f5` | `#000000` |
@@ -95,14 +95,14 @@ The data lives in the `titles` field of `src/teams.js`, up to the 2025 season (C
 | Sport | `#d4141c` | `#ff5959` | `#b50f16` |
 | Santa Cruz | `#c81414` | `#ff6060` | `#a80f0f` |
 | Náutico | `#d6232d` | `#ff5f68` | `#b81a22` |
-| Remo | `#2a56c6` | `#7a9dff` | `#0d2a73` |
 | Paysandu | `#1b8fd6` | `#8fd6ff` | `#0a6aa8` |
+| Remo | `#2a56c6` | `#7a9dff` | `#0d2a73` |
 | Amazonas | `#f2c200` | `#ffd84d` | `#f2c200` |
 | Goiás | `#0aa876` | `#3fe0b0` | `#0a7a5c` |
 | Atlético-GO | `#c82018` | `#ff5a52` | `#000000` |
 | Vila Nova | `#e01820` | `#ff6a6a` | `#b8151a` |
-| Chapecoense | `#17a344` | `#4fe08a` | `#0b7a32` |
 | Criciúma | `#f2c200` | `#ffd84d` | `#f2c200` |
+| Chapecoense | `#17a344` | `#4fe08a` | `#0b7a32` |
 | Sampaio Corrêa | `#e6b800` | `#ffd84d` | `#0b6a30` |
 
 A club's official color doesn't always work as text on a dark background (blues, for instance, look dull). So each club has a main color, used on filled areas, and a lighter version for text.
