@@ -110,7 +110,7 @@ function collectRetro(team) {
     const name = `retro-${entry.id}-${hash}${path.extname(source)}`;
     fs.mkdirSync(path.join(root, 'icons', team.slug), { recursive: true });
     fs.copyFileSync(source, path.join(root, 'icons', team.slug, name));
-    // Retrô: o rótulo é a data de uso, com o nome depois ("1915 · União F.C.") só quando o escudo tem nome. Segundo escudo atual ("atual": true):
+    // Retrô: o rótulo é a data de uso, com o nome e " · " antes ("Colorado · 1971–1989") só quando o escudo é de outro clube. Segundo escudo atual ("atual": true):
     // "Completo (desde 2018)" vira "Atual · Completo · desde 2018".
     const [, nome, desde] = entry.label.match(/^(.*?)(?: \((.*)\))?$/);
     const label = entry.atual ? ['Atual', nome, desde].filter(Boolean).join(' · ') : entry.label;

@@ -79,7 +79,9 @@ const times = [
   { slug: 'criciuma', uf: 'SC', crestLabel: 'Criciúma (desde 1984)', bgColored: true, titleCenter: 'copaDoBrasil', swatch: '🟨⬛', titles: { brasileirao: [], copaDoBrasil: [1991], libertadores: [], mundial: [], sulAmericana: [], serieB: [2002], serieC: [2006], serieD: [], copaDoNordeste: [] }, label: 'Criciúma', side: '#161409', bg: '#0b0b0a', activity: '#000000', title: '#f2c200', secondary: '#ffd800', fg: '#efecdf', primary: '#f2c200', accent: '#ffd84d', statusBg: '#f2c200', statusFg: '#0b0b0a',
     brackets: ['#ffd84d', '#ffffff', '#ffe88a', '#f2c200', '#fff3c4', '#ffc400'] },
   { slug: 'juventude', uf: 'RS', crestLabel: 'Juventude (desde 1998)', bgColored: true, swatch: '🟩⬜', titles: { brasileirao: [], copaDoBrasil: [1999], libertadores: [], mundial: [], sulAmericana: [], serieB: [1994], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Juventude', side: '#0a1c12', bg: '#06120a', chrome: '#087a30', secondary: '#ffffff', fg: '#e3efe7', primary: '#0b9a3c', accent: '#3ddc78', statusBg: '#08812f', statusFg: '#ffffff',
-    brackets: ['#3ddc78', '#ffffff', '#8cf0b0', '#1fbf5c', '#d6f7e2', '#5be892'] }
+    brackets: ['#3ddc78', '#ffffff', '#8cf0b0', '#1fbf5c', '#d6f7e2', '#5be892'] },
+  { slug: 'parana', uf: 'PR', crestLabel: 'Paraná Clube (desde 1989)', bgColored: true, swatch: '🟦🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [1992, 2000], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Paraná', side: '#0a1530', bg: '#060d1e', chrome: '#0a3570', secondary: '#e01838', fg: '#e3e9f5', primary: '#1b5fc0', accent: '#6aa8ff', statusBg: '#0b4aa0', statusFg: '#ffffff',
+    brackets: ['#6aa8ff', '#ffffff', '#ff7a90', '#3d82e8', '#d6e4ff', '#ff5a76'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

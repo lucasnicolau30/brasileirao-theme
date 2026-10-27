@@ -2511,6 +2511,108 @@
       }
     ]
   },
+  "Brasileirão: Paraná": {
+    "slug": "parana",
+    "crestLabel": "Atual · desde 1989",
+    "crestIcon": "escudo-4ab1d11e.svg",
+    "listIcon": "escudo-4ab1d11e.svg",
+    "backgroundAspect": 0.538,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1992,
+        2000
+      ],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": []
+    },
+    "retro": [
+      {
+        "id": "1971-colorado",
+        "label": "Colorado · 1971–1989",
+        "fullLabel": "Colorado · 1971–1989",
+        "atual": false,
+        "file": "retro-1971-colorado-0d861318.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-parana-1971-colorado"
+      },
+      {
+        "id": "1971-pinheiros",
+        "label": "Pinheiros · 1971–1989",
+        "fullLabel": "Pinheiros · 1971–1989",
+        "atual": false,
+        "file": "retro-1971-pinheiros-b957f3d5.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-parana-1971-pinheiros"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟦🟥⬜",
+    "primary": "#1b5fc0",
+    "background": "fundo-b2c7d6fc.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-parana",
+    "colors": [
+      "rgba(106,168,255,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,122,144,0.08)",
+      "rgba(61,130,232,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#1b5fc033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#6aa8ff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff7a90"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#6aa8ff"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Sport": {
     "slug": "sport",
     "crestLabel": "Atual · desde 2008",

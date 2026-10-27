@@ -42,7 +42,8 @@ const EXPECTED = {
   mirassol: [0, 0, 0],
   chapecoense: [0, 0, 0],
   criciuma: [0, 1, 0],
-  juventude: [0, 1, 0]
+  juventude: [0, 1, 0],
+  parana: [0, 0, 0]
 };
 const FIRST_YEAR = { brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994 };
 // Mundial (Intercontinental + Mundial da FIFA), Sul-Americana, Série B, C e D: [mundial, sulAmericana, serieB, serieC, serieD], conferido à mão nas listas oficiais.
@@ -75,7 +76,9 @@ const EXPECTED_OTHER = {
   mirassol: [0, 0, 0, 1, 1],
   chapecoense: [0, 1, 1, 0, 0],
   criciuma: [0, 0, 1, 1, 0],
-  juventude: [0, 0, 1, 0, 0]
+  juventude: [0, 0, 1, 0, 0],
+  // Paraná: o segundo título de Série B (2000) é a Copa João Havelange (Módulo Amarelo), que o clube conta como Série B e a CBF não reconhece; entra por decisão do dono do projeto.
+  parana: [0, 0, 2, 0, 0]
 };
 const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
@@ -85,8 +88,8 @@ const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport:
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 29 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 29);
+test('há 30 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 30);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -329,11 +332,11 @@ test('todo escudo de fundo tem a mesma altura (só uma imagem absurdamente larga
   }
 });
 
-test('todo escudo antigo tem como rótulo só a data de uso', () => {
+test('todo escudo antigo tem como rótulo a data de uso, com o nome antes só quando o escudo é de outro clube (Colorado e Pinheiros, do Paraná)', () => {
   const retro = JSON.parse(fs.readFileSync(path.join(root, 'src', 'escudos-retro.json'), 'utf8'));
   for (const [slug, lista] of Object.entries(retro)) {
     if (!Array.isArray(lista)) continue;
-    for (const r of lista) assert.match(r.label, r.atual ? /^Completo( \(desde \d{4}\))?$/ : /^\d{4}(–\d{4})?(\/\d{4}(–\d{4})?)?$/, `${slug}/${r.id}: "${r.label}" deve ser só a data de uso (dois períodos separados por /)`);
+    for (const r of lista) assert.match(r.label, r.atual ? /^Completo( \(desde \d{4}\))?$/ : /^([^\d·]+ · )?\d{4}(–\d{4})?(\/\d{4}(–\d{4})?)?$/, `${slug}/${r.id}: "${r.label}" deve ser a data de uso (dois períodos separados por /), com o nome do clube e " · " antes ("Colorado · 1971–1989") só para escudo de outro clube`);
   }
 });
 
@@ -372,5 +375,5 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de Libert
     assert.ok(la > lb || (la === lb && ba >= bb), `${a.slug} deveria vir depois de ${b.slug}`);
   }
   assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'bragantino', 'mirassol', 'cruzeiro', 'atletico-mg',
-    'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'sport', 'remo', 'paysandu', 'amazonas', 'goias', 'chapecoense', 'criciuma']);
+    'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'remo', 'paysandu', 'amazonas', 'goias', 'chapecoense', 'criciuma']);
 });

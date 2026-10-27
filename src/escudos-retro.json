@@ -782,5 +782,32 @@
       ],
       "nota": "bola com o J grande, S.C., 1913 e ramos de louro em volta, enviado pelo dono do projeto (PNG de 2841 px, reduzido para 1000 px e traçado); período de 1963 a 1974 segundo a seção de símbolos da Wikipédia pt, que lista os períodos sem descrever os desenhos"
     }
+  ],
+  "parana": [
+    {
+      "id": "1971-colorado",
+      "label": "Colorado · 1971–1989",
+      "local": "Colorado-1971.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 100,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#ff0000",
+        "#000000"
+      ],
+      "nota": "escudo do Colorado Esporte Clube, um dos dois clubes que se fundiram no Paraná Clube em 19 de dezembro de 1989: círculo vermelho com a barra preta e as palavras COLORADO E.C. PARANÁ, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado); o período é o da existência do clube (29 de junho de 1971 a 19 de dezembro de 1989, Wikipédia pt), que não traz a data de cada escudo",
+      "bordaPx": 0
+    },
+    {
+      "id": "1971-pinheiros",
+      "label": "Pinheiros · 1971–1989",
+      "local": "Pinheiros-1971.svg",
+      "nota": "escudo do Esporte Clube Pinheiros (ex-Água Verde), o outro clube da fusão que criou o Paraná Clube em 1989: bola roxa com o pinheiro e o nome PINHEIROS PARANÁ, enviado pelo dono do projeto (SVG, só com o viewBox ajustado ao conteúdo); o clube adotou o nome e o escudo em 12 de agosto de 1971 e durou até 1989 (Wikipédia pt)"
+    }
   ]
 }

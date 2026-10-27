@@ -13,6 +13,8 @@ Uso: python baixar_escudos_retro.py
 - "vetorizar" em arquivo local: "monocromo" (uma tinta, "cor"), "duas-tintas" (tinta escura sobre papel, traçado pelos tons de cinza), "suave" (poucas cores chapadas sobre papel branco, com "vetorizarPaleta" e "silhueta": "borda" ou "linha"; traça pela participação suave de cada cor; "vazarFuros": [cores] tira o branco dos vãos cercados por essas cores, como o buraco do anel da âncora; com "aroDe": cor, só os vãos fora do círculo desse aro; "vaoMinimo": N (padrão 30 px) é o menor vão de papel que "vazarFuros" considera; "preencher": false (com usarAlpha) mantém transparentes os buracos da imagem; "usarAlpha": true usa a transparência da imagem como exterior; "refinar": true escolhe o par de cores pelo segmento mais próximo e recua as camadas de baixo, tirando filetes nas bordas externas) e "auto" ou "paleta" (classificação pixel a pixel, para imagens pequenas ou sujas). "suavidade" suaviza mais o "auto".
 - "vetorizar": "sombreado" (PNG transparente com sombreado de metal e vermelho: "base", "vermelho", "niveis" e "sigma"; ver sombreado_para_svg).
 - "vetorizar": "alfa" (arquivo local PNG com fundo transparente; com "fundoBranco": true, JPG/PNG sobre branco, que vira transparente): traça pelo canal alfa e pela cor mais próxima de "vetorizarPaleta" (a primeira cor cobre toda a silhueta, as outras vão por cima; com "nitido": true amplia a imagem antes de classificar as cores (contornos finos, ver alfa_cores_nitido; "escala", "suavidade" e "minimo" ajustam a ampliação, o alisamento e o menor pedaço mantido); com "sobrepor": N não há camada de base e cada cor é alargada N px, de baixo para cima na ordem da paleta).
+- Entrada "local" em SVG (sem "vetorizar"): já é vetor, com o viewBox ajustado ao conteúdo, e é só copiada.
+- "fundoExterno": true (em "vetorizar": "alfa", arquivo local PNG/JPG opaco sobre branco): só o branco ligado à borda some (limiar em "limiarFundo", padrão 215); o branco de dentro do desenho (anel de letras, miolo do escudo) fica.
 - Entradas com "fundoSolido": N (PNG opaco sobre uma cor só, ex.: os escudos do Fluminense) têm o fundo apagado; N é a tolerância de cor.
 - Entradas com "copiarDe" e "atual": true são um segundo escudo ATUAL do time (cópia colorida de assets/escudos/<arquivo>), não um escudo antigo.
 - Escreve assets/escudos/retro/CREDITS.txt com autor e licença de cada arquivo (vai junto no pacote, em icons/retro-CREDITS.txt).
@@ -171,6 +173,12 @@ def main():
                 titulo, ii = None, {"extmetadata": {}}
                 ext = os.path.splitext(e["local"])[1].lower().lstrip(".")
                 bruto = open(origem, "rb").read()
+                if ext == "svg" and not e.get("vetorizar"):
+                    # SVG fornecido pelo dono do projeto: já é vetor e vem com o viewBox ajustado; só é copiado.
+                    shutil.copyfile(origem, os.path.join(base, slug, f"{e['id']}.svg"))
+                    creditos.append(f"{slug}/{e['id']}.svg: {e['local']} | fornecido pelo dono do projeto, sem autor nem licença conhecidos{(' | ' + e['nota']) if e.get('nota') else ''}")
+                    print("ok", slug, e["id"], "(SVG local)")
+                    continue
                 if e.get("vetorizar"):
                     # Escudo simples (poucas cores chapadas): vira SVG, nítido em qualquer tamanho (ver vetorizar_escudo.py).
                     destino = os.path.join(base, slug, f"{e['id']}.svg")
@@ -195,6 +203,16 @@ def main():
                             # JPG ou PNG opaco sobre branco: o branco vira transparente antes de traçar
                             tmp = destino + ".tmp.png"
                             vetorizar_escudo.branco_para_alfa(origem, tmp)
+                            if e.get("nitido"):
+                                vetorizar_escudo.alfa_cores_nitido(tmp, destino, e["vetorizarPaleta"], e.get("sobrepor", 1), e.get("escala", 6), e.get("suavidade", 1.2), e.get("minimo", 30))
+                            else:
+                                vetorizar_escudo.alfa_cores_para_svg(tmp, destino, e["vetorizarPaleta"], e.get("sobrepor", 0))
+                            os.remove(tmp)
+                        elif e.get("fundoExterno"):
+                            # PNG/JPG opaco sobre branco, com branco também por dentro do desenho: só o branco ligado à borda some
+                            tmp = destino + ".tmp.png"
+                            sem_fundo_branco(origem, tmp, e.get("limiarFundo", 215))
+                            estender_borda(tmp, e.get("bordaPx", 2))
                             if e.get("nitido"):
                                 vetorizar_escudo.alfa_cores_nitido(tmp, destino, e["vetorizarPaleta"], e.get("sobrepor", 1), e.get("escala", 6), e.get("suavidade", 1.2), e.get("minimo", 30))
                             else:

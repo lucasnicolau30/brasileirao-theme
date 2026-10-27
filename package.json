@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 29 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 30 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -148,6 +148,11 @@
         "label": "Brasileirão: Coritiba",
         "uiTheme": "vs-dark",
         "path": "./themes/coritiba-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Paraná",
+        "uiTheme": "vs-dark",
+        "path": "./themes/parana-color-theme.json"
       },
       {
         "label": "Brasileirão: Sport",
@@ -570,6 +575,21 @@
         "id": "brasileirao-coritiba-1909",
         "label": "Brasileirão: Coritiba (retrô 1909–1915)",
         "path": "./icons/coritiba/icon-theme-1909.json"
+      },
+      {
+        "id": "brasileirao-parana",
+        "label": "Brasileirão: Paraná",
+        "path": "./icons/parana/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-parana-1971-colorado",
+        "label": "Brasileirão: Paraná (retrô Colorado · 1971–1989)",
+        "path": "./icons/parana/icon-theme-1971-colorado.json"
+      },
+      {
+        "id": "brasileirao-parana-1971-pinheiros",
+        "label": "Brasileirão: Paraná (retrô Pinheiros · 1971–1989)",
+        "path": "./icons/parana/icon-theme-1971-pinheiros.json"
       },
       {
         "id": "brasileirao-sport",
