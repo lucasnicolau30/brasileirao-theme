@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 36 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 37 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -183,6 +183,11 @@
         "label": "Brasileirão: Santa Cruz",
         "uiTheme": "vs-dark",
         "path": "./themes/santa-cruz-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Náutico",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nautico-color-theme.json"
       },
       {
         "label": "Brasileirão: Remo",
@@ -705,6 +710,21 @@
         "id": "brasileirao-santa-cruz-1940",
         "label": "Brasileirão: Santa Cruz (retrô 1940–1959)",
         "path": "./icons/santa-cruz/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-nautico",
+        "label": "Brasileirão: Náutico",
+        "path": "./icons/nautico/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-nautico-1901",
+        "label": "Brasileirão: Náutico (retrô 1901–1931)",
+        "path": "./icons/nautico/icon-theme-1901.json"
+      },
+      {
+        "id": "brasileirao-nautico-1931",
+        "label": "Brasileirão: Náutico (retrô 1931–1969)",
+        "path": "./icons/nautico/icon-theme-1931.json"
       },
       {
         "id": "brasileirao-remo",

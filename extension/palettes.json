@@ -3223,6 +3223,107 @@
       }
     ]
   },
+  "Brasileirão: Náutico": {
+    "slug": "nautico",
+    "crestLabel": "Atual · desde 2010",
+    "crestIcon": "escudo-6508012f.svg",
+    "listIcon": "escudo-6508012f.svg",
+    "backgroundAspect": 1,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2019
+      ],
+      "serieD": [],
+      "copaDoNordeste": []
+    },
+    "retro": [
+      {
+        "id": "1901",
+        "label": "1901–1931",
+        "fullLabel": "1901–1931",
+        "atual": false,
+        "file": "retro-1901-77f4c0d4.svg",
+        "aspect": 0.836,
+        "iconTheme": "brasileirao-nautico-1901"
+      },
+      {
+        "id": "1931",
+        "label": "1931–1969",
+        "fullLabel": "1931–1969",
+        "atual": false,
+        "file": "retro-1931-8940af9f.svg",
+        "aspect": 1.056,
+        "iconTheme": "brasileirao-nautico-1931"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬜",
+    "primary": "#d6232d",
+    "background": "fundo-f367f65c.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-nautico",
+    "colors": [
+      "rgba(255,95,104,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,154,160,0.08)",
+      "rgba(232,64,74,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d6232d33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff5f68"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff9aa0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff5f68"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Remo": {
     "slug": "remo",
     "crestLabel": "Atual · desde 2014",

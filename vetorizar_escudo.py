@@ -4,6 +4,7 @@ Usado por baixar_escudos_retro.py nas entradas com "vetorizar" em src/escudos-re
   "vetorizar": "monocromo"  um desenho de uma cor sobre fundo branco (JPG ou PNG); o JSON traz a cor em "cor".
   "vetorizar": "cores"      um escudo de poucas cores chapadas com fundo transparente: preto, vermelho e branco.
   "vetorizarAuto": true     como "vetorizarPaleta", mas a paleta é descoberta na própria imagem (cores mais frequentes).
+  "vetorizar": "finas"   desenho de uma cor com linhas de 1 px sobre fundo branco (bola, X e letras finas do cantão da bandeira do Náutico); reforça as linhas antes de traçar (finas_para_svg).
   "vetorizarPaleta": [...]  escudo de poucas cores chapadas e fundo transparente, com a lista de cores em hex (a primeira é a da silhueta e das letras).
 Método: separa cada cor numa máscara, amplia 4x com suavização (some o serrilhado) e traça os contornos com potrace.
 Precisa de numpy, scipy, Pillow e potracer (import potrace).
@@ -371,6 +372,48 @@ def suave_para_svg(origem, destino, cores_hex, papel="#ffffff", silhueta="borda"
         if suavidade:
             propria = ndimage.gaussian_filter(propria, suavidade)
         camadas.append(("#%02x%02x%02x" % tuple(int(round(c)) for c in cores[ordem[0]]), _caminho(_suavizar(propria, escala), 40)))
+    open(destino, "w", encoding="utf8").write(_svg(w * escala, h * escala, camadas))
+    return w / h
+
+
+def finas_para_svg(origem, destino, cor, ganho=1.5, preto=None):
+    """Desenho de uma cor sobre papel branco com linhas finas (de 1 px) que o `suave` perde, como a bola de gomos e o X do cantão da bandeira do Náutico.
+    O quanto o pixel é da cor vem da saturação (o cinza do antisserrilhado e o preto não contam), multiplicada por `ganho` para uma linha de 1 px, que no
+    original é só meio vermelha, passar do corte de 50%. A silhueta é o que não é papel ligado à borda, sem os pedaços pequenos e cinzas (o contorno cinza fica de fora, 2 px recuado).
+    Com `preto`, o que é bem escuro (a sombra do mastro) vira uma camada dessa cor por cima."""
+    rgb = np.array(Image.open(origem).convert("RGB")).astype(float)
+    ref = np.array([int(cor[i:i + 2], 16) for i in (1, 3, 5)], dtype=float)
+    satura = (rgb.max(axis=2) - rgb.min(axis=2)) / max(1.0, float(ref.max() - ref.min()))
+    participacao = np.clip(satura * ganho, 0, 1)
+    rotulos, _ = ndimage.label(rgb.min(axis=2) >= 245)
+    na_borda = set(np.unique(np.concatenate([rotulos[0], rotulos[-1], rotulos[:, 0], rotulos[:, -1]]))) - {0}
+    silhueta = ndimage.binary_fill_holes(~np.isin(rotulos, list(na_borda)))
+    # pedaços soltos do contorno cinza do original não entram: um bloco pequeno só fica se tiver a cor (ou o preto); as listras do mastro são blocos pequenos
+    escuro = np.clip((130 - rgb.max(axis=2)) / 130, 0, 1)
+    blocos, n = ndimage.label(silhueta)
+    ids = range(1, n + 1)
+    areas = np.array(ndimage.sum(silhueta, blocos, ids))
+    cor_media = np.array(ndimage.mean(participacao, blocos, ids))
+    escuro_medio = np.array(ndimage.mean(escuro, blocos, ids))
+    silhueta = np.isin(blocos, [i for i in ids if areas[i - 1] >= 0.01 * areas.max() or cor_media[i - 1] > 0.2 or escuro_medio[i - 1] > 0.3])
+    base = ndimage.binary_erosion(silhueta, iterations=2)
+    # a base branca só fica nos blocos grandes (o pano) e nos cercados pela cor (o brilho da bolinha do mastro); pontinhos soltos de branco não
+    blocos, n = ndimage.label(base)
+    ids = range(1, n + 1)
+    areas = np.array(ndimage.sum(base, blocos, ids))
+    cercado = [float(participacao[ndimage.binary_dilation(blocos == i, iterations=3) & ~(blocos == i)].mean()) for i in ids]
+    base = np.isin(blocos, [i for i in ids if areas[i - 1] >= 0.02 * areas.max() or cercado[i - 1] > 0.5])
+    l0, l1, c0, c1 = _caixa(silhueta)
+    corte = lambda m: m[l0:l1, c0:c1]
+    h, w = l1 - l0, c1 - c0
+    escala = _escala(h, w)
+    def mascara(cobertura, sigma):
+        grande = ndimage.gaussian_filter(ndimage.zoom(corte(cobertura).astype(float), escala, order=3), escala * sigma)
+        return grande > 0.5
+    camadas = [("#ffffff", _caminho(mascara(base, 0.35), 40)),
+               (cor, _caminho(mascara(participacao * ndimage.binary_dilation(silhueta, iterations=1), 0.2), 12))]
+    if preto:
+        camadas.append((preto, _caminho(mascara(escuro, 0.2), 12)))
     open(destino, "w", encoding="utf8").write(_svg(w * escala, h * escala, camadas))
     return w / h
 

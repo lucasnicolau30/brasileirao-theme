@@ -987,5 +987,29 @@
       ],
       "nota": "escudo verde com três estrelas (duas amarelas e uma vermelha, a da Copa Sul-Minas de 2000) e a faixa 1916 DECA 1925, enviado pelo dono do projeto (PNG de 343 px, traçado pelas cores); período 2017–2018 segundo a Wikipédia pt (\"escudo utilizado em 2017\"; em 2018 as estrelas mudaram para duas douradas) e o Logopedia"
     }
+  ],
+  "nautico": [
+    {
+      "id": "1901",
+      "label": "1901–1931",
+      "local": "Nautico-1901.jpg",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#ff0000"
+      ],
+      "nota": "primeiro escudo do clube, com a âncora, os dois remos (o esporte que deu origem ao clube) e o diagrama CNC, enviado pelo dono do projeto (JPG de 736 px, traçado); a Wikipédia pt diz que o primeiro escudo é de 1901 e que em 1931 o clube o trocou pela bandeira no uniforme"
+    },
+    {
+      "id": "1931",
+      "label": "1931–1969",
+      "local": "Nautico-1931.png",
+      "vetorizar": "finas",
+      "cor": "#f01828",
+      "ganho": 1.6,
+      "preto": "#000000",
+      "nota": "a bandeira listrada com o mastro e o CNC, enviada pelo dono do projeto (PNG de 399 px, traçado no modo \"finas\", que reforça as linhas de 1 px da bola, do X e das letras do cantão); período 1931–1969 segundo a tabela de evolução do escudo da Wikipédia pt (\"de 1931 a 1969\"; em 1969 entram as seis estrelas do hexa e em 1995 sai o mastro)"
+    }
   ]
 }

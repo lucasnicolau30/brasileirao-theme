@@ -2,12 +2,12 @@
 
 ## Próxima versão
 
-- **9 times novos (36 no total):** Criciúma, Juventude, Paraná, Santo André, Santa Cruz, Sampaio Corrêa, Portuguesa, Ponte Preta e América-MG, cada um com tema de cores, tema de ícones, escudo atual, escudos antigos e títulos. Ficam **79 escudos antigos de 36 clubes**.
+- **10 times novos (37 no total):** Criciúma, Juventude, Paraná, Santo André, Santa Cruz, Sampaio Corrêa, Portuguesa, Ponte Preta, América-MG e Náutico, cada um com tema de cores, tema de ícones, escudo atual, escudos antigos e títulos. Ficam **81 escudos antigos de 37 clubes**.
 - **Paraná:** os dois retrôs são os escudos dos clubes que se fundiram em 1989, Colorado e Pinheiros ("Colorado · 1971–1989"). O título da Série B de 2000 (Copa João Havelange, que a CBF não reconhece) entra por decisão do dono do projeto.
 - **Athletico-PR:** escudo atual refeito, com o contorno branco e as cores originais.
 - **Seção Títulos:** nova opção `titleOrder` em `src/teams.js` define a ordem dos troféus de um time (Sampaio Corrêa: Série C, Série B, Copa do Nordeste, Série D); `titleCenter` põe uma competição no meio (Criciúma: Copa do Brasil).
 - **Escudo de fundo:** o limite de largura sobe de 1,5 para 1,6 vez a altura, para o Criciúma ter a mesma altura dos outros.
-- **Para quem mexe no projeto:** `baixar_escudos_retro.py` aceita SVG local e a opção `fundoExterno` (só o branco ligado à borda some).
+- **Para quem mexe no projeto:** `baixar_escudos_retro.py` aceita SVG local, a opção `fundoExterno` (só o branco ligado à borda some) e o modo `finas`, que preserva linhas de 1 px.
 
 ## 1.1.0 (2026-10-26)
 
