@@ -4481,5 +4481,98 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Gama": {
+    "slug": "gama",
+    "crestLabel": "Atual · desde 1999",
+    "crestIcon": "escudo-14286cc5.svg",
+    "listIcon": "escudo-14286cc5.svg",
+    "backgroundAspect": 0.644,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1998
+      ],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": []
+    },
+    "retro": [
+      {
+        "id": "1976",
+        "label": "1976–1978",
+        "fullLabel": "1976–1978",
+        "atual": false,
+        "file": "retro-1976-7bcbfd7b.svg",
+        "aspect": 0.946,
+        "iconTheme": "brasileirao-gama-1976"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩⬜",
+    "primary": "#1a8f5f",
+    "background": "fundo-e4d865d7.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-gama",
+    "colors": [
+      "rgba(91,227,167,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,217,138,0.08)",
+      "rgba(47,185,126,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#1a8f5f33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#5be3a7"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffd98a"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#5be3a7"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

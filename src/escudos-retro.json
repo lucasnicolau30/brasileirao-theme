@@ -1120,5 +1120,19 @@
       ],
       "nota": "escudo laranja com o jacaré, o nome BRASILIENSE F.C.T., a faixa TAGUATINGA-DF e duas estrelas (prata e dourada), enviado pelo dono do projeto (PNG de 447 px, traçado pelas cores); período 2005–2009 inferido: o Logopedia lista 2005–2009 antes do escudo atual (2009 em diante) e as duas estrelas só cabem depois da Série B de 2004, mas não consegui ver as imagens dele para confirmar"
     }
+  ],
+  "gama": [
+    {
+      "id": "1976",
+      "label": "1976–1978",
+      "local": "Gama-1976.png",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#107058"
+      ],
+      "nota": "primeiro escudo do clube, o brasão do Distrito Federal (o pilar do Palácio da Alvorada) com as letras S E G, enviado pelo dono do projeto (PNG de 447 px, traçado); período 1976–1978 segundo a Wikipédia pt: o clube adotou o brasão ao estrear no Campeonato Brasiliense, em maio de 1976, e em 1978 criou o escudo da bola de colmeia (o Logopedia lista 1975–1978)"
+    }
   ]
 }

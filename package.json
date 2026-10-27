@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 41 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 42 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -243,6 +243,11 @@
         "label": "Brasileirão: Brasiliense",
         "uiTheme": "vs-dark",
         "path": "./themes/brasiliense-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Gama",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gama-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -890,6 +895,16 @@
         "id": "brasileirao-brasiliense-2005",
         "label": "Brasileirão: Brasiliense (retrô 2005–2009)",
         "path": "./icons/brasiliense/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-gama",
+        "label": "Brasileirão: Gama",
+        "path": "./icons/gama/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-gama-1976",
+        "label": "Brasileirão: Gama (retrô 1976–1978)",
+        "path": "./icons/gama/icon-theme-1976.json"
       }
     ],
     "commands": [
