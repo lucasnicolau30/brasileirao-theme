@@ -4,6 +4,7 @@
 
 - **12 times novos (39 no total):** Criciúma, Juventude, Paraná, Santo André, Santa Cruz, Sampaio Corrêa, Portuguesa, Ponte Preta, América-MG, Náutico, Atlético-GO e Vila Nova, cada um com tema de cores, tema de ícones, escudo atual, escudos antigos e títulos. Ficam **85 escudos antigos de 39 clubes**.
 - **Paraná:** os dois retrôs são os escudos dos clubes que se fundiram em 1989, Colorado e Pinheiros ("Colorado · 1971–1989"). O título da Série B de 2000 (Copa João Havelange, que a CBF não reconhece) entra por decisão do dono do projeto.
+- **Copa Verde na seção Títulos:** nova competição, com a foto da taça, para os times do Norte e do Centro-Oeste que a venceram (Paysandu 6, Remo 1 e Goiás 1).
 - **Athletico-PR:** escudo atual refeito, com o contorno branco e as cores originais.
 - **Seção Títulos:** nova opção `titleOrder` em `src/teams.js` define a ordem dos troféus de um time (Sampaio Corrêa: Série C, Série B, Copa do Nordeste, Série D); `titleCenter` põe uma competição no meio (Criciúma: Copa do Brasil).
 - **Escudo de fundo:** o limite de largura sobe de 1,5 para 1,6 vez a altura, para o Criciúma ter a mesma altura dos outros.

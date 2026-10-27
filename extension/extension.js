@@ -197,6 +197,7 @@ const COMPETITIONS = [
   { key: 'brasileirao', label: 'Brasileirão', file: 'brasileirao.png' },
   { key: 'sulAmericana', label: 'Sul-Americana', file: 'sul-americana.png' },
   { key: 'copaDoNordeste', label: 'Copa do Nordeste', file: 'copa-do-nordeste.png' },
+  { key: 'copaVerde', label: 'Copa Verde', file: 'copa-verde.png' },
   { key: 'serieB', label: 'Série B', file: 'serie-b.png' },
   { key: 'serieC', label: 'Série C', file: 'serie-c.png' },
   { key: 'serieD', label: 'Série D', file: 'serie-d.png' }

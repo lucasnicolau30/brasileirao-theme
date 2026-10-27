@@ -26,3 +26,7 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - copa-do-nordeste.png
   Taça da Copa do Nordeste: imagem fornecida pelo usuário (images (2).jpg), recortada do fundo, sem autor nem licença conhecidos.
+
+- copa-verde.png
+  Taça da Copa Verde: imagem fornecida pelo usuário (804768286.avif, foto da taça do campeão de 2023), sem autor nem licença conhecidos.
+  Recortada do fundo (GrabCut, com ajuste manual das barbatanas e da base) e redimensionada para 380 px de altura.
