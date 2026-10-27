@@ -418,6 +418,54 @@ def finas_para_svg(origem, destino, cor, ganho=1.5, preto=None):
     return w / h
 
 
+def estrelas_regulares(svg, cores):
+    """Troca as estrelas tortas de um SVG traçado de uma imagem pequena (bordas onduladas) por estrelas regulares de cinco pontas.
+    `cores`: as cores (hex) das camadas que só têm estrelas (o bronze e a prata do Atlético-GO). Cada pedaço dessas camadas vira uma estrela com
+    o mesmo centro e tamanho (medidos pela caixa do pedaço); pedaços bem menores que o maior são sobras do traçado e saem, e as lascas das outras camadas que caem dentro da caixa de uma estrela também."""
+    import math, re
+    texto = open(svg, encoding="utf8").read()
+    regioes = []   # caixa de cada estrela (x0, x1, y0, y1), para limpar as lascas das outras camadas
+    def troca(m):
+        cor, d = m.group(1), m.group(2)
+        caixas = []
+        for p in re.findall(r"M[^z]*z", d):
+            nums = [float(x) for x in re.findall(r"-?\d+\.?\d*", p)]
+            xs, ys = nums[0::2], nums[1::2]
+            caixas.append((min(xs), max(xs), min(ys), max(ys)))
+        maior = max((x1 - x0) for x0, x1, y0, y1 in caixas)
+        estrelas = []
+        for x0, x1, y0, y1 in caixas:
+            if (x1 - x0) < 0.6 * maior:
+                continue
+            raio = ((x1 - x0) / (2 * math.sin(math.radians(72))) + (y1 - y0) / (1 + math.cos(math.radians(36)))) / 2
+            cx, cy = (x0 + x1) / 2, y0 + raio
+            pts = []
+            for k in range(10):
+                ang = math.radians(-90 + 36 * k)
+                r = raio if k % 2 == 0 else raio * 0.381966
+                pts.append(f"{cx + r * math.cos(ang):.1f},{cy + r * math.sin(ang):.1f}")
+            estrelas.append("M" + "L".join(pts) + "z")
+            regioes.append((x0, x1, y0, y1))
+        return f'<path fill="{cor}" fill-rule="evenodd" d="{"".join(estrelas)}"/>'
+    for cor in cores:
+        texto = re.sub(rf'<path fill="({re.escape(cor)})" fill-rule="evenodd" d="([^"]*)"/>', troca, texto)
+    def limpa(m):
+        cor, d = m.group(1), m.group(2)
+        if cor in cores:
+            return m.group(0)
+        mantidos = []
+        for p in re.findall(r"M[^z]*z", d):
+            nums = [float(x) for x in re.findall(r"-?\d+\.?\d*", p)]
+            xs, ys = nums[0::2], nums[1::2]
+            px0, px1, py0, py1 = min(xs), max(xs), min(ys), max(ys)
+            lasca = any(px0 >= x0 - 0.6 * (x1 - x0) and px1 <= x1 + 0.6 * (x1 - x0) and py0 >= y0 - 0.6 * (y1 - y0) and py1 <= y1 + 0.6 * (y1 - y0) for x0, x1, y0, y1 in regioes)
+            if not lasca:
+                mantidos.append(p)
+        return f'<path fill="{cor}" fill-rule="evenodd" d="{"".join(mantidos)}"/>'
+    texto = re.sub(r'<path fill="(#[0-9a-fA-F]{6})" fill-rule="evenodd" d="([^"]*)"/>', limpa, texto)
+    open(svg, "w", encoding="utf8").write(texto)
+
+
 def silhueta_para_svg(origem, destino, cor="#ffffff"):
     """Silhueta de uma cor (PNG com fundo transparente, como os fundos dos times novos): o contorno vira vetor."""
     # sem _sem_poeira: numa silhueta as manchas pequenas são detalhes (manchas e olhos da onça do Amazonas), não restos de fundo

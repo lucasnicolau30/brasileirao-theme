@@ -1039,7 +1039,11 @@
         "#c9a56d",
         "#c6cacd"
       ],
-      "nota": "escudo triangular com a placa A C G e as três estrelas (bronze, prata e bronze, que batem com a Série C 1990 e 2008 e a Série B 2016), enviado pelo dono do projeto (PNG de 148 px, traçado pelas cores); período 2017–2020 inferido: a Wikipédia pt tem este desenho como \"escudo 2017\" e diz que o formato atual foi incorporado em 2020, e a terceira estrela só pôde entrar depois do título da Série B de 2016"
+      "nota": "escudo triangular com a placa A C G e as três estrelas (bronze, prata e bronze, que batem com a Série C 1990 e 2008 e a Série B 2016), enviado pelo dono do projeto (PNG de 148 px, traçado pelas cores); período 2017–2020 inferido: a Wikipédia pt tem este desenho como \"escudo 2017\" e diz que o formato atual foi incorporado em 2020, e a terceira estrela só pôde entrar depois do título da Série B de 2016; as três estrelas foram redesenhadas como estrelas regulares (no mesmo centro e tamanho), porque a imagem original, de 148 px, deixava as bordas onduladas",
+      "estrelasRegulares": [
+        "#c9a56d",
+        "#c6cacd"
+      ]
     }
   ]
 }

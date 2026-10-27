@@ -13,6 +13,7 @@ Uso: python baixar_escudos_retro.py
 - "vetorizar" em arquivo local: "monocromo" (uma tinta, "cor"), "duas-tintas" (tinta escura sobre papel, traçado pelos tons de cinza), "suave" (poucas cores chapadas sobre papel branco, com "vetorizarPaleta" e "silhueta": "borda" ou "linha"; traça pela participação suave de cada cor; "vazarFuros": [cores] tira o branco dos vãos cercados por essas cores, como o buraco do anel da âncora; com "aroDe": cor, só os vãos fora do círculo desse aro; "vaoMinimo": N (padrão 30 px) é o menor vão de papel que "vazarFuros" considera; "preencher": false (com usarAlpha) mantém transparentes os buracos da imagem; "usarAlpha": true usa a transparência da imagem como exterior; "refinar": true escolhe o par de cores pelo segmento mais próximo e recua as camadas de baixo, tirando filetes nas bordas externas) e "auto" ou "paleta" (classificação pixel a pixel, para imagens pequenas ou sujas). "suavidade" suaviza mais o "auto".
 - "vetorizar": "sombreado" (PNG transparente com sombreado de metal e vermelho: "base", "vermelho", "niveis" e "sigma"; ver sombreado_para_svg).
 - "vetorizar": "alfa" (arquivo local PNG com fundo transparente; com "fundoBranco": true, JPG/PNG sobre branco, que vira transparente): traça pelo canal alfa e pela cor mais próxima de "vetorizarPaleta" (a primeira cor cobre toda a silhueta, as outras vão por cima; com "nitido": true amplia a imagem antes de classificar as cores (contornos finos, ver alfa_cores_nitido; "escala", "suavidade" e "minimo" ajustam a ampliação, o alisamento e o menor pedaço mantido); com "sobrepor": N não há camada de base e cada cor é alargada N px, de baixo para cima na ordem da paleta).
+- "estrelasRegulares": [cores] (em qualquer modo de vetorização): as camadas dessas cores, só de estrelas, viram estrelas regulares de cinco pontas (estrelas_regulares); serve para imagem pequena com estrela de borda ondulada.
 - "vetorizar": "finas" (arquivo local sobre branco com linhas de 1 px, como a bola e o X do cantão da bandeira do Náutico): "cor", "ganho" (padrão 1.5, reforça as linhas finas) e "preto" opcional (a sombra do mastro).
 - Entrada "local" em SVG (sem "vetorizar"): já é vetor, com o viewBox ajustado ao conteúdo, e é só copiada.
 - "fundoExterno": true (em "vetorizar": "alfa", arquivo local PNG/JPG opaco sobre branco): só o branco ligado à borda some (limiar em "limiarFundo", padrão 215); o branco de dentro do desenho (anel de letras, miolo do escudo) fica.
@@ -241,6 +242,9 @@ def main():
                         os.remove(tmp)
                     else:
                         vetorizar_escudo.cores_para_svg(origem, destino)
+                    if e.get("estrelasRegulares"):
+                        # imagem pequena com estrelas de borda ondulada: as camadas só de estrelas (cores em "estrelasRegulares") viram estrelas regulares
+                        vetorizar_escudo.estrelas_regulares(destino, e["estrelasRegulares"])
                     for resto in (".png", ".icon.png"):
                         if os.path.exists(os.path.join(base, slug, e["id"] + resto)):
                             os.remove(os.path.join(base, slug, e["id"] + resto))

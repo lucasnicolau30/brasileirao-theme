@@ -7,7 +7,7 @@
 - **Athletico-PR:** escudo atual refeito, com o contorno branco e as cores originais.
 - **Seção Títulos:** nova opção `titleOrder` em `src/teams.js` define a ordem dos troféus de um time (Sampaio Corrêa: Série C, Série B, Copa do Nordeste, Série D); `titleCenter` põe uma competição no meio (Criciúma: Copa do Brasil).
 - **Escudo de fundo:** o limite de largura sobe de 1,5 para 1,6 vez a altura, para o Criciúma ter a mesma altura dos outros.
-- **Para quem mexe no projeto:** `baixar_escudos_retro.py` aceita SVG local, a opção `fundoExterno` (só o branco ligado à borda some) e o modo `finas`, que preserva linhas de 1 px.
+- **Para quem mexe no projeto:** `baixar_escudos_retro.py` aceita SVG local, a opção `fundoExterno` (só o branco ligado à borda some) o modo `finas`, que preserva linhas de 1 px, e a opção `estrelasRegulares`, que redesenha estrelas tortas de imagens pequenas.
 
 ## 1.1.0 (2026-10-26)
 
