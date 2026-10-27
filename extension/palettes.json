@@ -4375,5 +4375,111 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Brasiliense": {
+    "slug": "brasiliense",
+    "crestLabel": "Atual · desde 2009",
+    "crestIcon": "escudo-08df7e14.svg",
+    "listIcon": "escudo-08df7e14.svg",
+    "backgroundAspect": 0.99,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        2004
+      ],
+      "serieC": [
+        2002
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [
+        2020
+      ]
+    },
+    "retro": [
+      {
+        "id": "2000",
+        "label": "2000–2002",
+        "fullLabel": "2000–2002",
+        "atual": false,
+        "file": "retro-2000-3d1ffdef.svg",
+        "aspect": 0.991,
+        "iconTheme": "brasileirao-brasiliense-2000"
+      },
+      {
+        "id": "2005",
+        "label": "2005–2009",
+        "fullLabel": "2005–2009",
+        "atual": false,
+        "file": "retro-2005-d12f84bd.svg",
+        "aspect": 0.924,
+        "iconTheme": "brasileirao-brasiliense-2005"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟨🟩",
+    "primary": "#d9b400",
+    "background": "fundo-9718f272.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-brasiliense",
+    "colors": [
+      "rgba(255,225,77,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(111,220,148,0.08)",
+      "rgba(217,180,0,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d9b40033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ffe14d"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#6fdc94"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ffe14d"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 40 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 41 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -238,6 +238,11 @@
         "label": "Brasileirão: Cuiabá",
         "uiTheme": "vs-dark",
         "path": "./themes/cuiaba-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Brasiliense",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brasiliense-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -870,6 +875,21 @@
         "id": "brasileirao-cuiaba-2001",
         "label": "Brasileirão: Cuiabá (retrô 2001–2010)",
         "path": "./icons/cuiaba/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-brasiliense",
+        "label": "Brasileirão: Brasiliense",
+        "path": "./icons/brasiliense/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-brasiliense-2000",
+        "label": "Brasileirão: Brasiliense (retrô 2000–2002)",
+        "path": "./icons/brasiliense/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-brasiliense-2005",
+        "label": "Brasileirão: Brasiliense (retrô 2005–2009)",
+        "path": "./icons/brasiliense/icon-theme-2005.json"
       }
     ],
     "commands": [

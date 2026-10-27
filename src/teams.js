@@ -102,7 +102,9 @@ const times = [
   { slug: 'vila-nova', uf: 'GO', crestLabel: 'Vila Nova (desde 2020)', bgColored: true, swatch: '🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [1996, 2015, 2020], serieD: [], copaDoNordeste: [], copaVerde: [] }, label: 'Vila Nova', side: '#1d0d0d', bg: '#100808', chrome: '#7a0d10', secondary: '#ffffff', fg: '#efe6e6', primary: '#e01820', accent: '#ff6a6a', statusBg: '#b8151a', statusFg: '#ffffff',
     brackets: ['#ff6a6a', '#ffffff', '#ffa3a3', '#ec3b3b', '#fadadb', '#ff8585'] },
   { slug: 'cuiaba', uf: 'MT', crestLabel: 'Cuiabá (desde 2020)', bgColored: true, swatch: '🟩🟨', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [2015, 2019] }, label: 'Cuiabá', side: '#0e1c13', bg: '#08130c', chrome: '#0a5a2c', secondary: '#ffffff', fg: '#e6efe6', primary: '#e0b800', accent: '#ffd84d', statusBg: '#0a6b34', statusFg: '#ffffff',
-    brackets: ['#ffd84d', '#ffffff', '#7be3a0', '#e0b800', '#fff3c4', '#4fcf86'] }
+    brackets: ['#ffd84d', '#ffffff', '#7be3a0', '#e0b800', '#fff3c4', '#4fcf86'] },
+  { slug: 'brasiliense', uf: 'DF', crestLabel: 'Brasiliense (desde 2009)', bgColored: true, swatch: '🟨🟩', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [2004], serieC: [2002], serieD: [], copaDoNordeste: [], copaVerde: [2020] }, label: 'Brasiliense', side: '#0d1b12', bg: '#09130d', chrome: '#0d5a2f', secondary: '#f8d800', fg: '#e8efe3', primary: '#d9b400', accent: '#ffe14d', statusBg: '#0b7a3a', statusFg: '#ffffff',
+    brackets: ['#ffe14d', '#ffffff', '#6fdc94', '#d9b400', '#fff6c8', '#3fc477'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

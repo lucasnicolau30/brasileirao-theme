@@ -1089,5 +1089,36 @@
       ],
       "nota": "primeiro escudo do clube, o escudo redondo com o nome em vermelho, o mapa de Mato Grosso, o obelisco do Centro Geodésico e \"Fundado em 12-12-2001\", enviado pelo dono do projeto (JPG de 554 px, traçado pelas cores); período 2001–2010 segundo o Logopedia (logos.fandom.com), que lista este como o primeiro escudo do clube"
     }
+  ],
+  "brasiliense": [
+    {
+      "id": "2000",
+      "label": "2000–2002",
+      "local": "Brasiliense-2000.png",
+      "vetorizar": "alfa",
+      "sobrepor": 0,
+      "vetorizarPaleta": [
+        "#107058",
+        "#ffffff",
+        "#f8c058"
+      ],
+      "nota": "primeiro escudo do clube, o B.F.C. em verde e branco com o monumento dos Candangos, a cruz de Brasília, o jacaré e a bola, enviado pelo dono do projeto (PNG de 800 px, traçado); período 2000–2002 segundo o Logopedia (logos.fandom.com), que lista este como o primeiro escudo (o clube foi fundado em 2000) e casa com o desenho mais antigo dos enviados, mas não consegui ver a imagem dele para confirmar"
+    },
+    {
+      "id": "2005",
+      "label": "2005–2009",
+      "local": "Brasiliense-2005.png",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#000000",
+        "#007848",
+        "#f8c058",
+        "#98a8b8",
+        "#f8d058"
+      ],
+      "nota": "escudo laranja com o jacaré, o nome BRASILIENSE F.C.T., a faixa TAGUATINGA-DF e duas estrelas (prata e dourada), enviado pelo dono do projeto (PNG de 447 px, traçado pelas cores); período 2005–2009 inferido: o Logopedia lista 2005–2009 antes do escudo atual (2009 em diante) e as duas estrelas só cabem depois da Série B de 2004, mas não consegui ver as imagens dele para confirmar"
+    }
   ]
 }
