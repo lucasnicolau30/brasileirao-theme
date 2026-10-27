@@ -1164,5 +1164,53 @@
       ],
       "nota": "escudo de campo branco com uma faixa diagonal preta e as letras A B C em branco (o inverso do atual), enviado pelo dono do projeto (PNG de 320 px do SeekLogo, traçado); período 1996–2010 inferido: o Logopedia (logos.fandom.com) lista 1996–2010 entre o círculo de 1915 e o escudo atual, que é de 2011 em diante, mas não consegui ver as imagens dele para confirmar qual período é este desenho"
     }
+  ],
+  "america-rn": [
+    {
+      "id": "1915",
+      "label": "1915–1918",
+      "local": "America-RN-1915.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#302878",
+        "#ffffff"
+      ],
+      "nota": "primeiro escudo do clube, o círculo azul e branco com o monograma AFC (o clube começou azul e branco e adotou o vermelho depois da extinção do Sport Club Natalense), enviado pelo dono do projeto (WebP de 250 px, ampliado e traçado); período 1915–1918 segundo a Wikipédia pt (legenda da evolução do escudo) e o Logopedia"
+    },
+    {
+      "id": "1973",
+      "label": "1973–1979",
+      "local": "America-RN-1973.png",
+      "vetorizar": "alfa",
+      "sobrepor": 0,
+      "vetorizarPaleta": [
+        "#d80810",
+        "#ffffff"
+      ],
+      "nota": "círculo vermelho e branco com o monograma AFC e NATAL-RN embaixo, enviado pelo dono do projeto (PNG de 922 px, traçado); período 1973–1979 segundo o nome do arquivo (Wikimedia Commons) e o Logopedia; a legenda da Wikipédia pt diz 1973–1978"
+    },
+    {
+      "id": "2022",
+      "label": "2022–2023",
+      "local": "America-RN-2022.png",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#d83038",
+        "#f8c058",
+        "#c8c8c8"
+      ],
+      "estrelasRegulares": [
+        "#f8c058",
+        "#c8c8c8"
+      ],
+      "nota": "escudo redondo com seis estrelas (cinco douradas e uma cinza), enviado pelo dono do projeto (PNG de 447 px, traçado pelas cores, com as estrelas redesenhadas como estrelas regulares); período 2022–2023 inferido: o Logopedia (logos.fandom.com) lista 2022–2023 antes do escudo atual (2023 em diante, com quatro estrelas) e a estrela cinza do centro combina com o título da Série D de 2022, mas não consegui ver as imagens dele para confirmar"
+    }
   ]
 }

@@ -2,7 +2,7 @@
 
 ## Próxima versão
 
-- **16 times novos (43 no total):** Criciúma, Juventude, Paraná, Santo André, Santa Cruz, Sampaio Corrêa, Portuguesa, Ponte Preta, América-MG, Náutico, Atlético-GO, Vila Nova, Cuiabá, Brasiliense, Gama e ABC, cada um com tema de cores, tema de ícones, escudo atual, escudos antigos e títulos. Ficam **91 escudos antigos de 43 clubes**.
+- **17 times novos (44 no total):** Criciúma, Juventude, Paraná, Santo André, Santa Cruz, Sampaio Corrêa, Portuguesa, Ponte Preta, América-MG, Náutico, Atlético-GO, Vila Nova, Cuiabá, Brasiliense, Gama, ABC e América-RN, cada um com tema de cores, tema de ícones, escudo atual, escudos antigos e títulos. Ficam **94 escudos antigos de 44 clubes**.
 - **Paraná:** os dois retrôs são os escudos dos clubes que se fundiram em 1989, Colorado e Pinheiros ("Colorado · 1971–1989"). O título da Série B de 2000 (Copa João Havelange, que a CBF não reconhece) entra por decisão do dono do projeto.
 - **Copa Verde na seção Títulos:** nova competição, com a foto da taça, para os times do Norte e do Centro-Oeste que a venceram (Paysandu 6, Cuiabá 2, Remo, Goiás e Brasiliense 1 cada).
 - **Ordem dos times:** dentro de cada estado, depois da Libertadores e do Brasileirão, o desempate passa a seguir Copa do Brasil, Sul-Americana e Séries B, C e D (a B vale mais que a C, que vale mais que a D). Muda o Paysandu, que passa a vir antes do Remo, a ordem dos times de São Paulo sem título maior e Criciúma, que passa a vir antes da Chapecoense.

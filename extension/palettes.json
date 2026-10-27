@@ -4676,5 +4676,118 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: América-RN": {
+    "slug": "america-rn",
+    "crestLabel": "Atual · desde 2023",
+    "crestIcon": "escudo-2269304f.svg",
+    "listIcon": "escudo-2269304f.svg",
+    "backgroundAspect": 0.85,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [
+        2022
+      ],
+      "copaDoNordeste": [
+        1998
+      ],
+      "copaVerde": []
+    },
+    "retro": [
+      {
+        "id": "1915",
+        "label": "1915–1918",
+        "fullLabel": "1915–1918",
+        "atual": false,
+        "file": "retro-1915-762bfaae.svg",
+        "aspect": 0.999,
+        "iconTheme": "brasileirao-america-rn-1915"
+      },
+      {
+        "id": "1973",
+        "label": "1973–1979",
+        "fullLabel": "1973–1979",
+        "atual": false,
+        "file": "retro-1973-229a1093.svg",
+        "aspect": 0.863,
+        "iconTheme": "brasileirao-america-rn-1973"
+      },
+      {
+        "id": "2022",
+        "label": "2022–2023",
+        "fullLabel": "2022–2023",
+        "atual": false,
+        "file": "retro-2022-77524750.svg",
+        "aspect": 0.739,
+        "iconTheme": "brasileirao-america-rn-2022"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬜",
+    "primary": "#e41920",
+    "background": "fundo-34bf7c60.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-america-rn",
+    "colors": [
+      "rgba(255,107,111,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,160,163,0.08)",
+      "rgba(238,59,65,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e4192033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6b6f"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffa0a3"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6b6f"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }
