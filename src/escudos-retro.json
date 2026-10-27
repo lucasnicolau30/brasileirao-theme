@@ -1212,5 +1212,33 @@
       ],
       "nota": "escudo redondo com seis estrelas (cinco douradas e uma cinza), enviado pelo dono do projeto (PNG de 447 px, traçado pelas cores, com as estrelas redesenhadas como estrelas regulares); período 2022–2023 inferido: o Logopedia (logos.fandom.com) lista 2022–2023 antes do escudo atual (2023 em diante, com quatro estrelas) e a estrela cinza do centro combina com o título da Série D de 2022, mas não consegui ver as imagens dele para confirmar"
     }
+  ],
+  "botafogo-pb": [
+    {
+      "id": "1931",
+      "label": "1931–1952",
+      "local": "Botafogo-PB-1931.jpg",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#000000"
+      ],
+      "contornoClaro": true,
+      "nota": "escudo antigo preto e branco, a estrela preta com as letras BFC, enviado pelo dono do projeto (JPG de 554 px, traçado); período 1931–1952 inferido: a Wikipédia pt diz que o escudo antigo foi usado até a década de 1970 (preto e branco, com a estrela preta) e o Logopedia (logos.fandom.com) lista 1931–1952 como o primeiro período do clube, mas não consegui ver as imagens dele para confirmar; ganhou um contorno branco fino por fora, porque a estrela preta some no fundo escuro do editor (só as letras apareciam)"
+    },
+    {
+      "id": "1974",
+      "label": "1974–1978",
+      "local": "Botafogo-PB-1974.png",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#000000",
+        "#d83040"
+      ],
+      "nota": "escudo com as cores da bandeira da Paraíba, metade preta e metade vermelha com a estrela branca, enviado pelo dono do projeto (PNG de 447 px, traçado pelas cores); período 1974–1978 segundo a Wikipédia pt: em 1974 o clube passou a ter a estrela vermelha e o escudo com as cores da bandeira da Paraíba, e em 1978 voltou ao alvinegro da estrela vermelha (o Logopedia lista 1970–1976 e 1977–1978)"
+    }
   ]
 }

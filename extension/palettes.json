@@ -4789,5 +4789,107 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Botafogo-PB": {
+    "slug": "botafogo-pb",
+    "crestLabel": "Atual · desde 2019",
+    "crestIcon": "escudo-a9e16968.svg",
+    "listIcon": "escudo-a9e16968.svg",
+    "backgroundAspect": 0.765,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [
+        2013
+      ],
+      "copaDoNordeste": [],
+      "copaVerde": []
+    },
+    "retro": [
+      {
+        "id": "1931",
+        "label": "1931–1952",
+        "fullLabel": "1931–1952",
+        "atual": false,
+        "file": "retro-1931-ebc8d186.svg",
+        "aspect": 1.031,
+        "iconTheme": "brasileirao-botafogo-pb-1931"
+      },
+      {
+        "id": "1974",
+        "label": "1974–1978",
+        "fullLabel": "1974–1978",
+        "atual": false,
+        "file": "retro-1974-20c5885b.svg",
+        "aspect": 0.87,
+        "iconTheme": "brasileirao-botafogo-pb-1974"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛🟥⬜",
+    "primary": "#d83040",
+    "background": "fundo-9184c977.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-botafogo-pb",
+    "colors": [
+      "rgba(255,106,120,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,163,171,0.08)",
+      "rgba(232,64,79,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d8304033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6a78"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffa3ab"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6a78"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

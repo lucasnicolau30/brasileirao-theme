@@ -458,7 +458,7 @@ def estrelas_regulares(svg, cores, minimo=0.6):
             nums = [float(x) for x in re.findall(r"-?\d+\.?\d*", p)]
             xs, ys = nums[0::2], nums[1::2]
             px0, px1, py0, py1 = min(xs), max(xs), min(ys), max(ys)
-            achou = [r for r in regioes if px0 >= r[0] - 0.6 * (r[1] - r[0]) and px1 <= r[1] + 0.6 * (r[1] - r[0]) and py0 >= r[2] - 0.6 * (r[3] - r[2]) and py1 <= r[3] + 0.6 * (r[3] - r[2])]
+            achou = [r for r in regioes if px0 >= r[0] - 0.6 * (r[1] - r[0]) and px1 <= r[1] + 0.6 * (r[1] - r[0]) and py0 >= r[2] - 0.6 * (r[3] - r[2]) and py1 <= r[3] + 0.6 * (r[3] - r[2]) and (px1 - px0) <= 1.3 * (r[1] - r[0]) and (py1 - py0) <= 1.3 * (r[3] - r[2])]   # só pedaços do tamanho da estrela ou menores (o campo em volta de uma estrela grande fica)
             if not achou:
                 mantidos.append(p)
             else:
@@ -468,6 +468,24 @@ def estrelas_regulares(svg, cores, minimo=0.6):
         return f'<path fill="{cor}" fill-rule="evenodd" d="{"".join(mantidos)}"/>'
     texto = re.sub(r'<path fill="(#[0-9a-fA-F]{6})" fill-rule="evenodd" d="([^"]*)"/>', limpa, texto)
     open(svg, "w", encoding="utf8").write(texto)
+
+
+def contorno_claro(svg, cor="#ffffff", espessura=0.03):
+    """Escudo escuro que some no fundo escuro do editor (a estrela preta do Botafogo-PB de 1931): põe um contorno claro por FORA do desenho, sem mudar as cores nem engrossar as letras.
+    O contorno é o maior pedaço da primeira camada (a silhueta), preenchido e traçado na cor clara por baixo de tudo; a metade de dentro do traço fica coberta pelo desenho.
+    `espessura`: largura do traço em fração do maior lado; o viewBox cresce meia espessura de cada lado para o traço não ser cortado."""
+    import re
+    t = open(svg, encoding="utf8").read()
+    m = re.search(r'viewBox="0 0 ([\d.]+) ([\d.]+)"', t)
+    w, h = float(m.group(1)), float(m.group(2))
+    primeira = re.search(r'<path fill="#[0-9a-fA-F]{6}" fill-rule="evenodd" d="([^"]*)"/>', t)
+    maior = max(re.findall(r"M[^z]*z", primeira.group(1)), key=lambda p: len(p))
+    e = max(w, h) * espessura
+    margem = e / 2
+    t = t.replace(m.group(0), f'viewBox="{-margem:.1f} {-margem:.1f} {w + e:.1f} {h + e:.1f}"', 1)
+    contorno = f'<path fill="{cor}" stroke="{cor}" stroke-width="{e:.1f}" stroke-linejoin="round" d="{maior}"/>'
+    t = t.replace(primeira.group(0), contorno + primeira.group(0), 1)
+    open(svg, "w", encoding="utf8").write(t)
 
 
 def silhueta_para_svg(origem, destino, cor="#ffffff"):

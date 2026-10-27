@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 44 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 45 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -258,6 +258,11 @@
         "label": "Brasileirão: América-RN",
         "uiTheme": "vs-dark",
         "path": "./themes/america-rn-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Botafogo-PB",
+        "uiTheme": "vs-dark",
+        "path": "./themes/botafogo-pb-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -950,6 +955,21 @@
         "id": "brasileirao-america-rn-2022",
         "label": "Brasileirão: América-RN (retrô 2022–2023)",
         "path": "./icons/america-rn/icon-theme-2022.json"
+      },
+      {
+        "id": "brasileirao-botafogo-pb",
+        "label": "Brasileirão: Botafogo-PB",
+        "path": "./icons/botafogo-pb/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-botafogo-pb-1931",
+        "label": "Brasileirão: Botafogo-PB (retrô 1931–1952)",
+        "path": "./icons/botafogo-pb/icon-theme-1931.json"
+      },
+      {
+        "id": "brasileirao-botafogo-pb-1974",
+        "label": "Brasileirão: Botafogo-PB (retrô 1974–1978)",
+        "path": "./icons/botafogo-pb/icon-theme-1974.json"
       }
     ],
     "commands": [
