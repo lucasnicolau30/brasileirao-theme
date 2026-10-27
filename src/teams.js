@@ -98,7 +98,9 @@ const times = [
   { slug: 'nautico', uf: 'PE', crestLabel: 'Náutico (desde 2010)', bgColored: true, swatch: '🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [2019], serieD: [], copaDoNordeste: [] }, label: 'Náutico', side: '#1c0e10', bg: '#0f0809', chrome: '#8a1018', secondary: '#ffffff', fg: '#efe6e7', primary: '#d6232d', accent: '#ff5f68', statusBg: '#b81a22', statusFg: '#ffffff',
     brackets: ['#ff5f68', '#ffffff', '#ff9aa0', '#e8404a', '#f9d8da', '#ff7c84'] },
   { slug: 'atletico-go', uf: 'GO', crestLabel: 'Atlético-GO (desde 2020)', bgColored: true, swatch: '🟥⬛', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [2016], serieC: [1990, 2008], serieD: [], copaDoNordeste: [] }, label: 'Atlético-GO', side: '#161010', bg: '#0a0808', activity: '#c82018', title: '#000000', secondary: '#ffffff', fg: '#ece6e6', primary: '#c82018', accent: '#ff5a52', statusBg: '#000000', statusFg: '#ffffff', statusBorder: '#c82018',
-    brackets: ['#ff5a52', '#ffffff', '#ff9a94', '#e8392f', '#f9d9d6', '#ff7a72'] }
+    brackets: ['#ff5a52', '#ffffff', '#ff9a94', '#e8392f', '#f9d9d6', '#ff7a72'] },
+  { slug: 'vila-nova', uf: 'GO', crestLabel: 'Vila Nova (desde 2020)', bgColored: true, swatch: '🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [1996, 2015, 2020], serieD: [], copaDoNordeste: [] }, label: 'Vila Nova', side: '#1d0d0d', bg: '#100808', chrome: '#7a0d10', secondary: '#ffffff', fg: '#efe6e6', primary: '#e01820', accent: '#ff6a6a', statusBg: '#b8151a', statusFg: '#ffffff',
+    brackets: ['#ff6a6a', '#ffffff', '#ffa3a3', '#ec3b3b', '#fadadb', '#ff8585'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

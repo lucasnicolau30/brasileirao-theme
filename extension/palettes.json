@@ -3749,7 +3749,7 @@
         "label": "2017–2020",
         "fullLabel": "2017–2020",
         "atual": false,
-        "file": "retro-2017-54757ccd.svg",
+        "file": "retro-2017-b7518c8d.svg",
         "aspect": 0.693,
         "iconTheme": "brasileirao-atletico-go-2017"
       }
@@ -3804,6 +3804,109 @@
         "italic": false,
         "tag": "*",
         "color": "#ff5a52"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
+  "Brasileirão: Vila Nova": {
+    "slug": "vila-nova",
+    "crestLabel": "Atual · desde 2020",
+    "crestIcon": "escudo-dccdae88.svg",
+    "listIcon": "escudo-dccdae88.svg",
+    "backgroundAspect": 0.855,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        1996,
+        2015,
+        2020
+      ],
+      "serieD": [],
+      "copaDoNordeste": []
+    },
+    "retro": [
+      {
+        "id": "1943",
+        "label": "1943–1945",
+        "fullLabel": "1943–1945",
+        "atual": false,
+        "file": "retro-1943-1f076526.svg",
+        "aspect": 0.892,
+        "iconTheme": "brasileirao-vila-nova-1943"
+      },
+      {
+        "id": "1996",
+        "label": "1996–2016",
+        "fullLabel": "1996–2016",
+        "atual": false,
+        "file": "retro-1996-07ab8fa0.svg",
+        "aspect": 0.679,
+        "iconTheme": "brasileirao-vila-nova-1996"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬜",
+    "primary": "#e01820",
+    "background": "fundo-d2d2cf4c.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-vila-nova",
+    "colors": [
+      "rgba(255,106,106,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,163,163,0.08)",
+      "rgba(236,59,59,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e0182033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6a6a"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffa3a3"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6a6a"
       },
       {
         "strikethrough": true,

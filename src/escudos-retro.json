@@ -1045,5 +1045,32 @@
         "#c6cacd"
       ]
     }
+  ],
+  "vila-nova": [
+    {
+      "id": "1943",
+      "label": "1943–1945",
+      "local": "Vila-Nova-1943.png",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#d83040"
+      ],
+      "nota": "primeiro escudo do clube, o monograma V N F C em branco sobre um escudo vermelho, enviado pelo dono do projeto (PNG de 447 px, traçado); período 1943–1945 inferido: o Logopedia (logos.fandom.com) lista 1943–1945 como o primeiro período e o desenho é o mais antigo dos enviados, mas não consegui ver a imagem dele para confirmar"
+    },
+    {
+      "id": "1996",
+      "label": "1996–2016",
+      "local": "Vila-Nova-1996.png",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#e01820",
+        "#f8c800"
+      ],
+      "nota": "escudo com cinco estrelas, as quatro vermelhas do tetra goiano (1977 a 1980) e a amarela da Série C de 1996, enviado pelo dono do projeto (PNG de 320 px, traçado pelas cores); período 1996–2016 segundo O Popular e o Futebol Goiano: a estrela amarela vem do título de 1996 e, a partir de 2016, o escudo passou a ter duas estrelas amarelas (Série C 1996 e 2015)"
+    }
   ]
 }
