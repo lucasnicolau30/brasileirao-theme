@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 33 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 34 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -98,6 +98,11 @@
         "label": "Brasileirão: Santo André",
         "uiTheme": "vs-dark",
         "path": "./themes/santo-andre-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Portuguesa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/portuguesa-color-theme.json"
       },
       {
         "label": "Brasileirão: Cruzeiro",
@@ -410,6 +415,21 @@
         "id": "brasileirao-santo-andre-1967",
         "label": "Brasileirão: Santo André (retrô 1967–1975)",
         "path": "./icons/santo-andre/icon-theme-1967.json"
+      },
+      {
+        "id": "brasileirao-portuguesa",
+        "label": "Brasileirão: Portuguesa",
+        "path": "./icons/portuguesa/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-portuguesa-1920",
+        "label": "Brasileirão: Portuguesa (retrô 1920–1923)",
+        "path": "./icons/portuguesa/icon-theme-1920.json"
+      },
+      {
+        "id": "brasileirao-portuguesa-2005",
+        "label": "Brasileirão: Portuguesa (retrô 2005–2015)",
+        "path": "./icons/portuguesa/icon-theme-2005.json"
       },
       {
         "id": "brasileirao-cruzeiro",

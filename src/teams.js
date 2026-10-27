@@ -88,7 +88,9 @@ const times = [
   { slug: 'santa-cruz', uf: 'PE', crestLabel: 'Santa Cruz (desde 1999)', bgColored: true, swatch: '⬛🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [2013], serieD: [], copaDoNordeste: [2016] }, label: 'Santa Cruz', side: '#161619', bg: '#0c0c0e', chrome: '#1b1b20', secondary: '#d80000', fg: '#ececec', primary: '#c81414', accent: '#ff6060', statusBg: '#a80f0f', statusFg: '#ffffff',
     brackets: ['#ff6060', '#ffffff', '#ff9a9a', '#e83a3a', '#ffd0d0', '#ff7a7a'] },
   { slug: 'sampaio-correa', uf: 'MA', crestLabel: 'Sampaio Corrêa (desde 2019)', bgColored: true, titleOrder: ['serieC', 'serieB', 'copaDoNordeste', 'serieD'], swatch: '🟨🟩🟥', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [1972], serieC: [1997], serieD: [2012], copaDoNordeste: [2018] }, label: 'Sampaio Corrêa', side: '#0d1a10', bg: '#07110a', chrome: '#0b5a2a', secondary: '#d01820', fg: '#e6efe6', primary: '#e6b800', accent: '#ffd84d', statusBg: '#0b6a30', statusFg: '#ffffff',
-    brackets: ['#ffd84d', '#ffffff', '#ff8a8e', '#4fe08a', '#fff3c4', '#e6b800'] }
+    brackets: ['#ffd84d', '#ffffff', '#ff8a8e', '#4fe08a', '#fff3c4', '#e6b800'] },
+  { slug: 'portuguesa', uf: 'SP', crestLabel: 'Portuguesa (desde 2015)', bgColored: true, swatch: '🟩🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [2011], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Portuguesa', side: '#0e1c12', bg: '#07120c', chrome: '#0e773e', secondary: '#e31e27', fg: '#e6efe8', primary: '#16924a', accent: '#46d68a', statusBg: '#0e773e', statusFg: '#ffffff',
+    brackets: ['#46d68a', '#ffffff', '#ff7d84', '#26b86a', '#d8f5e5', '#ff5a63'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

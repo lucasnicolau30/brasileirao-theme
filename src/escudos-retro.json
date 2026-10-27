@@ -891,5 +891,43 @@
       ],
       "nota": "escudo amarelo com listras verdes, S.C.F.C. em vermelho e a bola no topo, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado); período de 1933 a 1972 segundo a lista de escudos do Logopedia (logos.fandom.com), casado com o desenho"
     }
+  ],
+  "portuguesa": [
+    {
+      "id": "1920",
+      "label": "1920–1923",
+      "local": "Portuguesa-1920.png",
+      "vetorizar": "suave",
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#f01010",
+        "#38a848",
+        "#f0f030",
+        "#2878d0"
+      ],
+      "nota": "primeiro escudo do clube, o escudo português (metade verde, metade vermelha, com o brasão e a esfera armilar de Portugal), apresentado em 14 de agosto de 1920, na fundação (Wikipédia pt); enviado pelo dono do projeto como uma captura de tela de 172 px, ampliada e traçada pelas cores (verde, vermelho, amarelo e azul); período 1920–1923 definido pelo dono do projeto (o da Cruz de Avis começa em 1923; o blog de torcedores 'Orgulho de ser Lusa' legenda o escudo de Portugal como '1920' e o do Mackenzie College como '1920 até 1923')"
+    },
+    {
+      "id": "2005",
+      "label": "2005–2015",
+      "local": "Portuguesa-2005.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "limiarFundo": 215,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#c81818",
+        "#409038",
+        "#c0a050"
+      ],
+      "nota": "escudo modernizado, com a guarnição dourada em volta do contorno vermelho, enviado pelo dono do projeto (PNG de 492 px com o xadrez de transparência gravado na imagem, apagado e traçado); período de 2005 a 2015 segundo a Wikipédia pt (legenda do escudo e texto: em 2005 o logotipo foi modernizado e em 2015 voltou o distintivo dos anos 90)"
+    }
   ]
 }

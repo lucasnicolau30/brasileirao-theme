@@ -1371,6 +1371,107 @@
       }
     ]
   },
+  "Brasileirão: Portuguesa": {
+    "slug": "portuguesa",
+    "crestLabel": "Atual · desde 2015",
+    "crestIcon": "escudo-19db4c3d.svg",
+    "listIcon": "escudo-19db4c3d.svg",
+    "backgroundAspect": 0.798,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        2011
+      ],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": []
+    },
+    "retro": [
+      {
+        "id": "1920",
+        "label": "1920–1923",
+        "fullLabel": "1920–1923",
+        "atual": false,
+        "file": "retro-1920-df9de2ef.svg",
+        "aspect": 1.049,
+        "iconTheme": "brasileirao-portuguesa-1920"
+      },
+      {
+        "id": "2005",
+        "label": "2005–2015",
+        "fullLabel": "2005–2015",
+        "atual": false,
+        "file": "retro-2005-6cd03aa0.svg",
+        "aspect": 0.788,
+        "iconTheme": "brasileirao-portuguesa-2005"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩🟥⬜",
+    "primary": "#16924a",
+    "background": "fundo-35cfe777.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-portuguesa",
+    "colors": [
+      "rgba(70,214,138,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,125,132,0.08)",
+      "rgba(38,184,106,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#16924a33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#46d68a"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff7d84"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#46d68a"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Cruzeiro": {
     "slug": "cruzeiro",
     "crestLabel": "Atual · desde 2021",
