@@ -81,7 +81,9 @@ const times = [
   { slug: 'juventude', uf: 'RS', crestLabel: 'Juventude (desde 1998)', bgColored: true, swatch: '🟩⬜', titles: { brasileirao: [], copaDoBrasil: [1999], libertadores: [], mundial: [], sulAmericana: [], serieB: [1994], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Juventude', side: '#0a1c12', bg: '#06120a', chrome: '#087a30', secondary: '#ffffff', fg: '#e3efe7', primary: '#0b9a3c', accent: '#3ddc78', statusBg: '#08812f', statusFg: '#ffffff',
     brackets: ['#3ddc78', '#ffffff', '#8cf0b0', '#1fbf5c', '#d6f7e2', '#5be892'] },
   { slug: 'parana', uf: 'PR', crestLabel: 'Paraná Clube (desde 1989)', bgColored: true, swatch: '🟦🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [1992, 2000], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Paraná', side: '#0a1530', bg: '#060d1e', chrome: '#0a3570', secondary: '#e01838', fg: '#e3e9f5', primary: '#1b5fc0', accent: '#6aa8ff', statusBg: '#0b4aa0', statusFg: '#ffffff',
-    brackets: ['#6aa8ff', '#ffffff', '#ff7a90', '#3d82e8', '#d6e4ff', '#ff5a76'] }
+    brackets: ['#6aa8ff', '#ffffff', '#ff7a90', '#3d82e8', '#d6e4ff', '#ff5a76'] },
+  { slug: 'santo-andre', uf: 'SP', crestLabel: 'Santo André (desde 1975)', bgColored: true, swatch: '🟦⬜🟨', titles: { brasileirao: [], copaDoBrasil: [2004], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [] }, label: 'Santo André', side: '#0e1030', bg: '#090a1f', chrome: '#1c1f6a', secondary: '#f8c000', fg: '#e6e7f6', primary: '#3a3fb8', accent: '#8a92ff', statusBg: '#2b2f96', statusFg: '#ffffff',
+    brackets: ['#8a92ff', '#ffffff', '#ffd84d', '#7c83f0', '#dcdeff', '#ffc400'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

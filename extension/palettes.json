@@ -1279,6 +1279,98 @@
       }
     ]
   },
+  "Brasileirão: Santo André": {
+    "slug": "santo-andre",
+    "crestLabel": "Atual · desde 1975",
+    "crestIcon": "escudo-ae51ec30.svg",
+    "listIcon": "escudo-ae51ec30.svg",
+    "backgroundAspect": 0.62,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [
+        2004
+      ],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": []
+    },
+    "retro": [
+      {
+        "id": "1967",
+        "label": "1967–1975",
+        "fullLabel": "1967–1975",
+        "atual": false,
+        "file": "retro-1967-cb7d082b.svg",
+        "aspect": 1.03,
+        "iconTheme": "brasileirao-santo-andre-1967"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟦⬜🟨",
+    "primary": "#3a3fb8",
+    "background": "fundo-e10204c7.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-santo-andre",
+    "colors": [
+      "rgba(138,146,255,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,216,77,0.08)",
+      "rgba(124,131,240,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#3a3fb833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#8a92ff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffd84d"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#8a92ff"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Cruzeiro": {
     "slug": "cruzeiro",
     "crestLabel": "Atual · desde 2021",

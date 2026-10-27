@@ -809,5 +809,19 @@
       "local": "Pinheiros-1971.svg",
       "nota": "escudo do Esporte Clube Pinheiros (ex-Água Verde), o outro clube da fusão que criou o Paraná Clube em 1989: bola roxa com o pinheiro e o nome PINHEIROS PARANÁ, enviado pelo dono do projeto (SVG, só com o viewBox ajustado ao conteúdo); o clube adotou o nome e o escudo em 12 de agosto de 1971 e durou até 1989 (Wikipédia pt)"
     }
+  ],
+  "santo-andre": [
+    {
+      "id": "1967",
+      "label": "1967–1975",
+      "local": "Santo-Andre-1967.png",
+      "vetorizar": "alfa",
+      "sobrepor": 0,
+      "vetorizarPaleta": [
+        "#3b8052",
+        "#f5eb38"
+      ],
+      "nota": "escudo SAFC, em verde e amarelo, com o X do brasão da cidade, enviado pelo dono do projeto (WebP de 1000 px, traçado); período de 1967 a 1975 inferido: a Wikipédia pt diz que o Santo André F.C. nasceu em 1967 com as cores da cidade e um detalhe do brasão no escudo, e que em 1975 o brasão inteiro virou o escudo e o verde e amarelo deu lugar ao azul e branco, mas não traz o desenho nem a data exata do escudo SAFC"
+    }
   ]
 }
