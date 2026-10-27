@@ -418,10 +418,10 @@ def finas_para_svg(origem, destino, cor, ganho=1.5, preto=None):
     return w / h
 
 
-def estrelas_regulares(svg, cores):
+def estrelas_regulares(svg, cores, minimo=0.6):
     """Troca as estrelas tortas de um SVG traçado de uma imagem pequena (bordas onduladas) por estrelas regulares de cinco pontas.
-    `cores`: as cores (hex) das camadas que só têm estrelas (o bronze e a prata do Atlético-GO). Cada pedaço dessas camadas vira uma estrela com
-    o mesmo centro e tamanho (medidos pela caixa do pedaço); pedaços bem menores que o maior são sobras do traçado e saem, e as lascas das outras camadas que caem dentro da caixa de uma estrela também."""
+    `cores`: as cores (hex) das camadas que só têm estrelas (o bronze e a prata do Atlético-GO); `minimo`: largura mínima de um pedaço, em fração do maior, para ser uma estrela. Cada pedaço dessas camadas vira uma estrela com
+    o mesmo centro e tamanho (medidos pela caixa do pedaço); pedaços bem menores que o maior são sobras do traçado e saem, e, nas outras camadas, o buraco do tamanho de uma estrela vira a mesma estrela regular, e as lascas que caem dentro da caixa dela saem."""
     import math, re
     texto = open(svg, encoding="utf8").read()
     regioes = []   # caixa de cada estrela (x0, x1, y0, y1), para limpar as lascas das outras camadas
@@ -432,10 +432,10 @@ def estrelas_regulares(svg, cores):
             nums = [float(x) for x in re.findall(r"-?\d+\.?\d*", p)]
             xs, ys = nums[0::2], nums[1::2]
             caixas.append((min(xs), max(xs), min(ys), max(ys)))
-        maior = max((x1 - x0) for x0, x1, y0, y1 in caixas)
+        maior = max((x1 - x0) for x0, x1, y0, y1 in caixas)   # com estrelas de tamanhos diferentes, baixe `minimo`
         estrelas = []
         for x0, x1, y0, y1 in caixas:
-            if (x1 - x0) < 0.6 * maior:
+            if (x1 - x0) < minimo * maior:
                 continue
             raio = ((x1 - x0) / (2 * math.sin(math.radians(72))) + (y1 - y0) / (1 + math.cos(math.radians(36)))) / 2
             cx, cy = (x0 + x1) / 2, y0 + raio
@@ -445,7 +445,7 @@ def estrelas_regulares(svg, cores):
                 r = raio if k % 2 == 0 else raio * 0.381966
                 pts.append(f"{cx + r * math.cos(ang):.1f},{cy + r * math.sin(ang):.1f}")
             estrelas.append("M" + "L".join(pts) + "z")
-            regioes.append((x0, x1, y0, y1))
+            regioes.append((x0, x1, y0, y1, estrelas[-1]))
         return f'<path fill="{cor}" fill-rule="evenodd" d="{"".join(estrelas)}"/>'
     for cor in cores:
         texto = re.sub(rf'<path fill="({re.escape(cor)})" fill-rule="evenodd" d="([^"]*)"/>', troca, texto)
@@ -458,9 +458,13 @@ def estrelas_regulares(svg, cores):
             nums = [float(x) for x in re.findall(r"-?\d+\.?\d*", p)]
             xs, ys = nums[0::2], nums[1::2]
             px0, px1, py0, py1 = min(xs), max(xs), min(ys), max(ys)
-            lasca = any(px0 >= x0 - 0.6 * (x1 - x0) and px1 <= x1 + 0.6 * (x1 - x0) and py0 >= y0 - 0.6 * (y1 - y0) and py1 <= y1 + 0.6 * (y1 - y0) for x0, x1, y0, y1 in regioes)
-            if not lasca:
+            achou = [r for r in regioes if px0 >= r[0] - 0.6 * (r[1] - r[0]) and px1 <= r[1] + 0.6 * (r[1] - r[0]) and py0 >= r[2] - 0.6 * (r[3] - r[2]) and py1 <= r[3] + 0.6 * (r[3] - r[2])]
+            if not achou:
                 mantidos.append(p)
+            else:
+                r = achou[0]
+                if abs((px1 - px0) - (r[1] - r[0])) < 0.25 * (r[1] - r[0]) and abs((py1 - py0) - (r[3] - r[2])) < 0.25 * (r[3] - r[2]):
+                    mantidos.append(r[4])   # o buraco da estrela numa camada de cima (o campo preto do ABC) usa a mesma estrela regular
         return f'<path fill="{cor}" fill-rule="evenodd" d="{"".join(mantidos)}"/>'
     texto = re.sub(r'<path fill="(#[0-9a-fA-F]{6})" fill-rule="evenodd" d="([^"]*)"/>', limpa, texto)
     open(svg, "w", encoding="utf8").write(texto)

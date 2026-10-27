@@ -3795,7 +3795,7 @@
         "label": "2017–2020",
         "fullLabel": "2017–2020",
         "atual": false,
-        "file": "retro-2017-b7518c8d.svg",
+        "file": "retro-2017-38d37488.svg",
         "aspect": 0.693,
         "iconTheme": "brasileirao-atletico-go-2017"
       }
@@ -4563,6 +4563,108 @@
         "italic": false,
         "tag": "*",
         "color": "#5be3a7"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
+  "Brasileirão: ABC": {
+    "slug": "abc",
+    "crestLabel": "Atual · desde 2011",
+    "crestIcon": "escudo-6dddd0dd.svg",
+    "listIcon": "escudo-6dddd0dd.svg",
+    "backgroundAspect": 0.731,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2010
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": []
+    },
+    "retro": [
+      {
+        "id": "1915",
+        "label": "1915–1926",
+        "fullLabel": "1915–1926",
+        "atual": false,
+        "file": "retro-1915-00fb88b8.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-abc-1915"
+      },
+      {
+        "id": "1996",
+        "label": "1996–2010",
+        "fullLabel": "1996–2010",
+        "atual": false,
+        "file": "retro-1996-906dba03.svg",
+        "aspect": 0.854,
+        "iconTheme": "brasileirao-abc-1996"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜🟨",
+    "primary": "#d4d4d4",
+    "background": "fundo-cffc2b98.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-abc",
+    "colors": [
+      "rgba(244,244,244,0.08)",
+      "rgba(255,200,0,0.08)",
+      "rgba(207,207,207,0.08)",
+      "rgba(156,156,156,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d4d4d433",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f4f4f4"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#cfcfcf"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffc800"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f4f4f4"
       },
       {
         "strikethrough": true,

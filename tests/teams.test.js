@@ -55,7 +55,8 @@ const EXPECTED = {
   'vila-nova': [0, 0, 0],
   cuiaba: [0, 0, 0],
   brasiliense: [0, 0, 0],
-  gama: [0, 0, 0]
+  gama: [0, 0, 0],
+  abc: [0, 0, 0]
 };
 const FIRST_YEAR = { brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994, copaVerde: 2014 };
 // Mundial (Intercontinental + Mundial da FIFA), Sul-Americana, Série B, C e D: [mundial, sulAmericana, serieB, serieC, serieD], conferido à mão nas listas oficiais.
@@ -102,7 +103,8 @@ const EXPECTED_OTHER = {
   'vila-nova': [0, 0, 0, 3, 0],
   cuiaba: [0, 0, 0, 0, 0],
   brasiliense: [0, 0, 1, 1, 0],
-  gama: [0, 0, 1, 0, 0]
+  gama: [0, 0, 1, 0, 0],
+  abc: [0, 0, 0, 1, 0]
 };
 const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
@@ -115,8 +117,8 @@ const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport:
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 42 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 42);
+test('há 43 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 43);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -305,6 +307,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Cuiabá'), ['Copa Verde']);
     assert.deepEqual(itens('Brasiliense'), ['Copa Verde', 'Série B', 'Série C']);
     assert.deepEqual(itens('Gama'), ['Série B']);
+    assert.deepEqual(itens('ABC'), ['Série C']);
     assert.deepEqual(itens('Remo'), ['Copa Verde', 'Série C']);
     assert.ok(itens('Paysandu').includes('Copa Verde') && !itens('Sport').includes('Copa Verde'), 'só quem venceu a Copa Verde mostra o troféu');
     assert.ok(!itens('Goiás').includes('Copa do Nordeste') && !itens('Remo').includes('Copa do Nordeste'), 'times de fora do Nordeste não mostram a Copa do Nordeste');
@@ -412,5 +415,5 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
     assert.ok(dif >= 0, `${b.slug} (mais títulos) deveria vir antes de ${a.slug}`);
   }
   assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'santo-andre', 'bragantino', 'portuguesa', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'gremio', 'internacional',
-    'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'sampaio-correa', 'cuiaba', 'brasiliense', 'gama']);
+    'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'sampaio-correa', 'cuiaba', 'brasiliense', 'gama', 'abc']);
 });

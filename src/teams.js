@@ -106,7 +106,9 @@ const times = [
   { slug: 'brasiliense', uf: 'DF', crestLabel: 'Brasiliense (desde 2009)', bgColored: true, swatch: '🟨🟩', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [2004], serieC: [2002], serieD: [], copaDoNordeste: [], copaVerde: [2020] }, label: 'Brasiliense', side: '#0d1b12', bg: '#09130d', chrome: '#0d5a2f', secondary: '#f8d800', fg: '#e8efe3', primary: '#d9b400', accent: '#ffe14d', statusBg: '#0b7a3a', statusFg: '#ffffff',
     brackets: ['#ffe14d', '#ffffff', '#6fdc94', '#d9b400', '#fff6c8', '#3fc477'] },
   { slug: 'gama', uf: 'DF', crestLabel: 'Gama (desde 1999)', bgColored: true, swatch: '🟩⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [1998], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [] }, label: 'Gama', side: '#0b1c13', bg: '#07120d', chrome: '#0f6b45', secondary: '#ffc45c', fg: '#e3efe8', primary: '#1a8f5f', accent: '#5be3a7', statusBg: '#0f6b45', statusFg: '#ffffff',
-    brackets: ['#5be3a7', '#ffffff', '#ffd98a', '#2fb97e', '#d6f6e6', '#7cecb8'] }
+    brackets: ['#5be3a7', '#ffffff', '#ffd98a', '#2fb97e', '#d6f6e6', '#7cecb8'] },
+  { slug: 'abc', uf: 'RN', crestLabel: 'ABC (desde 2011)', bgColored: true, swatch: '⬛⬜🟨', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [2010], serieD: [], copaDoNordeste: [], copaVerde: [] }, label: 'ABC', side: '#171717', bg: '#0b0b0b', activity: '#e6e6e6', title: '#000000', secondary: '#ffc800', fg: '#e8e8e8', primary: '#d4d4d4', accent: '#f4f4f4', statusBg: '#000000', statusFg: '#ffffff', statusBorder: '#ffc800',
+    brackets: ['#f4f4f4', '#ffc800', '#cfcfcf', '#9c9c9c', '#ffe066', '#e0e0e0'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São
