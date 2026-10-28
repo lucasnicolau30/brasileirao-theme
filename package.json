@@ -155,6 +155,11 @@
         "path": "./themes/tombense-color-theme.json"
       },
       {
+        "label": "Brasileirão: Tupi",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tupi-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Grêmio",
         "uiTheme": "vs-dark",
         "path": "./themes/gremio-color-theme.json"
@@ -720,6 +725,16 @@
         "id": "brasileirao-tombense-2015",
         "label": "Brasileirão: Tombense (retrô 2015–2019)",
         "path": "./icons/tombense/icon-theme-2015.json"
+      },
+      {
+        "id": "brasileirao-tupi",
+        "label": "Brasileirão: Tupi",
+        "path": "./icons/tupi/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-tupi-1912",
+        "label": "Brasileirão: Tupi (retrô 1912–1913)",
+        "path": "./icons/tupi/icon-theme-1912.json"
       },
       {
         "id": "brasileirao-gremio",

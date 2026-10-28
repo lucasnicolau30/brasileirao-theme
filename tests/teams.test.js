@@ -53,6 +53,7 @@ const EXPECTED = {
   'america-mg': [0, 0, 0],
   uberlandia: [0, 0, 0],
   tombense: [0, 0, 0],
+  tupi: [0, 0, 0],
   nautico: [0, 0, 0],
   'atletico-go': [0, 0, 0],
   'vila-nova': [0, 0, 0],
@@ -118,6 +119,7 @@ const EXPECTED_OTHER = {
   'america-mg': [0, 0, 2, 1, 0],
   uberlandia: [0, 0, 1, 0, 1],
   tombense: [0, 0, 0, 0, 1],
+  tupi: [0, 0, 0, 0, 1],
   nautico: [0, 0, 0, 1, 0],
   'atletico-go': [0, 0, 1, 2, 0],
   'vila-nova': [0, 0, 0, 3, 0],
@@ -156,8 +158,8 @@ const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juve
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 60 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 60);
+test('há 61 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 61);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -365,9 +367,10 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: Bangu`]).includes(b64('estadual-rj.png')), 'Bangu: deve usar o troféu do Carioca');
     // Times menores de São Paulo (Bragantino, Portuguesa): taça do Paulista; os 4 sem título paulista (Guarani, Santo André, Mirassol, Ponte Preta) não mostram o Estadual.
     assert.deepEqual(itens('Ituano'), ['Série C', 'Estadual']);
-    // Uberlândia e Tombense não têm título do Mineiro (só do Interior).
+    // Minas Gerais não tem a foto da taça e Uberlândia, Tombense e Tupi não têm título do Mineiro (só do Interior).
     assert.deepEqual(itens('Uberlândia'), ['Série B', 'Série D']);
     assert.deepEqual(itens('Tombense'), ['Série D']);
+    assert.deepEqual(itens('Tupi'), ['Série D']);
     assert.deepEqual(itens('Paulista'), ['Copa do Brasil', 'Série C'], 'Paulista: sem título do Paulistão, então sem Estadual');
     // Times menores de Santa Catarina (Criciúma, Chapecoense, Avaí e Figueirense): taça do Catarinense.
     assert.deepEqual(itens('Avaí'), ['Série C', 'Estadual']);
@@ -497,6 +500,6 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
     const dif = criterios.map((k) => a.titles[k].length - b.titles[k].length).find((d) => d !== 0) || 0;
     assert.ok(dif >= 0, `${b.slug} (mais títulos) deveria vir antes de ${a.slug}`);
   }
-  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'volta-redonda', 'bangu', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'portuguesa', 'ituano', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'tombense', 'gremio', 'internacional',
+  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'volta-redonda', 'bangu', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'portuguesa', 'ituano', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'tombense', 'tupi', 'gremio', 'internacional',
     'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'nacional-am', 'rio-negro-am', 'sao-raimundo-am', 'manaus', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'avai', 'figueirense', 'sampaio-correa', 'cuiaba', 'luverdense', 'brasiliense', 'gama', 'brasilia', 'abc', 'america-rn', 'botafogo-pb', 'campinense']);
 });

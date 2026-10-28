@@ -2636,6 +2636,101 @@
       }
     ]
   },
+  "Brasileirão: Tupi": {
+    "slug": "tupi",
+    "uf": "MG",
+    "crestLabel": "Atual · desde 2011",
+    "crestIcon": "escudo-58092c22.svg",
+    "listIcon": "escudo-58092c22.svg",
+    "backgroundAspect": 0.798,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [
+        2011
+      ],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1912",
+        "label": "1912–1913",
+        "fullLabel": "1912–1913",
+        "atual": false,
+        "file": "retro-1912-1d03cb4b.svg",
+        "aspect": 0.764,
+        "iconTheme": "brasileirao-tupi-1912"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜🟨",
+    "primary": "#d0d0d0",
+    "background": "fundo-92bcb024.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-tupi",
+    "colors": [
+      "rgba(245,245,245,0.08)",
+      "rgba(232,212,134,0.08)",
+      "rgba(208,208,208,0.08)",
+      "rgba(157,157,157,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d0d0d033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#d0d0d0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#e8d486"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Grêmio": {
     "slug": "gremio",
     "uf": "RS",

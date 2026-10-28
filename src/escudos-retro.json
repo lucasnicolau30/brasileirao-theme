@@ -1650,6 +1650,24 @@
       "nota": "escudo em losango vermelho com o tabuleiro de xadrez e o texto TOMBENSE FUTEBOL CLUBE 1914, enviado pelo dono do projeto (JPG de 401 px recortado na área do escudo, sem a marca d'água, ampliado e traçado); período 2015–2019 segundo o Logopedia (logos.fandom.com), casado com o desenho porque o arquivo dele não pôde ser baixado para conferir"
     }
   ],
+  "tupi": [
+    {
+      "id": "1912",
+      "label": "1912–1913",
+      "local": "Tupi-1912.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#1f1f21",
+        "#f6f6f6"
+      ],
+      "nota": "escudo preto com o monograma TF em branco, o primeiro do clube, enviado pelo dono do projeto (PNG de 424 px, ampliado e traçado nas cores do original); período 1912–1913 segundo o Logopedia (logos.fandom.com), e a linha do tempo \"Evolução dos Escudos do Tupi\" da Wikipédia pt dá 1912 e seguinte a partir de 1913"
+    }
+  ],
   "uberlandia": [
     {
       "id": "1922",

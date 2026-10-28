@@ -7,11 +7,11 @@ Português | [English](README.md)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
 
-Um tema escuro e um tema de ícones para cada um de 60 times do Brasileirão e das divisões de acesso. A base é a mesma em todos (fundo escuro, texto claro, sintaxe discreta). Muda a identidade do time: a cor aparece na linha ativa, no número da linha, nas guias de indentação, nos pares de colchetes, nas réguas, na aba ativa, no cursor, na seleção e na barra de status — e, atrás do código, uma versão discreta do escudo do clube.
+Um tema escuro e um tema de ícones para cada um de 61 times do Brasileirão e das divisões de acesso. A base é a mesma em todos (fundo escuro, texto claro, sintaxe discreta). Muda a identidade do time: a cor aparece na linha ativa, no número da linha, nas guias de indentação, nos pares de colchetes, nas réguas, na aba ativa, no cursor, na seleção e na barra de status — e, atrás do código, uma versão discreta do escudo do clube.
 
 > Projeto independente. Sem ligação com nenhum clube de futebol, com a CBF ou com o Brasileirão. Os nomes e os escudos dos clubes são marcas dos respectivos donos. Veja [Créditos e licenças](#créditos-e-licenças).
 
-Times: Flamengo, Fluminense, Vasco, Botafogo, Volta Redonda, Bangu, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Paulista, Santo André, Bragantino, Portuguesa, Ituano, Mirassol, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Uberlândia, Tombense, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Paysandu, Remo, Amazonas FC, Nacional-AM, Rio Negro-AM, São Raimundo-AM, Manaus FC, Goiás, Atlético-GO, Vila Nova, Criciúma, Chapecoense, Avaí, Figueirense, Sampaio Corrêa, Cuiabá, Luverdense, Brasiliense, Gama, Brasília, ABC, América-RN, Botafogo-PB e Campinense.
+Times: Flamengo, Fluminense, Vasco, Botafogo, Volta Redonda, Bangu, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Paulista, Santo André, Bragantino, Portuguesa, Ituano, Mirassol, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Uberlândia, Tombense, Tupi, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Paysandu, Remo, Amazonas FC, Nacional-AM, Rio Negro-AM, São Raimundo-AM, Manaus FC, Goiás, Atlético-GO, Vila Nova, Criciúma, Chapecoense, Avaí, Figueirense, Sampaio Corrêa, Cuiabá, Luverdense, Brasiliense, Gama, Brasília, ABC, América-RN, Botafogo-PB e Campinense.
 
 ## O que você recebe
 
@@ -19,7 +19,7 @@ Times: Flamengo, Fluminense, Vasco, Botafogo, Volta Redonda, Bangu, Palmeiras, S
 - **Um tema de ícones por clube**: o escudo do clube no lugar do ícone de pasta. Os ícones de arquivo vêm do Material Icon Theme.
 - **O escudo atrás do código**: o escudo atual do clube no fundo do editor, colorido e discreto (o Flamengo mostra só o monograma, em branco).
 - **Uma seção "Títulos" no explorador**: os troféus da Copa do Brasil, da Libertadores e do Brasileirão, cada um com o número de títulos. Passe o mouse num troféu para ver os anos. Só aparecem as competições em que o clube tem título, centralizadas: Copa do Brasil, Libertadores, Brasileirão, Mundial, Sul-Americana, Copa do Nordeste (só os clubes do Nordeste), Copa Verde (só os do Norte e do Centro-Oeste), Séries B, C e D e o estadual (só os clubes menores, com a taça de cada estado; por enquanto a do Amazonense, a do Carioca, a do Paulista, a do Catarinense, a do Potiguar e a do Brasiliense), cada uma com foto do troféu. Os 12 grandes não mostram títulos de Série B, C, D nem de estadual.
-- **Escudos antigos no fundo do editor**: o botão **Escudos** na barra de status, ou o comando **"Brasileirão: Escolher escudo do fundo"** troca o fundo entre o escudo atual e os históricos do clube (122 escudos dos 60 clubes, da Wikimedia Commons e de imagens enviadas pelo autor do projeto; a fonte de cada arquivo está em `icons/retro-CREDITS.txt`). O ícone das pastas no explorador também acompanha o escudo antigo escolhido (cada escudo antigo tem o seu tema de ícones, que também aparece em "Set File Icon Theme"). Os antigos mantêm as cores originais. Cada um mostra o período em que foi usado; algumas datas são aproximadas.
+- **Escudos antigos no fundo do editor**: o botão **Escudos** na barra de status, ou o comando **"Brasileirão: Escolher escudo do fundo"** troca o fundo entre o escudo atual e os históricos do clube (123 escudos dos 61 clubes, da Wikimedia Commons e de imagens enviadas pelo autor do projeto; a fonte de cada arquivo está em `icons/retro-CREDITS.txt`). O ícone das pastas no explorador também acompanha o escudo antigo escolhido (cada escudo antigo tem o seu tema de ícones, que também aparece em "Set File Icon Theme"). Os antigos mantêm as cores originais. Cada um mostra o período em que foi usado; algumas datas são aproximadas.
 - **Um seletor de times com escudos**, pela barra de status ou pela paleta de comandos.
 - **O Indent Rainbow nas cores do clube**, se você usa essa extensão.
 - **O Better Comments nas cores do clube**: `// !`, `// ?`, `// TODO` e `// *` ganham cada um o seu visual. O Better Comments é instalado junto com o tema.
@@ -38,7 +38,7 @@ Requer o VS Code 1.80 ou mais novo. O escudo no fundo do editor precisa também 
 
 Escolha o time de um destes jeitos:
 
-- **Botão "Times" na barra de status** (canto inferior esquerdo) ou **`Ctrl+Shift+P` e "Brasileirão: Escolher time"**: lista os 60 times com o escudo de cada um que o tem, as cores e o atual já selecionado. Cada time diz quantas opções de escudo tem ("· 5 opções de escudo"), e escolher um time com mais de uma abre a lista com todas (atuais e retrô), cada uma com as suas datas. É o jeito recomendado.
+- **Botão "Times" na barra de status** (canto inferior esquerdo) ou **`Ctrl+Shift+P` e "Brasileirão: Escolher time"**: lista os 61 times com o escudo de cada um que o tem, as cores e o atual já selecionado. Cada time diz quantas opções de escudo tem ("· 5 opções de escudo"), e escolher um time com mais de uma abre a lista com todas (atuais e retrô), cada uma com as suas datas. É o jeito recomendado.
 - **`Ctrl+K Ctrl+T`**: o seletor de temas do VS Code, com os temas `Brasileirão: <time>` no meio dos outros.
 - Evite os botões **Set Color Theme** e **Set File Icon Theme** da página da extensão. São do próprio VS Code (um para cada tipo de tema, e não dá para removê-los): a lista abre em ordem alfabética, sem marcar o tema atual, e já mostra uma prévia do primeiro item.
 
@@ -88,6 +88,7 @@ Os dados ficam no campo `titles` de `src/teams.js`, até a temporada 2025 (Copa 
 | América-MG | `#12935a` | `#4cdc98` | `#0a6b3f` |
 | Uberlândia | `#12a05a` | `#5be3a0` | `#0b7a3f` |
 | Tombense | `#e81828` | `#ff6a73` | `#b9141f` |
+| Tupi | `#d0d0d0` | `#f5f5f5` | `#000000` |
 | Grêmio | `#0b76b0` | `#4db8f5` | `#0a6aa3` |
 | Internacional | `#d4161c` | `#ff5d5d` | `#b8121a` |
 | Juventude | `#0b9a3c` | `#3ddc78` | `#08812f` |
@@ -166,11 +167,11 @@ Se o Material Icon Theme estiver instalado na máquina que gera o pacote, o tema
 
 ```bash
 npm run build      # gera temas, ícones e o bloco contributes do package.json
-npm run check      # confere os contrastes mínimos nos 60 temas
+npm run check      # confere os contrastes mínimos nos 61 temas
 npm test           # testes dos dados, dos arquivos gerados e do contraste (node --test)
 npm run package    # build + check + brasileirao-theme.vsix
 npm run instalar   # package + instala no VS Code (depois, recarregue a janela)
-npm run preview    # gera preview/index.html com os 60 times lado a lado
+npm run preview    # gera preview/index.html com os 61 times lado a lado
 ```
 
 A tabela de times é `src/teams.js`. Para mudar uma cor, o rótulo ou os títulos de um time, edite lá e rode `npm run build`. Os arquivos em `themes/` e `icons/` são gerados e não devem ser editados à mão.
