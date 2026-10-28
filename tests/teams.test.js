@@ -63,7 +63,8 @@ const EXPECTED = {
   bangu: [0, 0, 0],
   ituano: [0, 0, 0],
   'volta-redonda': [0, 0, 0],
-  avai: [0, 0, 0]
+  avai: [0, 0, 0],
+  figueirense: [0, 0, 0]
 };
 const FIRST_YEAR = { estadual: 1900, brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994, copaVerde: 2014 };
 // Mundial (Intercontinental + Mundial da FIFA), Sul-Americana, Série B, C e D: [mundial, sulAmericana, serieB, serieC, serieD], conferido à mão nas listas oficiais.
@@ -118,7 +119,8 @@ const EXPECTED_OTHER = {
   bangu: [0, 0, 0, 0, 0],
   ituano: [0, 0, 0, 2, 0],
   'volta-redonda': [0, 0, 0, 1, 1],
-  avai: [0, 0, 0, 1, 0]
+  avai: [0, 0, 0, 1, 0],
+  figueirense: [0, 0, 0, 0, 0]
 };
 const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
@@ -131,12 +133,12 @@ const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport:
 // Ano repetido na mesma lista só quando houve dois títulos no mesmo ano.
 // Estaduais (tabela de títulos de cada campeonato estadual, ou a lista de campeões onde não há tabela; o América-RN tem 40 no artigo mas só 38 anos
 // listados, então valem os 38). Só os times menores têm: os 12 grandes ficam com [].
-const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juventude: 1, bahia: 52, vitoria: 30, fortaleza: 47, ceara: 47, 'athletico-pr': 28, coritiba: 39, parana: 7, sport: 46, 'santa-cruz': 29, nautico: 24, paysandu: 51, remo: 48, amazonas: 2, goias: 29, 'atletico-go': 18, 'vila-nova': 16, criciuma: 12, chapecoense: 7, 'sampaio-correa': 37, cuiaba: 13, brasiliense: 11, gama: 15, abc: 56, 'america-rn': 38, 'botafogo-pb': 31, 'nacional-am': 44, bangu: 2, ituano: 2, avai: 19 };
+const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juventude: 1, bahia: 52, vitoria: 30, fortaleza: 47, ceara: 47, 'athletico-pr': 28, coritiba: 39, parana: 7, sport: 46, 'santa-cruz': 29, nautico: 24, paysandu: 51, remo: 48, amazonas: 2, goias: 29, 'atletico-go': 18, 'vila-nova': 16, criciuma: 12, chapecoense: 7, 'sampaio-correa': 37, cuiaba: 13, brasiliense: 11, gama: 15, abc: 56, 'america-rn': 38, 'botafogo-pb': 31, 'nacional-am': 44, bangu: 2, ituano: 2, avai: 19, figueirense: 18 };
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 50 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 50);
+test('há 51 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 51);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -338,10 +340,11 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: Bangu`]).includes(b64('estadual-rj.png')), 'Bangu: deve usar o troféu do Carioca');
     // Times menores de São Paulo (Bragantino, Portuguesa): taça do Paulista; os 4 sem título paulista (Guarani, Santo André, Mirassol, Ponte Preta) não mostram o Estadual.
     assert.deepEqual(itens('Ituano'), ['Série C', 'Estadual']);
-    // Times menores de Santa Catarina (Criciúma, Chapecoense e Avaí): taça do Catarinense.
+    // Times menores de Santa Catarina (Criciúma, Chapecoense, Avaí e Figueirense): taça do Catarinense.
     assert.deepEqual(itens('Avaí'), ['Série C', 'Estadual']);
+    assert.deepEqual(itens('Figueirense'), ['Estadual']);
     assert.deepEqual(itens('Chapecoense'), ['Série B', 'Sul-Americana', 'Estadual'], 'Chapecoense: a Sul-Americana fica no centro (titleOrder em teams.js)');
-    for (const time of ['Criciúma', 'Chapecoense', 'Avaí']) assert.ok(itens(time).includes('Estadual') && m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-sc.png')), `${time}: deve usar o troféu do Catarinense`);
+    for (const time of ['Criciúma', 'Chapecoense', 'Avaí', 'Figueirense']) assert.ok(itens(time).includes('Estadual') && m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-sc.png')), `${time}: deve usar o troféu do Catarinense`);
     assert.deepEqual(itens('Volta Redonda'), ['Série C', 'Série D'], 'Volta Redonda: só Séries C e D (sem título carioca, então sem Estadual)');
     for (const time of ['Bragantino', 'Portuguesa', 'Ituano']) assert.ok(itens(time).includes('Estadual') && m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-sp.png')), `${time}: deve usar o troféu do Paulista`);
     for (const time of ['Guarani', 'Santo André', 'Mirassol', 'Ponte Preta', 'Palmeiras']) assert.ok(!itens(time).includes('Estadual'), `${time}: sem Estadual`);
@@ -456,5 +459,5 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
     assert.ok(dif >= 0, `${b.slug} (mais títulos) deveria vir antes de ${a.slug}`);
   }
   assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'volta-redonda', 'bangu', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'santo-andre', 'bragantino', 'portuguesa', 'ituano', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'gremio', 'internacional',
-    'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'nacional-am', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'avai', 'sampaio-correa', 'cuiaba', 'brasiliense', 'gama', 'abc', 'america-rn', 'botafogo-pb']);
+    'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'nacional-am', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'avai', 'figueirense', 'sampaio-correa', 'cuiaba', 'brasiliense', 'gama', 'abc', 'america-rn', 'botafogo-pb']);
 });

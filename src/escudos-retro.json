@@ -1390,5 +1390,27 @@
       ],
       "nota": "escudo azul com filete branco por dentro e as letras AFC inclinadas, enviado pelo dono do projeto (PNG de 554 px, traçado pelas cores) (a Wikipédia pt diz que, nos primeiros anos, o clube, então Avahy Foot-ball Club, tinha um escudo em forma de brasão com um círculo branco e as letras AFC em azul; o Logopedia, logos.fandom.com, lista dois escudos de 1923, o de \"1923\" e o de \"1923–1940\", mas não consegui ver as imagens dele, então qual arquivo é qual é inferência); é o segundo, que o Logopedia dá de 1923 a 1940"
     }
+  ],
+  "figueirense": [
+    {
+      "id": "1921",
+      "label": "1921–1930",
+      "local": "Figueirense-1921.png",
+      "vetorizar": "duas-tintas",
+      "nota": "primeiro escudo do clube, as iniciais FFC sobrepostas num brasão branco (inspirado no do Botafogo, segundo o ND Mais), enviado pelo dono do projeto (JPG de 280 px; para o traço sair liso, a imagem foi ampliada 6x, ganhou níveis e um alisamento antes de traçar pelos tons de cinza; o JPG original está em _originais/Figueirense-1921-original.jpg); período 1921–1930 inferido: a Wikipédia pt lista 1921–1930 para o primeiro escudo e o Logopedia (logos.fandom.com) lista 1921–1924, mas não consegui ver as imagens dos dois para confirmar qual é; o preto foi clareado (#46423a) para aparecer sobre o fundo escuro do editor",
+      "tinta": "#46423a"
+    },
+    {
+      "id": "1980",
+      "label": "1980–1999",
+      "local": "Figueirense-1980.png",
+      "vetorizar": "alfa",
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#2c9563"
+      ],
+      "nota": "escudo redondo com o nome do clube por extenso, SANTA CATARINA, o brasão com a figueira ao centro e o anel verde, enviado pelo dono do projeto (PNG de 800 px, traçado); o ND Mais (2017) diz que um escudo redondo com o nome por extenso e Santa Catarina foi usado nos anos 80; período 1980–1999 inferido: é o que a Wikipédia pt lista para o escudo de 1980 até o atual (1999), mas não consegui ver as imagens dela para confirmar qual é; o preto foi clareado (#46423a) para aparecer sobre o fundo escuro do editor"
+    }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 50 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 51 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -253,6 +253,11 @@
         "label": "Brasileirão: Avaí",
         "uiTheme": "vs-dark",
         "path": "./themes/avai-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Figueirense",
+        "uiTheme": "vs-dark",
+        "path": "./themes/figueirense-color-theme.json"
       },
       {
         "label": "Brasileirão: Sampaio Corrêa",
@@ -965,6 +970,21 @@
         "id": "brasileirao-avai-1923-2",
         "label": "Brasileirão: Avaí (retrô 1923–1940)",
         "path": "./icons/avai/icon-theme-1923-2.json"
+      },
+      {
+        "id": "brasileirao-figueirense",
+        "label": "Brasileirão: Figueirense",
+        "path": "./icons/figueirense/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-figueirense-1921",
+        "label": "Brasileirão: Figueirense (retrô 1921–1930)",
+        "path": "./icons/figueirense/icon-theme-1921.json"
+      },
+      {
+        "id": "brasileirao-figueirense-1980",
+        "label": "Brasileirão: Figueirense (retrô 1980–1999)",
+        "path": "./icons/figueirense/icon-theme-1980.json"
       },
       {
         "id": "brasileirao-sampaio-correa",

@@ -122,7 +122,9 @@ const times = [
   { slug: 'volta-redonda', uf: 'RJ', crestLabel: 'Volta Redonda (desde 2025)', bgColored: true, swatch: '🟨⬛⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [2024], serieD: [2016], copaDoNordeste: [], copaVerde: [], estadual: [] }, label: 'Volta Redonda', side: '#15130c', bg: '#0c0b08', chrome: '#1b1a14', secondary: '#ffcd00', fg: '#efecdf', primary: '#ffcd00', accent: '#ffd84d', statusBg: '#ffcd00', statusFg: '#0c0b08',
     brackets: ['#ffd84d', '#ffffff', '#ffe88a', '#ffcd00', '#fff3c4', '#e6b800'] },
   { slug: 'avai', uf: 'SC', crestLabel: 'Avaí (desde 2021)', bgColored: true, swatch: '🟦⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [1998], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1924, 1926, 1927, 1928, 1930, 1942, 1943, 1944, 1945, 1973, 1975, 1988, 1997, 2009, 2010, 2012, 2019, 2021, 2025] }, label: 'Avaí', bg: '#07141c', chrome: '#0a5683', secondary: '#ffffff', fg: '#e1eef5', primary: '#1a7db5', accent: '#7ccaf0', statusBg: '#0a6a9c', statusFg: '#ffffff',
-    brackets: ['#7ccaf0', '#ffffff', '#a8dcf6', '#3a9fd4', '#d8eefa', '#5db6e6'] }
+    brackets: ['#7ccaf0', '#ffffff', '#a8dcf6', '#3a9fd4', '#d8eefa', '#5db6e6'] },
+  { slug: 'figueirense', uf: 'SC', crestLabel: 'Figueirense (desde 1999)', bgColored: true, swatch: '⬛⬜🟩', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1932, 1935, 1936, 1937, 1939, 1941, 1972, 1974, 1994, 1999, 2002, 2003, 2004, 2006, 2008, 2014, 2015, 2018] }, label: 'Figueirense', side: '#141414', bg: '#0b0b0b', activity: '#e6e6e6', title: '#000000', secondary: '#3fa86a', fg: '#e8e8e8', primary: '#d4d4d4', accent: '#f4f4f4', statusBg: '#000000', statusFg: '#ffffff', statusBorder: '#3fa86a',
+    brackets: ['#f4f4f4', '#5fcf8e', '#cfcfcf', '#9c9c9c', '#a6e3c0', '#e0e0e0'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São
