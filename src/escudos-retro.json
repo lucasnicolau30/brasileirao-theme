@@ -1412,5 +1412,39 @@
       ],
       "nota": "escudo redondo com o nome do clube por extenso, SANTA CATARINA, o brasão com a figueira ao centro e o anel verde, enviado pelo dono do projeto (PNG de 800 px, traçado); o ND Mais (2017) diz que um escudo redondo com o nome por extenso e Santa Catarina foi usado nos anos 80; período 1980–1999 inferido: é o que a Wikipédia pt lista para o escudo de 1980 até o atual (1999), mas não consegui ver as imagens dela para confirmar qual é; o preto foi clareado (#46423a) para aparecer sobre o fundo escuro do editor"
     }
+  ],
+  "brasilia": [
+    {
+      "id": "2008",
+      "label": "2008–2013",
+      "local": "Brasilia-2008.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.5,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#fe0000",
+        "#ffffff"
+      ],
+      "nota": "círculo vermelho com a andorinha branca e o texto BRASÍLIA FUTEBOL CLUBE 1975, enviado pelo dono do projeto (WebP de 250 px, traçado pelas duas cores); período 2008–2013 segundo o Logopedia (logos.fandom.com), que lista este arquivo (Brasilia-fc-2008-2012-logo) nesse período"
+    },
+    {
+      "id": "2013",
+      "label": "2013–2020",
+      "local": "Brasilia-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.5,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#fe121b",
+        "#ffffff"
+      ],
+      "nota": "círculo vermelho com anel e andorinha brancas e o texto BRASÍLIA FUTEBOL CLUBE - 1975, enviado pelo dono do projeto (WebP de 408 px, traçado pelas duas cores); período 2013–2020 inferido: o Logopedia lista dois escudos nesse intervalo, 2013–2015 (arquivo Brasilia-fc-2013-2019-logo) e 2015–2020 (Brasilia fc), mas não consegui ver as imagens dele para confirmar qual é, então o rótulo cobre os dois"
+    }
   ]
 }

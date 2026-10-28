@@ -64,7 +64,8 @@ const EXPECTED = {
   ituano: [0, 0, 0],
   'volta-redonda': [0, 0, 0],
   avai: [0, 0, 0],
-  figueirense: [0, 0, 0]
+  figueirense: [0, 0, 0],
+  brasilia: [0, 0, 0]
 };
 const FIRST_YEAR = { estadual: 1900, brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994, copaVerde: 2014 };
 // Mundial (Intercontinental + Mundial da FIFA), Sul-Americana, Série B, C e D: [mundial, sulAmericana, serieB, serieC, serieD], conferido à mão nas listas oficiais.
@@ -120,7 +121,8 @@ const EXPECTED_OTHER = {
   ituano: [0, 0, 0, 2, 0],
   'volta-redonda': [0, 0, 0, 1, 1],
   avai: [0, 0, 0, 1, 0],
-  figueirense: [0, 0, 0, 0, 0]
+  figueirense: [0, 0, 0, 0, 0],
+  brasilia: [0, 0, 0, 0, 0]
 };
 const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
@@ -128,17 +130,17 @@ const LAST_YEAR_VERDE = 2026; // a Copa Verde de 2026 já foi decidida (Paysandu
 const LAST_YEAR_ESTADUAL = 2026; // os estaduais de 2026 já foram decididos
 // Copa do Nordeste (só times do Nordeste), conferida à mão na Wikipédia: número de títulos por time.
 // Copa Verde (só times do Norte e do Centro-Oeste), conferida à mão na Wikipédia: número de títulos por time.
-const EXPECTED_VERDE = { paysandu: 6, remo: 1, goias: 1, cuiaba: 2, brasiliense: 1 };
+const EXPECTED_VERDE = { paysandu: 6, remo: 1, goias: 1, cuiaba: 2, brasiliense: 1, brasilia: 1 };
 const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport: 3, 'santa-cruz': 1, 'sampaio-correa': 1, 'america-rn': 1 };
 // Ano repetido na mesma lista só quando houve dois títulos no mesmo ano.
 // Estaduais (tabela de títulos de cada campeonato estadual, ou a lista de campeões onde não há tabela; o América-RN tem 40 no artigo mas só 38 anos
 // listados, então valem os 38). Só os times menores têm: os 12 grandes ficam com [].
-const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juventude: 1, bahia: 52, vitoria: 30, fortaleza: 47, ceara: 47, 'athletico-pr': 28, coritiba: 39, parana: 7, sport: 46, 'santa-cruz': 29, nautico: 24, paysandu: 51, remo: 48, amazonas: 2, goias: 29, 'atletico-go': 18, 'vila-nova': 16, criciuma: 12, chapecoense: 7, 'sampaio-correa': 37, cuiaba: 13, brasiliense: 11, gama: 15, abc: 56, 'america-rn': 38, 'botafogo-pb': 31, 'nacional-am': 44, bangu: 2, ituano: 2, avai: 19, figueirense: 18 };
+const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juventude: 1, bahia: 52, vitoria: 30, fortaleza: 47, ceara: 47, 'athletico-pr': 28, coritiba: 39, parana: 7, sport: 46, 'santa-cruz': 29, nautico: 24, paysandu: 51, remo: 48, amazonas: 2, goias: 29, 'atletico-go': 18, 'vila-nova': 16, criciuma: 12, chapecoense: 7, 'sampaio-correa': 37, cuiaba: 13, brasiliense: 11, gama: 15, abc: 56, 'america-rn': 38, 'botafogo-pb': 31, 'nacional-am': 44, bangu: 2, ituano: 2, avai: 19, figueirense: 18, brasilia: 8 };
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 51 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 51);
+test('há 52 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 52);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -328,6 +330,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Cuiabá'), ['Copa Verde']);
     assert.deepEqual(itens('Brasiliense'), ['Copa Verde', 'Série B', 'Série C']);
     assert.deepEqual(itens('Gama'), ['Série B']);
+    assert.deepEqual(itens('Brasília'), ['Copa Verde']);
     assert.deepEqual(itens('ABC'), ['Série C']);
     assert.deepEqual(itens('América-RN'), ['Copa do Nordeste', 'Série D']);
     assert.deepEqual(itens('Botafogo-PB'), ['Série D']);
@@ -459,5 +462,5 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
     assert.ok(dif >= 0, `${b.slug} (mais títulos) deveria vir antes de ${a.slug}`);
   }
   assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'volta-redonda', 'bangu', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'santo-andre', 'bragantino', 'portuguesa', 'ituano', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'gremio', 'internacional',
-    'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'nacional-am', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'avai', 'figueirense', 'sampaio-correa', 'cuiaba', 'brasiliense', 'gama', 'abc', 'america-rn', 'botafogo-pb']);
+    'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'nacional-am', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'avai', 'figueirense', 'sampaio-correa', 'cuiaba', 'brasiliense', 'gama', 'brasilia', 'abc', 'america-rn', 'botafogo-pb']);
 });

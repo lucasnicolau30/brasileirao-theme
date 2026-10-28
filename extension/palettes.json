@@ -6026,6 +6026,119 @@
       }
     ]
   },
+  "Brasileirão: Brasília": {
+    "slug": "brasilia",
+    "uf": "DF",
+    "crestLabel": "Atual · desde 2020",
+    "crestIcon": "escudo-9fe60aed.svg",
+    "listIcon": "escudo-9fe60aed.svg",
+    "backgroundAspect": 0.997,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [
+        2014
+      ],
+      "estadual": [
+        1976,
+        1977,
+        1978,
+        1980,
+        1982,
+        1983,
+        1984,
+        1987
+      ]
+    },
+    "retro": [
+      {
+        "id": "2008",
+        "label": "2008–2013",
+        "fullLabel": "2008–2013",
+        "atual": false,
+        "file": "retro-2008-49046498.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-brasilia-2008"
+      },
+      {
+        "id": "2013",
+        "label": "2013–2020",
+        "fullLabel": "2013–2020",
+        "atual": false,
+        "file": "retro-2013-336f66fc.svg",
+        "aspect": 1.002,
+        "iconTheme": "brasileirao-brasilia-2013"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬜",
+    "primary": "#db2426",
+    "background": "fundo-f936aade.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-brasilia",
+    "colors": [
+      "rgba(255,106,110,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,160,163,0.08)",
+      "rgba(234,58,62,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#db242633",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6a6e"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffa0a3"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6a6e"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: ABC": {
     "slug": "abc",
     "uf": "RN",
