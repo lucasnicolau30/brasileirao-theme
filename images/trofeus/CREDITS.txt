@@ -48,3 +48,6 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - estadual-df.png
   Taça do Campeonato Brasiliense (Troféu Emanuel Teixeira, 2019), usada nos times do Distrito Federal: imagem fornecida pelo usuário (images (1).jpg, foto da taça), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.
+
+- estadual-mt.png
+  Taça do Campeonato Mato-Grossense (FMF), usada nos times de Mato Grosso: imagem fornecida pelo usuário (51201657669-e5694165d9-b.webp, foto da taça), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.

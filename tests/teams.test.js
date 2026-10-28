@@ -329,8 +329,8 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Sport'), ['Copa do Brasil', 'Brasileirão', 'Copa do Nordeste', 'Série B']);
     // Copa Verde: Paysandu, Remo, Goiás, Cuiabá e Brasiliense a mostram, logo depois da Copa do Nordeste na ordem padrão.
     assert.deepEqual(itens('Goiás'), ['Copa Verde', 'Série B']);
-    assert.deepEqual(itens('Cuiabá'), ['Copa Verde']);
-    assert.deepEqual(itens('Luverdense'), ['Copa Verde'], 'Luverdense: o Mato-Grossense não tem a foto da taça, então o Estadual não aparece');
+    assert.deepEqual(itens('Cuiabá'), ['Copa Verde', 'Estadual']);
+    assert.deepEqual(itens('Luverdense'), ['Copa Verde', 'Estadual']);
     assert.deepEqual(itens('Brasiliense'), ['Copa Verde', 'Série B', 'Série C', 'Estadual']);
     assert.deepEqual(itens('Gama'), ['Série B', 'Estadual']);
     assert.deepEqual(itens('Brasília'), ['Copa Verde', 'Estadual']);
@@ -354,6 +354,8 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     // Potiguar (ABC e América-RN) e Brasiliense (Brasiliense, Gama e Brasília): taças do estado.
     for (const time of ['ABC', 'América-RN']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-rn.png')), `${time}: deve usar o troféu do Potiguar`);
     for (const time of ['Brasiliense', 'Gama', 'Brasília']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-df.png')), `${time}: deve usar o troféu do Brasiliense`);
+    // Mato-Grossense (Cuiabá e Luverdense): taça do estado.
+    for (const time of ['Cuiabá', 'Luverdense']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-mt.png')), `${time}: deve usar o troféu do Mato-Grossense`);
     assert.deepEqual(itens('Volta Redonda'), ['Série C', 'Série D'], 'Volta Redonda: só Séries C e D (sem título carioca, então sem Estadual)');
     for (const time of ['Bragantino', 'Portuguesa', 'Ituano']) assert.ok(itens(time).includes('Estadual') && m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-sp.png')), `${time}: deve usar o troféu do Paulista`);
     for (const time of ['Guarani', 'Santo André', 'Mirassol', 'Ponte Preta', 'Palmeiras']) assert.ok(!itens(time).includes('Estadual'), `${time}: sem Estadual`);
