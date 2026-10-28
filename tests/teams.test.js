@@ -441,7 +441,7 @@ test('os escudos antigos de todo time estão em ordem cronológica no seletor', 
   }
 });
 
-test('os times estão agrupados por estado e, em cada estado, em ordem de títulos (Libertadores, Brasileirão, Copa do Brasil, Sul-Americana, Séries B, C e D)', () => {
+test('os times estão agrupados por estado e, em cada estado, em ordem de títulos (Libertadores, Brasileirão, Copa do Brasil, Sul-Americana, Séries B, C e D e, no desempate, o Estadual)', () => {
   const uf = (x) => x.uf;
   const vistos = [];
   teams.forEach((x, i) => {
@@ -453,8 +453,8 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
     const a = teams[i - 1];
     const b = teams[i];
     if (uf(a) !== uf(b)) continue;
-    // Mais títulos primeiro, comparando nesta ordem; só se tudo empata vale a ordem do arquivo (Série B vale mais que a C, que vale mais que a D).
-    const criterios = ['libertadores', 'brasileirao', 'copaDoBrasil', 'sulAmericana', 'serieB', 'serieC', 'serieD'];
+    // Mais títulos primeiro, comparando nesta ordem; só se tudo empata vale a ordem do arquivo (Série B vale mais que a C, que vale mais que a D; sem troféu nacional que desempate, vale o estadual).
+    const criterios = ['libertadores', 'brasileirao', 'copaDoBrasil', 'sulAmericana', 'serieB', 'serieC', 'serieD', 'estadual'];
     const dif = criterios.map((k) => a.titles[k].length - b.titles[k].length).find((d) => d !== 0) || 0;
     assert.ok(dif >= 0, `${b.slug} (mais títulos) deveria vir antes de ${a.slug}`);
   }

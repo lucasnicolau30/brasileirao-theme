@@ -129,10 +129,11 @@ const times = [
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São
 // Paulo, Minas, Rio Grande do Sul, Bahia, Ceará, Paraná, Pernambuco, Pará, Amazonas, Goiás). Dentro de cada estado, por títulos, comparando nesta ordem:
-// Libertadores, Brasileirão, Copa do Brasil, Sul-Americana e Séries B, C e D (mais títulos primeiro; persistindo o empate, vale a ordem do arquivo).
+// Libertadores, Brasileirão, Copa do Brasil, Sul-Americana e Séries B, C e D (mais títulos primeiro) e, por último, o Estadual: sem troféu nacional que desempate, vale o estadual
+// (os 12 grandes têm estadual [], então ele só desempata os times menores). Persistindo o empate, vale a ordem do arquivo.
 const estado = (t) => t.uf;
 const estados = [...new Set(times.map(estado))];
-const CRITERIOS = ['libertadores', 'brasileirao', 'copaDoBrasil', 'sulAmericana', 'serieB', 'serieC', 'serieD'];
+const CRITERIOS = ['libertadores', 'brasileirao', 'copaDoBrasil', 'sulAmericana', 'serieB', 'serieC', 'serieD', 'estadual'];
 const porTitulos = (a, b) => {
   for (const k of CRITERIOS) {
     const d = b.titles[k].length - a.titles[k].length;
