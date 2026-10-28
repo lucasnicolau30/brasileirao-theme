@@ -45,3 +45,6 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - estadual-rn.png
   Taça do Campeonato Potiguar (2025), usada nos times do Rio Grande do Norte: imagem fornecida pelo usuário (035d55290a0b10eff4fa4d65355b6100.jpg, miniatura do site da FNF), sem autor nem licença conhecidos. Recortada do fundo (contorno traçado à mão) e redimensionada para 380 px de altura.
+
+- estadual-df.png
+  Taça do Campeonato Brasiliense (Troféu Emanuel Teixeira, 2019), usada nos times do Distrito Federal: imagem fornecida pelo usuário (images (1).jpg, foto da taça), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.
