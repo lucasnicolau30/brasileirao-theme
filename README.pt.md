@@ -11,7 +11,7 @@ Um tema escuro e um tema de ícones para cada um de 47 times do Brasileirão e d
 
 > Projeto independente. Sem ligação com nenhum clube de futebol, com a CBF ou com o Brasileirão. Os nomes e os escudos dos clubes são marcas dos respectivos donos. Veja [Créditos e licenças](#créditos-e-licenças).
 
-Times: Flamengo, Fluminense, Vasco, Botafogo, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Santo André, Bragantino, Portuguesa, Mirassol, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Paysandu, Remo, Amazonas, Goiás, Atlético-GO, Vila Nova, Criciúma, Chapecoense, Sampaio Corrêa, Cuiabá, Brasiliense, Gama, ABC, América-RN, Botafogo-PB, Nacional-AM e Bangu.
+Times: Flamengo, Fluminense, Vasco, Botafogo, Bangu, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Santo André, Bragantino, Portuguesa, Mirassol, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Paysandu, Remo, Amazonas, Nacional-AM, Goiás, Atlético-GO, Vila Nova, Criciúma, Chapecoense, Sampaio Corrêa, Cuiabá, Brasiliense, Gama, ABC, América-RN e Botafogo-PB.
 
 ## O que você recebe
 
@@ -69,6 +69,7 @@ Os dados ficam no campo `titles` de `src/teams.js`, até a temporada 2025 (Copa 
 | Fluminense | `#8f1d3d` | `#ec7898` | `#8f1d3d` |
 | Vasco | `#e0e0e0` | `#f0f0f0` | `#000000` |
 | Botafogo | `#eef3f9` | `#ffffff` | `#eef3f9` |
+| Bangu | `#e2001a` | `#ff5f6d` | `#b8101c` |
 | Palmeiras | `#0b7a43` | `#3ccf8a` | `#006437` |
 | Santos | `#f3ead8` | `#f6eedc` | `#e8dfcc` |
 | São Paulo | `#d3112d` | `#ff5c6c` | `#f4f4f4` |
@@ -98,6 +99,7 @@ Os dados ficam no campo `titles` de `src/teams.js`, até a temporada 2025 (Copa 
 | Paysandu | `#1b8fd6` | `#8fd6ff` | `#0a6aa8` |
 | Remo | `#2a56c6` | `#7a9dff` | `#0d2a73` |
 | Amazonas | `#f2c200` | `#ffd84d` | `#f2c200` |
+| Nacional-AM | `#2a66e0` | `#7fb0ff` | `#0a3cb4` |
 | Goiás | `#0aa876` | `#3fe0b0` | `#0a7a5c` |
 | Atlético-GO | `#c82018` | `#ff5a52` | `#000000` |
 | Vila Nova | `#e01820` | `#ff6a6a` | `#b8151a` |
@@ -110,8 +112,6 @@ Os dados ficam no campo `titles` de `src/teams.js`, até a temporada 2025 (Copa 
 | ABC | `#d4d4d4` | `#f4f4f4` | `#000000` |
 | América-RN | `#e41920` | `#ff6b6f` | `#b9141a` |
 | Botafogo-PB | `#d83040` | `#ff6a78` | `#000000` |
-| Nacional-AM | `#2a66e0` | `#7fb0ff` | `#0a3cb4` |
-| Bangu | `#e2001a` | `#ff5f6d` | `#b8101c` |
 
 A cor oficial do clube nem sempre serve como texto sobre fundo escuro (os azuis, por exemplo, ficam apagados). Por isso cada time tem a cor principal, usada em áreas preenchidas, e uma versão mais clara para texto.
 
