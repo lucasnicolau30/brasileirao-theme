@@ -57,3 +57,6 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - estadual-mg.png
   Taça do Campeonato Mineiro (FMF, Sicoob), usada nos times de Minas Gerais: imagem fornecida pelo usuário (images (1).jpg, foto da taça), sem autor nem licença conhecidos. Recortada do fundo (traçado à mão e GrabCut) e redimensionada para 380 px de altura.
+
+- estadual-al.png
+  Taça do Campeonato Alagoano, usada nos times de Alagoas: imagem fornecida pelo usuário (images (1).jpg, foto da taça), sem autor nem licença conhecidos. Recortada do fundo (traçado à mão e GrabCut) e redimensionada para 380 px de altura.

@@ -387,9 +387,10 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     // Mineiro (América-MG): taça do estado; Uberlândia, Tombense e Tupi só têm o Mineiro do Interior, que não conta.
     assert.deepEqual(itens('América-MG'), ['Série C', 'Série B', 'Estadual'], 'América-MG: a Série B fica no centro (titleOrder em teams.js)');
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: América-MG`]).includes(b64('estadual-mg.png')), 'América-MG: deve usar o troféu do Mineiro');
-    // Alagoas ainda não tem a foto da taça: CRB e CSA não mostram o Estadual.
-    assert.deepEqual(itens('CRB'), []);
-    assert.deepEqual(itens('CSA'), ['Série C']);
+    // Alagoano (CRB e CSA): taça do estado; só o CSA tem título nacional (Série C 2017).
+    assert.deepEqual(itens('CRB'), ['Estadual']);
+    assert.deepEqual(itens('CSA'), ['Série C', 'Estadual']);
+    for (const time of ['CRB', 'CSA']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-al.png')), `${time}: deve usar o troféu do Alagoano`);
     // Paraibano (Botafogo-PB e Campinense): taça do estado.
     for (const time of ['Botafogo-PB', 'Campinense']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-pb.png')), `${time}: deve usar o troféu do Paraibano`);
     // Mato-Grossense (Cuiabá e Luverdense): taça do estado.
