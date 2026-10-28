@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 46 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 47 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -58,6 +58,11 @@
         "label": "Brasileirão: Botafogo",
         "uiTheme": "vs-dark",
         "path": "./themes/botafogo-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Bangu",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bangu-color-theme.json"
       },
       {
         "label": "Brasileirão: Palmeiras",
@@ -350,6 +355,21 @@
         "id": "brasileirao-botafogo-1904",
         "label": "Brasileirão: Botafogo (retrô 1904–1942)",
         "path": "./icons/botafogo/icon-theme-1904.json"
+      },
+      {
+        "id": "brasileirao-bangu",
+        "label": "Brasileirão: Bangu",
+        "path": "./icons/bangu/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-bangu-1906",
+        "label": "Brasileirão: Bangu (retrô 1906–1950)",
+        "path": "./icons/bangu/icon-theme-1906.json"
+      },
+      {
+        "id": "brasileirao-bangu-1949",
+        "label": "Brasileirão: Bangu (retrô 1949–1956)",
+        "path": "./icons/bangu/icon-theme-1949.json"
       },
       {
         "id": "brasileirao-palmeiras",

@@ -490,6 +490,111 @@
       }
     ]
   },
+  "Brasileirão: Bangu": {
+    "slug": "bangu",
+    "uf": "RJ",
+    "crestLabel": "Atual · desde 2012",
+    "crestIcon": "escudo-703558e9.svg",
+    "listIcon": "escudo-703558e9.svg",
+    "backgroundAspect": 0.936,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1933,
+        1966
+      ]
+    },
+    "retro": [
+      {
+        "id": "1906",
+        "label": "1906–1950",
+        "fullLabel": "1906–1950",
+        "atual": false,
+        "file": "retro-1906-5a20600e.svg",
+        "aspect": 2.077,
+        "iconTheme": "brasileirao-bangu-1906"
+      },
+      {
+        "id": "1949",
+        "label": "1949–1956",
+        "fullLabel": "1949–1956",
+        "atual": false,
+        "file": "retro-1949-2b0e8e4d.svg",
+        "aspect": 1.904,
+        "iconTheme": "brasileirao-bangu-1949"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬜",
+    "primary": "#e2001a",
+    "background": "fundo-73857729.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-bangu",
+    "colors": [
+      "rgba(255,95,109,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,154,163,0.08)",
+      "rgba(238,51,66,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e2001a33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff5f6d"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff9aa3"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff5f6d"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Palmeiras": {
     "slug": "palmeiras",
     "uf": "SP",

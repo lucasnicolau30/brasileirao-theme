@@ -1267,5 +1267,41 @@
       ],
       "nota": "águia dourada e brilhante com contorno verde, escudo azul com o N e as seis estrelas do hexa mais a estrela azul, enviado pelo dono do projeto (PNG de 200 px, com o brilho e o degradê reduzidos a poucas cores chapadas antes de traçar: ouro, verde, três azuis e branco); período 2012–2013 inferido: a Wikipédia pt conta que em 2012 um grupo de marketing apresentou um novo formato do brasão, contestado pela torcida, e que em 2013 as falhas foram corrigidas (o Logopedia lista 2012–2013 e 2013–atual), mas não consegui ver as imagens dele para confirmar"
     }
+  ],
+  "bangu": [
+    {
+      "id": "1906",
+      "label": "1906–1950",
+      "local": "Bangu-1906.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#f4f4f0",
+        "#ed3237"
+      ],
+      "nota": "losango vermelho e branco com as letras B A C, enviado pelo dono do projeto (PNG de 320 px do SeekLogo, traçado); o SeekLogo o chama de \"primeiro escudo do time\" e o data de 1906 (também no nome do arquivo); período 1906–1950 inferido: o início é o do SeekLogo e o fim é a virada do primeiro período do Logopedia (logos.fandom.com), que lista 1905–1950 para o primeiro escudo do clube, mas não consegui ver as imagens dele para confirmar qual é"
+    },
+    {
+      "id": "1949",
+      "label": "1949–1956",
+      "local": "Bangu-1949.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#f4f4f0",
+        "#f70400",
+        "#46423a"
+      ],
+      "nota": "losango com a palavra BANGU em vermelho e moldura preta, enviado pelo dono do projeto (PNG de 617 px, traçado); é o losango da Fábrica Bangu, que o clube estampou na camisa (a Wikipédia pt conta que foi pioneiro na publicidade em camisas, com o losango da fábrica em 1949, e a Revista REGEO diz que o arranjo durou até 1956), então não é um escudo do clube em si; período 1949–1956; a moldura preta foi clareada (#46423a) para aparecer sobre o fundo escuro do editor"
+    }
   ]
 }
