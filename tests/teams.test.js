@@ -313,7 +313,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     m.paths = Module._nodeModulePaths(path.dirname(file));
     m._compile(`${fs.readFileSync(file, 'utf8')}\nmodule.exports.titlesHtml = titlesHtml;`, file);
     const itens = (team) => [...m.exports.titlesHtml(palettes[`${PREFIX}: ${team}`]).matchAll(/<div class="name">([^<]+)<\/div>/g)].map((x) => x[1]);
-    assert.deepEqual(itens('Amazonas'), ['Série C', 'Estadual'], 'só o que o time ganhou, sem troféus zerados');
+    assert.deepEqual(itens('Amazonas FC'), ['Série C', 'Estadual'], 'só o que o time ganhou, sem troféus zerados');
     assert.deepEqual(itens('Flamengo'), ['Copa do Brasil', 'Libertadores', 'Mundial', 'Brasileirão'], 'o Mundial fica logo à direita da Libertadores');
     assert.deepEqual(itens('São Paulo'), ['Copa do Brasil', 'Libertadores', 'Mundial', 'Brasileirão', 'Sul-Americana']);
     // Com 5 competições o Mundial (o ápice) fica no centro.
@@ -324,7 +324,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     // Sampaio Corrêa: a ordem vem de titleOrder em teams.js (Série C, Série B, Copa do Nordeste, Série D), não da lista padrão.
     assert.deepEqual(itens('Sampaio Corrêa'), ['Série C', 'Série B', 'Copa do Nordeste', 'Série D']);
     // Todos os troféus têm a mesma altura: nenhum item recebe classe de tamanho especial, e a altura vem de uma variável única.
-    for (const time of ['São Paulo', 'Flamengo', 'Palmeiras', 'Amazonas']) assert.ok(!/class="item big/.test(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`])), `${time}: nenhum troféu pode ser maior que os outros`);
+    for (const time of ['São Paulo', 'Flamengo', 'Palmeiras', 'Amazonas FC']) assert.ok(!/class="item big/.test(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`])), `${time}: nenhum troféu pode ser maior que os outros`);
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: Flamengo`]).includes('var(--h)'), 'a altura dos troféus deve vir da variável única --h');
     // Copa do Nordeste: só os times do Nordeste a mostram (Ceará só tem ela).
     assert.deepEqual(itens('Ceará'), ['Copa do Nordeste']);
@@ -346,7 +346,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Manaus FC'), ['Estadual']);
     // O Estadual usa o troféu do estado (estadual-<uf>.png: o Amazonense nos times do Amazonas); estado sem a foto não mostra o Estadual (Remo, do Pará).
     const b64 = (f) => fs.readFileSync(path.join(root, 'images', 'trofeus', f)).toString('base64');
-    for (const time of ['Nacional-AM', 'Amazonas', 'São Raimundo-AM', 'Manaus FC']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-am.png')), `${time}: deve usar o troféu do Amazonense`);
+    for (const time of ['Nacional-AM', 'Amazonas FC', 'São Raimundo-AM', 'Manaus FC']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-am.png')), `${time}: deve usar o troféu do Amazonense`);
     // Bangu, o único time menor do Rio: o Estadual dele usa a taça do Carioca (estadual-rj.png).
     assert.deepEqual(itens('Bangu'), ['Estadual']);
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: Bangu`]).includes(b64('estadual-rj.png')), 'Bangu: deve usar o troféu do Carioca');
@@ -379,7 +379,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     const linha = (team) => m.exports.titlesHtml(palettes[`${PREFIX}: ${team}`]).includes('class="row inline"');
     assert.equal(linha('Flamengo'), true, 'Flamengo (4 competições) deve ficar numa linha só');
     assert.equal(linha('São Paulo'), true, 'São Paulo (5 competições) deve ficar numa linha só');
-    assert.equal(linha('Amazonas'), false, 'um item só não precisa de linha única');
+    assert.equal(linha('Amazonas FC'), false, 'um item só não precisa de linha única');
     assert.equal(linha('Botafogo'), false, 'três itens ou menos usam o tamanho normal');
   } finally {
     Module._load = original;

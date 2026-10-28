@@ -215,7 +215,7 @@
         "path": "./themes/remo-color-theme.json"
       },
       {
-        "label": "Brasileirão: Amazonas",
+        "label": "Brasileirão: Amazonas FC",
         "uiTheme": "vs-dark",
         "path": "./themes/amazonas-color-theme.json"
       },
@@ -883,12 +883,12 @@
       },
       {
         "id": "brasileirao-amazonas",
-        "label": "Brasileirão: Amazonas",
+        "label": "Brasileirão: Amazonas FC",
         "path": "./icons/amazonas/icon-theme.json"
       },
       {
         "id": "brasileirao-amazonas-2019",
-        "label": "Brasileirão: Amazonas (retrô 2019–2023)",
+        "label": "Brasileirão: Amazonas FC (retrô 2019–2023)",
         "path": "./icons/amazonas/icon-theme-2019.json"
       },
       {

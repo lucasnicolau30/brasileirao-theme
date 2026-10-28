@@ -11,7 +11,7 @@ Um tema escuro e um tema de ícones para cada um de 55 times do Brasileirão e d
 
 > Projeto independente. Sem ligação com nenhum clube de futebol, com a CBF ou com o Brasileirão. Os nomes e os escudos dos clubes são marcas dos respectivos donos. Veja [Créditos e licenças](#créditos-e-licenças).
 
-Times: Flamengo, Fluminense, Vasco, Botafogo, Volta Redonda, Bangu, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Santo André, Bragantino, Portuguesa, Ituano, Mirassol, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Paysandu, Remo, Amazonas, Nacional-AM, São Raimundo-AM, Manaus FC, Goiás, Atlético-GO, Vila Nova, Criciúma, Chapecoense, Avaí, Figueirense, Sampaio Corrêa, Cuiabá, Luverdense, Brasiliense, Gama, Brasília, ABC, América-RN e Botafogo-PB.
+Times: Flamengo, Fluminense, Vasco, Botafogo, Volta Redonda, Bangu, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Santo André, Bragantino, Portuguesa, Ituano, Mirassol, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Paysandu, Remo, Amazonas FC, Nacional-AM, São Raimundo-AM, Manaus FC, Goiás, Atlético-GO, Vila Nova, Criciúma, Chapecoense, Avaí, Figueirense, Sampaio Corrêa, Cuiabá, Luverdense, Brasiliense, Gama, Brasília, ABC, América-RN e Botafogo-PB.
 
 ## O que você recebe
 
@@ -100,7 +100,7 @@ Os dados ficam no campo `titles` de `src/teams.js`, até a temporada 2025 (Copa 
 | Náutico | `#d6232d` | `#ff5f68` | `#b81a22` |
 | Paysandu | `#1b8fd6` | `#8fd6ff` | `#0a6aa8` |
 | Remo | `#2a56c6` | `#7a9dff` | `#0d2a73` |
-| Amazonas | `#f2c200` | `#ffd84d` | `#f2c200` |
+| Amazonas FC | `#f2c200` | `#ffd84d` | `#f2c200` |
 | Nacional-AM | `#2a66e0` | `#7fb0ff` | `#0a3cb4` |
 | São Raimundo-AM | `#4a7be8` | `#86a6ff` | `#1f45ac` |
 | Manaus FC | `#3aa84a` | `#6fdc86` | `#0b6b2e` |
