@@ -120,7 +120,9 @@ const times = [
   { slug: 'ituano', uf: 'SP', crestLabel: 'Ituano (desde 1999)', bgColored: true, swatch: '⬛🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [2003, 2021], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [2002, 2014] }, label: 'Ituano', side: '#150e10', bg: '#0d0a0b', chrome: '#1c1c1c', secondary: '#e2041b', fg: '#ece6e6', primary: '#e2041b', accent: '#ff5a6a', statusBg: '#000000', statusFg: '#ffffff', statusBorder: '#e2041b',
     brackets: ['#ff5a6a', '#ffffff', '#ff9aa4', '#ec3347', '#f7d6da', '#ff7888'] },
   { slug: 'volta-redonda', uf: 'RJ', crestLabel: 'Volta Redonda (desde 2025)', bgColored: true, swatch: '🟨⬛⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [2024], serieD: [2016], copaDoNordeste: [], copaVerde: [], estadual: [] }, label: 'Volta Redonda', side: '#15130c', bg: '#0c0b08', chrome: '#1b1a14', secondary: '#ffcd00', fg: '#efecdf', primary: '#ffcd00', accent: '#ffd84d', statusBg: '#ffcd00', statusFg: '#0c0b08',
-    brackets: ['#ffd84d', '#ffffff', '#ffe88a', '#ffcd00', '#fff3c4', '#e6b800'] }
+    brackets: ['#ffd84d', '#ffffff', '#ffe88a', '#ffcd00', '#fff3c4', '#e6b800'] },
+  { slug: 'avai', uf: 'SC', crestLabel: 'Avaí (desde 2021)', bgColored: true, swatch: '🟦⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [1998], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1924, 1926, 1927, 1928, 1930, 1942, 1943, 1944, 1945, 1973, 1975, 1988, 1997, 2009, 2010, 2012, 2019, 2021, 2025] }, label: 'Avaí', bg: '#07141c', chrome: '#0a5683', secondary: '#ffffff', fg: '#e1eef5', primary: '#1a7db5', accent: '#7ccaf0', statusBg: '#0a6a9c', statusFg: '#ffffff',
+    brackets: ['#7ccaf0', '#ffffff', '#a8dcf6', '#3a9fd4', '#d8eefa', '#5db6e6'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

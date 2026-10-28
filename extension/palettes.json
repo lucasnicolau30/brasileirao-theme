@@ -5286,6 +5286,130 @@
       }
     ]
   },
+  "Brasileirão: Avaí": {
+    "slug": "avai",
+    "uf": "SC",
+    "crestLabel": "Atual · desde 2021",
+    "crestIcon": "escudo-ed03e398.svg",
+    "listIcon": "escudo-ed03e398.svg",
+    "backgroundAspect": 0.788,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        1998
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1924,
+        1926,
+        1927,
+        1928,
+        1930,
+        1942,
+        1943,
+        1944,
+        1945,
+        1973,
+        1975,
+        1988,
+        1997,
+        2009,
+        2010,
+        2012,
+        2019,
+        2021,
+        2025
+      ]
+    },
+    "retro": [
+      {
+        "id": "1923-1",
+        "label": "1923",
+        "fullLabel": "1923",
+        "atual": false,
+        "file": "retro-1923-1-db92b135.svg",
+        "aspect": 0.987,
+        "iconTheme": "brasileirao-avai-1923-1"
+      },
+      {
+        "id": "1923-2",
+        "label": "1923–1940",
+        "fullLabel": "1923–1940",
+        "atual": false,
+        "file": "retro-1923-2-2e8bbc93.svg",
+        "aspect": 0.767,
+        "iconTheme": "brasileirao-avai-1923-2"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟦⬜",
+    "primary": "#1a7db5",
+    "background": "fundo-eb24ea6d.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-avai",
+    "colors": [
+      "rgba(124,202,240,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(168,220,246,0.08)",
+      "rgba(58,159,212,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#1a7db533",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#7ccaf0"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#a8dcf6"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#7ccaf0"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Sampaio Corrêa": {
     "slug": "sampaio-correa",
     "uf": "MA",

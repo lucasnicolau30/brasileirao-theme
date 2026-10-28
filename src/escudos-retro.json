@@ -1360,5 +1360,35 @@
       ],
       "nota": "primeiro escudo do clube (fundado em 09/02/1976), o brasão preto com as letras VRFC, o U branco e as setas de raios cruzadas, enviado pelo dono do projeto (WebP de 1000 px, com a borda semitransparente achatada sobre o branco e traçado); período 1976–1980 segundo o Logopedia (logos.fandom.com), que lista este arquivo (Volta-Redonda-1976) como o primeiro período do clube; o preto foi clareado (#46423a) para aparecer sobre o fundo escuro do editor"
     }
+  ],
+  "avai": [
+    {
+      "id": "1923-1",
+      "label": "1923",
+      "local": "Avai-1923-1.png",
+      "vetorizar": "alfa",
+      "vetorizarPaleta": [
+        "#003380",
+        "#ffffff"
+      ],
+      "nota": "brasão azul com o círculo branco e as letras AFC (Avahy Foot-ball Club), enviado pelo dono do projeto (WebP de 3840 px do Avahy FC (01), traçado pelas duas cores; a lasca branca solta por fora da borda azul, na parte de baixo do arquivo original, foi apagada antes de traçar, porque no fundo escuro parecia um vão na ponta do escudo) (a Wikipédia pt diz que, nos primeiros anos, o clube, então Avahy Foot-ball Club, tinha um escudo em forma de brasão com um círculo branco e as letras AFC em azul; o Logopedia, logos.fandom.com, lista dois escudos de 1923, o de \"1923\" e o de \"1923–1940\", mas não consegui ver as imagens dele, então qual arquivo é qual é inferência); o nome do arquivo (01) indica o primeiro"
+    },
+    {
+      "id": "1923-2",
+      "label": "1923–1940",
+      "local": "Avai-1923-2.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#044897",
+        "#ffffff"
+      ],
+      "nota": "escudo azul com filete branco por dentro e as letras AFC inclinadas, enviado pelo dono do projeto (PNG de 554 px, traçado pelas cores) (a Wikipédia pt diz que, nos primeiros anos, o clube, então Avahy Foot-ball Club, tinha um escudo em forma de brasão com um círculo branco e as letras AFC em azul; o Logopedia, logos.fandom.com, lista dois escudos de 1923, o de \"1923\" e o de \"1923–1940\", mas não consegui ver as imagens dele, então qual arquivo é qual é inferência); é o segundo, que o Logopedia dá de 1923 a 1940"
+    }
   ]
 }

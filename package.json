@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 49 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 50 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -248,6 +248,11 @@
         "label": "Brasileirão: Chapecoense",
         "uiTheme": "vs-dark",
         "path": "./themes/chapecoense-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Avaí",
+        "uiTheme": "vs-dark",
+        "path": "./themes/avai-color-theme.json"
       },
       {
         "label": "Brasileirão: Sampaio Corrêa",
@@ -945,6 +950,21 @@
         "id": "brasileirao-chapecoense-1975",
         "label": "Brasileirão: Chapecoense (retrô 1975–1984)",
         "path": "./icons/chapecoense/icon-theme-1975.json"
+      },
+      {
+        "id": "brasileirao-avai",
+        "label": "Brasileirão: Avaí",
+        "path": "./icons/avai/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-avai-1923-1",
+        "label": "Brasileirão: Avaí (retrô 1923)",
+        "path": "./icons/avai/icon-theme-1923-1.json"
+      },
+      {
+        "id": "brasileirao-avai-1923-2",
+        "label": "Brasileirão: Avaí (retrô 1923–1940)",
+        "path": "./icons/avai/icon-theme-1923-2.json"
       },
       {
         "id": "brasileirao-sampaio-correa",
