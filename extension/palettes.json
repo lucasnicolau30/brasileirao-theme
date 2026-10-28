@@ -7556,5 +7556,153 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: CRB": {
+    "slug": "crb",
+    "uf": "AL",
+    "crestLabel": "Atual · desde 2012",
+    "crestIcon": "escudo-be998115.svg",
+    "listIcon": "escudo-be998115.svg",
+    "backgroundAspect": 1.011,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1918,
+        1919,
+        1920,
+        1921,
+        1922,
+        1923,
+        1924,
+        1925,
+        1926,
+        1927,
+        1930,
+        1937,
+        1938,
+        1939,
+        1940,
+        1950,
+        1951,
+        1961,
+        1964,
+        1969,
+        1970,
+        1972,
+        1973,
+        1976,
+        1977,
+        1978,
+        1979,
+        1983,
+        1986,
+        1987,
+        1992,
+        1993,
+        1995,
+        2002,
+        2012,
+        2013,
+        2015,
+        2016,
+        2017,
+        2020,
+        2022,
+        2023,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "retro": [
+      {
+        "id": "1927",
+        "label": "1927–1959",
+        "fullLabel": "1927–1959",
+        "atual": false,
+        "file": "retro-1927-3b873aa9.svg",
+        "aspect": 1.837,
+        "iconTheme": "brasileirao-crb-1927"
+      },
+      {
+        "id": "1959",
+        "label": "1959–1979",
+        "fullLabel": "1959–1979",
+        "atual": false,
+        "file": "retro-1959-6b77c8fe.svg",
+        "aspect": 1.35,
+        "iconTheme": "brasileirao-crb-1959"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬜",
+    "primary": "#d12a32",
+    "background": "fundo-09df6418.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-crb",
+    "colors": [
+      "rgba(255,115,122,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,166,170,0.08)",
+      "rgba(232,74,82,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d12a3233",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff737a"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffa6aa"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff737a"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

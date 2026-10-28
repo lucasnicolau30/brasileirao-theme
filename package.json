@@ -343,6 +343,11 @@
         "label": "Brasileirão: Campinense",
         "uiTheme": "vs-dark",
         "path": "./themes/campinense-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: CRB",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crb-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1265,6 +1270,21 @@
         "id": "brasileirao-campinense-1960",
         "label": "Brasileirão: Campinense (retrô 1960–1969)",
         "path": "./icons/campinense/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-crb",
+        "label": "Brasileirão: CRB",
+        "path": "./icons/crb/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-crb-1927",
+        "label": "Brasileirão: CRB (retrô 1927–1959)",
+        "path": "./icons/crb/icon-theme-1927.json"
+      },
+      {
+        "id": "brasileirao-crb-1959",
+        "label": "Brasileirão: CRB (retrô 1959–1979)",
+        "path": "./icons/crb/icon-theme-1959.json"
       }
     ],
     "commands": [

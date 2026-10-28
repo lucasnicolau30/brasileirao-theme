@@ -1701,5 +1701,44 @@
       ],
       "nota": "escudo branco com a faixa verde U.E.C. e a bola, enviado pelo dono do projeto (WebP de 200 px, convertido para PNG, ampliado e traçado); período 1966–1968 segundo o Logopedia (logos.fandom.com)"
     }
+  ],
+  "crb": [
+    {
+      "id": "1927",
+      "label": "1927–1959",
+      "local": "CRB-1927.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ed0303",
+        "#ffffff"
+      ],
+      "nota": "escudo retangular vermelho com a sigla CRB em branco, enviado pelo dono do projeto (PNG de 185 px, ampliado e traçado nas cores do original); período 1927–1959 segundo a linha do tempo de escudos da Wikipédia pt (1927, 1959, 1979) e o Futbox (1927, 1959, 1979 e 2012); cada escudo vale até o ano do seguinte"
+    },
+    {
+      "id": "1959",
+      "label": "1959–1979",
+      "local": "CRB-1959.png",
+      "vetorizar": "alfa",
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#da3540",
+        "#c0c0c0",
+        "#000000"
+      ],
+      "nota": "escudo com a boia vermelha, os dois remos cruzados, a corrente e as letras C, R e B, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado nas cores do original; o preto da corrente e das letras, que ficam fora da boia, foi trocado por cinza-claro, #c0c0c0, para aparecer sobre o fundo escuro do editor; o branco de fora da boia, dentro das letras, dos elos da corrente e entre os remos, foi tornado transparente); período 1959–1979 segundo a Wikipédia pt e o Futbox, que datam este escudo de 1959 e o seguinte de 1979"
+    }
   ]
 }

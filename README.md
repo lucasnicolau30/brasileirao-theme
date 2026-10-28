@@ -7,11 +7,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat)](LICENSE)
 
-A dark theme and an icon theme for each of 61 clubs of the Brazilian league system (Brasileirão and the lower divisions). The base is the same for all (dark background, light text, discreet syntax). What changes is the club's identity: its color shows up on the active line, line numbers, indent guides, bracket pairs, rulers, the active tab, the cursor, the selection and the status bar — and, behind your code, a faint version of the club's crest.
+A dark theme and an icon theme for each of 62 clubs of the Brazilian league system (Brasileirão and the lower divisions). The base is the same for all (dark background, light text, discreet syntax). What changes is the club's identity: its color shows up on the active line, line numbers, indent guides, bracket pairs, rulers, the active tab, the cursor, the selection and the status bar — and, behind your code, a faint version of the club's crest.
 
 > Independent project. Not affiliated with any football club, with the CBF or with the Brasileirão. Club names and crests are trademarks of their owners. See [Credits and licenses](#credits-and-licenses).
 
-Teams: Flamengo, Fluminense, Vasco, Botafogo, Volta Redonda, Bangu, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Paulista, Santo André, Bragantino, Portuguesa, Ituano, Mirassol, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Uberlândia, Tombense, Tupi, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Paysandu, Remo, Amazonas FC, Nacional-AM, Rio Negro-AM, São Raimundo-AM, Manaus FC, Goiás, Atlético-GO, Vila Nova, Criciúma, Chapecoense, Avaí, Figueirense, Sampaio Corrêa, Cuiabá, Luverdense, Brasiliense, Gama, Brasília, ABC, América-RN, Botafogo-PB and Campinense.
+Teams: Flamengo, Fluminense, Vasco, Botafogo, Volta Redonda, Bangu, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Paulista, Santo André, Bragantino, Portuguesa, Ituano, Mirassol, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Uberlândia, Tombense, Tupi, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Paysandu, Remo, Amazonas FC, Nacional-AM, Rio Negro-AM, São Raimundo-AM, Manaus FC, Goiás, Atlético-GO, Vila Nova, Criciúma, Chapecoense, Avaí, Figueirense, Sampaio Corrêa, Cuiabá, Luverdense, Brasiliense, Gama, Brasília, ABC, América-RN, Botafogo-PB, Campinense and CRB.
 
 ## What you get
 
@@ -19,7 +19,7 @@ Teams: Flamengo, Fluminense, Vasco, Botafogo, Volta Redonda, Bangu, Palmeiras, S
 - **An icon theme per club**: the club's crest replaces the folder icon. File icons come from Material Icon Theme.
 - **The crest behind the code**: the club's current crest in the editor background, in full color and faint (Flamengo shows a white monogram instead).
 - **A "Titles" section in the Explorer**: the Copa do Brasil, Libertadores and Brasileirão trophies, each with the number of titles. Hover a trophy to see the years. Only the competitions where the club has a title appear, centered: Copa do Brasil, Libertadores, Brasileirão, the Club World Cup, Sudamericana, Copa do Nordeste (northeastern clubs only), Copa Verde (north and center-west clubs only), Série B, C and D and the state championship (smaller clubs only, with the trophy of each state; for now the Amazonense, the Carioca, the Paulista, the Catarinense, the Potiguar and the Brasiliense), each with a trophy photo. The 12 big clubs do not show Série B, C, D or state titles.
-- **Old crests for the editor background**: the **"Escudos"** button in the status bar, or the command **"Brasileirão: Escolher escudo do fundo"** switches the background between the current crest and the club's historical ones (123 crests for all 61 clubs, from the Wikimedia Commons and from images supplied by the project author; each file's source is in `icons/retro-CREDITS.txt`). The folder icons in the Explorer follow the chosen old crest too (each old crest has its own icon theme, which also shows up in "Set File Icon Theme"). The old crests keep their original colors. Each one shows the period it was used; a few dates are approximate.
+- **Old crests for the editor background**: the **"Escudos"** button in the status bar, or the command **"Brasileirão: Escolher escudo do fundo"** switches the background between the current crest and the club's historical ones (125 crests for all 62 clubs, from the Wikimedia Commons and from images supplied by the project author; each file's source is in `icons/retro-CREDITS.txt`). The folder icons in the Explorer follow the chosen old crest too (each old crest has its own icon theme, which also shows up in "Set File Icon Theme"). The old crests keep their original colors. Each one shows the period it was used; a few dates are approximate.
 - **A team picker with crests**, from the status bar or the command palette.
 - **Indent Rainbow in the club's colors**, if you use that extension.
 - **Better Comments in the club's colors**: `// !`, `// ?`, `// TODO` and `// *` each get their own look. Better Comments is installed together with the theme.
@@ -38,7 +38,7 @@ Requires VS Code 1.80 or newer. The crest in the editor background also needs th
 
 Pick the team in one of these ways:
 
-- **The "Times" button in the status bar** (bottom left) or **`Ctrl+Shift+P` → "Brasileirão: Escolher time"**: lists the 61 clubs with the crest of each one that has it, its colors, and the current one selected. Each club says how many crest options it has ("· 5 opções de escudo"), and picking a club that has more than one opens the list with all of them (current, alternates and retro), each with its dates. This is the recommended way.
+- **The "Times" button in the status bar** (bottom left) or **`Ctrl+Shift+P` → "Brasileirão: Escolher time"**: lists the 62 clubs with the crest of each one that has it, its colors, and the current one selected. Each club says how many crest options it has ("· 5 opções de escudo"), and picking a club that has more than one opens the list with all of them (current, alternates and retro), each with its dates. This is the recommended way.
 - **`Ctrl+K Ctrl+T`**: VS Code's own theme picker, with the `Brasileirão: <club>` themes among the others.
 - Avoid the **Set Color Theme** and **Set File Icon Theme** buttons on the extension page. They belong to VS Code (one per kind of theme, and they can't be removed): the list opens in alphabetical order, doesn't mark the current theme, and previews the first item.
 
@@ -126,6 +126,7 @@ The data lives in the `titles` field of `src/teams.js`, up to the 2025 season (C
 | América-RN | `#e41920` | `#ff6b6f` | `#b9141a` |
 | Botafogo-PB | `#d83040` | `#ff6a78` | `#000000` |
 | Campinense | `#e8141c` | `#ff5d63` | `#000000` |
+| CRB | `#d12a32` | `#ff737a` | `#b8141d` |
 
 A club's official color doesn't always work as text on a dark background (blues, for instance, look dull). So each club has a main color, used on filled areas, and a lighter version for text.
 
@@ -167,11 +168,11 @@ If Material Icon Theme is installed on the machine that builds the package, the 
 
 ```bash
 npm run build      # generates themes, icons and the package.json contributes block
-npm run check      # checks the minimum contrasts on the 61 themes
+npm run check      # checks the minimum contrasts on the 62 themes
 npm test           # data, generated files and contrast tests (node --test)
 npm run package    # build + check + brasileirao-theme.vsix
 npm run instalar   # package + installs in VS Code (then reload the window)
-npm run preview    # generates preview/index.html with the 61 clubs side by side
+npm run preview    # generates preview/index.html with the 62 clubs side by side
 ```
 
 The team table is `src/teams.js`. To change a color, a label or a club's titles, edit it there and run `npm run build`. The files in `themes/` and `icons/` are generated and must not be edited by hand.
