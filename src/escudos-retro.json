@@ -1816,5 +1816,24 @@
       ],
       "nota": "escudo azul-marinho do Olaria Atlético Clube com a roda de leme, a âncora, os remos e a bola com OAC, enviado pelo dono do projeto (PNG de 397 px, ampliado e traçado nas cores do original); período 1920–1997 inferido: a Wikipédia pt diz que o escudo foi concebido em 1920 e o Logopedia lista várias versões do mesmo desenho (1920, até 1983, 1983–1994 e 1994–1997) antes do atual, de 1997, sem que eu pudesse ver as imagens para saber a qual delas este arquivo corresponde"
     }
+  ],
+  "macae": [
+    {
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 1,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "id": "1990",
+      "label": "1990–1999",
+      "local": "Macae-1990.png",
+      "vetorizarPaleta": [
+        "#080808",
+        "#ffffff",
+        "#c0c0c0"
+      ],
+      "nota": "escudo preto com o leão branco do Botafogo Futebol Clube (nome do clube em Macaé antes de virar Macaé Sports), com as letras BFC e MACAÉ, enviado pelo dono do projeto (PNG de 1600 px; as letras de fora do escudo, que eram pretas, foram trocadas por cinza-claro, #c0c0c0, para aparecer sobre o fundo escuro do editor); período 1990–1999 segundo o Logopedia (logos.fandom.com)"
+    }
   ]
 }

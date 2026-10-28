@@ -70,6 +70,11 @@
         "path": "./themes/olaria-color-theme.json"
       },
       {
+        "label": "Brasileirão: Macaé",
+        "uiTheme": "vs-dark",
+        "path": "./themes/macae-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Bangu",
         "uiTheme": "vs-dark",
         "path": "./themes/bangu-color-theme.json"
@@ -465,6 +470,16 @@
         "id": "brasileirao-olaria-1920",
         "label": "Brasileirão: Olaria (retrô 1920–1997)",
         "path": "./icons/olaria/icon-theme-1920.json"
+      },
+      {
+        "id": "brasileirao-macae",
+        "label": "Brasileirão: Macaé",
+        "path": "./icons/macae/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-macae-1990",
+        "label": "Brasileirão: Macaé (retrô 1990–1999)",
+        "path": "./icons/macae/icon-theme-1990.json"
       },
       {
         "id": "brasileirao-bangu",

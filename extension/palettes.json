@@ -691,6 +691,101 @@
       }
     ]
   },
+  "Brasileirão: Macaé": {
+    "slug": "macae",
+    "uf": "RJ",
+    "crestLabel": "Atual · desde 2014",
+    "crestIcon": "escudo-3fa2040c.svg",
+    "listIcon": "escudo-3fa2040c.svg",
+    "backgroundAspect": 0.91,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2014
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1990",
+        "label": "1990–1999",
+        "fullLabel": "1990–1999",
+        "atual": false,
+        "file": "retro-1990-9fdba6f6.svg",
+        "aspect": 0.701,
+        "iconTheme": "brasileirao-macae-1990"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟦🟨⬜",
+    "primary": "#4a52c8",
+    "background": "fundo-0acdc358.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-macae",
+    "colors": [
+      "rgba(154,160,255,0.08)",
+      "rgba(248,216,40,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(106,114,224,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#4a52c833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#9aa0ff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#f8d828"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#9aa0ff"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Bangu": {
     "slug": "bangu",
     "uf": "RJ",
