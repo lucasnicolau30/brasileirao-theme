@@ -61,7 +61,8 @@ const EXPECTED = {
   'botafogo-pb': [0, 0, 0],
   'nacional-am': [0, 0, 0],
   bangu: [0, 0, 0],
-  ituano: [0, 0, 0]
+  ituano: [0, 0, 0],
+  'volta-redonda': [0, 0, 0]
 };
 const FIRST_YEAR = { estadual: 1900, brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994, copaVerde: 2014 };
 // Mundial (Intercontinental + Mundial da FIFA), Sul-Americana, Série B, C e D: [mundial, sulAmericana, serieB, serieC, serieD], conferido à mão nas listas oficiais.
@@ -114,7 +115,8 @@ const EXPECTED_OTHER = {
   'botafogo-pb': [0, 0, 0, 0, 1],
   'nacional-am': [0, 0, 0, 0, 0],
   bangu: [0, 0, 0, 0, 0],
-  ituano: [0, 0, 0, 2, 0]
+  ituano: [0, 0, 0, 2, 0],
+  'volta-redonda': [0, 0, 0, 1, 1]
 };
 const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
@@ -131,8 +133,8 @@ const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juve
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 48 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 48);
+test('há 49 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 49);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -334,6 +336,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: Bangu`]).includes(b64('estadual-rj.png')), 'Bangu: deve usar o troféu do Carioca');
     // Times menores de São Paulo (Bragantino, Portuguesa): taça do Paulista; os 4 sem título paulista (Guarani, Santo André, Mirassol, Ponte Preta) não mostram o Estadual.
     assert.deepEqual(itens('Ituano'), ['Série C', 'Estadual']);
+    assert.deepEqual(itens('Volta Redonda'), ['Série C', 'Série D'], 'Volta Redonda: só Séries C e D (sem título carioca, então sem Estadual)');
     for (const time of ['Bragantino', 'Portuguesa', 'Ituano']) assert.ok(itens(time).includes('Estadual') && m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-sp.png')), `${time}: deve usar o troféu do Paulista`);
     for (const time of ['Guarani', 'Santo André', 'Mirassol', 'Ponte Preta', 'Palmeiras']) assert.ok(!itens(time).includes('Estadual'), `${time}: sem Estadual`);
     assert.ok(!itens('Remo').includes('Estadual') && !itens('Sport').includes('Estadual'), 'estado sem a foto do troféu não mostra o Estadual');
@@ -446,6 +449,6 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
     const dif = criterios.map((k) => a.titles[k].length - b.titles[k].length).find((d) => d !== 0) || 0;
     assert.ok(dif >= 0, `${b.slug} (mais títulos) deveria vir antes de ${a.slug}`);
   }
-  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'bangu', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'santo-andre', 'bragantino', 'portuguesa', 'ituano', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'gremio', 'internacional',
+  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'volta-redonda', 'bangu', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'santo-andre', 'bragantino', 'portuguesa', 'ituano', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'gremio', 'internacional',
     'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'nacional-am', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'sampaio-correa', 'cuiaba', 'brasiliense', 'gama', 'abc', 'america-rn', 'botafogo-pb']);
 });

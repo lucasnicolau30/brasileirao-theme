@@ -490,6 +490,103 @@
       }
     ]
   },
+  "Brasileirão: Volta Redonda": {
+    "slug": "volta-redonda",
+    "uf": "RJ",
+    "crestLabel": "Atual · desde 2025",
+    "crestIcon": "escudo-f6744f51.svg",
+    "listIcon": "escudo-f6744f51.svg",
+    "backgroundAspect": 0.646,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2024
+      ],
+      "serieD": [
+        2016
+      ],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1976",
+        "label": "1976–1980",
+        "fullLabel": "1976–1980",
+        "atual": false,
+        "file": "retro-1976-202f030d.svg",
+        "aspect": 0.734,
+        "iconTheme": "brasileirao-volta-redonda-1976"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟨⬛⬜",
+    "primary": "#ffcd00",
+    "background": "fundo-b949c5da.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-volta-redonda",
+    "colors": [
+      "rgba(255,216,77,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,232,138,0.08)",
+      "rgba(255,205,0,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#ffcd0033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ffd84d"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffe88a"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ffd84d"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Bangu": {
     "slug": "bangu",
     "uf": "RJ",

@@ -118,7 +118,9 @@ const times = [
   { slug: 'bangu', uf: 'RJ', crestLabel: 'Bangu (desde 2012)', bgColored: true, swatch: '🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1933, 1966] }, label: 'Bangu', bg: '#14090a', chrome: '#a1101a', secondary: '#ffffff', fg: '#f0e6e6', primary: '#e2001a', accent: '#ff5f6d', statusBg: '#b8101c', statusFg: '#ffffff',
     brackets: ['#ff5f6d', '#ffffff', '#ff9aa3', '#ee3342', '#f9d6d9', '#ff7d89'] },
   { slug: 'ituano', uf: 'SP', crestLabel: 'Ituano (desde 1999)', bgColored: true, swatch: '⬛🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [2003, 2021], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [2002, 2014] }, label: 'Ituano', side: '#150e10', bg: '#0d0a0b', chrome: '#1c1c1c', secondary: '#e2041b', fg: '#ece6e6', primary: '#e2041b', accent: '#ff5a6a', statusBg: '#000000', statusFg: '#ffffff', statusBorder: '#e2041b',
-    brackets: ['#ff5a6a', '#ffffff', '#ff9aa4', '#ec3347', '#f7d6da', '#ff7888'] }
+    brackets: ['#ff5a6a', '#ffffff', '#ff9aa4', '#ec3347', '#f7d6da', '#ff7888'] },
+  { slug: 'volta-redonda', uf: 'RJ', crestLabel: 'Volta Redonda (desde 2025)', bgColored: true, swatch: '🟨⬛⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [2024], serieD: [2016], copaDoNordeste: [], copaVerde: [], estadual: [] }, label: 'Volta Redonda', side: '#15130c', bg: '#0c0b08', chrome: '#1b1a14', secondary: '#ffcd00', fg: '#efecdf', primary: '#ffcd00', accent: '#ffd84d', statusBg: '#ffcd00', statusFg: '#0c0b08',
+    brackets: ['#ffd84d', '#ffffff', '#ffe88a', '#ffcd00', '#fff3c4', '#e6b800'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São
