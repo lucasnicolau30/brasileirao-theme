@@ -4668,6 +4668,116 @@
       }
     ]
   },
+  "Brasileirão: Rio Negro-AM": {
+    "slug": "rio-negro-am",
+    "uf": "AM",
+    "crestLabel": "Atual · desde 2001",
+    "crestIcon": "escudo-150fc933.svg",
+    "listIcon": "escudo-150fc933.svg",
+    "backgroundAspect": 0.825,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1921,
+        1927,
+        1931,
+        1932,
+        1938,
+        1940,
+        1943,
+        1962,
+        1965,
+        1975,
+        1982,
+        1987,
+        1988,
+        1989,
+        1990,
+        2001
+      ]
+    },
+    "retro": [
+      {
+        "id": "1913",
+        "label": "1913–1975",
+        "fullLabel": "1913–1975",
+        "atual": false,
+        "file": "retro-1913-1216af4b.svg",
+        "aspect": 0.798,
+        "iconTheme": "brasileirao-rio-negro-am-1913"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜🟨",
+    "primary": "#d4d4d4",
+    "background": "fundo-96cdc781.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-rio-negro-am",
+    "colors": [
+      "rgba(244,244,244,0.08)",
+      "rgba(255,90,95,0.08)",
+      "rgba(207,207,207,0.08)",
+      "rgba(156,156,156,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d4d4d433",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f4f4f4"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#cfcfcf"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ff5a5f"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f4f4f4"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: São Raimundo-AM": {
     "slug": "sao-raimundo-am",
     "uf": "AM",

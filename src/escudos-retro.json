@@ -1533,5 +1533,25 @@
       ],
       "nota": "escudo azul-escuro e branco com a faixa S.RAIMUNDO E. CLUBE, enviado pelo dono do projeto (JPG de 736 px, ampliado e traçado); período 2005–2008 segundo a linha do tempo \"Evolução do escudo do São Raimundo\" da Wikipédia pt (1918, 1970, 2005, 2008 e 2017), casado com o desenho de 2005; o de 2008 é de um azul mais claro e traz o nome por extenso"
     }
+  ],
+  "rio-negro-am": [
+    {
+      "id": "1913",
+      "label": "1913–1975",
+      "local": "Rio-Negro-1913.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#46423a"
+      ],
+      "nota": "escudo em forma de brasão com a faixa diagonal A.R.N.C., enviado pelo dono do projeto (PNG de 600 px do seeklogo, ampliado e traçado; o preto foi clareado, #46423a, para aparecer sobre o fundo escuro do editor); período 1913–1975 informado pelo dono do projeto (o Logopedia também lista o primeiro escudo do clube de 1913 a 1975)"
+    }
   ]
 }

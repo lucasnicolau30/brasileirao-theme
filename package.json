@@ -225,6 +225,11 @@
         "path": "./themes/nacional-am-color-theme.json"
       },
       {
+        "label": "Brasileirão: Rio Negro-AM",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rio-negro-am-color-theme.json"
+      },
+      {
         "label": "Brasileirão: São Raimundo-AM",
         "uiTheme": "vs-dark",
         "path": "./themes/sao-raimundo-am-color-theme.json"
@@ -905,6 +910,16 @@
         "id": "brasileirao-nacional-am-2012",
         "label": "Brasileirão: Nacional-AM (retrô 2012–2013)",
         "path": "./icons/nacional-am/icon-theme-2012.json"
+      },
+      {
+        "id": "brasileirao-rio-negro-am",
+        "label": "Brasileirão: Rio Negro-AM",
+        "path": "./icons/rio-negro-am/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-rio-negro-am-1913",
+        "label": "Brasileirão: Rio Negro-AM (retrô 1913–1975)",
+        "path": "./icons/rio-negro-am/icon-theme-1913.json"
       },
       {
         "id": "brasileirao-sao-raimundo-am",
