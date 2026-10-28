@@ -1740,5 +1740,43 @@
       ],
       "nota": "escudo com a boia vermelha, os dois remos cruzados, a corrente e as letras C, R e B, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado nas cores do original; o preto da corrente e das letras, que ficam fora da boia, foi trocado por cinza-claro, #c0c0c0, para aparecer sobre o fundo escuro do editor; o branco de fora da boia, dentro das letras, dos elos da corrente e entre os remos, foi tornado transparente); período 1959–1979 segundo a Wikipédia pt e o Futbox, que datam este escudo de 1959 e o seguinte de 1979"
     }
+  ],
+  "csa": [
+    {
+      "id": "1918",
+      "label": "1918–1940",
+      "local": "CSA-1918.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#02f807",
+        "#0b8eb9"
+      ],
+      "nota": "escudo com a bandeira listrada do clube, o monograma CSA, o texto CENTRO SPORTIVO ALAGOANO e 1913 dentro de uma coroa de louros, enviado pelo dono do projeto (JPG de 162 px, ampliado e traçado nas cores do original, incluindo o verde vivo dos louros, que foi uniformizado fora do círculo para tirar o ruído do JPG); período 1918–1940 inferido, sem fonte que date este escudo: o clube adotou o nome Centro Sportivo Alagoano em 13 de abril de 1918, e o Futbox, que lista os escudos do clube a partir dos anos 1940, começa pelo redondo CSA"
+    },
+    {
+      "id": "1950",
+      "label": "1950–1980",
+      "local": "CSA-1950.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#0077bd",
+        "#ffffff"
+      ],
+      "nota": "escudo azul em forma de coração com a sigla CSA em branco, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado nas cores do original); período 1950–1980 inferido do Futbox, que lista este escudo nos anos 1950 e o seguinte (o escudo listrado com contorno) nos anos 1980, sem anos exatos"
+    }
   ]
 }

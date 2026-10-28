@@ -345,6 +345,11 @@
         "path": "./themes/campinense-color-theme.json"
       },
       {
+        "label": "Brasileirão: CSA",
+        "uiTheme": "vs-dark",
+        "path": "./themes/csa-color-theme.json"
+      },
+      {
         "label": "Brasileirão: CRB",
         "uiTheme": "vs-dark",
         "path": "./themes/crb-color-theme.json"
@@ -1270,6 +1275,21 @@
         "id": "brasileirao-campinense-1960",
         "label": "Brasileirão: Campinense (retrô 1960–1969)",
         "path": "./icons/campinense/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-csa",
+        "label": "Brasileirão: CSA",
+        "path": "./icons/csa/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-csa-1918",
+        "label": "Brasileirão: CSA (retrô 1918–1940)",
+        "path": "./icons/csa/icon-theme-1918.json"
+      },
+      {
+        "id": "brasileirao-csa-1950",
+        "label": "Brasileirão: CSA (retrô 1950–1980)",
+        "path": "./icons/csa/icon-theme-1950.json"
       },
       {
         "id": "brasileirao-crb",
