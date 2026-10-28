@@ -309,6 +309,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     // Criciúma: a Copa do Brasil fica no centro (titleCenter em teams.js); os outros times mantêm a ordem padrão. O Estadual vai sempre por último, fora da conta do centro.
     assert.deepEqual(itens('Criciúma'), ['Série B', 'Copa do Brasil', 'Série C']);
     assert.deepEqual(itens('Bragantino'), ['Série C', 'Série B', 'Estadual'], 'Bragantino: a Série B fica no centro (titleOrder em teams.js)');
+    assert.deepEqual(itens('Chapecoense'), ['Série B', 'Sul-Americana'], 'Chapecoense: a Sul-Americana fica no centro (titleOrder em teams.js; o Estadual entra quando houver a taça de SC)');
     // Sampaio Corrêa: a ordem vem de titleOrder em teams.js (Série C, Série B, Copa do Nordeste, Série D), não da lista padrão.
     assert.deepEqual(itens('Sampaio Corrêa'), ['Série C', 'Série B', 'Copa do Nordeste', 'Série D']);
     // Todos os troféus têm a mesma altura: nenhum item recebe classe de tamanho especial, e a altura vem de uma variável única.
