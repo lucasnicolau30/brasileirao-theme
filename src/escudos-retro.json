@@ -1574,5 +1574,44 @@
       ],
       "nota": "escudo em brasão listrado de preto e vermelho com o CC branco no quadro, parecido com o do Flamengo, enviado pelo dono do projeto (PNG de 320 px, ampliado e traçado nas cores do original); período 1960–1969 pela Wikipédia pt (\"no início da década de 1960\" o clube chegou a usar três escudos na mesma temporada, um deles uma cópia do escudo do Flamengo com o CC no quadro) e pelo Logopedia, que legenda os escudos alternativos dessa fase como \"1960s\"; o escudo aparece em 1963 no uniforme rubro-negro do post \"Campinense Clube\" do blog História do Futebol (fonte: Diário de Pernambuco); o ano exato de início e o de fim não são conhecidos, então o período é a década"
     }
+  ],
+  "paulista": [
+    {
+      "id": "1909",
+      "label": "1909–1910",
+      "local": "Paulista-1909.jpg",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#0c0c0a"
+      ],
+      "nota": "escudo preto e branco em forma de brasão com o monograma PFc, o primeiro do clube, enviado pelo dono do projeto (JPG de 735 px, ampliado e traçado nas cores do original); período 1909–1910: o Logopedia (logos.fandom.com) lista este escudo (Paulista-FC-1909) só em 1909 e traz o seguinte, o PFC branco, a partir de 1910 (1910–1912); o fim em 1910 é o ano em que o seguinte começa, e a data exata da troca não é conhecida"
+    },
+    {
+      "id": "1951",
+      "label": "1951–1955",
+      "local": "Paulista-1951.jpg",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#db0415",
+        "#000000"
+      ],
+      "nota": "escudo com as listras diagonais pretas e brancas, a faixa PAULISTA em vermelho e o símbolo redondo no centro, enviado pelo dono do projeto (JPG de 533 px, ampliado e traçado nas cores do original); período 1951–1955 segundo o Logopedia (logos.fandom.com), que lista este escudo (Paulista-FC-1951) nesse intervalo"
+    }
   ]
 }

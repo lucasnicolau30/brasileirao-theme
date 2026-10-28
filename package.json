@@ -95,6 +95,11 @@
         "path": "./themes/guarani-color-theme.json"
       },
       {
+        "label": "Brasileirão: Paulista",
+        "uiTheme": "vs-dark",
+        "path": "./themes/paulista-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Santo André",
         "uiTheme": "vs-dark",
         "path": "./themes/santo-andre-color-theme.json"
@@ -525,6 +530,21 @@
         "id": "brasileirao-guarani-1981",
         "label": "Brasileirão: Guarani (retrô 1981–2000)",
         "path": "./icons/guarani/icon-theme-1981.json"
+      },
+      {
+        "id": "brasileirao-paulista",
+        "label": "Brasileirão: Paulista",
+        "path": "./icons/paulista/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-paulista-1909",
+        "label": "Brasileirão: Paulista (retrô 1909–1910)",
+        "path": "./icons/paulista/icon-theme-1909.json"
+      },
+      {
+        "id": "brasileirao-paulista-1951",
+        "label": "Brasileirão: Paulista (retrô 1951–1955)",
+        "path": "./icons/paulista/icon-theme-1951.json"
       },
       {
         "id": "brasileirao-santo-andre",

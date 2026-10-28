@@ -1319,6 +1319,112 @@
       }
     ]
   },
+  "Brasileirão: Paulista": {
+    "slug": "paulista",
+    "uf": "SP",
+    "crestLabel": "Atual · desde 2005",
+    "crestIcon": "escudo-7bf78592.svg",
+    "listIcon": "escudo-7bf78592.svg",
+    "backgroundAspect": 0.694,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [
+        2005
+      ],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2001
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1909",
+        "label": "1909–1910",
+        "fullLabel": "1909–1910",
+        "atual": false,
+        "file": "retro-1909-802441d5.svg",
+        "aspect": 0.837,
+        "iconTheme": "brasileirao-paulista-1909"
+      },
+      {
+        "id": "1951",
+        "label": "1951–1955",
+        "fullLabel": "1951–1955",
+        "atual": false,
+        "file": "retro-1951-cf67c092.svg",
+        "aspect": 0.925,
+        "iconTheme": "brasileirao-paulista-1951"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬛⬜",
+    "primary": "#e0252b",
+    "background": "fundo-f6b20436.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-paulista",
+    "colors": [
+      "rgba(255,106,110,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,160,163,0.08)",
+      "rgba(224,56,63,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e0252b33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6a6e"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffa0a3"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6a6e"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Santo André": {
     "slug": "santo-andre",
     "uf": "SP",
