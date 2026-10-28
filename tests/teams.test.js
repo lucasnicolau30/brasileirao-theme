@@ -375,7 +375,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     for (const time of ['ABC', 'América-RN']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-rn.png')), `${time}: deve usar o troféu do Potiguar`);
     for (const time of ['Brasiliense', 'Gama', 'Brasília']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-df.png')), `${time}: deve usar o troféu do Brasiliense`);
     // Mineiro (América-MG): taça do estado; Uberlândia, Tombense e Tupi só têm o Mineiro do Interior, que não conta.
-    assert.deepEqual(itens('América-MG'), ['Série B', 'Série C', 'Estadual']);
+    assert.deepEqual(itens('América-MG'), ['Série C', 'Série B', 'Estadual'], 'América-MG: a Série B fica no centro (titleOrder em teams.js)');
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: América-MG`]).includes(b64('estadual-mg.png')), 'América-MG: deve usar o troféu do Mineiro');
     // Paraibano (Botafogo-PB e Campinense): taça do estado.
     for (const time of ['Botafogo-PB', 'Campinense']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-pb.png')), `${time}: deve usar o troféu do Paraibano`);
