@@ -307,9 +307,9 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     // Com 5 competições o Mundial (o ápice) fica no centro.
     for (const time of ['São Paulo', 'Corinthians', 'Santos', 'Grêmio', 'Internacional']) assert.equal(itens(time)[2], 'Mundial', `${time}: Mundial deve ficar no centro`);
     // Criciúma: a Copa do Brasil fica no centro (titleCenter em teams.js); os outros times mantêm a ordem padrão. O Estadual vai sempre por último, fora da conta do centro.
-    assert.deepEqual(itens('Criciúma'), ['Série B', 'Copa do Brasil', 'Série C']);
+    assert.deepEqual(itens('Criciúma'), ['Série B', 'Copa do Brasil', 'Série C', 'Estadual']);
     assert.deepEqual(itens('Bragantino'), ['Série C', 'Série B', 'Estadual'], 'Bragantino: a Série B fica no centro (titleOrder em teams.js)');
-    assert.deepEqual(itens('Chapecoense'), ['Série B', 'Sul-Americana'], 'Chapecoense: a Sul-Americana fica no centro (titleOrder em teams.js; o Estadual entra quando houver a taça de SC)');
+    assert.deepEqual(itens('Chapecoense'), ['Série B', 'Sul-Americana', 'Estadual'], 'Chapecoense: a Sul-Americana fica no centro (titleOrder em teams.js)');
     // Sampaio Corrêa: a ordem vem de titleOrder em teams.js (Série C, Série B, Copa do Nordeste, Série D), não da lista padrão.
     assert.deepEqual(itens('Sampaio Corrêa'), ['Série C', 'Série B', 'Copa do Nordeste', 'Série D']);
     // Todos os troféus têm a mesma altura: nenhum item recebe classe de tamanho especial, e a altura vem de uma variável única.
@@ -337,6 +337,8 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: Bangu`]).includes(b64('estadual-rj.png')), 'Bangu: deve usar o troféu do Carioca');
     // Times menores de São Paulo (Bragantino, Portuguesa): taça do Paulista; os 4 sem título paulista (Guarani, Santo André, Mirassol, Ponte Preta) não mostram o Estadual.
     assert.deepEqual(itens('Ituano'), ['Série C', 'Estadual']);
+    // Times menores de Santa Catarina (Criciúma e Chapecoense): taça do Catarinense.
+    for (const time of ['Criciúma', 'Chapecoense']) assert.ok(itens(time).includes('Estadual') && m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-sc.png')), `${time}: deve usar o troféu do Catarinense`);
     assert.deepEqual(itens('Volta Redonda'), ['Série C', 'Série D'], 'Volta Redonda: só Séries C e D (sem título carioca, então sem Estadual)');
     for (const time of ['Bragantino', 'Portuguesa', 'Ituano']) assert.ok(itens(time).includes('Estadual') && m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-sp.png')), `${time}: deve usar o troféu do Paulista`);
     for (const time of ['Guarani', 'Santo André', 'Mirassol', 'Ponte Preta', 'Palmeiras']) assert.ok(!itens(time).includes('Estadual'), `${time}: sem Estadual`);
@@ -375,7 +377,7 @@ test('toda competição da seção Títulos tem a sua foto de troféu em images/
   const codigo = fs.readFileSync(path.join(root, 'extension', 'extension.js'), 'utf8');
   const arquivos = [...codigo.slice(codigo.indexOf('const COMPETITIONS'), codigo.indexOf('];', codigo.indexOf('const COMPETITIONS'))).matchAll(/file: '([^']+)'/g)].map((m) => m[1]);
   assert.equal(arquivos.length, 10, 'são 10 competições com foto própria (o Estadual tem uma por estado: estadual-<uf>.png)');
-  for (const uf of ['am', 'rj', 'sp']) assert.ok(fs.existsSync(path.join(root, 'images', 'trofeus', `estadual-${uf}.png`)), `falta images/trofeus/estadual-${uf}.png`);
+  for (const uf of ['am', 'rj', 'sp', 'sc']) assert.ok(fs.existsSync(path.join(root, 'images', 'trofeus', `estadual-${uf}.png`)), `falta images/trofeus/estadual-${uf}.png`);
   for (const f of arquivos) assert.ok(fs.existsSync(path.join(root, 'images', 'trofeus', f)), `falta images/trofeus/${f}`);
 });
 
