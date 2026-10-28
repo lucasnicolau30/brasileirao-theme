@@ -11,7 +11,7 @@ A dark theme and an icon theme for each of 55 clubs of the Brazilian league syst
 
 > Independent project. Not affiliated with any football club, with the CBF or with the Brasileirão. Club names and crests are trademarks of their owners. See [Credits and licenses](#credits-and-licenses).
 
-Teams: Flamengo, Fluminense, Vasco, Botafogo, Volta Redonda, Bangu, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Santo André, Bragantino, Portuguesa, Ituano, Mirassol, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Paysandu, Remo, Amazonas, Nacional-AM, São Raimundo-AM, Manaus, Goiás, Atlético-GO, Vila Nova, Criciúma, Chapecoense, Avaí, Figueirense, Sampaio Corrêa, Cuiabá, Luverdense, Brasiliense, Gama, Brasília, ABC, América-RN and Botafogo-PB.
+Teams: Flamengo, Fluminense, Vasco, Botafogo, Volta Redonda, Bangu, Palmeiras, Santos, São Paulo, Corinthians, Guarani, Santo André, Bragantino, Portuguesa, Ituano, Mirassol, Ponte Preta, Cruzeiro, Atlético-MG, América-MG, Grêmio, Internacional, Juventude, Bahia, Vitória, Fortaleza, Ceará, Athletico-PR, Coritiba, Paraná, Sport, Santa Cruz, Náutico, Paysandu, Remo, Amazonas, Nacional-AM, São Raimundo-AM, Manaus FC, Goiás, Atlético-GO, Vila Nova, Criciúma, Chapecoense, Avaí, Figueirense, Sampaio Corrêa, Cuiabá, Luverdense, Brasiliense, Gama, Brasília, ABC, América-RN and Botafogo-PB.
 
 ## What you get
 
@@ -103,7 +103,7 @@ The data lives in the `titles` field of `src/teams.js`, up to the 2025 season (C
 | Amazonas | `#f2c200` | `#ffd84d` | `#f2c200` |
 | Nacional-AM | `#2a66e0` | `#7fb0ff` | `#0a3cb4` |
 | São Raimundo-AM | `#4a7be8` | `#86a6ff` | `#1f45ac` |
-| Manaus | `#3aa84a` | `#6fdc86` | `#0b6b2e` |
+| Manaus FC | `#3aa84a` | `#6fdc86` | `#0b6b2e` |
 | Goiás | `#0aa876` | `#3fe0b0` | `#0a7a5c` |
 | Atlético-GO | `#c82018` | `#ff5a52` | `#000000` |
 | Vila Nova | `#e01820` | `#ff6a6a` | `#b8151a` |
