@@ -1871,5 +1871,40 @@
       ],
       "nota": "escudo em disco branco com as letras AFC em vermelho, enviado pelo dono do projeto (PNG de 800 px, ampliado e traçado nas cores do original); período 1960–1968 inferido: o Logopedia e o Futbox listam o escudo de 1960 como o de disco claro com o AFC, mas não consegui ver as imagens para confirmar que é este"
     }
+  ],
+  "campo-grande": [
+    {
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "id": "1950",
+      "label": "1950–1982",
+      "local": "Campo-Grande-1950.png",
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#000000"
+      ],
+      "nota": "escudo em brasão branco com as letras C.G.A.C., a bola e o aperto de mãos, enviado pelo dono do projeto (JPG de 264 px com fundo preto, ampliado 4 vezes com o contorno externo suavizado e traçado); período 1950–1982 inferido do Logopedia, que lista o escudo de \"anos 1950 a 1982\" (Campo Grande Atlético Clube) e outro de 1920 (Campo Grande Athletico Club), sem eu poder ver as imagens para saber qual é este"
+    },
+    {
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "id": "1984",
+      "label": "1984–2025",
+      "local": "Campo-Grande-1984.png",
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#000000",
+        "#ffd400"
+      ],
+      "nota": "escudo em brasão com as listras brancas e pretas, as letras C G A C e a estrela amarela do lado esquerdo, enviado pelo dono do projeto (PNG de 320 px do seeklogo, ampliado e traçado); período 1984–2025 segundo o Logopedia (logos.fandom.com), que lista a versão com estrela nos anos 1984–1991 e 2007–2025"
+    }
   ]
 }

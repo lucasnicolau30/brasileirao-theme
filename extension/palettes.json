@@ -490,6 +490,110 @@
       }
     ]
   },
+  "Brasileirão: Campo Grande": {
+    "slug": "campo-grande",
+    "uf": "RJ",
+    "crestLabel": "Atual · desde 2025",
+    "crestIcon": "escudo-290df012.svg",
+    "listIcon": "escudo-290df012.svg",
+    "backgroundAspect": 0.729,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1982
+      ],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1950",
+        "label": "1950–1982",
+        "fullLabel": "1950–1982",
+        "atual": false,
+        "file": "retro-1950-c7354aa1.svg",
+        "aspect": 0.904,
+        "iconTheme": "brasileirao-campo-grande-1950"
+      },
+      {
+        "id": "1984",
+        "label": "1984–2025",
+        "fullLabel": "1984–2025",
+        "atual": false,
+        "file": "retro-1984-37269626.svg",
+        "aspect": 0.891,
+        "iconTheme": "brasileirao-campo-grande-1984"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜",
+    "primary": "#d0d0d0",
+    "background": "fundo-17a632df.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-campo-grande",
+    "colors": [
+      "rgba(245,245,245,0.08)",
+      "rgba(255,212,0,0.08)",
+      "rgba(208,208,208,0.08)",
+      "rgba(157,157,157,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d0d0d033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#d0d0d0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffd400"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Volta Redonda": {
     "slug": "volta-redonda",
     "uf": "RJ",

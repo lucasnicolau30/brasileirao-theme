@@ -60,6 +60,11 @@
         "path": "./themes/botafogo-color-theme.json"
       },
       {
+        "label": "Brasileirão: Campo Grande",
+        "uiTheme": "vs-dark",
+        "path": "./themes/campo-grande-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Volta Redonda",
         "uiTheme": "vs-dark",
         "path": "./themes/volta-redonda-color-theme.json"
@@ -450,6 +455,21 @@
         "id": "brasileirao-botafogo-1904",
         "label": "Brasileirão: Botafogo (retrô 1904–1942)",
         "path": "./icons/botafogo/icon-theme-1904.json"
+      },
+      {
+        "id": "brasileirao-campo-grande",
+        "label": "Brasileirão: Campo Grande",
+        "path": "./icons/campo-grande/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-campo-grande-1950",
+        "label": "Brasileirão: Campo Grande (retrô 1950–1982)",
+        "path": "./icons/campo-grande/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-campo-grande-1984",
+        "label": "Brasileirão: Campo Grande (retrô 1984–2025)",
+        "path": "./icons/campo-grande/icon-theme-1984.json"
       },
       {
         "id": "brasileirao-volta-redonda",
