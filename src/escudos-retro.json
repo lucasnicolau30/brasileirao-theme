@@ -1614,6 +1614,42 @@
       "nota": "escudo com as listras diagonais pretas e brancas, a faixa PAULISTA em vermelho e o símbolo redondo no centro, enviado pelo dono do projeto (JPG de 533 px, ampliado e traçado nas cores do original); período 1951–1955 segundo o Logopedia (logos.fandom.com), que lista este escudo (Paulista-FC-1951) nesse intervalo"
     }
   ],
+  "tombense": [
+    {
+      "id": "1999",
+      "label": "1999–2014",
+      "local": "Tombense-1999.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#e84838"
+      ],
+      "nota": "escudo em losango vermelho com o monograma TFC, enviado pelo dono do projeto (PNG de 320 px do seeklogo, ampliado e traçado nas cores do original); período 1999–2014 segundo o Logopedia (logos.fandom.com), e a Wikipédia pt legenda este escudo como o usado até 2014, ano do título da Série D"
+    },
+    {
+      "id": "2015",
+      "label": "2015–2019",
+      "local": "Tombense-2015.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#b81818"
+      ],
+      "nota": "escudo em losango vermelho com o tabuleiro de xadrez e o texto TOMBENSE FUTEBOL CLUBE 1914, enviado pelo dono do projeto (JPG de 401 px recortado na área do escudo, sem a marca d'água, ampliado e traçado); período 2015–2019 segundo o Logopedia (logos.fandom.com), casado com o desenho porque o arquivo dele não pôde ser baixado para conferir"
+    }
+  ],
   "uberlandia": [
     {
       "id": "1922",

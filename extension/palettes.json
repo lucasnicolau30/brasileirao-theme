@@ -2532,6 +2532,110 @@
       }
     ]
   },
+  "Brasileirão: Tombense": {
+    "slug": "tombense",
+    "uf": "MG",
+    "crestLabel": "Atual · desde 2019",
+    "crestIcon": "escudo-cba19731.svg",
+    "listIcon": "escudo-cba19731.svg",
+    "backgroundAspect": 1,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [
+        2014
+      ],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1999",
+        "label": "1999–2014",
+        "fullLabel": "1999–2014",
+        "atual": false,
+        "file": "retro-1999-5d708cfb.svg",
+        "aspect": 2.035,
+        "iconTheme": "brasileirao-tombense-1999"
+      },
+      {
+        "id": "2015",
+        "label": "2015–2019",
+        "fullLabel": "2015–2019",
+        "atual": false,
+        "file": "retro-2015-9698a3ad.svg",
+        "aspect": 1.516,
+        "iconTheme": "brasileirao-tombense-2015"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥🟨⬜",
+    "primary": "#e81828",
+    "background": "fundo-0e847ca0.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-tombense",
+    "colors": [
+      "rgba(255,106,115,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(242,200,56,0.08)",
+      "rgba(232,64,76,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e8182833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6a73"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#f2c838"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6a73"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Grêmio": {
     "slug": "gremio",
     "uf": "RS",

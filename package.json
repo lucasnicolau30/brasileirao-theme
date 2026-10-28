@@ -150,6 +150,11 @@
         "path": "./themes/uberlandia-color-theme.json"
       },
       {
+        "label": "Brasileirão: Tombense",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tombense-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Grêmio",
         "uiTheme": "vs-dark",
         "path": "./themes/gremio-color-theme.json"
@@ -700,6 +705,21 @@
         "id": "brasileirao-uberlandia-1966",
         "label": "Brasileirão: Uberlândia (retrô 1966–1968)",
         "path": "./icons/uberlandia/icon-theme-1966.json"
+      },
+      {
+        "id": "brasileirao-tombense",
+        "label": "Brasileirão: Tombense",
+        "path": "./icons/tombense/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-tombense-1999",
+        "label": "Brasileirão: Tombense (retrô 1999–2014)",
+        "path": "./icons/tombense/icon-theme-1999.json"
+      },
+      {
+        "id": "brasileirao-tombense-2015",
+        "label": "Brasileirão: Tombense (retrô 2015–2019)",
+        "path": "./icons/tombense/icon-theme-2015.json"
       },
       {
         "id": "brasileirao-gremio",
