@@ -54,3 +54,6 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - estadual-pb.png
   Troféu do Campeonato Paraibano (2025), usado nos times da Paraíba: imagem fornecida pelo usuário (images.jpg, foto do troféu), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.
+
+- estadual-mg.png
+  Taça do Campeonato Mineiro (FMF, Sicoob), usada nos times de Minas Gerais: imagem fornecida pelo usuário (images (1).jpg, foto da taça), sem autor nem licença conhecidos. Recortada do fundo (traçado à mão e GrabCut) e redimensionada para 380 px de altura.
