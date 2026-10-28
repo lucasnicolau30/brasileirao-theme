@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 47 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 48 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -103,6 +103,11 @@
         "label": "Brasileirão: Portuguesa",
         "uiTheme": "vs-dark",
         "path": "./themes/portuguesa-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Ituano",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ituano-color-theme.json"
       },
       {
         "label": "Brasileirão: Mirassol",
@@ -500,6 +505,21 @@
         "id": "brasileirao-portuguesa-2005",
         "label": "Brasileirão: Portuguesa (retrô 2005–2015)",
         "path": "./icons/portuguesa/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-ituano",
+        "label": "Brasileirão: Ituano",
+        "path": "./icons/ituano/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-ituano-1966",
+        "label": "Brasileirão: Ituano (retrô 1966–1977)",
+        "path": "./icons/ituano/icon-theme-1966.json"
+      },
+      {
+        "id": "brasileirao-ituano-1977",
+        "label": "Brasileirão: Ituano (retrô 1977–1990)",
+        "path": "./icons/ituano/icon-theme-1977.json"
       },
       {
         "id": "brasileirao-mirassol",

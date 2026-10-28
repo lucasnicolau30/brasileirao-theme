@@ -1530,6 +1530,114 @@
       }
     ]
   },
+  "Brasileirão: Ituano": {
+    "slug": "ituano",
+    "uf": "SP",
+    "crestLabel": "Atual · desde 1999",
+    "crestIcon": "escudo-c3494f9f.svg",
+    "listIcon": "escudo-c3494f9f.svg",
+    "backgroundAspect": 0.753,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2003,
+        2021
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        2002,
+        2014
+      ]
+    },
+    "retro": [
+      {
+        "id": "1966",
+        "label": "1966–1977",
+        "fullLabel": "1966–1977",
+        "atual": false,
+        "file": "retro-1966-f00f2ca3.svg",
+        "aspect": 0.996,
+        "iconTheme": "brasileirao-ituano-1966"
+      },
+      {
+        "id": "1977",
+        "label": "1977–1990",
+        "fullLabel": "1977–1990",
+        "atual": false,
+        "file": "retro-1977-0ddd971a.svg",
+        "aspect": 0.916,
+        "iconTheme": "brasileirao-ituano-1977"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛🟥⬜",
+    "primary": "#e2041b",
+    "background": "fundo-db0bdf8a.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-ituano",
+    "colors": [
+      "rgba(255,90,106,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,154,164,0.08)",
+      "rgba(236,51,71,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e2041b33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff5a6a"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff9aa4"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff5a6a"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Mirassol": {
     "slug": "mirassol",
     "uf": "SP",

@@ -1303,5 +1303,43 @@
       ],
       "nota": "losango com a palavra BANGU em vermelho e moldura preta, enviado pelo dono do projeto (PNG de 617 px, traçado); é o losango da Fábrica Bangu, que o clube estampou na camisa (a Wikipédia pt conta que foi pioneiro na publicidade em camisas, com o losango da fábrica em 1949, e a Revista REGEO diz que o arranjo durou até 1956), então não é um escudo do clube em si; período 1949–1956; a moldura preta foi clareada (#46423a) para aparecer sobre o fundo escuro do editor"
     }
+  ],
+  "ituano": [
+    {
+      "id": "1966",
+      "label": "1966–1977",
+      "local": "Ituano-1966.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#f4f4f0",
+        "#f81d24",
+        "#2d309c"
+      ],
+      "nota": "círculo vermelho com a locomotiva azul, a sigla F.A.I. em cima e ITU embaixo (a Estrada de Ferro Sorocabana, dona do clube de origem ferroviária), enviado pelo dono do projeto (WebP de 300 px, traçado) (a sigla F.A.I. é de Ferroviário Atlético Ituano, nome que o clube teve de 1966 a 1990; o Logopedia, logos.fandom.com, lista sete escudos desse período, 1966–1968, 1968–1972, 1972–1976, 1976–1978, 1978–1980, 1980–1982 e 1982–1991, mas não consegui ver as imagens dele nem achei fonte que ligue cada desenho a um ano); período 1966–1977 inferido: começa quando o clube virou Ferroviário e termina no ano em que, segundo a Wikipédia pt, o futebol de Itu foi unificado em torno do FAI e o clube adotou o rubro-negro, que o escudo azul e vermelho já não usa"
+    },
+    {
+      "id": "1977",
+      "label": "1977–1990",
+      "local": "Ituano-1977.jpg",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#f4f4f0",
+        "#e93f02",
+        "#292f81"
+      ],
+      "nota": "escudo em brasão com listras verticais laranja, brancas e azuis, a faixa diagonal com F.A.I. e a bola de vôlei-futebol, enviado pelo dono do projeto (JPG de 447 px, traçado) (a sigla F.A.I. é de Ferroviário Atlético Ituano, nome que o clube teve de 1966 a 1990; o Logopedia, logos.fandom.com, lista sete escudos desse período, 1966–1968, 1968–1972, 1972–1976, 1976–1978, 1978–1980, 1980–1982 e 1982–1991, mas não consegui ver as imagens dele nem achei fonte que ligue cada desenho a um ano); período 1977–1990 inferido: depois da unificação de 1977 em torno do FAI até o clube virar Ituano Futebol Clube (1990, segundo a Wikipédia pt e o Gino Escudos; o Logopedia dá 1991)"
+    }
   ]
 }
