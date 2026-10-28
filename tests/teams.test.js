@@ -343,9 +343,9 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Gama'), ['Série B', 'Estadual']);
     assert.deepEqual(itens('Brasília'), ['Copa Verde', 'Estadual']);
     assert.deepEqual(itens('ABC'), ['Série C', 'Estadual']);
-    assert.deepEqual(itens('Campinense'), ['Copa do Nordeste'], 'Campinense: a Paraíba não tem a foto da taça, então o Estadual não aparece');
+    assert.deepEqual(itens('Campinense'), ['Copa do Nordeste', 'Estadual']);
     assert.deepEqual(itens('América-RN'), ['Série D', 'Copa do Nordeste', 'Estadual'], 'América-RN: a Copa do Nordeste fica no centro (titleOrder em teams.js)');
-    assert.deepEqual(itens('Botafogo-PB'), ['Série D']);
+    assert.deepEqual(itens('Botafogo-PB'), ['Série D', 'Estadual']);
     assert.deepEqual(itens('Nacional-AM'), ['Estadual']);
     assert.deepEqual(itens('Rio Negro-AM'), ['Estadual']);
     assert.deepEqual(itens('São Raimundo-AM'), ['Estadual']);
@@ -366,6 +366,8 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     // Potiguar (ABC e América-RN) e Brasiliense (Brasiliense, Gama e Brasília): taças do estado.
     for (const time of ['ABC', 'América-RN']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-rn.png')), `${time}: deve usar o troféu do Potiguar`);
     for (const time of ['Brasiliense', 'Gama', 'Brasília']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-df.png')), `${time}: deve usar o troféu do Brasiliense`);
+    // Paraibano (Botafogo-PB e Campinense): taça do estado.
+    for (const time of ['Botafogo-PB', 'Campinense']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-pb.png')), `${time}: deve usar o troféu do Paraibano`);
     // Mato-Grossense (Cuiabá e Luverdense): taça do estado.
     for (const time of ['Cuiabá', 'Luverdense']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-mt.png')), `${time}: deve usar o troféu do Mato-Grossense`);
     assert.deepEqual(itens('Volta Redonda'), ['Série C', 'Série D'], 'Volta Redonda: só Séries C e D (sem título carioca, então sem Estadual)');

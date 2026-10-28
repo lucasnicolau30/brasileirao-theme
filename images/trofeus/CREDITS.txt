@@ -51,3 +51,6 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - estadual-mt.png
   Taça do Campeonato Mato-Grossense (FMF), usada nos times de Mato Grosso: imagem fornecida pelo usuário (51201657669-e5694165d9-b.webp, foto da taça), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.
+
+- estadual-pb.png
+  Troféu do Campeonato Paraibano (2025), usado nos times da Paraíba: imagem fornecida pelo usuário (images.jpg, foto do troféu), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.
