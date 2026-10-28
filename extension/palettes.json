@@ -1344,6 +1344,11 @@
         1990
       ]
     },
+    "titleOrder": [
+      "serieC",
+      "serieB",
+      "estadual"
+    ],
     "retro": [
       {
         "id": "2007",
