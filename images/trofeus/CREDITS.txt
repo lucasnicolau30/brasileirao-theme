@@ -42,3 +42,6 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - estadual-sc.png
   Taça do Campeonato Catarinense (Catarinense 2025), usada nos times menores de Santa Catarina: imagem fornecida pelo usuário (images.jpg, foto da taça), sem autor nem licença conhecidos. Recortada do fundo (GrabCut, com as alças e os vãos da haste marcados à mão) e redimensionada para 380 px de altura.
+
+- estadual-rn.png
+  Taça do Campeonato Potiguar (2025), usada nos times do Rio Grande do Norte: imagem fornecida pelo usuário (035d55290a0b10eff4fa4d65355b6100.jpg, miniatura do site da FNF), sem autor nem licença conhecidos. Recortada do fundo (contorno traçado à mão) e redimensionada para 380 px de altura.
