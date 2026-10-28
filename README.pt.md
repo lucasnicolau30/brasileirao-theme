@@ -183,33 +183,13 @@ O código deste projeto está sob a [Licença MIT](LICENSE). Material de terceir
 | [Better Comments](https://github.com/aaron-bond/better-comments) | Aaron Bond | MIT | Não vem junto. É instalado como dependência; só a configuração de tags dele é alterada. |
 | [Indent Rainbow](https://github.com/oderwat/vscode-indent-rainbow) | oderwat | MIT | Não vem junto. Só a configuração de cores dele é alterada, se estiver instalado. |
 
-### Fotos dos troféus
+### Imagens
 
-Recortadas do fundo e redimensionadas, via Wikimedia Commons.
-
-| Troféu | Obra | Autor | Licença |
-| --- | --- | --- | --- |
-| Brasileirão | [Troféu Campeonato Brasileiro 2024.jpg](https://commons.wikimedia.org/wiki/File:Trof%C3%A9u_Campeonato_Brasileiro_2024.jpg) | Phill ad | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
-| Libertadores | [328-3287452 copa-libertadores-primer-trofeo-hd-png-download.png](https://commons.wikimedia.org/wiki/File:328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png) | Mathiaseditorxd | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| Copa do Brasil | Imagem fornecida pelo autor do projeto (render do troféu) | Não informado | Não informada |
-
-A imagem adaptada da Libertadores (`images/trofeus/libertadores.png`) é distribuída sob a mesma licença da original, CC BY-SA 4.0. O resto do projeto continua sob MIT.
-
-### Escudos e marcas
-
-| O quê | Fonte |
-| --- | --- |
-| Escudo do Atlético-MG | [Clube Atlético Mineiro logo.svg](https://commons.wikimedia.org/wiki/File:Clube_Atl%C3%A9tico_Mineiro_logo.svg), Wikimedia Commons (domínio público quanto ao direito autoral) |
-| Escudo do Santos | [Santos Futebol Clube logo (with stars but without the crown).svg](https://commons.wikimedia.org/wiki/File:Santos_Futebol_Clube_logo_(with_stars_but_without_the_crown).svg) e [(with stars and crown).png](https://commons.wikimedia.org/wiki/File:Santos_Futebol_Clube_logo_(with_stars_and_crown).png), Wikimedia Commons (domínio público quanto ao direito autoral) |
-| Escudos dos demais clubes | Imagem principal do artigo de cada clube na Wikipédia, ou imagens enviadas pelo autor do projeto (escudos antigos: veja `icons/retro-CREDITS.txt`). Marcas dos respectivos clubes |
-| Nomes dos clubes | Marcas dos respectivos clubes |
-| Ícone da extensão | O logo do Brasileirão Série A, marca da CBF |
-
-Estar em domínio público na Wikimedia Commons diz respeito só ao direito autoral; os escudos continuam sendo marcas dos clubes.
+Autoria, licença e fonte de cada foto de troféu estão em `images/trofeus/CREDITS.txt`, e as dos escudos antigos em `icons/retro-CREDITS.txt`. Os escudos são marcas dos clubes (veja o Aviso).
 
 ### Dados
 
-As contagens e os anos dos títulos vêm dos artigos da Wikipédia (em português e em inglês) sobre o Campeonato Brasileiro (Séries A a D), a Copa do Brasil, a Copa Libertadores, a Copa Sul-Americana, o Mundial de Clubes, a Copa do Nordeste, a Copa Verde e cada clube (texto sob CC BY-SA 4.0; os fatos em si não têm direito autoral).
+As contagens e os anos dos títulos vêm dos artigos da Wikipédia (em português e em inglês) sobre o Campeonato Brasileiro (Séries A a D), a Copa do Brasil, a Copa Libertadores, a Copa Sul-Americana, o Mundial de Clubes, a Copa do Nordeste, a Copa Verde, os campeonatos estaduais e cada clube (texto sob CC BY-SA 4.0; os fatos em si não têm direito autoral).
 
 ## Aviso
 

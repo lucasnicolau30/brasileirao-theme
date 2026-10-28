@@ -183,33 +183,13 @@ This project's code is under the [MIT License](LICENSE). Third-party material, a
 | [Better Comments](https://github.com/aaron-bond/better-comments) | Aaron Bond | MIT | Not bundled. Installed as a dependency; only its tags setting is changed. |
 | [Indent Rainbow](https://github.com/oderwat/vscode-indent-rainbow) | oderwat | MIT | Not bundled. Only its colors setting is changed, if it is installed. |
 
-### Trophy photos
+### Images
 
-Cut out from their background and resized, via Wikimedia Commons.
-
-| Trophy | Work | Author | License |
-| --- | --- | --- | --- |
-| Brasileirão | [Troféu Campeonato Brasileiro 2024.jpg](https://commons.wikimedia.org/wiki/File:Trof%C3%A9u_Campeonato_Brasileiro_2024.jpg) | Phill ad | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0) |
-| Libertadores | [328-3287452 copa-libertadores-primer-trofeo-hd-png-download.png](https://commons.wikimedia.org/wiki/File:328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png) | Mathiaseditorxd | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0) |
-| Copa do Brasil | Image supplied by the project author (render of the trophy) | Not stated | Not stated |
-
-The adapted Libertadores image (`images/trofeus/libertadores.png`) is distributed under the same license as the original, CC BY-SA 4.0. The rest of the project stays under MIT.
-
-### Crests and marks
-
-| What | Source |
-| --- | --- |
-| Atlético-MG shield | [Clube Atlético Mineiro logo.svg](https://commons.wikimedia.org/wiki/File:Clube_Atl%C3%A9tico_Mineiro_logo.svg), Wikimedia Commons (public domain as to copyright) |
-| Santos shield | [Santos Futebol Clube logo (with stars but without the crown).svg](https://commons.wikimedia.org/wiki/File:Santos_Futebol_Clube_logo_(with_stars_but_without_the_crown).svg) and [(with stars and crown).png](https://commons.wikimedia.org/wiki/File:Santos_Futebol_Clube_logo_(with_stars_and_crown).png), Wikimedia Commons (public domain as to copyright) |
-| Crests of the other clubs | Main image of each club's Wikipedia article, or images supplied by the project author (old crests: see `icons/retro-CREDITS.txt`). Trademarks of the respective clubs |
-| Club names | Trademarks of the respective clubs |
-| Extension icon | The Brasileirão Série A logo, a trademark of the CBF |
-
-Public-domain status on Wikimedia Commons concerns copyright only; the crests remain trademarks of the clubs.
+Author, license and source of each trophy photo are in `images/trofeus/CREDITS.txt`, and those of the old crests in `icons/retro-CREDITS.txt`. The crests are trademarks of the clubs (see the Disclaimer).
 
 ### Data
 
-Title counts and years come from the Portuguese and English Wikipedia articles on the Campeonato Brasileiro (Séries A to D), the Copa do Brasil, the Copa Libertadores, the Copa Sul-Americana, the Club World Cup, the Copa do Nordeste, the Copa Verde and each club (text under CC BY-SA 4.0; the facts themselves are not copyrightable).
+Title counts and years come from the Portuguese and English Wikipedia articles on the Campeonato Brasileiro (Séries A to D), the Copa do Brasil, the Copa Libertadores, the Copa Sul-Americana, the Club World Cup, the Copa do Nordeste, the Copa Verde, the state championships and each club (text under CC BY-SA 4.0; the facts themselves are not copyrightable).
 
 ## Disclaimer
 
