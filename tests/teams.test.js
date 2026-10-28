@@ -332,7 +332,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Gama'), ['Série B']);
     assert.deepEqual(itens('Brasília'), ['Copa Verde']);
     assert.deepEqual(itens('ABC'), ['Série C']);
-    assert.deepEqual(itens('América-RN'), ['Copa do Nordeste', 'Série D']);
+    assert.deepEqual(itens('América-RN'), ['Série D', 'Copa do Nordeste'], 'América-RN: a Copa do Nordeste fica no centro (titleOrder em teams.js)');
     assert.deepEqual(itens('Botafogo-PB'), ['Série D']);
     assert.deepEqual(itens('Nacional-AM'), ['Estadual']);
     // O Estadual usa o troféu do estado (estadual-<uf>.png: o Amazonense nos times do Amazonas); estado sem a foto não mostra o Estadual (Remo, do Pará).
