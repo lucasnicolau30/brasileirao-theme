@@ -1446,5 +1446,34 @@
       ],
       "nota": "círculo vermelho com anel e andorinha brancas e o texto BRASÍLIA FUTEBOL CLUBE - 1975, enviado pelo dono do projeto (WebP de 408 px, traçado pelas duas cores); período 2013–2020 inferido: o Logopedia lista dois escudos nesse intervalo, 2013–2015 (arquivo Brasilia-fc-2013-2019-logo) e 2015–2020 (Brasilia fc), mas não consegui ver as imagens dele para confirmar qual é, então o rótulo cobre os dois"
     }
+  ],
+  "luverdense": [
+    {
+      "id": "2004",
+      "label": "2004–2011",
+      "local": "Luverdense-2004.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#049a44",
+        "#dc221c",
+        "#046aac",
+        "#4a4a4a"
+      ],
+      "nota": "escudo original do clube: círculo verde com a bola em verde, vermelho e azul, o monograma LEC, o ano 2004 e o texto LUVERDENSE ESPORTE CLUBE, enviado pelo dono do projeto (GIF de 200 px do seeklogo, aro traçado como círculo exato e o resto pelas cores); período 2004–2011: o clube foi fundado em 2004 e um escudo novo do clube foi divulgado em 1º de junho de 2011 (post \"Novo escudo do Luverdense/MT\" do blog História do Futebol, com imagem do site do clube, sem descrever o desenho); o fim em 2011 supõe que esse seja o brasão com as estrelas, e a data exata em que o redondo saiu de uso não é conhecida"
+    },
+    {
+      "id": "2012",
+      "label": "2012–2016",
+      "local": "Luverdense-2012.svg",
+      "nota": "escudo em forma de brasão, com o LEC, as faixas verdes, o texto Luverdense Esporte Clube 2004 e duas estrelas (uma por título estadual), arquivo SVG da Wikipédia pt (LuverdenseEsporteClube.svg, enviado em 22 de agosto de 2013 a partir da página de imprensa do clube); período 2012–2016 inferido: as duas estrelas valem os títulos estaduais de 2009 e 2012, e o escudo atual, com três, vem do terceiro título, o de 2016"
+    }
   ]
 }

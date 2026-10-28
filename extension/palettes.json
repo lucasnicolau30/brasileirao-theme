@@ -5795,6 +5795,114 @@
       }
     ]
   },
+  "Brasileirão: Luverdense": {
+    "slug": "luverdense",
+    "uf": "MT",
+    "crestLabel": "Atual · desde 2016",
+    "crestIcon": "escudo-b8625c30.svg",
+    "listIcon": "escudo-b8625c30.svg",
+    "backgroundAspect": 0.595,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [
+        2017
+      ],
+      "estadual": [
+        2009,
+        2012,
+        2016
+      ]
+    },
+    "retro": [
+      {
+        "id": "2004",
+        "label": "2004–2011",
+        "fullLabel": "2004–2011",
+        "atual": false,
+        "file": "retro-2004-a1acfcba.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-luverdense-2004"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2016",
+        "fullLabel": "2012–2016",
+        "atual": false,
+        "file": "retro-2012-f0f2d0b5.svg",
+        "aspect": 0.617,
+        "iconTheme": "brasileirao-luverdense-2012"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩⬜",
+    "primary": "#3a9b46",
+    "background": "fundo-cc3fd4a1.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-luverdense",
+    "colors": [
+      "rgba(154,209,43,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(111,220,140,0.08)",
+      "rgba(58,155,70,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#3a9b4633",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#9ad12b"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#6fdc8c"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#9ad12b"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Brasiliense": {
     "slug": "brasiliense",
     "uf": "DF",
