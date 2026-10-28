@@ -1613,5 +1613,39 @@
       ],
       "nota": "escudo com as listras diagonais pretas e brancas, a faixa PAULISTA em vermelho e o símbolo redondo no centro, enviado pelo dono do projeto (JPG de 533 px, ampliado e traçado nas cores do original); período 1951–1955 segundo o Logopedia (logos.fandom.com), que lista este escudo (Paulista-FC-1951) nesse intervalo"
     }
+  ],
+  "uberlandia": [
+    {
+      "id": "1922",
+      "label": "1922–1923",
+      "local": "Uberlandia-1922.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#007848"
+      ],
+      "nota": "escudo oval branco com a borda verde e as letras UEC, enviado pelo dono do projeto (WebP de 1000 px, convertido para PNG, ampliado e traçado); período 1922–1923 segundo o Logopedia (logos.fandom.com), que lista este escudo (Uberlandia-EC-1922) só em 1922 e o seguinte a partir de 1923; o fim em 1923 é o ano em que o seguinte começa"
+    },
+    {
+      "id": "1966",
+      "label": "1966–1968",
+      "local": "Uberlandia-1966.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#088848"
+      ],
+      "nota": "escudo branco com a faixa verde U.E.C. e a bola, enviado pelo dono do projeto (WebP de 200 px, convertido para PNG, ampliado e traçado); período 1966–1968 segundo o Logopedia (logos.fandom.com)"
+    }
   ]
 }

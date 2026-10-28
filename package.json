@@ -145,6 +145,11 @@
         "path": "./themes/america-mg-color-theme.json"
       },
       {
+        "label": "Brasileirão: Uberlândia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/uberlandia-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Grêmio",
         "uiTheme": "vs-dark",
         "path": "./themes/gremio-color-theme.json"
@@ -680,6 +685,21 @@
         "id": "brasileirao-america-mg-2017",
         "label": "Brasileirão: América-MG (retrô 2017–2018)",
         "path": "./icons/america-mg/icon-theme-2017.json"
+      },
+      {
+        "id": "brasileirao-uberlandia",
+        "label": "Brasileirão: Uberlândia",
+        "path": "./icons/uberlandia/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-1922",
+        "label": "Brasileirão: Uberlândia (retrô 1922–1923)",
+        "path": "./icons/uberlandia/icon-theme-1922.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-1966",
+        "label": "Brasileirão: Uberlândia (retrô 1966–1968)",
+        "path": "./icons/uberlandia/icon-theme-1966.json"
       },
       {
         "id": "brasileirao-gremio",

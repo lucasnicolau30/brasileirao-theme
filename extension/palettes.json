@@ -2421,6 +2421,112 @@
       }
     ]
   },
+  "Brasileirão: Uberlândia": {
+    "slug": "uberlandia",
+    "uf": "MG",
+    "crestLabel": "Atual · desde 2023",
+    "crestIcon": "escudo-7c54d3ae.svg",
+    "listIcon": "escudo-7c54d3ae.svg",
+    "backgroundAspect": 0.758,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1984
+      ],
+      "serieC": [],
+      "serieD": [
+        2026
+      ],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1922",
+        "label": "1922–1923",
+        "fullLabel": "1922–1923",
+        "atual": false,
+        "file": "retro-1922-6257281f.svg",
+        "aspect": 1.808,
+        "iconTheme": "brasileirao-uberlandia-1922"
+      },
+      {
+        "id": "1966",
+        "label": "1966–1968",
+        "fullLabel": "1966–1968",
+        "atual": false,
+        "file": "retro-1966-85476ad8.svg",
+        "aspect": 0.823,
+        "iconTheme": "brasileirao-uberlandia-1966"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩⬜🟨",
+    "primary": "#12a05a",
+    "background": "fundo-8bc218f8.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-uberlandia",
+    "colors": [
+      "rgba(91,227,160,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(240,216,120,0.08)",
+      "rgba(47,185,126,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#12a05a33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#5be3a0"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#f0d878"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#5be3a0"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Grêmio": {
     "slug": "gremio",
     "uf": "RS",

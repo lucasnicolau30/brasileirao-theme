@@ -51,6 +51,7 @@ const EXPECTED = {
   portuguesa: [0, 0, 0],
   'ponte-preta': [0, 0, 0],
   'america-mg': [0, 0, 0],
+  uberlandia: [0, 0, 0],
   nautico: [0, 0, 0],
   'atletico-go': [0, 0, 0],
   'vila-nova': [0, 0, 0],
@@ -114,6 +115,7 @@ const EXPECTED_OTHER = {
   portuguesa: [0, 0, 1, 0, 0],
   'ponte-preta': [0, 0, 0, 1, 0],
   'america-mg': [0, 0, 2, 1, 0],
+  uberlandia: [0, 0, 1, 0, 1],
   nautico: [0, 0, 0, 1, 0],
   'atletico-go': [0, 0, 1, 2, 0],
   'vila-nova': [0, 0, 0, 3, 0],
@@ -140,6 +142,7 @@ const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
 const LAST_YEAR_VERDE = 2026; // a Copa Verde de 2026 já foi decidida (Paysandu)
 const LAST_YEAR_ESTADUAL = 2026; // os estaduais de 2026 já foram decididos
+const LAST_YEAR_SERIED = 2026; // a Série D de 2026 já foi decidida (Uberlândia)
 // Copa do Nordeste (só times do Nordeste), conferida à mão na Wikipédia: número de títulos por time.
 // Copa Verde (só times do Norte e do Centro-Oeste), conferida à mão na Wikipédia: número de títulos por time.
 const EXPECTED_VERDE = { paysandu: 6, remo: 1, goias: 1, cuiaba: 2, luverdense: 1, brasiliense: 1, brasilia: 1 };
@@ -151,8 +154,8 @@ const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juve
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 58 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 58);
+test('há 59 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 59);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -191,7 +194,7 @@ for (const team of teams) {
       assert.ok(Array.isArray(years), `${key} deve ser uma lista de anos`);
       years.forEach((y) => {
         assert.ok(Number.isInteger(y), `${key}: ${y} não é inteiro`);
-        const ultimo = key === 'copaDoNordeste' ? LAST_YEAR_NORDESTE : key === 'copaVerde' ? LAST_YEAR_VERDE : key === 'estadual' ? LAST_YEAR_ESTADUAL : LAST_YEAR;
+        const ultimo = key === 'copaDoNordeste' ? LAST_YEAR_NORDESTE : key === 'copaVerde' ? LAST_YEAR_VERDE : key === 'estadual' ? LAST_YEAR_ESTADUAL : key === 'serieD' ? LAST_YEAR_SERIED : LAST_YEAR;
         assert.ok(y >= FIRST_YEAR[key] && y <= ultimo, `${key}: ${y} fora de ${FIRST_YEAR[key]}-${ultimo}`);
       });
       assert.deepEqual(years, [...years].sort((a, b) => a - b), `${key}: anos fora de ordem`);
@@ -360,6 +363,8 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: Bangu`]).includes(b64('estadual-rj.png')), 'Bangu: deve usar o troféu do Carioca');
     // Times menores de São Paulo (Bragantino, Portuguesa): taça do Paulista; os 4 sem título paulista (Guarani, Santo André, Mirassol, Ponte Preta) não mostram o Estadual.
     assert.deepEqual(itens('Ituano'), ['Série C', 'Estadual']);
+    // Uberlândia não tem título do Mineiro (só do Interior).
+    assert.deepEqual(itens('Uberlândia'), ['Série B', 'Série D']);
     assert.deepEqual(itens('Paulista'), ['Copa do Brasil', 'Série C'], 'Paulista: sem título do Paulistão, então sem Estadual');
     // Times menores de Santa Catarina (Criciúma, Chapecoense, Avaí e Figueirense): taça do Catarinense.
     assert.deepEqual(itens('Avaí'), ['Série C', 'Estadual']);
@@ -486,6 +491,6 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
     const dif = criterios.map((k) => a.titles[k].length - b.titles[k].length).find((d) => d !== 0) || 0;
     assert.ok(dif >= 0, `${b.slug} (mais títulos) deveria vir antes de ${a.slug}`);
   }
-  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'volta-redonda', 'bangu', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'portuguesa', 'ituano', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'gremio', 'internacional',
+  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'volta-redonda', 'bangu', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'portuguesa', 'ituano', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'gremio', 'internacional',
     'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'nacional-am', 'rio-negro-am', 'sao-raimundo-am', 'manaus', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'avai', 'figueirense', 'sampaio-correa', 'cuiaba', 'luverdense', 'brasiliense', 'gama', 'brasilia', 'abc', 'america-rn', 'botafogo-pb', 'campinense']);
 });
