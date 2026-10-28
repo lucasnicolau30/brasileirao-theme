@@ -1,7 +1,7 @@
 {
   "name": "brasileirao-theme",
   "displayName": "Brasileirão Theme",
-  "description": "Um tema escuro e um tema de ícones para cada um de 45 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
+  "description": "Um tema escuro e um tema de ícones para cada um de 46 times do Brasileirão e das divisões de acesso: as cores do time nas linhas, na barra de status e nos colchetes.",
   "version": "1.1.0",
   "publisher": "lucasnicolau30",
   "license": "MIT",
@@ -203,6 +203,11 @@
         "label": "Brasileirão: Amazonas",
         "uiTheme": "vs-dark",
         "path": "./themes/amazonas-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Nacional-AM",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nacional-am-color-theme.json"
       },
       {
         "label": "Brasileirão: Goiás",
@@ -800,6 +805,21 @@
         "id": "brasileirao-amazonas-2019",
         "label": "Brasileirão: Amazonas (retrô 2019–2023)",
         "path": "./icons/amazonas/icon-theme-2019.json"
+      },
+      {
+        "id": "brasileirao-nacional-am",
+        "label": "Brasileirão: Nacional-AM",
+        "path": "./icons/nacional-am/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-nacional-am-1913",
+        "label": "Brasileirão: Nacional-AM (retrô 1913–1981)",
+        "path": "./icons/nacional-am/icon-theme-1913.json"
+      },
+      {
+        "id": "brasileirao-nacional-am-2012",
+        "label": "Brasileirão: Nacional-AM (retrô 2012–2013)",
+        "path": "./icons/nacional-am/icon-theme-2012.json"
       },
       {
         "id": "brasileirao-goias",

@@ -1240,5 +1240,32 @@
       ],
       "nota": "escudo com as cores da bandeira da Paraíba, metade preta e metade vermelha com a estrela branca, enviado pelo dono do projeto (PNG de 447 px, traçado pelas cores); período 1974–1978 segundo a Wikipédia pt: em 1974 o clube passou a ter a estrela vermelha e o escudo com as cores da bandeira da Paraíba, e em 1978 voltou ao alvinegro da estrela vermelha (o Logopedia lista 1970–1976 e 1977–1978)"
     }
+  ],
+"nacional-am": [
+    {
+      "id": "1913",
+      "label": "1913–1981",
+      "local": "Nacional-AM-1913.png",
+      "vetorizar": "alfa",
+      "vetorizarPaleta": [
+        "#326daa"
+      ],
+      "nota": "primeiro escudo do clube, a estrela azul de cinco pontas (o símbolo do Nacional desde que nasceu, estampado na camisa branca do uniforme de 1913), enviado pelo dono do projeto (WebP de 800 px, traçado); período 1913–1981 segundo o Logopedia (logos.fandom.com), que lista este arquivo (Nacional-AM-1913) como o primeiro período do clube, antes do escudo de 1981, mas não consegui ver as imagens dele para confirmar; a Wikipédia pt diz que o brasão com a águia só veio em 1922 e a estrela aparece nele desde então"
+    },
+    {
+      "id": "2012",
+      "label": "2012–2013",
+      "local": "Nacional-AM-2012.png",
+      "vetorizar": "alfa",
+      "vetorizarPaleta": [
+        "#2a9a33",
+        "#fcdb06",
+        "#96c8e7",
+        "#0078f0",
+        "#0058b0",
+        "#ffffff"
+      ],
+      "nota": "águia dourada e brilhante com contorno verde, escudo azul com o N e as seis estrelas do hexa mais a estrela azul, enviado pelo dono do projeto (PNG de 200 px, com o brilho e o degradê reduzidos a poucas cores chapadas antes de traçar: ouro, verde, três azuis e branco); período 2012–2013 inferido: a Wikipédia pt conta que em 2012 um grupo de marketing apresentou um novo formato do brasão, contestado pela torcida, e que em 2013 as falhas foram corrigidas (o Logopedia lista 2012–2013 e 2013–atual), mas não consegui ver as imagens dele para confirmar"
+    }
   ]
 }
