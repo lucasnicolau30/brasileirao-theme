@@ -1835,5 +1835,41 @@
       ],
       "nota": "escudo preto com o leão branco do Botafogo Futebol Clube (nome do clube em Macaé antes de virar Macaé Sports), com as letras BFC e MACAÉ, enviado pelo dono do projeto (PNG de 1600 px; as letras de fora do escudo, que eram pretas, foram trocadas por cinza-claro, #c0c0c0, para aparecer sobre o fundo escuro do editor); período 1990–1999 segundo o Logopedia (logos.fandom.com)"
     }
+  ],
+  "america-rj": [
+    {
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "id": "1904",
+      "label": "1904–1946",
+      "local": "America-1904.png",
+      "vetorizarPaleta": [
+        "#181818",
+        "#ffffff"
+      ],
+      "nota": "escudo redondo preto com o monograma AFC entrelaçado em branco, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado nas cores do original); período 1904–1946 segundo o Logopedia (logos.fandom.com) e o Futbox (1904 e 1946)"
+    },
+    {
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "id": "1960",
+      "label": "1960–1968",
+      "local": "America-1960.png",
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#d83838"
+      ],
+      "nota": "escudo em disco branco com as letras AFC em vermelho, enviado pelo dono do projeto (PNG de 800 px, ampliado e traçado nas cores do original); período 1960–1968 inferido: o Logopedia e o Futbox listam o escudo de 1960 como o de disco claro com o AFC, mas não consegui ver as imagens para confirmar que é este"
+    }
   ]
 }

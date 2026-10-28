@@ -75,6 +75,11 @@
         "path": "./themes/macae-color-theme.json"
       },
       {
+        "label": "Brasileirão: América-RJ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/america-rj-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Bangu",
         "uiTheme": "vs-dark",
         "path": "./themes/bangu-color-theme.json"
@@ -480,6 +485,21 @@
         "id": "brasileirao-macae-1990",
         "label": "Brasileirão: Macaé (retrô 1990–1999)",
         "path": "./icons/macae/icon-theme-1990.json"
+      },
+      {
+        "id": "brasileirao-america-rj",
+        "label": "Brasileirão: América-RJ",
+        "path": "./icons/america-rj/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-america-rj-1904",
+        "label": "Brasileirão: América-RJ (retrô 1904–1946)",
+        "path": "./icons/america-rj/icon-theme-1904.json"
+      },
+      {
+        "id": "brasileirao-america-rj-1960",
+        "label": "Brasileirão: América-RJ (retrô 1960–1968)",
+        "path": "./icons/america-rj/icon-theme-1960.json"
       },
       {
         "id": "brasileirao-bangu",

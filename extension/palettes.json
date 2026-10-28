@@ -786,6 +786,116 @@
       }
     ]
   },
+  "Brasileirão: América-RJ": {
+    "slug": "america-rj",
+    "uf": "RJ",
+    "crestLabel": "Atual · desde 2016",
+    "crestIcon": "escudo-3bba6732.svg",
+    "listIcon": "escudo-3bba6732.svg",
+    "backgroundAspect": 0.776,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1913,
+        1916,
+        1922,
+        1928,
+        1931,
+        1935,
+        1960
+      ]
+    },
+    "retro": [
+      {
+        "id": "1904",
+        "label": "1904–1946",
+        "fullLabel": "1904–1946",
+        "atual": false,
+        "file": "retro-1904-62106207.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-america-rj-1904"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1968",
+        "fullLabel": "1960–1968",
+        "atual": false,
+        "file": "retro-1960-e47619da.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-america-rj-1960"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬜",
+    "primary": "#c8252c",
+    "background": "fundo-6caca487.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-america-rj",
+    "colors": [
+      "rgba(255,106,112,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,163,167,0.08)",
+      "rgba(232,56,63,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#c8252c33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6a70"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffa3a7"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6a70"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Bangu": {
     "slug": "bangu",
     "uf": "RJ",
