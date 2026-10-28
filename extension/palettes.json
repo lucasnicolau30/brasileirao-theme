@@ -587,6 +587,110 @@
       }
     ]
   },
+  "Brasileirão: Olaria": {
+    "slug": "olaria",
+    "uf": "RJ",
+    "crestLabel": "Atual · desde 1997",
+    "crestIcon": "escudo-11f7e8b9.svg",
+    "listIcon": "escudo-11f7e8b9.svg",
+    "backgroundAspect": 0.79,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        1981
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1915",
+        "label": "1915–1920",
+        "fullLabel": "1915–1920",
+        "atual": false,
+        "file": "retro-1915-10ca632d.svg",
+        "aspect": 1.542,
+        "iconTheme": "brasileirao-olaria-1915"
+      },
+      {
+        "id": "1920",
+        "label": "1920–1997",
+        "fullLabel": "1920–1997",
+        "atual": false,
+        "file": "retro-1920-57b536f4.svg",
+        "aspect": 0.789,
+        "iconTheme": "brasileirao-olaria-1920"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟦⬜",
+    "primary": "#2f66d6",
+    "background": "fundo-8ba92356.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-olaria",
+    "colors": [
+      "rgba(127,163,255,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(180,200,255,0.08)",
+      "rgba(79,127,230,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#2f66d633",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#7fa3ff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#b4c8ff"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#7fa3ff"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Bangu": {
     "slug": "bangu",
     "uf": "RJ",

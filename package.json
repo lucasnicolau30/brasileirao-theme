@@ -65,6 +65,11 @@
         "path": "./themes/volta-redonda-color-theme.json"
       },
       {
+        "label": "Brasileirão: Olaria",
+        "uiTheme": "vs-dark",
+        "path": "./themes/olaria-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Bangu",
         "uiTheme": "vs-dark",
         "path": "./themes/bangu-color-theme.json"
@@ -445,6 +450,21 @@
         "id": "brasileirao-volta-redonda-1976",
         "label": "Brasileirão: Volta Redonda (retrô 1976–1980)",
         "path": "./icons/volta-redonda/icon-theme-1976.json"
+      },
+      {
+        "id": "brasileirao-olaria",
+        "label": "Brasileirão: Olaria",
+        "path": "./icons/olaria/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-olaria-1915",
+        "label": "Brasileirão: Olaria (retrô 1915–1920)",
+        "path": "./icons/olaria/icon-theme-1915.json"
+      },
+      {
+        "id": "brasileirao-olaria-1920",
+        "label": "Brasileirão: Olaria (retrô 1920–1997)",
+        "path": "./icons/olaria/icon-theme-1920.json"
       },
       {
         "id": "brasileirao-bangu",

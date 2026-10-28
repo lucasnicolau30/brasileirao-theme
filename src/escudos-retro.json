@@ -1778,5 +1778,43 @@
       ],
       "nota": "escudo azul em forma de coração com a sigla CSA em branco, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado nas cores do original); período 1950–1980 inferido do Futbox, que lista este escudo nos anos 1950 e o seguinte (o escudo listrado com contorno) nos anos 1980, sem anos exatos"
     }
+  ],
+  "olaria": [
+    {
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "id": "1915",
+      "label": "1915–1920",
+      "local": "Olaria-1915.jpg",
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#000000"
+      ],
+      "nota": "primeiro escudo do clube, um losango preto com as iniciais OFC (Olaria Foot-ball Club), enviado pelo dono do projeto (JPEG de 1024 px, ampliado e traçado nas cores do original); período 1915–1920 segundo o Logopedia (logos.fandom.com) e a Wikipédia pt: o clube foi fundado em 1915 e em 1920 passou a Olaria Atlético Clube, com novo escudo"
+    },
+    {
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "id": "1920",
+      "label": "1920–1997",
+      "local": "Olaria-1920.png",
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#081868"
+      ],
+      "nota": "escudo azul-marinho do Olaria Atlético Clube com a roda de leme, a âncora, os remos e a bola com OAC, enviado pelo dono do projeto (PNG de 397 px, ampliado e traçado nas cores do original); período 1920–1997 inferido: a Wikipédia pt diz que o escudo foi concebido em 1920 e o Logopedia lista várias versões do mesmo desenho (1920, até 1983, 1983–1994 e 1994–1997) antes do atual, de 1997, sem que eu pudesse ver as imagens para saber a qual delas este arquivo corresponde"
+    }
   ]
 }
