@@ -61,7 +61,7 @@ const EXPECTED = {
   'botafogo-pb': [0, 0, 0],
   'nacional-am': [0, 0, 0]
 };
-const FIRST_YEAR = { brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994, copaVerde: 2014 };
+const FIRST_YEAR = { estadual: 1900, brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994, copaVerde: 2014 };
 // Mundial (Intercontinental + Mundial da FIFA), Sul-Americana, Série B, C e D: [mundial, sulAmericana, serieB, serieC, serieD], conferido à mão nas listas oficiais.
 const EXPECTED_OTHER = {
   flamengo: [1, 0, 0, 0, 0],
@@ -115,11 +115,15 @@ const EXPECTED_OTHER = {
 const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
 const LAST_YEAR_VERDE = 2026; // a Copa Verde de 2026 já foi decidida (Paysandu)
+const LAST_YEAR_ESTADUAL = 2026; // os estaduais de 2026 já foram decididos
 // Copa do Nordeste (só times do Nordeste), conferida à mão na Wikipédia: número de títulos por time.
 // Copa Verde (só times do Norte e do Centro-Oeste), conferida à mão na Wikipédia: número de títulos por time.
 const EXPECTED_VERDE = { paysandu: 6, remo: 1, goias: 1, cuiaba: 2, brasiliense: 1 };
 const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport: 3, 'santa-cruz': 1, 'sampaio-correa': 1, 'america-rn': 1 };
 // Ano repetido na mesma lista só quando houve dois títulos no mesmo ano.
+// Estaduais (tabela de títulos de cada campeonato estadual, ou a lista de campeões onde não há tabela; o América-RN tem 40 no artigo mas só 38 anos
+// listados, então valem os 38). Só os times menores têm: os 12 grandes ficam com [].
+const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juventude: 1, bahia: 52, vitoria: 30, fortaleza: 47, ceara: 47, 'athletico-pr': 28, coritiba: 39, parana: 7, sport: 46, 'santa-cruz': 29, nautico: 24, paysandu: 51, remo: 48, amazonas: 2, goias: 29, 'atletico-go': 18, 'vila-nova': 16, criciuma: 12, chapecoense: 7, 'sampaio-correa': 37, cuiaba: 13, brasiliense: 11, gama: 15, abc: 56, 'america-rn': 38, 'botafogo-pb': 31, 'nacional-am': 44 };
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
@@ -158,12 +162,12 @@ for (const team of teams) {
   });
 
   test(`${team.slug}: títulos (anos em ordem, no intervalo certo, sem repetição indevida)`, () => {
-    assert.deepEqual(Object.keys(team.titles).sort(), ['brasileirao', 'copaDoBrasil', 'copaDoNordeste', 'copaVerde', 'libertadores', 'mundial', 'serieB', 'serieC', 'serieD', 'sulAmericana']);
+    assert.deepEqual(Object.keys(team.titles).sort(), ['brasileirao', 'copaDoBrasil', 'copaDoNordeste', 'copaVerde', 'estadual', 'libertadores', 'mundial', 'serieB', 'serieC', 'serieD', 'sulAmericana']);
     for (const [key, years] of Object.entries(team.titles)) {
       assert.ok(Array.isArray(years), `${key} deve ser uma lista de anos`);
       years.forEach((y) => {
         assert.ok(Number.isInteger(y), `${key}: ${y} não é inteiro`);
-        const ultimo = key === 'copaDoNordeste' ? LAST_YEAR_NORDESTE : key === 'copaVerde' ? LAST_YEAR_VERDE : LAST_YEAR;
+        const ultimo = key === 'copaDoNordeste' ? LAST_YEAR_NORDESTE : key === 'copaVerde' ? LAST_YEAR_VERDE : key === 'estadual' ? LAST_YEAR_ESTADUAL : LAST_YEAR;
         assert.ok(y >= FIRST_YEAR[key] && y <= ultimo, `${key}: ${y} fora de ${FIRST_YEAR[key]}-${ultimo}`);
       });
       assert.deepEqual(years, [...years].sort((a, b) => a - b), `${key}: anos fora de ordem`);
@@ -180,6 +184,7 @@ for (const team of teams) {
     assert.deepEqual([t.mundial, t.sulAmericana, t.serieB, t.serieC, t.serieD].map((y) => y.length), EXPECTED_OTHER[team.slug]);
     assert.equal(t.copaDoNordeste.length, EXPECTED_NORDESTE[team.slug] ?? 0, 'Copa do Nordeste');
     assert.equal(t.copaVerde.length, EXPECTED_VERDE[team.slug] ?? 0, 'Copa Verde');
+    assert.equal(t.estadual.length, EXPECTED_ESTADUAL[team.slug] ?? 0, 'estadual');
   });
 
   test(`${team.slug}: o escudo de fundo existe`, () => {
@@ -290,12 +295,12 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     m.paths = Module._nodeModulePaths(path.dirname(file));
     m._compile(`${fs.readFileSync(file, 'utf8')}\nmodule.exports.titlesHtml = titlesHtml;`, file);
     const itens = (team) => [...m.exports.titlesHtml(palettes[`${PREFIX}: ${team}`]).matchAll(/<div class="name">([^<]+)<\/div>/g)].map((x) => x[1]);
-    assert.deepEqual(itens('Amazonas'), ['Série C'], 'só a Série C, sem troféus zerados');
+    assert.deepEqual(itens('Amazonas'), ['Série C', 'Estadual'], 'só o que o time ganhou, sem troféus zerados');
     assert.deepEqual(itens('Flamengo'), ['Copa do Brasil', 'Libertadores', 'Mundial', 'Brasileirão'], 'o Mundial fica logo à direita da Libertadores');
     assert.deepEqual(itens('São Paulo'), ['Copa do Brasil', 'Libertadores', 'Mundial', 'Brasileirão', 'Sul-Americana']);
     // Com 5 competições o Mundial (o ápice) fica no centro.
     for (const time of ['São Paulo', 'Corinthians', 'Santos', 'Grêmio', 'Internacional']) assert.equal(itens(time)[2], 'Mundial', `${time}: Mundial deve ficar no centro`);
-    // Criciúma: a Copa do Brasil fica no centro (titleCenter em teams.js); os outros times mantêm a ordem padrão.
+    // Criciúma: a Copa do Brasil fica no centro (titleCenter em teams.js); os outros times mantêm a ordem padrão. O Estadual vai sempre por último, fora da conta do centro.
     assert.deepEqual(itens('Criciúma'), ['Série B', 'Copa do Brasil', 'Série C']);
     assert.deepEqual(itens('Bragantino'), ['Série B', 'Série C']);
     // Sampaio Corrêa: a ordem vem de titleOrder em teams.js (Série C, Série B, Copa do Nordeste, Série D), não da lista padrão.
@@ -316,6 +321,13 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('ABC'), ['Série C']);
     assert.deepEqual(itens('América-RN'), ['Copa do Nordeste', 'Série D']);
     assert.deepEqual(itens('Botafogo-PB'), ['Série D']);
+    assert.deepEqual(itens('Nacional-AM'), ['Estadual']);
+    // O Estadual usa o troféu do estado (estadual-<uf>.png: o Amazonense nos times do Amazonas); estado sem a foto não mostra o Estadual (Remo, do Pará).
+    const b64 = (f) => fs.readFileSync(path.join(root, 'images', 'trofeus', f)).toString('base64');
+    for (const time of ['Nacional-AM', 'Amazonas']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-am.png')), `${time}: deve usar o troféu do Amazonense`);
+    assert.ok(!itens('Remo').includes('Estadual') && !itens('Sport').includes('Estadual'), 'estado sem a foto do troféu não mostra o Estadual');
+    // Os 12 grandes não mostram o Estadual (só os times menores).
+    for (const time of ['Flamengo', 'São Paulo', 'Cruzeiro']) assert.ok(!itens(time).includes('Estadual'), `${time}: grande não mostra o Estadual`);
     assert.deepEqual(itens('Remo'), ['Copa Verde', 'Série C']);
     assert.ok(itens('Paysandu').includes('Copa Verde') && !itens('Sport').includes('Copa Verde'), 'só quem venceu a Copa Verde mostra o troféu');
     assert.ok(!itens('Goiás').includes('Copa do Nordeste') && !itens('Remo').includes('Copa do Nordeste'), 'times de fora do Nordeste não mostram a Copa do Nordeste');
@@ -338,7 +350,7 @@ const GRANDES = ['flamengo', 'fluminense', 'vasco', 'botafogo', 'palmeiras', 'sa
 
 test('os 12 grandes não mostram títulos de Série B, C nem D (decisão do usuário), mas os times novos mostram', () => {
   for (const team of teams.filter((x) => GRANDES.includes(x.slug))) {
-    for (const key of ['serieB', 'serieC', 'serieD']) assert.deepEqual(team.titles[key], [], `${team.slug}: ${key} deve ficar vazio nos 12 grandes`);
+    for (const key of ['serieB', 'serieC', 'serieD', 'estadual']) assert.deepEqual(team.titles[key], [], `${team.slug}: ${key} deve ficar vazio nos 12 grandes`);
   }
   assert.equal(teams.filter((x) => GRANDES.includes(x.slug)).length, 12);
   assert.ok(teams.filter((x) => !GRANDES.includes(x.slug)).some((t) => t.titles.serieB.length || t.titles.serieC.length), 'os times novos ainda têm Série B/C');
@@ -347,7 +359,8 @@ test('os 12 grandes não mostram títulos de Série B, C nem D (decisão do usu�
 test('toda competição da seção Títulos tem a sua foto de troféu em images/trofeus', () => {
   const codigo = fs.readFileSync(path.join(root, 'extension', 'extension.js'), 'utf8');
   const arquivos = [...codigo.slice(codigo.indexOf('const COMPETITIONS'), codigo.indexOf('];', codigo.indexOf('const COMPETITIONS'))).matchAll(/file: '([^']+)'/g)].map((m) => m[1]);
-  assert.equal(arquivos.length, 10, 'são 10 competições, cada uma com foto');
+  assert.equal(arquivos.length, 10, 'são 10 competições com foto própria (o Estadual tem uma por estado: estadual-<uf>.png)');
+  assert.ok(fs.existsSync(path.join(root, 'images', 'trofeus', 'estadual-am.png')), 'falta images/trofeus/estadual-am.png');
   for (const f of arquivos) assert.ok(fs.existsSync(path.join(root, 'images', 'trofeus', f)), `falta images/trofeus/${f}`);
 });
 

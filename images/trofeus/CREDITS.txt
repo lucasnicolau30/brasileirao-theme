@@ -30,3 +30,6 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 - copa-verde.png
   Taça da Copa Verde: imagem fornecida pelo usuário (804768286.avif, foto da taça do campeão de 2023), sem autor nem licença conhecidos.
   Recortada do fundo (GrabCut, com ajuste manual das barbatanas e da base) e redimensionada para 380 px de altura.
+
+- estadual-am.png
+  Taça do Campeonato Amazonense (Barezão), usada nos times do Amazonas: imagem fornecida pelo usuário (images (1).jpg, foto da taça do campeão), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.

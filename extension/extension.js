@@ -200,11 +200,17 @@ const COMPETITIONS = [
   { key: 'copaVerde', label: 'Copa Verde', file: 'copa-verde.png' },
   { key: 'serieB', label: 'Série B', file: 'serie-b.png' },
   { key: 'serieC', label: 'Série C', file: 'serie-c.png' },
-  { key: 'serieD', label: 'Série D', file: 'serie-d.png' }
+  { key: 'serieD', label: 'Série D', file: 'serie-d.png' },
+  { key: 'estadual', label: 'Estadual' } // só os times menores têm (veja teams.js); a foto vem do estado (stateTrophy) e, sem ela, o troféu não aparece
 ];
 const pngAspect = (file) => {
   const buf = fs.readFileSync(path.join(__dirname, '..', 'images', 'trofeus', file));
   return buf.readUInt32BE(16) / buf.readUInt32BE(20); // IHDR: largura e altura
+};
+// Cada estado tem o troféu do seu estadual em images/trofeus/estadual-<uf>.png (o Amazonense, o Carioca...). Estado sem a foto não mostra o Estadual.
+const stateTrophy = (palette) => {
+  const own = palette.uf ? `estadual-${palette.uf.toLowerCase()}.png` : '';
+  return own && fs.existsSync(path.join(__dirname, '..', 'images', 'trofeus', own)) ? own : null;
 };
 const trophyUri = (file) => `data:image/png;base64,${fs.readFileSync(path.join(__dirname, '..', 'images', 'trofeus', file)).toString('base64')}`;
 
@@ -232,25 +238,28 @@ function tooltipText(label, years) {
 // Competições em que o time tem título, na ordem de exibição. O Mundial é o ápice: fica logo à direita da Libertadores e, com 5 itens,
 // no centro. (A ordem da lista COMPETITIONS já põe o Mundial depois da Libertadores; aqui só se garante o centro nos casos de 5.)
 function presentTitles(palette) {
-  const present = COMPETITIONS.filter((c) => (palette.titles[c.key] || []).length);
+  const all = COMPETITIONS.filter((c) => (palette.titles[c.key] || []).length).map((c) => (c.key === 'estadual' ? { ...c, file: stateTrophy(palette) } : c)).filter((c) => c.file);
+  // O Estadual fica sempre por último, fora da conta do centro (o Mundial com 5 itens, o `titleCenter` com número ímpar).
+  const estadual = all.filter((c) => c.key === 'estadual');
+  const present = all.filter((c) => c.key !== 'estadual');
   // `titleOrder` (opcional, em teams.js): chaves das competições na ordem de exibição; as que ficarem fora da lista seguem depois, na ordem padrão.
   if (palette.titleOrder) {
     const rank = (c) => (palette.titleOrder.includes(c.key) ? palette.titleOrder.indexOf(c.key) : palette.titleOrder.length);
-    return [...present].sort((a, b) => rank(a) - rank(b));
+    return [...all].sort((a, b) => rank(a) - rank(b));
   }
   const mundial = present.find((c) => c.key === 'mundial');
   if (mundial && present.length === 5) {
     const rest = present.filter((c) => c !== mundial);
-    return [...rest.slice(0, 2), mundial, ...rest.slice(2)];
+    return [...rest.slice(0, 2), mundial, ...rest.slice(2), ...estadual];
   }
   // `titleCenter` (opcional, em teams.js): a competição escolhida vai para o meio, e as demais mantêm a ordem em volta dela.
   const center = present.find((c) => c.key === palette.titleCenter);
   if (center && present.length % 2 === 1) {
     const rest = present.filter((c) => c !== center);
     const half = (present.length - 1) / 2;
-    return [...rest.slice(0, half), center, ...rest.slice(half)];
+    return [...rest.slice(0, half), center, ...rest.slice(half), ...estadual];
   }
-  return present;
+  return all;
 }
 
 function titleItemsHtml(palette) {
