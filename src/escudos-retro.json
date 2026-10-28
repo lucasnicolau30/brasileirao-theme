@@ -1495,5 +1495,43 @@
       ],
       "nota": "primeiro escudo do clube, o gavião-real sobre a bola com o texto MANAUS F.C. e 2013, enviado pelo dono do projeto (PNG de 336 px, ampliado e traçado; o preto foi clareado, #46423a, para aparecer sobre o fundo escuro do editor); período 2013–2019: o clube foi fundado em 5 de maio de 2013 e, em 2019, divulgou o escudo atualizado para a Série D (post do Manaus Futebol Clube no Facebook, com o arquivo \"EscudoManausFCSérieD2019\"); a data exata da troca não é conhecida"
     }
+  ],
+  "sao-raimundo-am": [
+    {
+      "id": "1918",
+      "label": "1918–1970",
+      "local": "Sao-Raimundo-1918.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#46423a"
+      ],
+      "nota": "escudo preto e branco com a bola de raios, a faixa S.RAIMUNDO E. CLUBE e as listras, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado; o preto foi clareado, #46423a, para aparecer sobre o fundo escuro do editor); período 1918–1970 segundo a linha do tempo \"Evolução do escudo do São Raimundo\" da Wikipédia pt (1918, 1970, 2005, 2008 e 2017): cada escudo vale até o ano do seguinte, e o desenho foi casado com o primeiro da linha, o de 1918"
+    },
+    {
+      "id": "2005",
+      "label": "2005–2008",
+      "local": "Sao-Raimundo-2005.jpg",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#1a1a96"
+      ],
+      "nota": "escudo azul-escuro e branco com a faixa S.RAIMUNDO E. CLUBE, enviado pelo dono do projeto (JPG de 736 px, ampliado e traçado); período 2005–2008 segundo a linha do tempo \"Evolução do escudo do São Raimundo\" da Wikipédia pt (1918, 1970, 2005, 2008 e 2017), casado com o desenho de 2005; o de 2008 é de um azul mais claro e traz o nome por extenso"
+    }
   ]
 }

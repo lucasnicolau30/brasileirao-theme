@@ -4668,6 +4668,116 @@
       }
     ]
   },
+  "Brasileirão: São Raimundo-AM": {
+    "slug": "sao-raimundo-am",
+    "uf": "AM",
+    "crestLabel": "Atual · desde 2017",
+    "crestIcon": "escudo-27f99d00.svg",
+    "listIcon": "escudo-27f99d00.svg",
+    "backgroundAspect": 0.748,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1961,
+        1966,
+        1997,
+        1998,
+        1999,
+        2004,
+        2006
+      ]
+    },
+    "retro": [
+      {
+        "id": "1918",
+        "label": "1918–1970",
+        "fullLabel": "1918–1970",
+        "atual": false,
+        "file": "retro-1918-998fc87a.svg",
+        "aspect": 0.897,
+        "iconTheme": "brasileirao-sao-raimundo-am-1918"
+      },
+      {
+        "id": "2005",
+        "label": "2005–2008",
+        "fullLabel": "2005–2008",
+        "atual": false,
+        "file": "retro-2005-1cda283c.svg",
+        "aspect": 0.905,
+        "iconTheme": "brasileirao-sao-raimundo-am-2005"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟦⬜🟨",
+    "primary": "#4a7be8",
+    "background": "fundo-56a04a30.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-sao-raimundo-am",
+    "colors": [
+      "rgba(134,166,255,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(246,210,12,0.08)",
+      "rgba(74,123,232,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#4a7be833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#86a6ff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#f6d20c"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#86a6ff"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Manaus": {
     "slug": "manaus",
     "uf": "AM",

@@ -225,6 +225,11 @@
         "path": "./themes/nacional-am-color-theme.json"
       },
       {
+        "label": "Brasileirão: São Raimundo-AM",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sao-raimundo-am-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Manaus",
         "uiTheme": "vs-dark",
         "path": "./themes/manaus-color-theme.json"
@@ -900,6 +905,21 @@
         "id": "brasileirao-nacional-am-2012",
         "label": "Brasileirão: Nacional-AM (retrô 2012–2013)",
         "path": "./icons/nacional-am/icon-theme-2012.json"
+      },
+      {
+        "id": "brasileirao-sao-raimundo-am",
+        "label": "Brasileirão: São Raimundo-AM",
+        "path": "./icons/sao-raimundo-am/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-sao-raimundo-am-1918",
+        "label": "Brasileirão: São Raimundo-AM (retrô 1918–1970)",
+        "path": "./icons/sao-raimundo-am/icon-theme-1918.json"
+      },
+      {
+        "id": "brasileirao-sao-raimundo-am-2005",
+        "label": "Brasileirão: São Raimundo-AM (retrô 2005–2008)",
+        "path": "./icons/sao-raimundo-am/icon-theme-2005.json"
       },
       {
         "id": "brasileirao-manaus",
