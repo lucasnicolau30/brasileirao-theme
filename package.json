@@ -318,6 +318,11 @@
         "label": "Brasileirão: Botafogo-PB",
         "uiTheme": "vs-dark",
         "path": "./themes/botafogo-pb-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Campinense",
+        "uiTheme": "vs-dark",
+        "path": "./themes/campinense-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1175,6 +1180,16 @@
         "id": "brasileirao-botafogo-pb-1974",
         "label": "Brasileirão: Botafogo-PB (retrô 1974–1978)",
         "path": "./icons/botafogo-pb/icon-theme-1974.json"
+      },
+      {
+        "id": "brasileirao-campinense",
+        "label": "Brasileirão: Campinense",
+        "path": "./icons/campinense/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-campinense-1960",
+        "label": "Brasileirão: Campinense (retrô 1960–1969)",
+        "path": "./icons/campinense/icon-theme-1960.json"
       }
     ],
     "commands": [

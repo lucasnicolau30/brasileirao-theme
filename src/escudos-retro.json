@@ -1553,5 +1553,26 @@
       ],
       "nota": "escudo em forma de brasão com a faixa diagonal A.R.N.C., enviado pelo dono do projeto (PNG de 600 px do seeklogo, ampliado e traçado; o preto foi clareado, #46423a, para aparecer sobre o fundo escuro do editor); período 1913–1975 informado pelo dono do projeto (o Logopedia também lista o primeiro escudo do clube de 1913 a 1975)"
     }
+  ],
+  "campinense": [
+    {
+      "id": "1960",
+      "label": "1960–1969",
+      "local": "Campinense-1960.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#ee0103",
+        "#000000"
+      ],
+      "nota": "escudo em brasão listrado de preto e vermelho com o CC branco no quadro, parecido com o do Flamengo, enviado pelo dono do projeto (PNG de 320 px, ampliado e traçado nas cores do original); período 1960–1969 pela Wikipédia pt (\"no início da década de 1960\" o clube chegou a usar três escudos na mesma temporada, um deles uma cópia do escudo do Flamengo com o CC no quadro) e pelo Logopedia, que legenda os escudos alternativos dessa fase como \"1960s\"; o escudo aparece em 1963 no uniforme rubro-negro do post \"Campinense Clube\" do blog História do Futebol (fonte: Diário de Pernambuco); o ano exato de início e o de fim não são conhecidos, então o período é a década"
+    }
   ]
 }

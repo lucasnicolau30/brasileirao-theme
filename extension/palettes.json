@@ -7022,5 +7022,123 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Campinense": {
+    "slug": "campinense",
+    "uf": "PB",
+    "crestLabel": "Atual · desde 2020",
+    "crestIcon": "escudo-071f724a.svg",
+    "listIcon": "escudo-071f724a.svg",
+    "backgroundAspect": 0.683,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [
+        2013
+      ],
+      "copaVerde": [],
+      "estadual": [
+        1960,
+        1961,
+        1962,
+        1963,
+        1964,
+        1965,
+        1967,
+        1971,
+        1972,
+        1973,
+        1974,
+        1979,
+        1980,
+        1991,
+        1993,
+        2004,
+        2008,
+        2012,
+        2015,
+        2016,
+        2021,
+        2022
+      ]
+    },
+    "retro": [
+      {
+        "id": "1960",
+        "label": "1960–1969",
+        "fullLabel": "1960–1969",
+        "atual": false,
+        "file": "retro-1960-5919e47e.svg",
+        "aspect": 0.83,
+        "iconTheme": "brasileirao-campinense-1960"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬛⬜",
+    "primary": "#e8141c",
+    "background": "fundo-ecdae1a6.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-campinense",
+    "colors": [
+      "rgba(255,93,99,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,154,158,0.08)",
+      "rgba(224,56,63,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e8141c33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff5d63"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff9a9e"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff5d63"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }
