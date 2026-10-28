@@ -225,6 +225,11 @@
         "path": "./themes/nacional-am-color-theme.json"
       },
       {
+        "label": "Brasileirão: Manaus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/manaus-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Goiás",
         "uiTheme": "vs-dark",
         "path": "./themes/goias-color-theme.json"
@@ -895,6 +900,16 @@
         "id": "brasileirao-nacional-am-2012",
         "label": "Brasileirão: Nacional-AM (retrô 2012–2013)",
         "path": "./icons/nacional-am/icon-theme-2012.json"
+      },
+      {
+        "id": "brasileirao-manaus",
+        "label": "Brasileirão: Manaus",
+        "path": "./icons/manaus/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-manaus-2013",
+        "label": "Brasileirão: Manaus (retrô 2013–2019)",
+        "path": "./icons/manaus/icon-theme-2013.json"
       },
       {
         "id": "brasileirao-goias",

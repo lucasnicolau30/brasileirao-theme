@@ -4668,6 +4668,106 @@
       }
     ]
   },
+  "Brasileirão: Manaus": {
+    "slug": "manaus",
+    "uf": "AM",
+    "crestLabel": "Atual · desde 2019",
+    "crestIcon": "escudo-c7fbc5a4.svg",
+    "listIcon": "escudo-c7fbc5a4.svg",
+    "backgroundAspect": 0.586,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        2017,
+        2018,
+        2019,
+        2021,
+        2022,
+        2024
+      ]
+    },
+    "retro": [
+      {
+        "id": "2013",
+        "label": "2013–2019",
+        "fullLabel": "2013–2019",
+        "atual": false,
+        "file": "retro-2013-ff315083.svg",
+        "aspect": 0.677,
+        "iconTheme": "brasileirao-manaus-2013"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩⬛⬜",
+    "primary": "#3aa84a",
+    "background": "fundo-8cf0b97b.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-manaus",
+    "colors": [
+      "rgba(111,220,134,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(244,182,28,0.08)",
+      "rgba(58,168,74,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#3aa84a33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#6fdc86"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#f4b61c"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#6fdc86"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Goiás": {
     "slug": "goias",
     "uf": "GO",
