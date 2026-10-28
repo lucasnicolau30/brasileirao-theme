@@ -296,7 +296,8 @@ function titlesHtml(palette) {
   /* Todos os troféus têm a mesma altura (--h); a largura de cada um segue a proporção da imagem. Na linha única o script reduz --h até caber. */
   .row { --h: 100px; display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: center; gap: 14px 10px; }
   .item { flex: 0 0 auto; min-width: 56px; text-align: center; cursor: pointer; }
-  .trophy { position: relative; display: inline-flex; }
+  .trophy { position: relative; display: inline-flex; transition: transform .12s ease; }
+  .item:hover .trophy { transform: translateY(-4px) scale(1.08); }
   .trophy img { display: block; height: calc(var(--h) * var(--k, 1)); width: auto; }
   /* Linha única: colunas de largura igual, cada troféu centralizado na sua; a altura comum vem do troféu mais largo (script fitInline). */
   .row.inline { flex-wrap: nowrap; align-items: flex-end; gap: 4px; margin: 0 -4px; }
