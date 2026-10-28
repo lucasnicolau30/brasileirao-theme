@@ -33,3 +33,6 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - estadual-am.png
   Taça do Campeonato Amazonense (Barezão), usada nos times do Amazonas: imagem fornecida pelo usuário (images (1).jpg, foto da taça do campeão), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.
+
+- estadual-rj.png
+  Taça do Campeonato Carioca (FERJ), usada no Campeonato Carioca (RJ): imagem fornecida pelo usuário (taca.webp), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.
