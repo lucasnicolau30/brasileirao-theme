@@ -170,6 +170,11 @@
         "path": "./themes/oeste-color-theme.json"
       },
       {
+        "label": "Brasileirão: XV de Piracicaba",
+        "uiTheme": "vs-dark",
+        "path": "./themes/xv-de-piracicaba-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Botafogo-SP",
         "uiTheme": "vs-dark",
         "path": "./themes/botafogo-sp-color-theme.json"
@@ -805,6 +810,21 @@
         "id": "brasileirao-oeste-2001",
         "label": "Brasileirão: Osasco Sporting (retrô 2001–2025)",
         "path": "./icons/oeste/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-xv-de-piracicaba",
+        "label": "Brasileirão: XV de Piracicaba",
+        "path": "./icons/xv-de-piracicaba/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-xv-de-piracicaba-1960",
+        "label": "Brasileirão: XV de Piracicaba (retrô 1960–2013)",
+        "path": "./icons/xv-de-piracicaba/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-xv-de-piracicaba-2013",
+        "label": "Brasileirão: XV de Piracicaba (retrô 2013–2014)",
+        "path": "./icons/xv-de-piracicaba/icon-theme-2013.json"
       },
       {
         "id": "brasileirao-botafogo-sp",

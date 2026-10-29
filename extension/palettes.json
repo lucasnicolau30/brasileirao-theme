@@ -2899,6 +2899,110 @@
       }
     ]
   },
+  "Brasileirão: XV de Piracicaba": {
+    "slug": "xv-de-piracicaba",
+    "uf": "SP",
+    "crestLabel": "Atual · desde 2014",
+    "crestIcon": "escudo-b0e8e9d3.svg",
+    "listIcon": "escudo-b0e8e9d3.svg",
+    "backgroundAspect": 1,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        1995
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1960",
+        "label": "1960–2013",
+        "fullLabel": "1960–2013",
+        "atual": false,
+        "file": "retro-1960-b6187450.svg",
+        "aspect": 0.982,
+        "iconTheme": "brasileirao-xv-de-piracicaba-1960"
+      },
+      {
+        "id": "2013",
+        "label": "2013–2014",
+        "fullLabel": "2013–2014",
+        "atual": false,
+        "file": "retro-2013-43981c2e.svg",
+        "aspect": 1.093,
+        "iconTheme": "brasileirao-xv-de-piracicaba-2013"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜",
+    "primary": "#d0d0d0",
+    "background": "fundo-fc29b7b2.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-xv-de-piracicaba",
+    "colors": [
+      "rgba(245,245,245,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(208,208,208,0.08)",
+      "rgba(157,157,157,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d0d0d033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#d0d0d0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Botafogo-SP": {
     "slug": "botafogo-sp",
     "uf": "SP",

@@ -1967,6 +1967,23 @@
       "nota": "escudo com a faixa diagonal e as letras AAI, de nome 1913 no arquivo enviado pelo dono do projeto (WebP de 200×210, redesenhado em vetor: contorno do escudo espelhado e suavizado, faixa com bordas retas); em branco, porque o preto original some no fundo escuro; não achei fonte com as datas dos escudos do clube (Wikipédia, Commons e site do clube não trazem), então o período 1913–1975 é inferido, até a volta ao profissionalismo"
     }
   ],
+  "xv-de-piracicaba": [
+    {
+      "id": "1960",
+      "label": "1960–2013",
+      "local": "XV-escudo.jpg",
+      "vetorizar": "suave",
+      "vetorizarPaleta": ["#2b2b2b", "#ffffff"],
+      "silhueta": "borda",
+      "nota": "o \"tradicional escudo do XV de Piracicaba\" (Wikipédia pt, na seção dos anos 1960): escudo com a faixa diagonal PIRACICABA e as letras XV, enviado pelo dono do projeto (JPG de 549×559, vetorizado); período 1960–2013 inferido, dos anos 1960 até o selo do centenário"
+    },
+    {
+      "id": "2013",
+      "label": "2013–2014",
+      "local": "XV-centenario.svg",
+      "nota": "estrela verde e amarela com a bola e o ano 1913, o selo do centenário do clube (Wikipédia pt, \"2013: O Centenário do XV\"), enviado pelo dono do projeto (WebP de 620×470, imagem cortada no topo; tirei os dois círculos finos pretos em volta e pintei o 1913 de verde, porque o preto some no fundo escuro); período 2013–2014 inferido, do centenário até o escudo atual (desde 2014)"
+    }
+  ],
   "oeste": [
     {
       "id": "1921",
