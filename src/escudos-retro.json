@@ -1906,5 +1906,19 @@
       ],
       "nota": "escudo em brasão com as listras brancas e pretas, as letras C G A C e a estrela amarela do lado esquerdo, enviado pelo dono do projeto (PNG de 320 px do seeklogo, ampliado e traçado); período 1984–2025 segundo o Logopedia (logos.fandom.com), que lista a versão com estrela nos anos 1984–1991 e 2007–2025"
     }
+  ],
+  "villa-nova": [
+    {
+      "id": "1908",
+      "label": "1908–2008",
+      "local": "VillaNova-1908.svg",
+      "nota": "primeiro escudo do clube, enviado pelo dono do projeto (JPG pequeno, 236×319, vetorizado e sem o texto \"Villa Nova Atlético Clube\" de baixo); período inferido, de 1908 (fundação) até 2008, quando começa o de 2008–2012"
+    },
+    {
+      "id": "2008",
+      "label": "2008–2012",
+      "commons": "Villa Nova AC - MG.svg",
+      "nota": "o mesmo escudo de hoje, só que sem as duas estrelas (arquivo do Commons de 2009); período 2008–2012 inferido do Logopedia, que lista 2008–2012 e depois 2012–hoje com duas estrelas"
+    }
   ]
 }

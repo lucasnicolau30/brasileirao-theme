@@ -2945,6 +2945,120 @@
       }
     ]
   },
+  "Brasileirão: Villa Nova-MG": {
+    "slug": "villa-nova",
+    "uf": "MG",
+    "crestLabel": "Atual · desde 2012",
+    "crestIcon": "escudo-7361a957.svg",
+    "listIcon": "escudo-7361a957.svg",
+    "backgroundAspect": 0.679,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1971
+      ],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1932,
+        1933,
+        1934,
+        1935,
+        1951
+      ]
+    },
+    "titleOrder": [
+      "estadual",
+      "serieB"
+    ],
+    "retro": [
+      {
+        "id": "1908",
+        "label": "1908–2008",
+        "fullLabel": "1908–2008",
+        "atual": false,
+        "file": "retro-1908-ff7c1548.svg",
+        "aspect": 0.834,
+        "iconTheme": "brasileirao-villa-nova-1908"
+      },
+      {
+        "id": "2008",
+        "label": "2008–2012",
+        "fullLabel": "2008–2012",
+        "atual": false,
+        "file": "retro-2008-0e5ac25b.svg",
+        "aspect": 0.853,
+        "iconTheme": "brasileirao-villa-nova-2008"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬜",
+    "primary": "#e0201f",
+    "background": "fundo-f018bda7.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-villa-nova",
+    "colors": [
+      "rgba(255,106,102,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,157,153,0.08)",
+      "rgba(238,58,55,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e0201f33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6a66"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff9d99"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6a66"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Tombense": {
     "slug": "tombense",
     "uf": "MG",

@@ -170,6 +170,11 @@
         "path": "./themes/uberlandia-color-theme.json"
       },
       {
+        "label": "Brasileirão: Villa Nova-MG",
+        "uiTheme": "vs-dark",
+        "path": "./themes/villa-nova-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Tombense",
         "uiTheme": "vs-dark",
         "path": "./themes/tombense-color-theme.json"
@@ -795,6 +800,21 @@
         "id": "brasileirao-uberlandia-1966",
         "label": "Brasileirão: Uberlândia (retrô 1966–1968)",
         "path": "./icons/uberlandia/icon-theme-1966.json"
+      },
+      {
+        "id": "brasileirao-villa-nova",
+        "label": "Brasileirão: Villa Nova-MG",
+        "path": "./icons/villa-nova/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-villa-nova-1908",
+        "label": "Brasileirão: Villa Nova-MG (retrô 1908–2008)",
+        "path": "./icons/villa-nova/icon-theme-1908.json"
+      },
+      {
+        "id": "brasileirao-villa-nova-2008",
+        "label": "Brasileirão: Villa Nova-MG (retrô 2008–2012)",
+        "path": "./icons/villa-nova/icon-theme-2008.json"
       },
       {
         "id": "brasileirao-tombense",
