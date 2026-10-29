@@ -387,7 +387,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Uberlândia'), ['Série B', 'Série D']);
     assert.deepEqual(itens('Tombense'), ['Série D']);
     assert.deepEqual(itens('Tupi'), ['Série D']);
-    assert.deepEqual(itens('Paulista'), ['Copa do Brasil', 'Série C'], 'Paulista: sem título do Paulistão, então sem Estadual');
+    assert.deepEqual(itens('Paulista'), ['Série C', 'Copa do Brasil'], 'Paulista: sem título do Paulistão, então sem Estadual');
     // Times menores de Santa Catarina (Criciúma, Chapecoense, Avaí e Figueirense): taça do Catarinense.
     assert.deepEqual(itens('Avaí'), ['Série C', 'Estadual']);
     assert.deepEqual(itens('Figueirense'), ['Estadual']);

@@ -1768,6 +1768,10 @@
       "copaVerde": [],
       "estadual": []
     },
+    "titleOrder": [
+      "serieC",
+      "copaDoBrasil"
+    ],
     "retro": [
       {
         "id": "1909",
