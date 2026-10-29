@@ -2270,7 +2270,7 @@
   "Brasileirão: Juventus-SP": {
     "slug": "juventus-sp",
     "uf": "SP",
-    "crestLabel": "Atual",
+    "crestLabel": "Atual · desde 2015",
     "crestIcon": "escudo-0bd2285a.svg",
     "listIcon": "escudo-0bd2285a.svg",
     "backgroundAspect": 0.773,
@@ -2310,7 +2310,7 @@
         "label": "1954–1985",
         "fullLabel": "1954–1985",
         "atual": false,
-        "file": "retro-1954-d2e08f87.svg",
+        "file": "retro-1954-ebff9ca4.svg",
         "aspect": 1.004,
         "iconTheme": "brasileirao-juventus-sp-1954"
       }

@@ -1921,9 +1921,10 @@
       "id": "1954",
       "label": "1954–1985",
       "local": "Juventus-1954.png",
-      "vetorizar": "monocromo",
-      "cor": "#833329",
-      "nota": "o J grená num círculo sobre fundo branco, \"muito usado em jornais de 1954 até 1985\" (Wikipédia pt), enviado pelo dono do projeto (captura de tela, vetorizada); o Logopedia lista 1954–1977 para ele"
+      "vetorizar": "suave",
+      "vetorizarPaleta": ["#833329", "#ffffff"],
+      "silhueta": "borda",
+      "nota": "o J grená num círculo, com o fundo branco dentro do círculo, \"muito usado em jornais de 1954 até 1985\" (Wikipédia pt), enviado pelo dono do projeto (captura de tela, vetorizada); o Logopedia lista 1954–1977 para ele"
     }
   ],
   "boa-esporte": [
