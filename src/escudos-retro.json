@@ -2046,5 +2046,16 @@
       "local": "Comercial-ECC.svg",
       "nota": "escudo com o ECC em caixa alta sobre a faixa diagonal preta e listras vermelhas, enviado pelo dono do projeto (PNG de 320×320, com o fundo tirado e redesenhado em vetor por máscaras de vermelho, preto e branco, com o contorno vermelho contínuo); período 1943–2013 palpite: 1943 é a fundação do clube (Wikipédia en), 2013 é a data que o escudo atual já tinha no cadastro, não conferida"
     }
+  ],
+  "operario-ms": [
+    {
+      "id": "1938",
+      "label": "1938–1970",
+      "local": "OFC-circulo.jpg",
+      "vetorizar": "monocromo",
+      "cor": "#f2f2f2",
+      "nota": "círculo com as letras O F C, enviado pelo dono do projeto (JPG de 200×200, vetorizado); em branco, porque o preto some no fundo escuro; período 1938–1970 palpite: 1938 é a fundação do clube (Wikipédia en) e 1970 é um corte sem fonte, a conferir"
+    }
+
   ]
 }

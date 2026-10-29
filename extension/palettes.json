@@ -9309,6 +9309,121 @@
       }
     ]
   },
+  "Brasileirão: Operário-MS": {
+    "slug": "operario-ms",
+    "uf": "MS",
+    "crestLabel": "Atual · desde 2010",
+    "crestIcon": "escudo-6d4cebbd.svg",
+    "listIcon": "escudo-6d4cebbd.svg",
+    "backgroundAspect": 0.724,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1987
+      ],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1979,
+        1980,
+        1981,
+        1983,
+        1986,
+        1988,
+        1989,
+        1991,
+        1996,
+        1997,
+        2018,
+        2022,
+        2024,
+        2025,
+        2026
+      ]
+    },
+    "titleOrder": [
+      "estadual",
+      "serieB"
+    ],
+    "retro": [
+      {
+        "id": "1938",
+        "label": "1938–1970",
+        "fullLabel": "1938–1970",
+        "atual": false,
+        "file": "retro-1938-40178d85.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-operario-ms-1938"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜🟨",
+    "primary": "#d0d0d0",
+    "background": "fundo-852bd074.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-operario-ms",
+    "colors": [
+      "rgba(245,245,245,0.08)",
+      "rgba(242,210,26,0.08)",
+      "rgba(208,208,208,0.08)",
+      "rgba(157,157,157,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d0d0d033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#d0d0d0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#f2d21a"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Comercial-MS": {
     "slug": "comercial-ms",
     "uf": "MS",
