@@ -175,6 +175,11 @@
         "path": "./themes/villa-nova-color-theme.json"
       },
       {
+        "label": "Brasileirão: Boa Esporte-MG",
+        "uiTheme": "vs-dark",
+        "path": "./themes/boa-esporte-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Tombense",
         "uiTheme": "vs-dark",
         "path": "./themes/tombense-color-theme.json"
@@ -815,6 +820,16 @@
         "id": "brasileirao-villa-nova-2008",
         "label": "Brasileirão: Villa Nova-MG (retrô 2008–2012)",
         "path": "./icons/villa-nova/icon-theme-2008.json"
+      },
+      {
+        "id": "brasileirao-boa-esporte",
+        "label": "Brasileirão: Boa Esporte-MG",
+        "path": "./icons/boa-esporte/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-boa-esporte-1998",
+        "label": "Brasileirão: Boa Esporte-MG (retrô 1998–2011)",
+        "path": "./icons/boa-esporte/icon-theme-1998.json"
       },
       {
         "id": "brasileirao-tombense",

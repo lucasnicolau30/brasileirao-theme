@@ -3059,6 +3059,101 @@
       }
     ]
   },
+  "Brasileirão: Boa Esporte-MG": {
+    "slug": "boa-esporte",
+    "uf": "MG",
+    "crestLabel": "Atual · desde 2011",
+    "crestIcon": "escudo-aa0a3fe7.svg",
+    "listIcon": "escudo-aa0a3fe7.svg",
+    "backgroundAspect": 0.847,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2016
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1998",
+        "label": "1998–2011",
+        "fullLabel": "1998–2011",
+        "atual": false,
+        "file": "retro-1998-7b428294.svg",
+        "aspect": 0.879,
+        "iconTheme": "brasileirao-boa-esporte-1998"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩🟥⬜",
+    "primary": "#1fa557",
+    "background": "fundo-a7aa3fc9.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-boa-esporte",
+    "colors": [
+      "rgba(110,227,160,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,138,133,0.08)",
+      "rgba(60,196,122,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#1fa55733",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#6ee3a0"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff8a85"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#6ee3a0"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Tombense": {
     "slug": "tombense",
     "uf": "MG",
