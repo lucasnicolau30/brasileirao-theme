@@ -1992,6 +1992,18 @@
       "nota": "escudo listrado de preto e branco com a faixa UABFC e a bola, versão com listras pretas grossas, enviado pelo dono do projeto (captura de tela de 388×423, vetorizada com bordas suavizadas; tem as listras pretas mais grossas que o escudo atual); período 1914–2001 inferido, da fundação até o escudo atual (desde 2001)"
     }
   ],
+  "novorizontino": [
+    {
+      "id": "1973",
+      "label": "1973–2010",
+      "local": "GE-Novorizontino.png",
+      "vetorizar": "alfa",
+      "vetorizarPaleta": ["#000000", "#f4e800", "#ffffff"],
+      "nitido": true,
+      "sobrepor": 1,
+      "nota": "escudo G.E.N. com a data 13-3-73 (fundação do Grêmio Esportivo Novorizontino, extinto em 1999, sem ligação oficial com o clube de 2010), enviado pelo dono do projeto (PNG de 575×521, vetorizado); período 1973–2010 inferido, da fundação do clube antigo até o escudo atual (desde 2010)"
+    }
+  ],
   "oeste": [
     {
       "id": "1921",

@@ -185,6 +185,11 @@
         "path": "./themes/botafogo-sp-color-theme.json"
       },
       {
+        "label": "Brasileirão: Novorizontino",
+        "uiTheme": "vs-dark",
+        "path": "./themes/novorizontino-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Cruzeiro",
         "uiTheme": "vs-dark",
         "path": "./themes/cruzeiro-color-theme.json"
@@ -850,6 +855,16 @@
         "id": "brasileirao-botafogo-sp-1990",
         "label": "Brasileirão: Botafogo-SP (retrô 1990–2021)",
         "path": "./icons/botafogo-sp/icon-theme-1990.json"
+      },
+      {
+        "id": "brasileirao-novorizontino",
+        "label": "Brasileirão: Novorizontino",
+        "path": "./icons/novorizontino/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-novorizontino-1973",
+        "label": "Brasileirão: Novorizontino (retrô 1973–2010)",
+        "path": "./icons/novorizontino/icon-theme-1973.json"
       },
       {
         "id": "brasileirao-cruzeiro",
