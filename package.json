@@ -423,6 +423,11 @@
         "label": "Brasileirão: CRB",
         "uiTheme": "vs-dark",
         "path": "./themes/crb-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Comercial-MS",
+        "uiTheme": "vs-dark",
+        "path": "./themes/comercial-ms-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1550,6 +1555,16 @@
         "id": "brasileirao-crb-1959",
         "label": "Brasileirão: CRB (retrô 1959–1979)",
         "path": "./icons/crb/icon-theme-1959.json"
+      },
+      {
+        "id": "brasileirao-comercial-ms",
+        "label": "Brasileirão: Comercial-MS",
+        "path": "./icons/comercial-ms/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-comercial-ms-1943",
+        "label": "Brasileirão: Comercial-MS (retrô 1943–2013)",
+        "path": "./icons/comercial-ms/icon-theme-1943.json"
       }
     ],
     "commands": [

@@ -9308,5 +9308,108 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Comercial-MS": {
+    "slug": "comercial-ms",
+    "uf": "MS",
+    "crestLabel": "Atual · desde 2013",
+    "crestIcon": "escudo-a9f50aaf.svg",
+    "listIcon": "escudo-a9f50aaf.svg",
+    "backgroundAspect": 0.96,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1982,
+        1985,
+        1987,
+        1993,
+        1994,
+        2000,
+        2001,
+        2010,
+        2015
+      ]
+    },
+    "retro": [
+      {
+        "id": "1943",
+        "label": "1943–2013",
+        "fullLabel": "1943–2013",
+        "atual": false,
+        "file": "retro-1943-79698e01.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-comercial-ms-1943"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬛⬜",
+    "primary": "#d81f28",
+    "background": "fundo-17904615.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-comercial-ms",
+    "colors": [
+      "rgba(255,106,112,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,160,164,0.08)",
+      "rgba(224,56,63,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d81f2833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6a70"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffa0a4"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6a70"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

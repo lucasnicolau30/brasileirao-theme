@@ -176,7 +176,9 @@ const times = [
   { slug: 'figueirense', uf: 'SC', crestLabel: 'Figueirense (desde 1999)', bgColored: true, swatch: '⬛⬜🟩', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1932, 1935, 1936, 1937, 1939, 1941, 1972, 1974, 1994, 1999, 2002, 2003, 2004, 2006, 2008, 2014, 2015, 2018] }, label: 'Figueirense', side: '#141414', bg: '#0b0b0b', activity: '#e6e6e6', title: '#000000', secondary: '#3fa86a', fg: '#e8e8e8', primary: '#d4d4d4', accent: '#f4f4f4', statusBg: '#000000', statusFg: '#ffffff', statusBorder: '#3fa86a',
     brackets: ['#f4f4f4', '#5fcf8e', '#cfcfcf', '#9c9c9c', '#a6e3c0', '#e0e0e0'] },
   { slug: 'brasilia', uf: 'DF', crestLabel: 'Brasília (desde 2020)', bgColored: true, swatch: '🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [2014], estadual: [1976, 1977, 1978, 1980, 1982, 1983, 1984, 1987] }, label: 'Brasília', bg: '#140b0c', chrome: '#9a1018', secondary: '#ffffff', fg: '#f0e6e6', primary: '#db2426', accent: '#ff6a6e', statusBg: '#b2121a', statusFg: '#ffffff',
-    brackets: ['#ff6a6e', '#ffffff', '#ffa0a3', '#ea3a3e', '#f9d7d8', '#ff8588'] }
+    brackets: ['#ff6a6e', '#ffffff', '#ffa0a3', '#ea3a3e', '#f9d7d8', '#ff8588'] },
+  { slug: 'comercial-ms', uf: 'MS', crestLabel: 'Comercial-MS (desde 2013)', bgColored: true, swatch: '🟥⬛⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1982, 1985, 1987, 1993, 1994, 2000, 2001, 2010, 2015] }, label: 'Comercial-MS', side: '#1a0d0d', bg: '#100808', chrome: '#8f0d14', secondary: '#ffffff', fg: '#efe6e6', primary: '#d81f28', accent: '#ff6a70', statusBg: '#b3121b', statusFg: '#ffffff',
+    brackets: ['#ff6a70', '#ffffff', '#ffa0a4', '#e0383f', '#f9d9da', '#ff8588'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São
