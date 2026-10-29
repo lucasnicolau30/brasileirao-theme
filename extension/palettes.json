@@ -3207,7 +3207,9 @@
       "mundial": [],
       "sulAmericana": [],
       "serieB": [],
-      "serieC": [],
+      "serieC": [
+        1994
+      ],
       "serieD": [],
       "copaDoNordeste": [],
       "copaVerde": [],
@@ -3216,8 +3218,8 @@
     "retro": [
       {
         "id": "1973",
-        "label": "1973–2010",
-        "fullLabel": "1973–2010",
+        "label": "1973–1999",
+        "fullLabel": "1973–1999",
         "atual": false,
         "file": "retro-1973-c93a78b8.svg",
         "aspect": 1.099,
