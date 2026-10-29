@@ -1958,5 +1958,13 @@
       "cor": "#f2f2f2",
       "nota": "escudo U.S.J. E.C., o do título da Série C de 1988, enviado pelo dono do projeto (JPG de 166×190, só o contorno e as letras, vetorizado); em branco, porque o preto original some no fundo escuro; período 1988–1992 inferido"
     }
+  ],
+  "inter-de-limeira": [
+    {
+      "id": "1913",
+      "label": "1913–1975",
+      "local": "Inter-1913.svg",
+      "nota": "escudo com a faixa diagonal e as letras AAI, de nome 1913 no arquivo enviado pelo dono do projeto (WebP de 200×210, redesenhado em vetor: contorno do escudo espelhado e suavizado, faixa com bordas retas); em branco, porque o preto original some no fundo escuro; não achei fonte com as datas dos escudos do clube (Wikipédia, Commons e site do clube não trazem), então o período 1913–1975 é inferido, até a volta ao profissionalismo"
+    }
   ]
 }

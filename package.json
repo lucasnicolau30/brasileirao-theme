@@ -145,6 +145,11 @@
         "path": "./themes/juventus-sp-color-theme.json"
       },
       {
+        "label": "Brasileirão: Inter de Limeira",
+        "uiTheme": "vs-dark",
+        "path": "./themes/inter-de-limeira-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Ituano",
         "uiTheme": "vs-dark",
         "path": "./themes/ituano-color-theme.json"
@@ -725,6 +730,16 @@
         "id": "brasileirao-juventus-sp-1954",
         "label": "Brasileirão: Juventus-SP (retrô 1954–1985)",
         "path": "./icons/juventus-sp/icon-theme-1954.json"
+      },
+      {
+        "id": "brasileirao-inter-de-limeira",
+        "label": "Brasileirão: Inter de Limeira",
+        "path": "./icons/inter-de-limeira/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-inter-de-limeira-1913",
+        "label": "Brasileirão: Inter de Limeira (retrô 1913–1975)",
+        "path": "./icons/inter-de-limeira/icon-theme-1913.json"
       },
       {
         "id": "brasileirao-ituano",

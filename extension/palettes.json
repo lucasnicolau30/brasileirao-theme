@@ -2377,6 +2377,107 @@
       }
     ]
   },
+  "Brasileirão: Inter de Limeira": {
+    "slug": "inter-de-limeira",
+    "uf": "SP",
+    "crestLabel": "Atual · desde 2003",
+    "crestIcon": "escudo-a2bcb6b1.svg",
+    "listIcon": "escudo-a2bcb6b1.svg",
+    "backgroundAspect": 0.714,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1988
+      ],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1986
+      ]
+    },
+    "titleOrder": [
+      "estadual",
+      "serieB"
+    ],
+    "retro": [
+      {
+        "id": "1913",
+        "label": "1913–1975",
+        "fullLabel": "1913–1975",
+        "atual": false,
+        "file": "retro-1913-fd8e227f.svg",
+        "aspect": 0.951,
+        "iconTheme": "brasileirao-inter-de-limeira-1913"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜",
+    "primary": "#d0d0d0",
+    "background": "fundo-7b423a3b.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-inter-de-limeira",
+    "colors": [
+      "rgba(245,245,245,0.08)",
+      "rgba(191,159,98,0.08)",
+      "rgba(208,208,208,0.08)",
+      "rgba(157,157,157,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d0d0d033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#d0d0d0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#bf9f62"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Ituano": {
     "slug": "ituano",
     "uf": "SP",
