@@ -170,6 +170,11 @@
         "path": "./themes/oeste-color-theme.json"
       },
       {
+        "label": "Brasileirão: Botafogo-SP",
+        "uiTheme": "vs-dark",
+        "path": "./themes/botafogo-sp-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Cruzeiro",
         "uiTheme": "vs-dark",
         "path": "./themes/cruzeiro-color-theme.json"
@@ -800,6 +805,16 @@
         "id": "brasileirao-oeste-2001",
         "label": "Brasileirão: Osasco Sporting (retrô 2001–2025)",
         "path": "./icons/oeste/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-botafogo-sp",
+        "label": "Brasileirão: Botafogo-SP",
+        "path": "./icons/botafogo-sp/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-botafogo-sp-1990",
+        "label": "Brasileirão: Botafogo-SP (retrô 1990–2021)",
+        "path": "./icons/botafogo-sp/icon-theme-1990.json"
       },
       {
         "id": "brasileirao-cruzeiro",

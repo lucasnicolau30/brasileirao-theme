@@ -1981,5 +1981,25 @@
       "nota": "escudo listrado de vermelho e preto com o monograma OFC na caixa do canto, arquivo SVG da Wikipédia fr (\"Oeste Futebol Clube (logo).svg\", marca registrada); período 2001–2025: o Logopedia (logos.fandom.com) lista dois escudos para 2001–2025 (um de 2001 a 2013 como principal e outro de 2013 a 2025) e não consegui ver as imagens para saber qual é qual; o outro, com a borda branca e o aro do monograma, é o atual do tema",
       "credito": "Oeste Futebol Clube | marca registrada | https://fr.wikipedia.org/wiki/Fichier:Oeste_Futebol_Club_(logo).svg"
     }
+  ],
+  "botafogo-sp": [
+    {
+      "id": "1990",
+      "label": "1990–2021",
+      "local": "Botafogo-SP-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 1.2,
+      "minimo": 100,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#ee2d24",
+        "#000000"
+      ],
+      "nota": "escudo B.F.C. sem estrela, PNG de 1231 px de domínio público no Commons (\"Botafogo de Ribeirão Preto (Escudo)\") traçado; período 1990–2021 inferido: o Logopedia lista 1990–2021 e depois 2021–hoje (o atual, com estrela), mas não consegui ver as imagens dele, e o arquivo do Commons não tem data",
+      "credito": "Botafogo de Ribeirão Preto | domínio público | https://commons.wikimedia.org/wiki/File:Botafogo_Ribeirao_Preto_SP.png"
+    }
   ]
 }

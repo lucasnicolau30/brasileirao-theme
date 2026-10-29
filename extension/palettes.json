@@ -2899,6 +2899,101 @@
       }
     ]
   },
+  "Brasileirão: Botafogo-SP": {
+    "slug": "botafogo-sp",
+    "uf": "SP",
+    "crestLabel": "Atual · desde 2021",
+    "crestIcon": "escudo-8e20d4a7.svg",
+    "listIcon": "escudo-8e20d4a7.svg",
+    "backgroundAspect": 0.621,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [
+        2015
+      ],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1990",
+        "label": "1990–2021",
+        "fullLabel": "1990–2021",
+        "atual": false,
+        "file": "retro-1990-426652cd.svg",
+        "aspect": 0.756,
+        "iconTheme": "brasileirao-botafogo-sp-1990"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛🟥⬜",
+    "primary": "#d42424",
+    "background": "fundo-2d78b3cb.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-botafogo-sp",
+    "colors": [
+      "rgba(255,123,123,0.08)",
+      "rgba(253,205,0,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(232,74,74,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d4242433",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff7b7b"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#fdcd00"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff7b7b"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Cruzeiro": {
     "slug": "cruzeiro",
     "uf": "MG",
