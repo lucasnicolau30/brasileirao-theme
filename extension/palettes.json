@@ -2054,6 +2054,107 @@
       }
     ]
   },
+  "Brasileirão: União São João": {
+    "slug": "uniao-sao-joao",
+    "uf": "SP",
+    "crestLabel": "Atual · desde 1997",
+    "crestIcon": "escudo-346646de.svg",
+    "listIcon": "escudo-346646de.svg",
+    "backgroundAspect": 0.677,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1996
+      ],
+      "serieC": [
+        1988
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "titleOrder": [
+      "serieC",
+      "serieB"
+    ],
+    "retro": [
+      {
+        "id": "1988",
+        "label": "1988–1992",
+        "fullLabel": "1988–1992",
+        "atual": false,
+        "file": "retro-1988-b40ef52e.svg",
+        "aspect": 0.806,
+        "iconTheme": "brasileirao-uniao-sao-joao-1988"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬜🟩",
+    "primary": "#e02424",
+    "background": "fundo-9900fdcf.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-uniao-sao-joao",
+    "colors": [
+      "rgba(255,107,107,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(95,208,138,0.08)",
+      "rgba(234,74,74,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e0242433",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6b6b"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#5fd08a"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6b6b"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Portuguesa": {
     "slug": "portuguesa",
     "uf": "SP",

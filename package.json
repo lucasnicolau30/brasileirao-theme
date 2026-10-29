@@ -130,6 +130,11 @@
         "path": "./themes/bragantino-color-theme.json"
       },
       {
+        "label": "Brasileirão: União São João",
+        "uiTheme": "vs-dark",
+        "path": "./themes/uniao-sao-joao-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Portuguesa",
         "uiTheme": "vs-dark",
         "path": "./themes/portuguesa-color-theme.json"
@@ -675,6 +680,16 @@
         "id": "brasileirao-bragantino-2007",
         "label": "Brasileirão: Bragantino (retrô 2007–2019)",
         "path": "./icons/bragantino/icon-theme-2007.json"
+      },
+      {
+        "id": "brasileirao-uniao-sao-joao",
+        "label": "Brasileirão: União São João",
+        "path": "./icons/uniao-sao-joao/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-uniao-sao-joao-1988",
+        "label": "Brasileirão: União São João (retrô 1988–1992)",
+        "path": "./icons/uniao-sao-joao/icon-theme-1988.json"
       },
       {
         "id": "brasileirao-portuguesa",

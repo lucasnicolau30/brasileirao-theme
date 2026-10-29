@@ -1928,5 +1928,15 @@
       "commons": "Villa Nova AC - MG.svg",
       "nota": "o mesmo escudo de hoje, só que sem as duas estrelas (arquivo do Commons de 2009); período 2008–2012 inferido do Logopedia, que lista 2008–2012 e depois 2012–hoje com duas estrelas"
     }
+  ],
+  "uniao-sao-joao": [
+    {
+      "id": "1988",
+      "label": "1988–1992",
+      "local": "USJ-1988.jpg",
+      "vetorizar": "monocromo",
+      "cor": "#f2f2f2",
+      "nota": "escudo U.S.J. E.C., o do título da Série C de 1988, enviado pelo dono do projeto (JPG de 166×190, só o contorno e as letras, vetorizado); em branco, porque o preto original some no fundo escuro; período 1988–1992 inferido"
+    }
   ]
 }
