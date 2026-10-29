@@ -384,7 +384,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     // Times menores de São Paulo (Bragantino, Portuguesa): taça do Paulista; os 4 sem título paulista (Guarani, Santo André, Mirassol, Ponte Preta) não mostram o Estadual.
     assert.deepEqual(itens('Ituano'), ['Estadual', 'Série C']);
     // Minas Gerais não tem a foto da taça e Uberlândia, Tombense e Tupi não têm título do Mineiro (só do Interior).
-    assert.deepEqual(itens('Uberlândia'), ['Série B', 'Série D']);
+    assert.deepEqual(itens('Uberlândia'), ['Série D', 'Série B'], 'Uberlândia: a Série D vem antes (titleOrder em teams.js)');
     assert.deepEqual(itens('Tombense'), ['Série D']);
     assert.deepEqual(itens('Tupi'), ['Série D']);
     assert.deepEqual(itens('Paulista'), ['Série C', 'Copa do Brasil'], 'Paulista: sem título do Paulistão, então sem Estadual');

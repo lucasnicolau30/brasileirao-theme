@@ -3696,6 +3696,10 @@
       "copaVerde": [],
       "estadual": []
     },
+    "titleOrder": [
+      "serieD",
+      "serieB"
+    ],
     "retro": [
       {
         "id": "1922",
