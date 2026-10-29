@@ -382,7 +382,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Campo Grande'), ['Série B']);
     for (const time of ['Bangu', 'América-RJ']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-rj.png')), `${time}: deve usar o troféu do Carioca`);
     // Times menores de São Paulo (Bragantino, Portuguesa): taça do Paulista; os 4 sem título paulista (Guarani, Santo André, Mirassol, Ponte Preta) não mostram o Estadual.
-    assert.deepEqual(itens('Ituano'), ['Série C', 'Estadual']);
+    assert.deepEqual(itens('Ituano'), ['Estadual', 'Série C']);
     // Minas Gerais não tem a foto da taça e Uberlândia, Tombense e Tupi não têm título do Mineiro (só do Interior).
     assert.deepEqual(itens('Uberlândia'), ['Série B', 'Série D']);
     assert.deepEqual(itens('Tombense'), ['Série D']);
