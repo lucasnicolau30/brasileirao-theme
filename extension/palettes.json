@@ -3003,6 +3003,101 @@
       }
     ]
   },
+  "Brasileirão: União Barbarense": {
+    "slug": "uniao-barbarense",
+    "uf": "SP",
+    "crestLabel": "Atual · desde 2001",
+    "crestIcon": "escudo-b81aa6bc.svg",
+    "listIcon": "escudo-b81aa6bc.svg",
+    "backgroundAspect": 0.933,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2004
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1914",
+        "label": "1914–2001",
+        "fullLabel": "1914–2001",
+        "atual": false,
+        "file": "retro-1914-ab0941c4.svg",
+        "aspect": 0.921,
+        "iconTheme": "brasileirao-uniao-barbarense-1914"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜",
+    "primary": "#d0d0d0",
+    "background": "fundo-70d4cdd1.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-uniao-barbarense",
+    "colors": [
+      "rgba(245,245,245,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(208,208,208,0.08)",
+      "rgba(157,157,157,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d0d0d033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#d0d0d0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Botafogo-SP": {
     "slug": "botafogo-sp",
     "uf": "SP",

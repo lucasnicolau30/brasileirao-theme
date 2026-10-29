@@ -175,6 +175,11 @@
         "path": "./themes/xv-de-piracicaba-color-theme.json"
       },
       {
+        "label": "Brasileirão: União Barbarense",
+        "uiTheme": "vs-dark",
+        "path": "./themes/uniao-barbarense-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Botafogo-SP",
         "uiTheme": "vs-dark",
         "path": "./themes/botafogo-sp-color-theme.json"
@@ -825,6 +830,16 @@
         "id": "brasileirao-xv-de-piracicaba-2013",
         "label": "Brasileirão: XV de Piracicaba (retrô 2013–2014)",
         "path": "./icons/xv-de-piracicaba/icon-theme-2013.json"
+      },
+      {
+        "id": "brasileirao-uniao-barbarense",
+        "label": "Brasileirão: União Barbarense",
+        "path": "./icons/uniao-barbarense/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-uniao-barbarense-1914",
+        "label": "Brasileirão: União Barbarense (retrô 1914–2001)",
+        "path": "./icons/uniao-barbarense/icon-theme-1914.json"
       },
       {
         "id": "brasileirao-botafogo-sp",
