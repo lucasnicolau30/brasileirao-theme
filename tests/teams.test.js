@@ -407,7 +407,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     for (const time of ['Botafogo-PB', 'Campinense']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-pb.png')), `${time}: deve usar o troféu do Paraibano`);
     // Mato-Grossense (Cuiabá e Luverdense): taça do estado.
     for (const time of ['Cuiabá', 'Luverdense']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-mt.png')), `${time}: deve usar o troféu do Mato-Grossense`);
-    assert.deepEqual(itens('Volta Redonda'), ['Série C', 'Série D'], 'Volta Redonda: só Séries C e D (sem título carioca, então sem Estadual)');
+    assert.deepEqual(itens('Volta Redonda'), ['Série D', 'Série C'], 'Volta Redonda: só Séries D e C (sem título carioca, então sem Estadual)');
     for (const time of ['Bragantino', 'Portuguesa', 'Ituano']) assert.ok(itens(time).includes('Estadual') && m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-sp.png')), `${time}: deve usar o troféu do Paulista`);
     for (const time of ['Guarani', 'Santo André', 'Mirassol', 'Ponte Preta', 'Palmeiras']) assert.ok(!itens(time).includes('Estadual'), `${time}: sem Estadual`);
     assert.ok(!itens('Remo').includes('Estadual') && !itens('Sport').includes('Estadual'), 'estado sem a foto do troféu não mostra o Estadual');

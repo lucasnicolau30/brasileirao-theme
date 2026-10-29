@@ -622,6 +622,10 @@
       "copaVerde": [],
       "estadual": []
     },
+    "titleOrder": [
+      "serieD",
+      "serieC"
+    ],
     "retro": [
       {
         "id": "1976",
