@@ -2795,6 +2795,110 @@
       }
     ]
   },
+  "Brasileirão: Osasco Sporting": {
+    "slug": "oeste",
+    "uf": "SP",
+    "crestLabel": "Atual · desde 2026",
+    "crestIcon": "escudo-6bc08d32.svg",
+    "listIcon": "escudo-6bc08d32.svg",
+    "backgroundAspect": 1,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [
+        2012
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1921",
+        "label": "1921–2001",
+        "fullLabel": "1921–2001",
+        "atual": false,
+        "file": "retro-1921-a1edc4c0.svg",
+        "aspect": 0.885,
+        "iconTheme": "brasileirao-oeste-1921"
+      },
+      {
+        "id": "2001",
+        "label": "2001–2025",
+        "fullLabel": "2001–2025",
+        "atual": false,
+        "file": "retro-2001-e69a3d02.svg",
+        "aspect": 0.995,
+        "iconTheme": "brasileirao-oeste-2001"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬛⬜",
+    "primary": "#e8132b",
+    "background": "fundo-e0c27129.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-oeste",
+    "colors": [
+      "rgba(255,90,106,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,154,164,0.08)",
+      "rgba(236,51,71,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e8132b33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff5a6a"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff9aa4"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff5a6a"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Cruzeiro": {
     "slug": "cruzeiro",
     "uf": "MG",

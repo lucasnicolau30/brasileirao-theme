@@ -165,6 +165,11 @@
         "path": "./themes/ponte-preta-color-theme.json"
       },
       {
+        "label": "Brasileirão: Osasco Sporting",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oeste-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Cruzeiro",
         "uiTheme": "vs-dark",
         "path": "./themes/cruzeiro-color-theme.json"
@@ -780,6 +785,21 @@
         "id": "brasileirao-ponte-preta-1995",
         "label": "Brasileirão: Ponte Preta (retrô 1995–1996)",
         "path": "./icons/ponte-preta/icon-theme-1995.json"
+      },
+      {
+        "id": "brasileirao-oeste",
+        "label": "Brasileirão: Osasco Sporting",
+        "path": "./icons/oeste/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-oeste-1921",
+        "label": "Brasileirão: Osasco Sporting (retrô 1921–2001)",
+        "path": "./icons/oeste/icon-theme-1921.json"
+      },
+      {
+        "id": "brasileirao-oeste-2001",
+        "label": "Brasileirão: Osasco Sporting (retrô 2001–2025)",
+        "path": "./icons/oeste/icon-theme-2001.json"
       },
       {
         "id": "brasileirao-cruzeiro",

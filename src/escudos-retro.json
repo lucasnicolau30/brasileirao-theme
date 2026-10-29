@@ -1966,5 +1966,20 @@
       "local": "Inter-1913.svg",
       "nota": "escudo com a faixa diagonal e as letras AAI, de nome 1913 no arquivo enviado pelo dono do projeto (WebP de 200×210, redesenhado em vetor: contorno do escudo espelhado e suavizado, faixa com bordas retas); em branco, porque o preto original some no fundo escuro; não achei fonte com as datas dos escudos do clube (Wikipédia, Commons e site do clube não trazem), então o período 1913–1975 é inferido, até a volta ao profissionalismo"
     }
+  ],
+  "oeste": [
+    {
+      "id": "1921",
+      "label": "1921–2001",
+      "local": "Oeste-triangulo.svg",
+      "nota": "escudo triangular listrado de vermelho e preto com OESTE F.C. na faixa branca, enviado pelo dono do projeto (PNG de 486×545, redesenhado em vetor: triângulo e listras com bordas retas, letras vetorizadas); período 1921–2001 inferido: da fundação até o escudo de 2001"
+    },
+    {
+      "id": "2001",
+      "label": "2001–2025",
+      "local": "Oeste-2001.svg",
+      "nota": "escudo listrado de vermelho e preto com o monograma OFC na caixa do canto, arquivo SVG da Wikipédia fr (\"Oeste Futebol Clube (logo).svg\", marca registrada); período 2001–2025: o Logopedia (logos.fandom.com) lista dois escudos para 2001–2025 (um de 2001 a 2013 como principal e outro de 2013 a 2025) e não consegui ver as imagens para saber qual é qual; o outro, com a borda branca e o aro do monograma, é o atual do tema",
+      "credito": "Oeste Futebol Clube | marca registrada | https://fr.wikipedia.org/wiki/Fichier:Oeste_Futebol_Club_(logo).svg"
+    }
   ]
 }
