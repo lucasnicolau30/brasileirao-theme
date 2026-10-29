@@ -60,3 +60,6 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - estadual-al.png
   Taça do Campeonato Alagoano, usada nos times de Alagoas: imagem fornecida pelo usuário (images (1).jpg, foto da taça), sem autor nem licença conhecidos. Recortada do fundo (traçado à mão e GrabCut) e redimensionada para 380 px de altura.
+
+- estadual-ms.png
+  Taça do Campeonato Sul-Mato-Grossense, usada nos times de Mato Grosso do Sul: imagem fornecida pelo usuário (images.jpg, foto da taça), sem autor nem licença conhecidos. Recortada do fundo (GrabCut, com a borda suavizada) e redimensionada para 380 px de altura.
