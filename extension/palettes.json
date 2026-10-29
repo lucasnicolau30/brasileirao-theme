@@ -2267,6 +2267,116 @@
       }
     ]
   },
+  "Brasileirão: Juventus-SP": {
+    "slug": "juventus-sp",
+    "uf": "SP",
+    "crestLabel": "Atual",
+    "crestIcon": "escudo-0bd2285a.svg",
+    "listIcon": "escudo-0bd2285a.svg",
+    "backgroundAspect": 0.773,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        1983
+      ],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1934
+      ]
+    },
+    "titleOrder": [
+      "estadual",
+      "serieB"
+    ],
+    "retro": [
+      {
+        "id": "1935",
+        "label": "1935–1954",
+        "fullLabel": "1935–1954",
+        "atual": false,
+        "file": "retro-1935-664ef4a0.svg",
+        "aspect": 0.999,
+        "iconTheme": "brasileirao-juventus-sp-1935"
+      },
+      {
+        "id": "1954",
+        "label": "1954–1985",
+        "fullLabel": "1954–1985",
+        "atual": false,
+        "file": "retro-1954-d2e08f87.svg",
+        "aspect": 1.004,
+        "iconTheme": "brasileirao-juventus-sp-1954"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟪⬜",
+    "primary": "#b32468",
+    "background": "fundo-e35c6a2a.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-juventus-sp",
+    "colors": [
+      "rgba(232,127,176,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(251,176,59,0.08)",
+      "rgba(210,82,143,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#b3246833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#e87fb0"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#fbb03b"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#e87fb0"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Ituano": {
     "slug": "ituano",
     "uf": "SP",

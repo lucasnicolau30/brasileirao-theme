@@ -1907,6 +1907,25 @@
       "nota": "escudo em brasão com as listras brancas e pretas, as letras C G A C e a estrela amarela do lado esquerdo, enviado pelo dono do projeto (PNG de 320 px do seeklogo, ampliado e traçado); período 1984–2025 segundo o Logopedia (logos.fandom.com), que lista a versão com estrela nos anos 1984–1991 e 2007–2025"
     }
   ],
+  "juventus-sp": [
+    {
+      "id": "1935",
+      "label": "1935–1954",
+      "local": "Juventus-1935.jpg",
+      "vetorizar": "suave",
+      "vetorizarPaleta": ["#832412", "#ffffff"],
+      "silhueta": "borda",
+      "nota": "o círculo com C.A. JUVENTUS SÃO PAULO e o J, enviado pelo dono do projeto (JPG de 735×736, vetorizado); período 1935–1954 do Logopedia (que lista 1935–1953)"
+    },
+    {
+      "id": "1954",
+      "label": "1954–1985",
+      "local": "Juventus-1954.png",
+      "vetorizar": "monocromo",
+      "cor": "#833329",
+      "nota": "o J grená num círculo sobre fundo branco, \"muito usado em jornais de 1954 até 1985\" (Wikipédia pt), enviado pelo dono do projeto (captura de tela, vetorizada); o Logopedia lista 1954–1977 para ele"
+    }
+  ],
   "boa-esporte": [
     {
       "id": "1998",

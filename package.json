@@ -140,6 +140,11 @@
         "path": "./themes/portuguesa-color-theme.json"
       },
       {
+        "label": "Brasileirão: Juventus-SP",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juventus-sp-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Ituano",
         "uiTheme": "vs-dark",
         "path": "./themes/ituano-color-theme.json"
@@ -705,6 +710,21 @@
         "id": "brasileirao-portuguesa-2005",
         "label": "Brasileirão: Portuguesa (retrô 2005–2015)",
         "path": "./icons/portuguesa/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-juventus-sp",
+        "label": "Brasileirão: Juventus-SP",
+        "path": "./icons/juventus-sp/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-juventus-sp-1935",
+        "label": "Brasileirão: Juventus-SP (retrô 1935–1954)",
+        "path": "./icons/juventus-sp/icon-theme-1935.json"
+      },
+      {
+        "id": "brasileirao-juventus-sp-1954",
+        "label": "Brasileirão: Juventus-SP (retrô 1954–1985)",
+        "path": "./icons/juventus-sp/icon-theme-1954.json"
       },
       {
         "id": "brasileirao-ituano",
