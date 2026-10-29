@@ -45,14 +45,14 @@
         "path": "./themes/flamengo-color-theme.json"
       },
       {
-        "label": "Brasileirão: Fluminense",
-        "uiTheme": "vs-dark",
-        "path": "./themes/fluminense-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Vasco",
         "uiTheme": "vs-dark",
         "path": "./themes/vasco-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Fluminense",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fluminense-color-theme.json"
       },
       {
         "label": "Brasileirão: Botafogo",
@@ -90,9 +90,9 @@
         "path": "./themes/bangu-color-theme.json"
       },
       {
-        "label": "Brasileirão: Palmeiras",
+        "label": "Brasileirão: São Paulo",
         "uiTheme": "vs-dark",
-        "path": "./themes/palmeiras-color-theme.json"
+        "path": "./themes/sao-paulo-color-theme.json"
       },
       {
         "label": "Brasileirão: Santos",
@@ -100,14 +100,14 @@
         "path": "./themes/santos-color-theme.json"
       },
       {
-        "label": "Brasileirão: São Paulo",
-        "uiTheme": "vs-dark",
-        "path": "./themes/sao-paulo-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Corinthians",
         "uiTheme": "vs-dark",
         "path": "./themes/corinthians-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Palmeiras",
+        "uiTheme": "vs-dark",
+        "path": "./themes/palmeiras-color-theme.json"
       },
       {
         "label": "Brasileirão: Guarani",
@@ -160,14 +160,9 @@
         "path": "./themes/mirassol-color-theme.json"
       },
       {
-        "label": "Brasileirão: Ponte Preta",
+        "label": "Brasileirão: Novorizontino",
         "uiTheme": "vs-dark",
-        "path": "./themes/ponte-preta-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Osasco Sporting",
-        "uiTheme": "vs-dark",
-        "path": "./themes/oeste-color-theme.json"
+        "path": "./themes/novorizontino-color-theme.json"
       },
       {
         "label": "Brasileirão: XV de Piracicaba",
@@ -180,14 +175,19 @@
         "path": "./themes/uniao-barbarense-color-theme.json"
       },
       {
+        "label": "Brasileirão: Osasco Sporting",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oeste-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Ponte Preta",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ponte-preta-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Botafogo-SP",
         "uiTheme": "vs-dark",
         "path": "./themes/botafogo-sp-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Novorizontino",
-        "uiTheme": "vs-dark",
-        "path": "./themes/novorizontino-color-theme.json"
       },
       {
         "label": "Brasileirão: Cruzeiro",
@@ -220,14 +220,14 @@
         "path": "./themes/boa-esporte-color-theme.json"
       },
       {
-        "label": "Brasileirão: Tombense",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tombense-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Tupi",
         "uiTheme": "vs-dark",
         "path": "./themes/tupi-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Tombense",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tombense-color-theme.json"
       },
       {
         "label": "Brasileirão: Grêmio",
@@ -385,19 +385,14 @@
         "path": "./themes/brasiliense-color-theme.json"
       },
       {
-        "label": "Brasileirão: Gama",
-        "uiTheme": "vs-dark",
-        "path": "./themes/gama-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Brasília",
         "uiTheme": "vs-dark",
         "path": "./themes/brasilia-color-theme.json"
       },
       {
-        "label": "Brasileirão: ABC",
+        "label": "Brasileirão: Gama",
         "uiTheme": "vs-dark",
-        "path": "./themes/abc-color-theme.json"
+        "path": "./themes/gama-color-theme.json"
       },
       {
         "label": "Brasileirão: América-RN",
@@ -405,14 +400,19 @@
         "path": "./themes/america-rn-color-theme.json"
       },
       {
-        "label": "Brasileirão: Botafogo-PB",
+        "label": "Brasileirão: ABC",
         "uiTheme": "vs-dark",
-        "path": "./themes/botafogo-pb-color-theme.json"
+        "path": "./themes/abc-color-theme.json"
       },
       {
         "label": "Brasileirão: Campinense",
         "uiTheme": "vs-dark",
         "path": "./themes/campinense-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Botafogo-PB",
+        "uiTheme": "vs-dark",
+        "path": "./themes/botafogo-pb-color-theme.json"
       },
       {
         "label": "Brasileirão: CSA",
@@ -452,26 +452,6 @@
         "path": "./icons/flamengo/icon-theme-1981.json"
       },
       {
-        "id": "brasileirao-fluminense",
-        "label": "Brasileirão: Fluminense",
-        "path": "./icons/fluminense/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-fluminense-1902",
-        "label": "Brasileirão: Fluminense (retrô 1902–1905)",
-        "path": "./icons/fluminense/icon-theme-1902.json"
-      },
-      {
-        "id": "brasileirao-fluminense-1905",
-        "label": "Brasileirão: Fluminense (retrô 1905–1906)",
-        "path": "./icons/fluminense/icon-theme-1905.json"
-      },
-      {
-        "id": "brasileirao-fluminense-2011",
-        "label": "Brasileirão: Fluminense (retrô 2011–2012)",
-        "path": "./icons/fluminense/icon-theme-2011.json"
-      },
-      {
         "id": "brasileirao-vasco",
         "label": "Brasileirão: Vasco",
         "path": "./icons/vasco/icon-theme.json"
@@ -490,6 +470,26 @@
         "id": "brasileirao-vasco-1920",
         "label": "Brasileirão: Vasco (retrô 1920–1921)",
         "path": "./icons/vasco/icon-theme-1920.json"
+      },
+      {
+        "id": "brasileirao-fluminense",
+        "label": "Brasileirão: Fluminense",
+        "path": "./icons/fluminense/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-fluminense-1902",
+        "label": "Brasileirão: Fluminense (retrô 1902–1905)",
+        "path": "./icons/fluminense/icon-theme-1902.json"
+      },
+      {
+        "id": "brasileirao-fluminense-1905",
+        "label": "Brasileirão: Fluminense (retrô 1905–1906)",
+        "path": "./icons/fluminense/icon-theme-1905.json"
+      },
+      {
+        "id": "brasileirao-fluminense-2011",
+        "label": "Brasileirão: Fluminense (retrô 2011–2012)",
+        "path": "./icons/fluminense/icon-theme-2011.json"
       },
       {
         "id": "brasileirao-botafogo",
@@ -587,19 +587,19 @@
         "path": "./icons/bangu/icon-theme-1949.json"
       },
       {
-        "id": "brasileirao-palmeiras",
-        "label": "Brasileirão: Palmeiras",
-        "path": "./icons/palmeiras/icon-theme.json"
+        "id": "brasileirao-sao-paulo",
+        "label": "Brasileirão: São Paulo",
+        "path": "./icons/sao-paulo/icon-theme.json"
       },
       {
-        "id": "brasileirao-palmeiras-1914",
-        "label": "Brasileirão: Palmeiras (retrô 1914–1942)",
-        "path": "./icons/palmeiras/icon-theme-1914.json"
+        "id": "brasileirao-sao-paulo-1930",
+        "label": "Brasileirão: São Paulo (retrô 1930–1935)",
+        "path": "./icons/sao-paulo/icon-theme-1930.json"
       },
       {
-        "id": "brasileirao-palmeiras-1916",
-        "label": "Brasileirão: Palmeiras (retrô 1916–1917)",
-        "path": "./icons/palmeiras/icon-theme-1916.json"
+        "id": "brasileirao-sao-paulo-1935",
+        "label": "Brasileirão: São Paulo (retrô 1935–1981)",
+        "path": "./icons/sao-paulo/icon-theme-1935.json"
       },
       {
         "id": "brasileirao-santos",
@@ -627,21 +627,6 @@
         "path": "./icons/santos/icon-theme-1968.json"
       },
       {
-        "id": "brasileirao-sao-paulo",
-        "label": "Brasileirão: São Paulo",
-        "path": "./icons/sao-paulo/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-sao-paulo-1930",
-        "label": "Brasileirão: São Paulo (retrô 1930–1935)",
-        "path": "./icons/sao-paulo/icon-theme-1930.json"
-      },
-      {
-        "id": "brasileirao-sao-paulo-1935",
-        "label": "Brasileirão: São Paulo (retrô 1935–1981)",
-        "path": "./icons/sao-paulo/icon-theme-1935.json"
-      },
-      {
         "id": "brasileirao-corinthians",
         "label": "Brasileirão: Corinthians",
         "path": "./icons/corinthians/icon-theme.json"
@@ -655,6 +640,21 @@
         "id": "brasileirao-corinthians-1939",
         "label": "Brasileirão: Corinthians (retrô 1939–1980)",
         "path": "./icons/corinthians/icon-theme-1939.json"
+      },
+      {
+        "id": "brasileirao-palmeiras",
+        "label": "Brasileirão: Palmeiras",
+        "path": "./icons/palmeiras/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1914",
+        "label": "Brasileirão: Palmeiras (retrô 1914–1942)",
+        "path": "./icons/palmeiras/icon-theme-1914.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1916",
+        "label": "Brasileirão: Palmeiras (retrô 1916–1917)",
+        "path": "./icons/palmeiras/icon-theme-1916.json"
       },
       {
         "id": "brasileirao-guarani",
@@ -792,34 +792,14 @@
         "path": "./icons/mirassol/icon-theme-1964.json"
       },
       {
-        "id": "brasileirao-ponte-preta",
-        "label": "Brasileirão: Ponte Preta",
-        "path": "./icons/ponte-preta/icon-theme.json"
+        "id": "brasileirao-novorizontino",
+        "label": "Brasileirão: Novorizontino",
+        "path": "./icons/novorizontino/icon-theme.json"
       },
       {
-        "id": "brasileirao-ponte-preta-1928",
-        "label": "Brasileirão: Ponte Preta (retrô 1928–1929)",
-        "path": "./icons/ponte-preta/icon-theme-1928.json"
-      },
-      {
-        "id": "brasileirao-ponte-preta-1995",
-        "label": "Brasileirão: Ponte Preta (retrô 1995–1996)",
-        "path": "./icons/ponte-preta/icon-theme-1995.json"
-      },
-      {
-        "id": "brasileirao-oeste",
-        "label": "Brasileirão: Osasco Sporting",
-        "path": "./icons/oeste/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-oeste-1921",
-        "label": "Brasileirão: Osasco Sporting (retrô 1921–2001)",
-        "path": "./icons/oeste/icon-theme-1921.json"
-      },
-      {
-        "id": "brasileirao-oeste-2001",
-        "label": "Brasileirão: Osasco Sporting (retrô 2001–2025)",
-        "path": "./icons/oeste/icon-theme-2001.json"
+        "id": "brasileirao-novorizontino-1973",
+        "label": "Brasileirão: Novorizontino (retrô 1973–1999)",
+        "path": "./icons/novorizontino/icon-theme-1973.json"
       },
       {
         "id": "brasileirao-xv-de-piracicaba",
@@ -847,6 +827,36 @@
         "path": "./icons/uniao-barbarense/icon-theme-1914.json"
       },
       {
+        "id": "brasileirao-oeste",
+        "label": "Brasileirão: Osasco Sporting",
+        "path": "./icons/oeste/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-oeste-1921",
+        "label": "Brasileirão: Osasco Sporting (retrô 1921–2001)",
+        "path": "./icons/oeste/icon-theme-1921.json"
+      },
+      {
+        "id": "brasileirao-oeste-2001",
+        "label": "Brasileirão: Osasco Sporting (retrô 2001–2025)",
+        "path": "./icons/oeste/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-ponte-preta",
+        "label": "Brasileirão: Ponte Preta",
+        "path": "./icons/ponte-preta/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-ponte-preta-1928",
+        "label": "Brasileirão: Ponte Preta (retrô 1928–1929)",
+        "path": "./icons/ponte-preta/icon-theme-1928.json"
+      },
+      {
+        "id": "brasileirao-ponte-preta-1995",
+        "label": "Brasileirão: Ponte Preta (retrô 1995–1996)",
+        "path": "./icons/ponte-preta/icon-theme-1995.json"
+      },
+      {
         "id": "brasileirao-botafogo-sp",
         "label": "Brasileirão: Botafogo-SP",
         "path": "./icons/botafogo-sp/icon-theme.json"
@@ -855,16 +865,6 @@
         "id": "brasileirao-botafogo-sp-1990",
         "label": "Brasileirão: Botafogo-SP (retrô 1990–2021)",
         "path": "./icons/botafogo-sp/icon-theme-1990.json"
-      },
-      {
-        "id": "brasileirao-novorizontino",
-        "label": "Brasileirão: Novorizontino",
-        "path": "./icons/novorizontino/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-novorizontino-1973",
-        "label": "Brasileirão: Novorizontino (retrô 1973–1999)",
-        "path": "./icons/novorizontino/icon-theme-1973.json"
       },
       {
         "id": "brasileirao-cruzeiro",
@@ -967,6 +967,16 @@
         "path": "./icons/boa-esporte/icon-theme-1998.json"
       },
       {
+        "id": "brasileirao-tupi",
+        "label": "Brasileirão: Tupi",
+        "path": "./icons/tupi/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-tupi-1912",
+        "label": "Brasileirão: Tupi (retrô 1912–1913)",
+        "path": "./icons/tupi/icon-theme-1912.json"
+      },
+      {
         "id": "brasileirao-tombense",
         "label": "Brasileirão: Tombense",
         "path": "./icons/tombense/icon-theme.json"
@@ -980,16 +990,6 @@
         "id": "brasileirao-tombense-2015",
         "label": "Brasileirão: Tombense (retrô 2015–2019)",
         "path": "./icons/tombense/icon-theme-2015.json"
-      },
-      {
-        "id": "brasileirao-tupi",
-        "label": "Brasileirão: Tupi",
-        "path": "./icons/tupi/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-tupi-1912",
-        "label": "Brasileirão: Tupi (retrô 1912–1913)",
-        "path": "./icons/tupi/icon-theme-1912.json"
       },
       {
         "id": "brasileirao-gremio",
@@ -1437,16 +1437,6 @@
         "path": "./icons/brasiliense/icon-theme-2005.json"
       },
       {
-        "id": "brasileirao-gama",
-        "label": "Brasileirão: Gama",
-        "path": "./icons/gama/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-gama-1976",
-        "label": "Brasileirão: Gama (retrô 1976–1978)",
-        "path": "./icons/gama/icon-theme-1976.json"
-      },
-      {
         "id": "brasileirao-brasilia",
         "label": "Brasileirão: Brasília",
         "path": "./icons/brasilia/icon-theme.json"
@@ -1462,19 +1452,14 @@
         "path": "./icons/brasilia/icon-theme-2013.json"
       },
       {
-        "id": "brasileirao-abc",
-        "label": "Brasileirão: ABC",
-        "path": "./icons/abc/icon-theme.json"
+        "id": "brasileirao-gama",
+        "label": "Brasileirão: Gama",
+        "path": "./icons/gama/icon-theme.json"
       },
       {
-        "id": "brasileirao-abc-1915",
-        "label": "Brasileirão: ABC (retrô 1915–1926)",
-        "path": "./icons/abc/icon-theme-1915.json"
-      },
-      {
-        "id": "brasileirao-abc-1996",
-        "label": "Brasileirão: ABC (retrô 1996–2010)",
-        "path": "./icons/abc/icon-theme-1996.json"
+        "id": "brasileirao-gama-1976",
+        "label": "Brasileirão: Gama (retrô 1976–1978)",
+        "path": "./icons/gama/icon-theme-1976.json"
       },
       {
         "id": "brasileirao-america-rn",
@@ -1497,6 +1482,31 @@
         "path": "./icons/america-rn/icon-theme-2022.json"
       },
       {
+        "id": "brasileirao-abc",
+        "label": "Brasileirão: ABC",
+        "path": "./icons/abc/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-abc-1915",
+        "label": "Brasileirão: ABC (retrô 1915–1926)",
+        "path": "./icons/abc/icon-theme-1915.json"
+      },
+      {
+        "id": "brasileirao-abc-1996",
+        "label": "Brasileirão: ABC (retrô 1996–2010)",
+        "path": "./icons/abc/icon-theme-1996.json"
+      },
+      {
+        "id": "brasileirao-campinense",
+        "label": "Brasileirão: Campinense",
+        "path": "./icons/campinense/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-campinense-1960",
+        "label": "Brasileirão: Campinense (retrô 1960–1969)",
+        "path": "./icons/campinense/icon-theme-1960.json"
+      },
+      {
         "id": "brasileirao-botafogo-pb",
         "label": "Brasileirão: Botafogo-PB",
         "path": "./icons/botafogo-pb/icon-theme.json"
@@ -1510,16 +1520,6 @@
         "id": "brasileirao-botafogo-pb-1974",
         "label": "Brasileirão: Botafogo-PB (retrô 1974–1978)",
         "path": "./icons/botafogo-pb/icon-theme-1974.json"
-      },
-      {
-        "id": "brasileirao-campinense",
-        "label": "Brasileirão: Campinense",
-        "path": "./icons/campinense/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-campinense-1960",
-        "label": "Brasileirão: Campinense (retrô 1960–1969)",
-        "path": "./icons/campinense/icon-theme-1960.json"
       },
       {
         "id": "brasileirao-csa",

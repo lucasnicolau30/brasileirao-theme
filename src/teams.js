@@ -181,14 +181,21 @@ const times = [
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São
 // Paulo, Minas, Rio Grande do Sul, Bahia, Ceará, Paraná, Pernambuco, Pará, Amazonas, Goiás). Dentro de cada estado, por títulos, comparando nesta ordem:
-// Libertadores, Brasileirão, Copa do Brasil, Sul-Americana e Séries B, C e D (mais títulos primeiro) e, por último, o Estadual: sem troféu nacional que desempate, vale o estadual
-// (os 12 grandes têm estadual [], então ele só desempata os times menores). Persistindo o empate, vale a ordem do arquivo.
+// Mundial, Libertadores, Brasileirão, Copa do Brasil, Sul-Americana, Copa do Nordeste, Copa Verde e Séries B, C e D (mais títulos primeiro) e, por último, o Estadual: sem troféu nacional que desempate, vale o estadual
+// (os 12 grandes têm estadual [], então ele só desempata os times menores). Se os dois têm exatamente a mesma quantidade de títulos em todas essas competições, vem primeiro
+// quem conquistou antes o título mais importante (ano mais antigo da primeira competição da lista; empatando o ano, vale a competição seguinte). Persistindo o empate, vale a ordem do arquivo.
 const estado = (t) => t.uf;
 const estados = [...new Set(times.map(estado))];
-const CRITERIOS = ['libertadores', 'brasileirao', 'copaDoBrasil', 'sulAmericana', 'serieB', 'serieC', 'serieD', 'estadual'];
+const CRITERIOS = ['mundial', 'libertadores', 'brasileirao', 'copaDoBrasil', 'sulAmericana', 'copaDoNordeste', 'copaVerde', 'serieB', 'serieC', 'serieD', 'estadual'];
+const primeiroAno = (t, k) => (t.titles[k].length ? Math.min(...t.titles[k]) : Infinity);
 const porTitulos = (a, b) => {
   for (const k of CRITERIOS) {
     const d = b.titles[k].length - a.titles[k].length;
+    if (d) return d;
+  }
+  // mesma quantidade em tudo: quem ganhou antes o título mais importante vem primeiro
+  for (const k of CRITERIOS) {
+    const d = primeiroAno(a, k) - primeiroAno(b, k);
     if (d) return d;
   }
   return 0;

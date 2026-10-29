@@ -503,7 +503,7 @@ test('os escudos antigos de todo time estão em ordem cronológica no seletor', 
   }
 });
 
-test('os times estão agrupados por estado e, em cada estado, em ordem de títulos (Libertadores, Brasileirão, Copa do Brasil, Sul-Americana, Séries B, C e D e, no desempate, o Estadual)', () => {
+test('os times estão agrupados por estado e, em cada estado, em ordem de títulos (Mundial, Libertadores, Brasileirão, Copa do Brasil, Sul-Americana, Copa do Nordeste, Copa Verde, Séries B, C e D e, no desempate, o Estadual e o ano do título mais importante)', () => {
   const uf = (x) => x.uf;
   const vistos = [];
   teams.forEach((x, i) => {
@@ -516,10 +516,15 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
     const b = teams[i];
     if (uf(a) !== uf(b)) continue;
     // Mais títulos primeiro, comparando nesta ordem; só se tudo empata vale a ordem do arquivo (Série B vale mais que a C, que vale mais que a D; sem troféu nacional que desempate, vale o estadual).
-    const criterios = ['libertadores', 'brasileirao', 'copaDoBrasil', 'sulAmericana', 'serieB', 'serieC', 'serieD', 'estadual'];
+    const criterios = ['mundial', 'libertadores', 'brasileirao', 'copaDoBrasil', 'sulAmericana', 'copaDoNordeste', 'copaVerde', 'serieB', 'serieC', 'serieD', 'estadual'];
     const dif = criterios.map((k) => a.titles[k].length - b.titles[k].length).find((d) => d !== 0) || 0;
     assert.ok(dif >= 0, `${b.slug} (mais títulos) deveria vir antes de ${a.slug}`);
+    if (dif === 0) {
+      // mesma quantidade em tudo: vem primeiro quem ganhou antes o título mais importante
+      const ano = (x, k) => (x.titles[k].length ? Math.min(...x.titles[k]) : Infinity);
+      const dAno = criterios.map((k) => ano(a, k) - ano(b, k)).find((d) => d !== 0) || 0;
+      assert.ok(dAno <= 0, `${a.slug} deveria vir depois de ${b.slug}: ${b.slug} ganhou antes o título mais importante`);
+    }
   }
-  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'campo-grande', 'volta-redonda', 'olaria', 'macae', 'america-rj', 'bangu', 'palmeiras', 'santos', 'sao-paulo', 'corinthians', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'portuguesa', 'ituano', 'mirassol', 'ponte-preta', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'tombense', 'tupi', 'gremio', 'internacional',
-    'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'nacional-am', 'rio-negro-am', 'sao-raimundo-am', 'manaus', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'avai', 'figueirense', 'sampaio-correa', 'cuiaba', 'luverdense', 'brasiliense', 'gama', 'brasilia', 'abc', 'america-rn', 'botafogo-pb', 'campinense', 'csa', 'crb']);
+  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'vasco', 'fluminense', 'botafogo', 'campo-grande', 'volta-redonda', 'olaria', 'macae', 'america-rj', 'bangu', 'sao-paulo', 'santos', 'corinthians', 'palmeiras', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'uniao-sao-joao', 'portuguesa', 'juventus-sp', 'inter-de-limeira', 'ituano', 'mirassol', 'novorizontino', 'xv-de-piracicaba', 'uniao-barbarense', 'oeste', 'ponte-preta', 'botafogo-sp', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'villa-nova', 'boa-esporte', 'tupi', 'tombense', 'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'nacional-am', 'rio-negro-am', 'sao-raimundo-am', 'manaus', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'avai', 'figueirense', 'sampaio-correa', 'cuiaba', 'luverdense', 'brasiliense', 'brasilia', 'gama', 'america-rn', 'abc', 'campinense', 'botafogo-pb', 'csa', 'crb']);
 });
