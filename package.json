@@ -1590,7 +1590,6 @@
     "check": "node src/check-contrast.js",
     "package": "node src/build.js && node src/check-contrast.js && npx --yes @vscode/vsce package --no-dependencies --out brasileirao-theme.vsix",
     "instalar": "npm run package && code --install-extension brasileirao-theme.vsix --force",
-    "preview": "node src/build.js && node src/preview.js",
     "test": "node --test"
   },
   "main": "./extension/extension.js",
