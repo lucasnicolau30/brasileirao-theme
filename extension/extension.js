@@ -442,19 +442,51 @@ async function pickRetro(context, palette, themeName, choices = [...(palette.alt
   return picked ? picked.id : undefined;
 }
 
-// "Brasileirão: Escolher time": lista os times com o atual já selecionado. O seletor padrão do VS Code
+// "Brasileirão: Escolher time": primeiro o estado e depois os times dele, com o atual já selecionado. O seletor padrão do VS Code
 // (botão "Set Color Theme" da página da extensão) abre em ordem alfabética e já aplica uma prévia do primeiro item.
 // Escolher um time que tem mais de um escudo (atuais e retrô) abre a lista com todas as opções; sem opções extras, aplica o escudo atual.
-async function chooseTeam(context) {
-  const workbench = vscode.workspace.getConfiguration('workbench');
-  const current = workbench.get('colorTheme');
+const STATE_NAMES = {
+  AC: 'Acre', AL: 'Alagoas', AM: 'Amazonas', AP: 'Amapá', BA: 'Bahia', CE: 'Ceará', DF: 'Distrito Federal', ES: 'Espírito Santo', GO: 'Goiás',
+  MA: 'Maranhão', MG: 'Minas Gerais', MS: 'Mato Grosso do Sul', MT: 'Mato Grosso', PA: 'Pará', PB: 'Paraíba', PE: 'Pernambuco', PI: 'Piauí',
+  PR: 'Paraná', RJ: 'Rio de Janeiro', RN: 'Rio Grande do Norte', RO: 'Rondônia', RR: 'Roraima', RS: 'Rio Grande do Sul', SC: 'Santa Catarina',
+  SE: 'Sergipe', SP: 'São Paulo', TO: 'Tocantins'
+};
+
+// Passo 1: lista de estados (em ordem alfabética), com o estado do time em uso já selecionado. Devolve a sigla ou undefined.
+async function pickState(current) {
+  const currentUf = palettes[current] && palettes[current].uf;
+  const count = {};
+  for (const p of Object.values(palettes)) count[p.uf] = (count[p.uf] || 0) + 1;
+  const items = Object.keys(count).sort((x, y) => (STATE_NAMES[x] || x).localeCompare(STATE_NAMES[y] || y, 'pt-BR')).map((uf) => ({
+    uf,
+    label: `${STATE_NAMES[uf] || uf} · ${count[uf]} ${count[uf] === 1 ? 'time' : 'times'}${uf === currentUf ? ' · $(check) em uso' : ''}`,
+    detail: uf
+  }));
+  const picker = vscode.window.createQuickPick();
+  picker.placeholder = 'Escolha o estado';
+  picker.title = 'Brasileirão Theme';
+  picker.matchOnDetail = true;
+  picker.items = items;
+  picker.activeItems = items.filter((i) => i.uf === currentUf);
+  const chosen = await new Promise((resolve) => {
+    picker.onDidAccept(() => resolve(picker.selectedItems[0]));
+    picker.onDidHide(() => resolve(undefined));
+    picker.show();
+  });
+  picker.dispose();
+  return chosen ? chosen.uf : undefined;
+}
+
+// Passo 2: os times do estado, com o botão de voltar para a lista de estados. Devolve o item, 'voltar' ou undefined.
+async function pickTeamOfState(uf, current) {
   const picker = vscode.window.createQuickPick();
   picker.placeholder = 'Escolha o time';
-  picker.title = 'Brasileirão Theme';
+  picker.title = `Brasileirão Theme · ${STATE_NAMES[uf] || uf}`;
+  picker.buttons = [vscode.QuickInputButtons.Back];
 
   // A descrição do seletor do VS Code sai esmaecida; o texto do rótulo sai na cor cheia. Por isso tudo vai no rótulo, em branco: a quantidade
   // de opções de escudo ("· 5 opções de escudo") e, no time em uso, só "em uso" (sem a quantidade).
-  const teams = Object.entries(palettes).map(([team, p]) => {
+  const teams = Object.entries(palettes).filter(([, p]) => p.uf === uf).map(([team, p]) => {
     const extra = team === current ? ' · $(check) em uso' : ` ${optionsLabel(1 + (p.alternates || []).length + (p.retro || []).length)}`;
     return { team, label: team + extra, detail: p.swatch, iconPath: iconFile(p, p.listIcon || p.crestIcon || 'escudo.svg') };
   });
@@ -463,11 +495,25 @@ async function chooseTeam(context) {
 
   const chosen = await new Promise((resolve) => {
     picker.onDidAccept(() => resolve(picker.selectedItems[0]));
+    picker.onDidTriggerButton(() => resolve('voltar'));
     picker.onDidHide(() => resolve(undefined));
     picker.show();
   });
   picker.dispose();
-  if (!chosen) return;
+  return chosen;
+}
+
+async function chooseTeam(context) {
+  const workbench = vscode.workspace.getConfiguration('workbench');
+  const current = workbench.get('colorTheme');
+  let chosen;
+  let uf = await pickState(current);
+  while (uf) {
+    chosen = await pickTeamOfState(uf, current);
+    if (chosen !== 'voltar') break;
+    uf = await pickState(current);
+  }
+  if (!uf || !chosen) return;
 
   const palette = palettes[chosen.team];
   let variant = null; // null: escudo atual
