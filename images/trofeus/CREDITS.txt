@@ -38,7 +38,7 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
   Taça do Campeonato Carioca (FERJ), usada no Campeonato Carioca (RJ): imagem fornecida pelo usuário (PNG com o fundo xadrez removido), sem autor nem licença informados.
 
 - estadual-sp.png
-  Taça do Campeonato Paulista (FPF, Paulistão Sicredi 2024), usada nos times menores de São Paulo: imagem fornecida pelo usuário (2024-paulista-trofeu.webp), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.
+  Taça do Campeonato Paulista (FPF), usada nos times menores de São Paulo: imagem fornecida pelo usuário (PNG com o fundo xadrez removido), sem autor nem licença informados.
 
 - estadual-sc.png
   Taça do Campeonato Catarinense (Catarinense 2025), usada nos times menores de Santa Catarina: imagem fornecida pelo usuário (images.jpg, foto da taça), sem autor nem licença conhecidos. Recortada do fundo (GrabCut, com as alças e os vãos da haste marcados à mão) e redimensionada para 380 px de altura.
