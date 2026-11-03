@@ -66,3 +66,6 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - estadual-ms.png
   Taça do Campeonato Sul-Mato-Grossense, usada nos times de Mato Grosso do Sul: imagem fornecida pelo usuário (0b1e7411-ec49-4115-9e23-ccec7b604b14.png, PNG com fundo transparente), sem autor nem licença conhecidos. Redimensionada para 380 px de altura.
+
+- estadual-pi.png
+  Taça do Campeonato Piauiense: imagem fornecida pelo usuário (PNG com o fundo xadrez removido), sem autor nem licença informados.
