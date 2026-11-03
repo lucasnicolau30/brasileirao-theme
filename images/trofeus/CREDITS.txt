@@ -1,10 +1,7 @@
 Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - brasileirao.png
-  Obra: "Troféu Campeonato Brasileiro 2024.jpg"
-  Autor: Phill ad
-  Licença: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
-  Fonte: https://commons.wikimedia.org/wiki/File:Trof%C3%A9u_Campeonato_Brasileiro_2024.jpg
+  Taça do Campeonato Brasileiro (Brasileirão Assaí): imagem fornecida pelo usuário (PNG com o fundo xadrez removido), sem autor nem licença informados.
 
 - libertadores.png
   Obra: "328-3287452 copa-libertadores-primer-trofeo-hd-png-download.png"
