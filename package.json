@@ -438,6 +438,11 @@
         "label": "Brasileirão: Fluminense-PI",
         "uiTheme": "vs-dark",
         "path": "./themes/fluminense-pi-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: River-PI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/river-pi-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1605,6 +1610,26 @@
         "id": "brasileirao-fluminense-pi-2001",
         "label": "Brasileirão: Fluminense-PI (retrô 2001–2019)",
         "path": "./icons/fluminense-pi/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-river-pi",
+        "label": "Brasileirão: River-PI",
+        "path": "./icons/river-pi/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-river-pi-1946",
+        "label": "Brasileirão: River-PI (retrô 1946–1977)",
+        "path": "./icons/river-pi/icon-theme-1946.json"
+      },
+      {
+        "id": "brasileirao-river-pi-1978",
+        "label": "Brasileirão: River-PI (retrô 1978–1994)",
+        "path": "./icons/river-pi/icon-theme-1978.json"
+      },
+      {
+        "id": "brasileirao-river-pi-1995",
+        "label": "Brasileirão: River-PI (retrô 1995–2007)",
+        "path": "./icons/river-pi/icon-theme-1995.json"
       }
     ],
     "commands": [

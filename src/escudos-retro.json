@@ -2098,5 +2098,45 @@
       ],
       "nota": "escudo do Fluminense-PI enviado pelo dono do projeto (PNG de 1000 px com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
     }
+  ],
+  "river-pi": [
+    {
+      "id": "1946",
+      "label": "1946–1977",
+      "local": "River-PI-1946-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ],
+      "nota": "escudo do River-PI enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
+    },
+    {
+      "id": "1978",
+      "label": "1978–1994",
+      "local": "River-PI-1978-1994.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#080808",
+        "#f8f8f8",
+        "#d83040"
+      ],
+      "nota": "escudo do River-PI enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
+    },
+    {
+      "id": "1995",
+      "label": "1995–2007",
+      "local": "River-PI-1995-2007.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#d83040"
+      ],
+      "nota": "escudo do River-PI enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
+    }
   ]
 }
