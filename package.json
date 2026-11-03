@@ -433,6 +433,11 @@
         "label": "Brasileirão: Comercial-MS",
         "uiTheme": "vs-dark",
         "path": "./themes/comercial-ms-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Fluminense-PI",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fluminense-pi-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1580,6 +1585,26 @@
         "id": "brasileirao-comercial-ms-1943",
         "label": "Brasileirão: Comercial-MS (retrô 1943–2013)",
         "path": "./icons/comercial-ms/icon-theme-1943.json"
+      },
+      {
+        "id": "brasileirao-fluminense-pi",
+        "label": "Brasileirão: Fluminense-PI",
+        "path": "./icons/fluminense-pi/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-fluminense-pi-1938",
+        "label": "Brasileirão: Fluminense-PI (retrô 1938–1977)",
+        "path": "./icons/fluminense-pi/icon-theme-1938.json"
+      },
+      {
+        "id": "brasileirao-fluminense-pi-1978",
+        "label": "Brasileirão: Fluminense-PI (retrô 1978–2000)",
+        "path": "./icons/fluminense-pi/icon-theme-1978.json"
+      },
+      {
+        "id": "brasileirao-fluminense-pi-2001",
+        "label": "Brasileirão: Fluminense-PI (retrô 2001–2019)",
+        "path": "./icons/fluminense-pi/icon-theme-2001.json"
       }
     ],
     "commands": [

@@ -9526,5 +9526,118 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Fluminense-PI": {
+    "slug": "fluminense-pi",
+    "uf": "PI",
+    "crestLabel": "Atual · desde 2020",
+    "crestIcon": "escudo-5ce73a67.svg",
+    "listIcon": "escudo-5ce73a67.svg",
+    "backgroundAspect": 0.963,
+    "titles": {
+      "mundial": [],
+      "libertadores": [],
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        2022
+      ]
+    },
+    "retro": [
+      {
+        "id": "1938",
+        "label": "1938–1977",
+        "fullLabel": "1938–1977",
+        "atual": false,
+        "file": "retro-1938-c754d545.svg",
+        "aspect": 0.895,
+        "iconTheme": "brasileirao-fluminense-pi-1938"
+      },
+      {
+        "id": "1978",
+        "label": "1978–2000",
+        "fullLabel": "1978–2000",
+        "atual": false,
+        "file": "retro-1978-ce2fca90.svg",
+        "aspect": 0.835,
+        "iconTheme": "brasileirao-fluminense-pi-1978"
+      },
+      {
+        "id": "2001",
+        "label": "2001–2019",
+        "fullLabel": "2001–2019",
+        "atual": false,
+        "file": "retro-2001-178950ed.svg",
+        "aspect": 0.779,
+        "iconTheme": "brasileirao-fluminense-pi-2001"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥🟩⬜",
+    "primary": "#8a1f35",
+    "background": "fundo-5aa07cf4.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-fluminense-pi",
+    "colors": [
+      "rgba(196,143,154,0.08)",
+      "rgba(109,179,139,0.08)",
+      "rgba(202,154,164,0.08)",
+      "rgba(178,107,121,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#8a1f3533",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#c48f9a"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ca9aa4"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#6db38b"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#c48f9a"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

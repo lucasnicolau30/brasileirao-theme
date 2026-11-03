@@ -2057,5 +2057,46 @@
       "nota": "círculo com as letras O F C, enviado pelo dono do projeto (JPG de 200×200, vetorizado); em branco, porque o preto some no fundo escuro; período 1938–1970 palpite: 1938 é a fundação do clube (Wikipédia en) e 1970 é um corte sem fonte, a conferir"
     }
 
+  ],
+  "fluminense-pi": [
+    {
+      "id": "1938",
+      "label": "1938–1977",
+      "local": "Fluminense-PI-1938-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#e83800",
+        "#f8f8f8",
+        "#009048"
+      ],
+      "nota": "escudo do Fluminense-PI enviado pelo dono do projeto (PNG de 1000 px com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
+    },
+    {
+      "id": "1978",
+      "label": "1978–2000",
+      "local": "Fluminense-PI-1978-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#803028",
+        "#f8f8f8",
+        "#006038"
+      ],
+      "nota": "escudo do Fluminense-PI enviado pelo dono do projeto (PNG de 1000 px com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
+    },
+    {
+      "id": "2001",
+      "label": "2001–2019",
+      "local": "Fluminense-PI-2001-2019.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#c83808",
+        "#f8f8f8",
+        "#006038"
+      ],
+      "nota": "escudo do Fluminense-PI enviado pelo dono do projeto (PNG de 1000 px com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
+    }
   ]
 }
