@@ -35,7 +35,7 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
   Taça do Campeonato Amazonense (Barezão), usada nos times do Amazonas: imagem fornecida pelo usuário (images (1).jpg, foto da taça do campeão), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.
 
 - estadual-rj.png
-  Taça do Campeonato Carioca (FERJ), usada no Campeonato Carioca (RJ): imagem fornecida pelo usuário (taca.webp), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.
+  Taça do Campeonato Carioca (FERJ), usada no Campeonato Carioca (RJ): imagem fornecida pelo usuário (PNG com o fundo xadrez removido), sem autor nem licença informados.
 
 - estadual-sp.png
   Taça do Campeonato Paulista (FPF, Paulistão Sicredi 2024), usada nos times menores de São Paulo: imagem fornecida pelo usuário (2024-paulista-trofeu.webp), sem autor nem licença conhecidos. Recortada do fundo (GrabCut) e redimensionada para 380 px de altura.
