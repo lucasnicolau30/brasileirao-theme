@@ -6723,6 +6723,15 @@
         "iconTheme": "brasileirao-sao-raimundo-am-1918"
       },
       {
+        "id": "1971",
+        "label": "1971–2004",
+        "fullLabel": "1971–2004",
+        "atual": false,
+        "file": "retro-1971-e1353789.svg",
+        "aspect": 0.921,
+        "iconTheme": "brasileirao-sao-raimundo-am-1971"
+      },
+      {
         "id": "2005",
         "label": "2005–2008",
         "fullLabel": "2005–2008",
@@ -6730,10 +6739,19 @@
         "file": "retro-2005-1cda283c.svg",
         "aspect": 0.905,
         "iconTheme": "brasileirao-sao-raimundo-am-2005"
+      },
+      {
+        "id": "2009",
+        "label": "2009–2016",
+        "fullLabel": "2009–2016",
+        "atual": false,
+        "file": "retro-2009-e4a9ea99.svg",
+        "aspect": 0.874,
+        "iconTheme": "brasileirao-sao-raimundo-am-2009"
       }
     ],
     "alternates": [],
-    "swatch": "🟦⬜🟨",
+    "swatch": "🟦⬜",
     "primary": "#4a7be8",
     "background": "fundo-56a04a30.svg",
     "backgroundColored": true,

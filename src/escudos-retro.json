@@ -1498,8 +1498,24 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#46423a"
-      ],
-      "nota": "escudo preto e branco com a bola de raios, a faixa S.RAIMUNDO E. CLUBE e as listras, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado; o preto foi clareado, #46423a, para aparecer sobre o fundo escuro do editor); período 1918–1970 segundo a linha do tempo \"Evolução do escudo do São Raimundo\" da Wikipédia pt (1918, 1970, 2005, 2008 e 2017): cada escudo vale até o ano do seguinte, e o desenho foi casado com o primeiro da linha, o de 1918"
+      ]
+    },
+    {
+      "id": "1971",
+      "label": "1971–2004",
+      "local": "Sao-Raimundo-1971.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#0858b8"
+      ]
     },
     {
       "id": "2005",
@@ -1516,8 +1532,24 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#1a1a96"
-      ],
-      "nota": "escudo azul-escuro e branco com a faixa S.RAIMUNDO E. CLUBE, enviado pelo dono do projeto (JPG de 736 px, ampliado e traçado); período 2005–2008 segundo a linha do tempo \"Evolução do escudo do São Raimundo\" da Wikipédia pt (1918, 1970, 2005, 2008 e 2017), casado com o desenho de 2005; o de 2008 é de um azul mais claro e traz o nome por extenso"
+      ]
+    },
+    {
+      "id": "2009",
+      "label": "2009–2016",
+      "local": "Sao-Raimundo-2009.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#0a2a98"
+      ]
     }
   ],
   "rio-negro-am": [
