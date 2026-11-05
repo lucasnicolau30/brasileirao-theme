@@ -66,3 +66,6 @@ Fotos dos troféus, recortadas do fundo e redimensionadas.
 
 - estadual-pi.png
   Taça do Campeonato Piauiense: imagem fornecida pelo usuário (PNG com o fundo xadrez removido), sem autor nem licença informados.
+
+- estadual-ac.png
+  Taça do Campeonato Acreano, usada nos times do Acre: imagem fornecida pelo usuário (PNG com fundo transparente), sem autor nem licença informados. Recortada rente ao conteúdo e redimensionada para 1448 px de altura.
