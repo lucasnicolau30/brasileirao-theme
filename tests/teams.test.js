@@ -459,7 +459,7 @@ test('toda competição da seção Títulos tem a sua foto de troféu em images/
   const codigo = fs.readFileSync(path.join(root, 'extension', 'extension.js'), 'utf8');
   const arquivos = [...codigo.slice(codigo.indexOf('const COMPETITIONS'), codigo.indexOf('];', codigo.indexOf('const COMPETITIONS'))).matchAll(/file: '([^']+)'/g)].map((m) => m[1]);
   assert.equal(arquivos.length, 10, 'são 10 competições com foto própria (o Estadual tem uma por estado: estadual-<uf>.png)');
-  for (const uf of ['am', 'rj', 'sp', 'sc', 'rn', 'df', 'ac']) assert.ok(fs.existsSync(path.join(root, 'images', 'trofeus', `estadual-${uf}.png`)), `falta images/trofeus/estadual-${uf}.png`);
+  for (const uf of ['am', 'rj', 'sp', 'sc', 'rn', 'df', 'ac', 'ap']) assert.ok(fs.existsSync(path.join(root, 'images', 'trofeus', `estadual-${uf}.png`)), `falta images/trofeus/estadual-${uf}.png`);
   for (const f of arquivos) assert.ok(fs.existsSync(path.join(root, 'images', 'trofeus', f)), `falta images/trofeus/${f}`);
 });
 
