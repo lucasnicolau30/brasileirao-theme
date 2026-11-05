@@ -463,6 +463,11 @@
         "label": "Brasileirão: Rio Branco-AC",
         "uiTheme": "vs-dark",
         "path": "./themes/rio-branco-ac-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: ASA",
+        "uiTheme": "vs-dark",
+        "path": "./themes/asa-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1745,6 +1750,36 @@
         "id": "brasileirao-rio-branco-ac-1995",
         "label": "Brasileirão: Rio Branco-AC (retrô 1995–2003)",
         "path": "./icons/rio-branco-ac/icon-theme-1995.json"
+      },
+      {
+        "id": "brasileirao-asa",
+        "label": "Brasileirão: ASA",
+        "path": "./icons/asa/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-asa-1953",
+        "label": "Brasileirão: ASA (retrô 1953–1972)",
+        "path": "./icons/asa/icon-theme-1953.json"
+      },
+      {
+        "id": "brasileirao-asa-1973",
+        "label": "Brasileirão: ASA (retrô 1973–1977)",
+        "path": "./icons/asa/icon-theme-1973.json"
+      },
+      {
+        "id": "brasileirao-asa-1977",
+        "label": "Brasileirão: ASA (retrô 1977–1981)",
+        "path": "./icons/asa/icon-theme-1977.json"
+      },
+      {
+        "id": "brasileirao-asa-1981",
+        "label": "Brasileirão: ASA (retrô 1981–1999)",
+        "path": "./icons/asa/icon-theme-1981.json"
+      },
+      {
+        "id": "brasileirao-asa-2000",
+        "label": "Brasileirão: ASA (retrô 2000–2009)",
+        "path": "./icons/asa/icon-theme-2000.json"
       }
     ],
     "commands": [

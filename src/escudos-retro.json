@@ -2399,5 +2399,95 @@
       "nota": "escudo com o campo superior vermelho, a estrela branca e a faixa R.B.F.C., enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
       "macio": true
     }
+  ],
+  "asa": [
+    {
+      "id": "1953",
+      "label": "1953–1972",
+      "local": "ASA-1953.png",
+      "vetorizar": "alfa",
+      "macio": true,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 1,
+      "vetorizarPaleta": [
+        "#303030",
+        "#e4e4dc",
+        "#fcfcfc"
+      ],
+      "nota": "círculo com o escudo em cortina e a sigla ASA, PNG de ~1280 px enviado pelo dono do projeto (sobre fundo branco, que foi tirado, vetorizado para ficar nítido; o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período inferido: o escudo redondo com ASA do título de 1953 (Arapiraca Legal e Wikipédia) até a mudança de 1972; a ordem em relação ao de 1973 foi deduzida pelo desenho",
+      "nitido": true
+    },
+    {
+      "id": "1973",
+      "label": "1973–1977",
+      "local": "ASA-1973.png",
+      "vetorizar": "alfa",
+      "macio": true,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 1,
+      "vetorizarPaleta": [
+        "#303030",
+        "#dcdcd4",
+        "#fcfcfc"
+      ],
+      "nota": "círculo com raios e o escudo com a sigla ASA, PNG de ~1280 px enviado pelo dono do projeto (sobre fundo branco, que foi tirado, vetorizado para ficar nítido; o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período inferido: o escudo de 1973, de muitas linhas, que durou até o fim da Associação (1977, Arapiraca Legal); a associação ao desenho foi deduzida",
+      "nitido": true
+    },
+    {
+      "id": "1977",
+      "label": "1977–1981",
+      "local": "ASA-1977.png",
+      "vetorizar": "alfa",
+      "macio": true,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 1,
+      "vetorizarPaleta": [
+        "#303030",
+        "#fcfcfc"
+      ],
+      "nota": "círculo com o nome Agremiação Sportiva Arapiraquense, a sigla ASA, as listras e a estrela, criado por Ismael Pereira, PNG de ~1280 px enviado pelo dono do projeto (sobre fundo branco, que foi tirado, vetorizado para ficar nítido; o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); usado de 1977 ao início dos anos 1980 (Arapiraca Legal e Wikipédia); o ano final (1981) é inferido de \"início dos anos 1980\"",
+      "nitido": true
+    },
+    {
+      "id": "1981",
+      "label": "1981–1999",
+      "local": "ASA-1981.png",
+      "vetorizar": "alfa",
+      "macio": true,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 1,
+      "vetorizarPaleta": [
+        "#303030",
+        "#fcfcfc"
+      ],
+      "nota": "escudo com o nome ARAPIRACA em destaque, PNG de ~1280 px enviado pelo dono do projeto (sobre fundo branco, que foi tirado, vetorizado para ficar nítido; o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); usado do início dos anos 1980 até 1999, quando o escudo de 1977 voltou em 2000 (Arapiraca Legal); o ano de início (1981) é inferido",
+      "nitido": true
+    },
+    {
+      "id": "2000",
+      "label": "2000–2009",
+      "local": "ASA-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 4.0,
+      "minimo": 60,
+      "bordaPx": 1,
+      "vetorizarPaleta": [
+        "#303030",
+        "#fcfcfc"
+      ],
+      "nota": "círculo com o nome Agremiação Sportiva Arapiraquense, a sigla ASA, as listras, a estrela e as duas bolas, sem as quatro estrelas amarelas, PNG de 1448×1086 sobre fundo claro enviado pelo dono do projeto (o mesmo arquivo do escudo atual, com as estrelas apagadas por pedido dele; o fundo foi tirado e o preto clareado para #303030 para aparecer sobre o fundo escuro do editor, vetorizado para ficar nítido); período 2000–2009: o escudo de 1977 voltou em 2000 e foi ajustado em 2010 (Arapiraca Legal e Wikipédia)"
+    }
   ]
 }

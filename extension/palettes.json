@@ -10343,5 +10343,142 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: ASA": {
+    "slug": "asa",
+    "uf": "AL",
+    "crestLabel": "Atual · desde 2010",
+    "crestIcon": "escudo-e57f22e6.svg",
+    "listIcon": "escudo-e57f22e6.svg",
+    "backgroundAspect": 0.825,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1953,
+        2000,
+        2001,
+        2003,
+        2005,
+        2009,
+        2011
+      ]
+    },
+    "retro": [
+      {
+        "id": "1953",
+        "label": "1953–1972",
+        "fullLabel": "1953–1972",
+        "atual": false,
+        "file": "retro-1953-a55a8b49.svg",
+        "aspect": 0.992,
+        "iconTheme": "brasileirao-asa-1953"
+      },
+      {
+        "id": "1973",
+        "label": "1973–1977",
+        "fullLabel": "1973–1977",
+        "atual": false,
+        "file": "retro-1973-7845fd62.svg",
+        "aspect": 1.004,
+        "iconTheme": "brasileirao-asa-1973"
+      },
+      {
+        "id": "1977",
+        "label": "1977–1981",
+        "fullLabel": "1977–1981",
+        "atual": false,
+        "file": "retro-1977-f5b30b5a.svg",
+        "aspect": 0.997,
+        "iconTheme": "brasileirao-asa-1977"
+      },
+      {
+        "id": "1981",
+        "label": "1981–1999",
+        "fullLabel": "1981–1999",
+        "atual": false,
+        "file": "retro-1981-9f064b3b.svg",
+        "aspect": 0.82,
+        "iconTheme": "brasileirao-asa-1981"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2009",
+        "fullLabel": "2000–2009",
+        "atual": false,
+        "file": "retro-2000-6e8b1f75.svg",
+        "aspect": 1.003,
+        "iconTheme": "brasileirao-asa-2000"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜",
+    "primary": "#d0d0d0",
+    "background": "fundo-b32e3b1b.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-asa",
+    "colors": [
+      "rgba(245,245,245,0.08)",
+      "rgba(255,212,0,0.08)",
+      "rgba(208,208,208,0.08)",
+      "rgba(157,157,157,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d0d0d033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#d0d0d0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffd400"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }
