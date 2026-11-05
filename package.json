@@ -478,6 +478,11 @@
         "label": "Brasileirão: Macapá",
         "uiTheme": "vs-dark",
         "path": "./themes/macapa-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Ypiranga-AP",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ypiranga-ap-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1900,6 +1905,11 @@
         "id": "brasileirao-macapa-2009",
         "label": "Brasileirão: Macapá (retrô 2009–2012)",
         "path": "./icons/macapa/icon-theme-2009.json"
+      },
+      {
+        "id": "brasileirao-ypiranga-ap",
+        "label": "Brasileirão: Ypiranga-AP",
+        "path": "./icons/ypiranga-ap/icon-theme.json"
       }
     ],
     "commands": [

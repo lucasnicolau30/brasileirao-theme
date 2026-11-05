@@ -536,7 +536,8 @@ async function chooseCrest(context) {
     return;
   }
   if (!(palette.retro || []).length && !(palette.alternates || []).length) {
-    vscode.window.showInformationMessage(`${themeName.replace(/^.*: /, '')} ainda não tem escudos antigos.`);
+    const clube = themeName.replace(/^.*: /, '');
+    vscode.window.showInformationMessage(palette.crestUnchanged ? `${clube} nunca trocou de escudo.` : `${clube} ainda não tem escudos antigos.`);
     return;
   }
   const picked = await pickRetro(context, palette, themeName);

@@ -10856,5 +10856,100 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Ypiranga-AP": {
+    "slug": "ypiranga-ap",
+    "uf": "AP",
+    "crestLabel": "Atual · desde 1963",
+    "crestIcon": "escudo-789a8585.svg",
+    "listIcon": "escudo-789a8585.svg",
+    "backgroundAspect": 0.83,
+    "titles": {
+      "mundial": [],
+      "libertadores": [],
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1976,
+        1992,
+        1994,
+        1997,
+        1999,
+        2002,
+        2003,
+        2004,
+        2018,
+        2020
+      ]
+    },
+    "crestUnchanged": true,
+    "retro": [],
+    "alternates": [],
+    "swatch": "🟦⬜⬛",
+    "primary": "#2a4a8c",
+    "background": "fundo-bcaaf668.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-ypiranga-ap",
+    "colors": [
+      "rgba(138,155,192,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(159,174,203,0.08)",
+      "rgba(99,122,170,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#2a4a8c33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#8a9bc0"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#9faecb"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#8a9bc0"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }
