@@ -2138,5 +2138,13 @@
       ],
       "nota": "escudo do River-PI enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
     }
+  ],
+  "atletico-ac": [
+    {
+      "id": "1952",
+      "label": "1952–2017",
+      "local": "Atletico-AC-1952.svg",
+      "nota": "losango azul com as letras AA, sem a estrela vermelha do escudo atual, arquivo SVG enviado pelo dono do projeto (só com o viewBox ajustado ao conteúdo); usado de 1952 a 2017, segundo o dono do projeto; a estrela entrou em 2018"
+    }
   ]
 }

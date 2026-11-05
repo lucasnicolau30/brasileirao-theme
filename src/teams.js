@@ -184,7 +184,9 @@ const times = [
   { slug: 'fluminense-pi', uf: 'PI', crestLabel: 'Fluminense-PI (desde 2020)', bgColored: true, swatch: '🟥🟩⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [2022] }, label: 'Fluminense-PI', side: '#17090b', bg: '#0e0708', chrome: '#290c12', secondary: '#1f8a4c', fg: '#ece5e7', primary: '#8a1f35', accent: '#c48f9a', statusBg: '#8a1f35', statusFg: '#ffffff',
     brackets: ['#c48f9a', '#6db38b', '#ca9aa4', '#b26b79', '#dcbcc2', '#57a779'] },
   { slug: 'river-pi', uf: 'PI', crestLabel: 'River-PI (desde 2018)', bgColored: true, swatch: '🟥⬛⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1948, 1950, 1951, 1952, 1953, 1954, 1955, 1956, 1958, 1959, 1960, 1961, 1962, 1963, 1973, 1975, 1977, 1978, 1980, 1981, 1989, 1996, 1999, 2000, 2001, 2002, 2007, 2014, 2015, 2016, 2019, 2023] }, label: 'River-PI', side: '#20090b', bg: '#130708', chrome: '#3d0c10', secondary: '#ffffff', fg: '#f0e5e6', primary: '#d3202c', accent: '#e7848b', statusBg: '#d3202c', statusFg: '#ffffff',
-    brackets: ['#e7848b', '#ffffff', '#eb9ba0', '#db4a53', '#f1b5b9', '#ffffff'] }
+    brackets: ['#e7848b', '#ffffff', '#eb9ba0', '#db4a53', '#f1b5b9', '#ffffff'] },
+  { slug: 'atletico-ac', uf: 'AC', crestLabel: 'Atlético-AC (desde 2018)', bgColored: true, swatch: '🟦⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1952, 1953, 1962, 1968, 1987, 1991, 2016, 2017, 2019] }, label: 'Atlético-AC', side: '#0a0d1e', bg: '#080912', chrome: '#0f1537', secondary: '#ffffff', fg: '#e6e7ef', primary: '#2a3fb8', accent: '#949fdc', statusBg: '#2a3fb8', statusFg: '#ffffff',
+    brackets: ['#949fdc', '#ffffff', '#9fa9df', '#6b79ce', '#bfc5ea', '#ffffff'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

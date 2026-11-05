@@ -443,6 +443,11 @@
         "label": "Brasileirão: River-PI",
         "uiTheme": "vs-dark",
         "path": "./themes/river-pi-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Atlético-AC",
+        "uiTheme": "vs-dark",
+        "path": "./themes/atletico-ac-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1630,6 +1635,16 @@
         "id": "brasileirao-river-pi-1995",
         "label": "Brasileirão: River-PI (retrô 1995–2007)",
         "path": "./icons/river-pi/icon-theme-1995.json"
+      },
+      {
+        "id": "brasileirao-atletico-ac",
+        "label": "Brasileirão: Atlético-AC",
+        "path": "./icons/atletico-ac/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-atletico-ac-1952",
+        "label": "Brasileirão: Atlético-AC (retrô 1952–2017)",
+        "path": "./icons/atletico-ac/icon-theme-1952.json"
       }
     ],
     "commands": [

@@ -9783,5 +9783,108 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Atlético-AC": {
+    "slug": "atletico-ac",
+    "uf": "AC",
+    "crestLabel": "Atual · desde 2018",
+    "crestIcon": "escudo-daf026f8.svg",
+    "listIcon": "escudo-daf026f8.svg",
+    "backgroundAspect": 1.297,
+    "titles": {
+      "mundial": [],
+      "libertadores": [],
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1952,
+        1953,
+        1962,
+        1968,
+        1987,
+        1991,
+        2016,
+        2017,
+        2019
+      ]
+    },
+    "retro": [
+      {
+        "id": "1952",
+        "label": "1952–2017",
+        "fullLabel": "1952–2017",
+        "atual": false,
+        "file": "retro-1952-61cb4dff.svg",
+        "aspect": 1.665,
+        "iconTheme": "brasileirao-atletico-ac-1952"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟦⬜",
+    "primary": "#2a3fb8",
+    "background": "fundo-95c18c03.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-atletico-ac",
+    "colors": [
+      "rgba(148,159,220,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(159,169,223,0.08)",
+      "rgba(107,121,206,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#2a3fb833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#949fdc"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#9fa9df"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#949fdc"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }
