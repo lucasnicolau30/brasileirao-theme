@@ -453,6 +453,11 @@
         "label": "Brasileirão: Independência",
         "uiTheme": "vs-dark",
         "path": "./themes/independencia-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Juventus-AC",
+        "uiTheme": "vs-dark",
+        "path": "./themes/juventus-ac-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1670,6 +1675,21 @@
         "id": "brasileirao-independencia-1983",
         "label": "Brasileirão: Independência (retrô 1983–2005/2007–2018)",
         "path": "./icons/independencia/icon-theme-1983.json"
+      },
+      {
+        "id": "brasileirao-juventus-ac",
+        "label": "Brasileirão: Juventus-AC",
+        "path": "./icons/juventus-ac/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-juventus-ac-1966",
+        "label": "Brasileirão: Juventus-AC (retrô 1966–1979)",
+        "path": "./icons/juventus-ac/icon-theme-1966.json"
+      },
+      {
+        "id": "brasileirao-juventus-ac-1980",
+        "label": "Brasileirão: Juventus-AC (retrô 1980–1989)",
+        "path": "./icons/juventus-ac/icon-theme-1980.json"
       }
     ],
     "commands": [

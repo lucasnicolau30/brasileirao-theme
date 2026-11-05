@@ -188,7 +188,9 @@ const times = [
   { slug: 'atletico-ac', uf: 'AC', crestLabel: 'Atlético-AC (desde 2018)', bgColored: true, swatch: '🟦⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1952, 1953, 1962, 1968, 1987, 1991, 2016, 2017, 2019] }, label: 'Atlético-AC', side: '#0a0d1e', bg: '#080912', chrome: '#0f1537', secondary: '#ffffff', fg: '#e6e7ef', primary: '#2a3fb8', accent: '#949fdc', statusBg: '#2a3fb8', statusFg: '#ffffff',
     brackets: ['#949fdc', '#ffffff', '#9fa9df', '#6b79ce', '#bfc5ea', '#ffffff'] },
   { slug: 'independencia', uf: 'AC', crestLabel: 'Independência (desde 2019)', bgColored: true, swatch: '🟩🟥⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1954, 1958, 1959, 1963, 1970, 1972, 1974, 1985, 1988, 1993, 1998, 2024, 2025] }, label: 'Independência', side: '#09180f', bg: '#070f0a', chrome: '#0d2b1a', secondary: '#8c1d2e', fg: '#e6ece8', primary: '#238e51', accent: '#65b085', statusBg: '#238e51', statusFg: '#070f0a',
-    brackets: ['#65b085', '#b46c77', '#9cccb1', '#238e51', '#a3d0b6', '#b16671'] }
+    brackets: ['#65b085', '#b46c77', '#9cccb1', '#238e51', '#a3d0b6', '#b16671'] },
+  { slug: 'juventus-ac', uf: 'AC', crestLabel: 'Juventus-AC (desde 1990)', bgColored: true, swatch: '🟥⬛', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1966, 1969, 1975, 1976, 1978, 1980, 1981, 1982, 1984, 1989, 1990, 1995, 1996, 2009] }, label: 'Juventus-AC', side: '#20090b', bg: '#130708', chrome: '#3d0c10', secondary: '#ffffff', fg: '#f0e5e6', primary: '#d3202c', accent: '#e7848b', statusBg: '#d3202c', statusFg: '#ffffff',
+    brackets: ['#e7848b', '#ffffff', '#eb9ba0', '#db4a53', '#f1b5b9', '#ffffff'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São
