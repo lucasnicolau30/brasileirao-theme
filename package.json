@@ -458,6 +458,11 @@
         "label": "Brasileirão: Juventus-AC",
         "uiTheme": "vs-dark",
         "path": "./themes/juventus-ac-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Rio Branco-AC",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rio-branco-ac-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1690,6 +1695,46 @@
         "id": "brasileirao-juventus-ac-1980",
         "label": "Brasileirão: Juventus-AC (retrô 1980–1989)",
         "path": "./icons/juventus-ac/icon-theme-1980.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-ac",
+        "label": "Brasileirão: Rio Branco-AC",
+        "path": "./icons/rio-branco-ac/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-ac-1919",
+        "label": "Brasileirão: Rio Branco-AC (retrô 1919–1944)",
+        "path": "./icons/rio-branco-ac/icon-theme-1919.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-ac-1945",
+        "label": "Brasileirão: Rio Branco-AC (retrô 1945–1955)",
+        "path": "./icons/rio-branco-ac/icon-theme-1945.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-ac-1956",
+        "label": "Brasileirão: Rio Branco-AC (retrô 1956–1964)",
+        "path": "./icons/rio-branco-ac/icon-theme-1956.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-ac-1965",
+        "label": "Brasileirão: Rio Branco-AC (retrô 1965–1970)",
+        "path": "./icons/rio-branco-ac/icon-theme-1965.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-ac-1971",
+        "label": "Brasileirão: Rio Branco-AC (retrô 1971–1977)",
+        "path": "./icons/rio-branco-ac/icon-theme-1971.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-ac-1978",
+        "label": "Brasileirão: Rio Branco-AC (retrô 1978–1994)",
+        "path": "./icons/rio-branco-ac/icon-theme-1978.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-ac-1995",
+        "label": "Brasileirão: Rio Branco-AC (retrô 1995–2003)",
+        "path": "./icons/rio-branco-ac/icon-theme-1995.json"
       }
     ],
     "commands": [

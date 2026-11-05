@@ -85,7 +85,8 @@ const EXPECTED = {
   'river-pi': [0, 0, 0],
   'atletico-ac': [0, 0, 0],
   'independencia': [0, 0, 0],
-  'juventus-ac': [0, 0, 0]
+  'juventus-ac': [0, 0, 0],
+  'rio-branco-ac': [0, 0, 0]
 };
 const FIRST_YEAR = { estadual: 1900, brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994, copaVerde: 2014 };
 // Mundial (Intercontinental + Mundial da FIFA), Sul-Americana, Série B, C e D: [mundial, sulAmericana, serieB, serieC, serieD], conferido à mão nas listas oficiais.
@@ -162,7 +163,8 @@ const EXPECTED_OTHER = {
   'river-pi': [0, 0, 0, 0, 0],
   'atletico-ac': [0, 0, 0, 0, 0],
   'independencia': [0, 0, 0, 0, 0],
-  'juventus-ac': [0, 0, 0, 0, 0]
+  'juventus-ac': [0, 0, 0, 0, 0],
+  'rio-branco-ac': [0, 0, 0, 0, 0]
 };
 const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
@@ -176,12 +178,12 @@ const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport:
 // Ano repetido na mesma lista só quando houve dois títulos no mesmo ano.
 // Estaduais (tabela de títulos de cada campeonato estadual, ou a lista de campeões onde não há tabela; o América-RN tem 40 no artigo mas só 38 anos
 // listados, então valem os 38). Só os times menores têm: os 12 grandes ficam com [].
-const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juventude: 1, bahia: 52, vitoria: 30, fortaleza: 47, ceara: 47, 'athletico-pr': 28, coritiba: 39, parana: 7, sport: 46, 'santa-cruz': 29, nautico: 24, paysandu: 51, remo: 48, amazonas: 2, goias: 29, 'atletico-go': 18, 'vila-nova': 16, criciuma: 12, chapecoense: 7, 'sampaio-correa': 37, cuiaba: 13, luverdense: 3, brasiliense: 11, gama: 15, abc: 56, 'america-rn': 38, 'botafogo-pb': 31, 'nacional-am': 44, 'rio-negro-am': 16, 'sao-raimundo-am': 7, campinense: 22, 'america-rj': 7, crb: 45, csa: 40, manaus: 6, bangu: 2, ituano: 2, avai: 19, figueirense: 18, brasilia: 8, 'fluminense-pi': 1, 'river-pi': 32, 'atletico-ac': 9, 'independencia': 13, 'juventus-ac': 14 };
+const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juventude: 1, bahia: 52, vitoria: 30, fortaleza: 47, ceara: 47, 'athletico-pr': 28, coritiba: 39, parana: 7, sport: 46, 'santa-cruz': 29, nautico: 24, paysandu: 51, remo: 48, amazonas: 2, goias: 29, 'atletico-go': 18, 'vila-nova': 16, criciuma: 12, chapecoense: 7, 'sampaio-correa': 37, cuiaba: 13, luverdense: 3, brasiliense: 11, gama: 15, abc: 56, 'america-rn': 38, 'botafogo-pb': 31, 'nacional-am': 44, 'rio-negro-am': 16, 'sao-raimundo-am': 7, campinense: 22, 'america-rj': 7, crb: 45, csa: 40, manaus: 6, bangu: 2, ituano: 2, avai: 19, figueirense: 18, brasilia: 8, 'fluminense-pi': 1, 'river-pi': 32, 'atletico-ac': 9, 'independencia': 13, 'juventus-ac': 14, 'rio-branco-ac': 49 };
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 84 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 84);
+test('há 85 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 85);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -295,7 +297,7 @@ test('escudos antigos: lista válida, só de times existentes, e os arquivos da 
   for (const [slug, entries] of Object.entries(lista)) {
     if (slug.startsWith('_')) continue;
     assert.ok(slugs.has(slug), `${slug} não é um time`);
-    assert.ok(entries.length >= 1 && entries.length <= 6, `${slug}: quantidade de escudos fora do esperado`);
+    assert.ok(entries.length >= 1 && entries.length <= 12, `${slug}: quantidade de escudos fora do esperado`);
     assert.equal(new Set(entries.map((e) => e.id)).size, entries.length, `${slug}: id repetido`);
     for (const e of entries) {
       assert.match(e.id, /^[a-z0-9-]+$/, `${slug}: id inválido ${e.id}`);
@@ -536,5 +538,5 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
       assert.ok(dAno <= 0, `${a.slug} deveria vir depois de ${b.slug}: ${b.slug} ganhou antes o título mais importante`);
     }
   }
-  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'vasco', 'fluminense', 'botafogo', 'campo-grande', 'volta-redonda', 'olaria', 'macae', 'america-rj', 'bangu', 'sao-paulo', 'santos', 'corinthians', 'palmeiras', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'uniao-sao-joao', 'portuguesa', 'juventus-sp', 'inter-de-limeira', 'ituano', 'mirassol', 'novorizontino', 'xv-de-piracicaba', 'uniao-barbarense', 'oeste', 'ponte-preta', 'botafogo-sp', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'villa-nova', 'boa-esporte', 'tupi', 'tombense', 'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'nacional-am', 'rio-negro-am', 'sao-raimundo-am', 'manaus', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'avai', 'figueirense', 'sampaio-correa', 'cuiaba', 'luverdense', 'brasiliense', 'brasilia', 'gama', 'america-rn', 'abc', 'campinense', 'botafogo-pb', 'csa', 'crb', 'operario-ms', 'comercial-ms', 'river-pi', 'fluminense-pi', 'juventus-ac', 'independencia', 'atletico-ac']);
+  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'vasco', 'fluminense', 'botafogo', 'campo-grande', 'volta-redonda', 'olaria', 'macae', 'america-rj', 'bangu', 'sao-paulo', 'santos', 'corinthians', 'palmeiras', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'uniao-sao-joao', 'portuguesa', 'juventus-sp', 'inter-de-limeira', 'ituano', 'mirassol', 'novorizontino', 'xv-de-piracicaba', 'uniao-barbarense', 'oeste', 'ponte-preta', 'botafogo-sp', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'villa-nova', 'boa-esporte', 'tupi', 'tombense', 'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'fortaleza', 'ceara', 'athletico-pr', 'coritiba', 'parana', 'sport', 'santa-cruz', 'nautico', 'paysandu', 'remo', 'amazonas', 'nacional-am', 'rio-negro-am', 'sao-raimundo-am', 'manaus', 'goias', 'atletico-go', 'vila-nova', 'criciuma', 'chapecoense', 'avai', 'figueirense', 'sampaio-correa', 'cuiaba', 'luverdense', 'brasiliense', 'brasilia', 'gama', 'america-rn', 'abc', 'campinense', 'botafogo-pb', 'csa', 'crb', 'operario-ms', 'comercial-ms', 'river-pi', 'fluminense-pi', 'rio-branco-ac', 'juventus-ac', 'independencia', 'atletico-ac']);
 });

@@ -2243,5 +2243,125 @@
       ],
       "nota": "disco vermelho com o monograma AJC em branco e dois anéis, enviado pelo dono do projeto (JPG de 648×646 com a moldura preta de 2 px cortada, o fundo xadrez cinza tirado e o cinza do monograma clareado para branco, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto"
     }
+  ],
+  "rio-branco-ac": [
+    {
+      "id": "1919",
+      "label": "1919–1944",
+      "local": "Rio-Branco-AC-1919-1944.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f80000"
+      ],
+      "nota": "círculo com a estrela grande e o nome RIO BRANCO FOOTBALL CLUB · ACRE, só em vermelho (o branco é o fundo), enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
+      "macio": true
+    },
+    {
+      "id": "1945",
+      "label": "1945–1955",
+      "local": "Rio-Branco-AC-1945-1955.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "nota": "círculo branco com a estrela e o nome RIO BRANCO FOOTBALL CLUB · ACRE, enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
+      "macio": true
+    },
+    {
+      "id": "1956",
+      "label": "1956–1964",
+      "local": "Rio-Branco-AC-1956-1964.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "nota": "escudo com recorte nos ombros, estrela vazada e faixa R.B.F.C., enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
+      "macio": true
+    },
+    {
+      "id": "1965",
+      "label": "1965–1970",
+      "local": "Rio-Branco-AC-1965-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "nota": "escudo com a faixa diagonal R.B.F.C. e a estrela no canto, enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
+      "macio": true
+    },
+    {
+      "id": "1971",
+      "label": "1971–1977",
+      "local": "Rio-Branco-AC-1971-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "nota": "escudo arredondado com a bola e a faixa diagonal R.B.F.C., sem estrela, enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
+      "macio": true
+    },
+    {
+      "id": "1978",
+      "label": "1978–1994",
+      "local": "Rio-Branco-AC-1978-1994.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "nota": "escudo pontudo com a estrela pequena e a faixa R.B.F.C., enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
+      "macio": true
+    },
+    {
+      "id": "1995",
+      "label": "1995–2003",
+      "local": "Rio-Branco-AC-1995-2003.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "nota": "escudo com o campo superior vermelho, a estrela branca e a faixa R.B.F.C., enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
+      "macio": true
+    }
   ]
 }

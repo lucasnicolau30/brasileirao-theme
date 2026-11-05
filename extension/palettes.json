@@ -10128,5 +10128,202 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Rio Branco-AC": {
+    "slug": "rio-branco-ac",
+    "uf": "AC",
+    "crestLabel": "Atual · desde 2004",
+    "crestIcon": "escudo-1c7c1580.svg",
+    "listIcon": "escudo-1c7c1580.svg",
+    "backgroundAspect": 0.715,
+    "titles": {
+      "mundial": [],
+      "libertadores": [],
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1919,
+        1921,
+        1928,
+        1929,
+        1935,
+        1936,
+        1937,
+        1938,
+        1939,
+        1940,
+        1941,
+        1943,
+        1944,
+        1945,
+        1946,
+        1947,
+        1950,
+        1951,
+        1955,
+        1956,
+        1957,
+        1960,
+        1961,
+        1962,
+        1964,
+        1971,
+        1973,
+        1977,
+        1979,
+        1983,
+        1986,
+        1992,
+        1994,
+        1997,
+        2000,
+        2002,
+        2003,
+        2004,
+        2005,
+        2007,
+        2008,
+        2010,
+        2011,
+        2012,
+        2014,
+        2015,
+        2018,
+        2021,
+        2023
+      ]
+    },
+    "retro": [
+      {
+        "id": "1919",
+        "label": "1919–1944",
+        "fullLabel": "1919–1944",
+        "atual": false,
+        "file": "retro-1919-54f8a801.svg",
+        "aspect": 0.996,
+        "iconTheme": "brasileirao-rio-branco-ac-1919"
+      },
+      {
+        "id": "1945",
+        "label": "1945–1955",
+        "fullLabel": "1945–1955",
+        "atual": false,
+        "file": "retro-1945-163e6570.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-rio-branco-ac-1945"
+      },
+      {
+        "id": "1956",
+        "label": "1956–1964",
+        "fullLabel": "1956–1964",
+        "atual": false,
+        "file": "retro-1956-da24960b.svg",
+        "aspect": 0.91,
+        "iconTheme": "brasileirao-rio-branco-ac-1956"
+      },
+      {
+        "id": "1965",
+        "label": "1965–1970",
+        "fullLabel": "1965–1970",
+        "atual": false,
+        "file": "retro-1965-f6272362.svg",
+        "aspect": 0.713,
+        "iconTheme": "brasileirao-rio-branco-ac-1965"
+      },
+      {
+        "id": "1971",
+        "label": "1971–1977",
+        "fullLabel": "1971–1977",
+        "atual": false,
+        "file": "retro-1971-8f916ed0.svg",
+        "aspect": 0.861,
+        "iconTheme": "brasileirao-rio-branco-ac-1971"
+      },
+      {
+        "id": "1978",
+        "label": "1978–1994",
+        "fullLabel": "1978–1994",
+        "atual": false,
+        "file": "retro-1978-6f7be2c6.svg",
+        "aspect": 0.826,
+        "iconTheme": "brasileirao-rio-branco-ac-1978"
+      },
+      {
+        "id": "1995",
+        "label": "1995–2003",
+        "fullLabel": "1995–2003",
+        "atual": false,
+        "file": "retro-1995-5c13b0e2.svg",
+        "aspect": 0.718,
+        "iconTheme": "brasileirao-rio-branco-ac-1995"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬜",
+    "primary": "#d6232a",
+    "background": "fundo-d02d9042.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-rio-branco-ac",
+    "colors": [
+      "rgba(230,123,127,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(237,156,159,0.08)",
+      "rgba(220,66,73,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d6232a33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#e67b7f"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ed9c9f"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#e67b7f"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }
