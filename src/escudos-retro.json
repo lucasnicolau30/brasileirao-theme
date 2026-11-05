@@ -1465,21 +1465,22 @@
   "manaus": [
     {
       "id": "2013",
-      "label": "2013–2019",
+      "label": "2013–2018",
       "local": "Manaus-2013.png",
       "vetorizar": "alfa",
-      "nitido": true,
       "sobrepor": 1,
-      "escala": 4,
-      "suavidade": 1.2,
+      "nitido": true,
+      "macio": true,
+      "escala": 2,
+      "suavidade": 3.0,
       "minimo": 60,
+      "bordaPx": 2,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#0b9a3c",
-        "#f4b61c",
-        "#46423a"
-      ],
-      "nota": "primeiro escudo do clube, o gavião-real sobre a bola com o texto MANAUS F.C. e 2013, enviado pelo dono do projeto (PNG de 336 px, ampliado e traçado; o preto foi clareado, #46423a, para aparecer sobre o fundo escuro do editor); período 2013–2019: o clube foi fundado em 5 de maio de 2013 e, em 2019, divulgou o escudo atualizado para a Série D (post do Manaus Futebol Clube no Facebook, com o arquivo \"EscudoManausFCSérieD2019\"); a data exata da troca não é conhecida"
+        "#141414",
+        "#088838",
+        "#f8b818",
+        "#fcfcfc"
+      ]
     }
   ],
   "sao-raimundo-am": [

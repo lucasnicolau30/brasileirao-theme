@@ -6816,9 +6816,9 @@
     "slug": "manaus",
     "uf": "AM",
     "crestLabel": "Atual · desde 2019",
-    "crestIcon": "escudo-c7fbc5a4.svg",
-    "listIcon": "escudo-c7fbc5a4.svg",
-    "backgroundAspect": 0.586,
+    "crestIcon": "escudo-18284c48.svg",
+    "listIcon": "escudo-18284c48.svg",
+    "backgroundAspect": 0.578,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -6842,18 +6842,18 @@
     "retro": [
       {
         "id": "2013",
-        "label": "2013–2019",
-        "fullLabel": "2013–2019",
+        "label": "2013–2018",
+        "fullLabel": "2013–2018",
         "atual": false,
-        "file": "retro-2013-ff315083.svg",
-        "aspect": 0.677,
+        "file": "retro-2013-7f1d7749.svg",
+        "aspect": 0.672,
         "iconTheme": "brasileirao-manaus-2013"
       }
     ],
     "alternates": [],
     "swatch": "🟩⬛⬜",
     "primary": "#3aa84a",
-    "background": "fundo-8cf0b97b.svg",
+    "background": "fundo-2568165e.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
