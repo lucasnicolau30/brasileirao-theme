@@ -10570,5 +10570,154 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Trem": {
+    "slug": "trem",
+    "uf": "AP",
+    "crestLabel": "Atual · desde 2024",
+    "crestIcon": "escudo-dd14a10f.svg",
+    "listIcon": "escudo-dd14a10f.svg",
+    "backgroundAspect": 0.761,
+    "titles": {
+      "mundial": [],
+      "libertadores": [],
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1952,
+        1984,
+        2007,
+        2010,
+        2011,
+        2021,
+        2022,
+        2023,
+        2024,
+        2025
+      ]
+    },
+    "retro": [
+      {
+        "id": "1941",
+        "label": "1941–1970",
+        "fullLabel": "1941–1970",
+        "atual": false,
+        "file": "retro-1941-7f60db01.svg",
+        "aspect": 1.002,
+        "iconTheme": "brasileirao-trem-1941"
+      },
+      {
+        "id": "1971",
+        "label": "1971–1983",
+        "fullLabel": "1971–1983",
+        "atual": false,
+        "file": "retro-1971-6a9a3bd7.svg",
+        "aspect": 0.88,
+        "iconTheme": "brasileirao-trem-1971"
+      },
+      {
+        "id": "1984",
+        "label": "1984–1990",
+        "fullLabel": "1984–1990",
+        "atual": false,
+        "file": "retro-1984-96d74c82.svg",
+        "aspect": 0.822,
+        "iconTheme": "brasileirao-trem-1984"
+      },
+      {
+        "id": "1991",
+        "label": "1991–2002",
+        "fullLabel": "1991–2002",
+        "atual": false,
+        "file": "retro-1991-0bb2f450.svg",
+        "aspect": 0.815,
+        "iconTheme": "brasileirao-trem-1991"
+      },
+      {
+        "id": "2003",
+        "label": "2003–2009",
+        "fullLabel": "2003–2009",
+        "atual": false,
+        "file": "retro-2003-e17caf22.svg",
+        "aspect": 0.844,
+        "iconTheme": "brasileirao-trem-2003"
+      },
+      {
+        "id": "2010",
+        "label": "2010–2023",
+        "fullLabel": "2010–2023",
+        "atual": false,
+        "file": "retro-2010-869266ec.svg",
+        "aspect": 0.665,
+        "iconTheme": "brasileirao-trem-2010"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬛⬜",
+    "primary": "#d3202c",
+    "background": "fundo-93e2a2b9.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-trem",
+    "colors": [
+      "rgba(231,132,139,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(235,155,160,0.08)",
+      "rgba(219,74,83,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d3202c33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#e7848b"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#eb9ba0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#e7848b"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

@@ -2671,5 +2671,108 @@
       ],
       "nota": "círculo com o nome Agremiação Sportiva Arapiraquense, a sigla ASA, as listras, a estrela e as duas bolas, sem as quatro estrelas amarelas, PNG de 1448×1086 sobre fundo claro enviado pelo dono do projeto (o mesmo arquivo do escudo atual, com as estrelas apagadas por pedido dele; o fundo foi tirado e o preto clareado para #303030 para aparecer sobre o fundo escuro do editor, vetorizado para ficar nítido); período 2000–2009: o escudo de 1977 voltou em 2000 e foi ajustado em 2010 (Arapiraca Legal e Wikipédia)"
     }
+  ],
+  "trem": [
+    {
+      "id": "1941",
+      "label": "1941–1970",
+      "local": "Trem-1941.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#f80000",
+        "#fcfcfc"
+      ],
+      "nota": "disco vermelho com o T branco e dois aros, preto e branco, 507×507 (o arquivo se chamava Trem-AP-1947) com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período 1941–1970 informado pelo dono do projeto"
+    },
+    {
+      "id": "1971",
+      "label": "1971–1983",
+      "local": "Trem-1971.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#f80000",
+        "#fcfcfc"
+      ],
+      "nota": "escudo preto e vermelho listrado com o T e as letras D C em branco e borda branca, 1000×1136 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período 1971–1983 informado pelo dono do projeto"
+    },
+    {
+      "id": "1984",
+      "label": "1984–1990",
+      "local": "Trem-1984.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#f80000",
+        "#fcfcfc"
+      ],
+      "nota": "escudo listrado de preto e vermelho com o quadro branco DTC no canto, 1000×1218 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período 1984–1990 informado pelo dono do projeto"
+    },
+    {
+      "id": "1991",
+      "label": "1991–2002",
+      "local": "Trem-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#f80000",
+        "#fcfcfc"
+      ],
+      "nota": "escudo preto e vermelho com as letras DTC em branco no canto, 1000×1227 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período 1991–2002 informado pelo dono do projeto"
+    },
+    {
+      "id": "2003",
+      "label": "2003–2009",
+      "local": "Trem-2003.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#f80000",
+        "#fcfcfc"
+      ],
+      "nota": "escudo preto e vermelho listrado com borda branca e o quadro vermelho DTC, 1000×1187 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período 2003–2009 informado pelo dono do projeto"
+    },
+    {
+      "id": "2010",
+      "label": "2010–2023",
+      "local": "Trem-2010-10estrelas.svg",
+      "nota": "o escudo de 2010 (o mesmo do arquivo Trem-AP-2010 enviado pelo dono do projeto) com as 10 estrelas em duas fileiras de 5, ouro em cima e cinza embaixo, como no arquivo Trem_Desportivo_Clube_(2022).png do Wikimedia Commons; as estrelas foram desenhadas em vetor sobre o escudo, que não mudou; o fim em 2023 vem de o dono do projeto situar o escudo atual de 1 estrela em 2024"
+    }
   ]
 }
