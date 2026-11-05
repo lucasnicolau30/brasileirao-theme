@@ -9886,5 +9886,130 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Independência": {
+    "slug": "independencia",
+    "uf": "AC",
+    "crestLabel": "Atual · desde 2019",
+    "crestIcon": "escudo-381a334a.svg",
+    "listIcon": "escudo-381a334a.svg",
+    "backgroundAspect": 0.913,
+    "titles": {
+      "mundial": [],
+      "libertadores": [],
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1954,
+        1958,
+        1959,
+        1963,
+        1970,
+        1972,
+        1974,
+        1985,
+        1988,
+        1993,
+        1998,
+        2024,
+        2025
+      ]
+    },
+    "retro": [
+      {
+        "id": "1946",
+        "label": "1946–1973/2006",
+        "fullLabel": "1946–1973/2006",
+        "atual": false,
+        "file": "retro-1946-e2dd4072.svg",
+        "aspect": 0.813,
+        "iconTheme": "brasileirao-independencia-1946"
+      },
+      {
+        "id": "1974",
+        "label": "1974–1982",
+        "fullLabel": "1974–1982",
+        "atual": false,
+        "file": "retro-1974-2dd65172.svg",
+        "aspect": 0.818,
+        "iconTheme": "brasileirao-independencia-1974"
+      },
+      {
+        "id": "1983",
+        "label": "1983–2005/2007–2018",
+        "fullLabel": "1983–2005/2007–2018",
+        "atual": false,
+        "file": "retro-1983-726b2644.svg",
+        "aspect": 0.824,
+        "iconTheme": "brasileirao-independencia-1983"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩🟥⬜",
+    "primary": "#238e51",
+    "background": "fundo-b4efd8bc.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-independencia",
+    "colors": [
+      "rgba(101,176,133,0.08)",
+      "rgba(180,108,119,0.08)",
+      "rgba(156,204,177,0.08)",
+      "rgba(35,142,81,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#238e5133",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#65b085"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#9cccb1"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#b46c77"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#65b085"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

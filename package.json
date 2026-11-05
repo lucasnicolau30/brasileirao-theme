@@ -448,6 +448,11 @@
         "label": "Brasileirão: Atlético-AC",
         "uiTheme": "vs-dark",
         "path": "./themes/atletico-ac-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Independência",
+        "uiTheme": "vs-dark",
+        "path": "./themes/independencia-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1645,6 +1650,26 @@
         "id": "brasileirao-atletico-ac-1952",
         "label": "Brasileirão: Atlético-AC (retrô 1952–2017)",
         "path": "./icons/atletico-ac/icon-theme-1952.json"
+      },
+      {
+        "id": "brasileirao-independencia",
+        "label": "Brasileirão: Independência",
+        "path": "./icons/independencia/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-independencia-1946",
+        "label": "Brasileirão: Independência (retrô 1946–1973/2006)",
+        "path": "./icons/independencia/icon-theme-1946.json"
+      },
+      {
+        "id": "brasileirao-independencia-1974",
+        "label": "Brasileirão: Independência (retrô 1974–1982)",
+        "path": "./icons/independencia/icon-theme-1974.json"
+      },
+      {
+        "id": "brasileirao-independencia-1983",
+        "label": "Brasileirão: Independência (retrô 1983–2005/2007–2018)",
+        "path": "./icons/independencia/icon-theme-1983.json"
       }
     ],
     "commands": [

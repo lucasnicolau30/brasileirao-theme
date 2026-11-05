@@ -2146,5 +2146,63 @@
       "local": "Atletico-AC-1952.svg",
       "nota": "losango azul com as letras AA, sem a estrela vermelha do escudo atual, arquivo SVG enviado pelo dono do projeto (só com o viewBox ajustado ao conteúdo); usado de 1952 a 2017, segundo o dono do projeto; a estrela entrou em 2018"
     }
+  ],
+  "independencia": [
+    {
+      "id": "1946",
+      "label": "1946–1973/2006",
+      "local": "Independencia-1946.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 4.0,
+      "minimo": 80,
+      "vetorizarPaleta": [
+        "#bc0404",
+        "#fcfcfc"
+      ],
+      "nota": "escudo branco com o monograma IFC e o contorno em vermelho, enviado pelo dono do projeto (PNG de 1145×1374 com fundo preto, que foi tirado, vetorizado para ficar nítido); usado de 1946 a 1973 e de novo em 2006, segundo os períodos do nome do arquivo antigo enviado",
+      "macio": true,
+      "bordaPx": 4
+    },
+    {
+      "id": "1974",
+      "label": "1974–1982",
+      "local": "Independencia-1974.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 4.0,
+      "minimo": 80,
+      "vetorizarPaleta": [
+        "#9c1424",
+        "#fcfcfc",
+        "#046c4c"
+      ],
+      "nota": "escudo grená e verde com o monograma IFC em branco e um filete grená por fora da borda branca, enviado pelo dono do projeto (PNG de 1254×1254 com fundo preto, que foi tirado, vetorizado para ficar nítido); período do nome do arquivo antigo enviado",
+      "macio": true,
+      "bordaPx": 4
+    },
+    {
+      "id": "1983",
+      "label": "1983–2005/2007–2018",
+      "local": "Independencia-1983.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 4.0,
+      "minimo": 80,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#ac1424",
+        "#046c44"
+      ],
+      "nota": "escudo grená e verde com o monograma IFC em branco e a borda branca lisa, enviado pelo dono do projeto (PNG de 1140×1380 com fundo preto, que foi tirado, vetorizado para ficar nítido); usado de 1983 a 2005 e de 2007 a 2018, segundo os períodos do nome do arquivo antigo enviado",
+      "macio": true,
+      "bordaPx": 4
+    }
   ]
 }
