@@ -6302,9 +6302,9 @@
     "slug": "amazonas",
     "uf": "AM",
     "crestLabel": "Atual · desde 2023",
-    "crestIcon": "escudo-24a5abdc.svg",
-    "listIcon": "escudo-24a5abdc.svg",
-    "backgroundAspect": 0.726,
+    "crestIcon": "escudo-50dcba9f.svg",
+    "listIcon": "escudo-50dcba9f.svg",
+    "backgroundAspect": 0.718,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -6323,21 +6323,25 @@
         2025
       ]
     },
+    "titleOrder": [
+      "estadual",
+      "serieC"
+    ],
     "retro": [
       {
         "id": "2019",
         "label": "2019–2023",
         "fullLabel": "2019–2023",
         "atual": false,
-        "file": "retro-2019-6f4a1155.svg",
-        "aspect": 0.713,
+        "file": "retro-2019-0d3ce1ac.svg",
+        "aspect": 0.691,
         "iconTheme": "brasileirao-amazonas-2019"
       }
     ],
     "alternates": [],
     "swatch": "🟨⬛",
     "primary": "#f2c200",
-    "background": "fundo-449d330b.svg",
+    "background": "fundo-46c68c85.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",

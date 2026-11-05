@@ -614,21 +614,7 @@
     {
       "id": "2019",
       "label": "2019–2023",
-      "local": "Amazonas-2019.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 2.0,
-      "minimo": 100,
-      "vetorizarPaleta": [
-        "#46423a",
-        "#f2c200",
-        "#8c8c8c",
-        "#e4e4e4",
-        "#f4f4f0"
-      ],
-      "nota": "escudo de 2019, o das origens, com o texto 'AMAZONAS F.C' e a estrela prateada em cima, enviado pelo dono do projeto (imagem de 443 px sobre fundo amarelo estampado): o contorno branco foi refeito como polígono liso, a estrela foi redesenhada limpa (5 pontas com duas faces) e o louro foi recortado da imagem; período: de 2019 até 14/11/2023, quando entraram as três estrelas e saíram as letras F.C (Wikipédia). O preto foi clareado (#46423a) para aparecer sobre o fundo escuro do editor"
+      "local": "Amazonas-2019.svg"
     }
   ],
   "goias": [
