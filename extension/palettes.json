@@ -6590,13 +6590,40 @@
         "label": "1913–1975",
         "fullLabel": "1913–1975",
         "atual": false,
-        "file": "retro-1913-1216af4b.svg",
-        "aspect": 0.798,
+        "file": "retro-1913-cbc987a0.svg",
+        "aspect": 0.763,
         "iconTheme": "brasileirao-rio-negro-am-1913"
+      },
+      {
+        "id": "1976",
+        "label": "1976–1980",
+        "fullLabel": "1976–1980",
+        "atual": false,
+        "file": "retro-1976-5dac3da6.svg",
+        "aspect": 0.984,
+        "iconTheme": "brasileirao-rio-negro-am-1976"
+      },
+      {
+        "id": "1981",
+        "label": "1981–1990",
+        "fullLabel": "1981–1990",
+        "atual": false,
+        "file": "retro-1981-186a2e66.svg",
+        "aspect": 0.964,
+        "iconTheme": "brasileirao-rio-negro-am-1981"
+      },
+      {
+        "id": "1991",
+        "label": "1991–2000",
+        "fullLabel": "1991–2000",
+        "atual": false,
+        "file": "retro-1991-2e47d481.svg",
+        "aspect": 0.977,
+        "iconTheme": "brasileirao-rio-negro-am-1991"
       }
     ],
     "alternates": [],
-    "swatch": "⬛⬜🟨",
+    "swatch": "⬛⬜",
     "primary": "#d4d4d4",
     "background": "fundo-96cdc781.svg",
     "backgroundColored": true,

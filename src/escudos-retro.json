@@ -1526,18 +1526,67 @@
       "label": "1913–1975",
       "local": "Rio-Negro-1913.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
-      "bordaPx": 0,
       "nitido": true,
       "sobrepor": 1,
-      "escala": 4,
-      "suavidade": 1.2,
-      "minimo": 60,
       "vetorizarPaleta": [
-        "#ffffff",
+        "#fcfcfc",
         "#46423a"
       ],
-      "nota": "escudo em forma de brasão com a faixa diagonal A.R.N.C., enviado pelo dono do projeto (PNG de 600 px do seeklogo, ampliado e traçado; o preto foi clareado, #46423a, para aparecer sobre o fundo escuro do editor); período 1913–1975 informado pelo dono do projeto (o Logopedia também lista o primeiro escudo do clube de 1913 a 1975)"
+      "macio": true,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2
+    },
+    {
+      "id": "1976",
+      "label": "1976–1980",
+      "local": "Rio-Negro-1976.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#46423a"
+      ]
+    },
+    {
+      "id": "1981",
+      "label": "1981–1990",
+      "local": "Rio-Negro-1981.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#46423a"
+      ]
+    },
+    {
+      "id": "1991",
+      "label": "1991–2000",
+      "local": "Rio-Negro-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#46423a"
+      ]
     }
   ],
   "campinense": [
