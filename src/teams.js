@@ -196,7 +196,9 @@ const times = [
   { slug: 'asa', uf: 'AL', crestLabel: 'ASA (desde 2010)', bgColored: true, swatch: '⬛⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1953, 2000, 2001, 2003, 2005, 2009, 2011] }, label: 'ASA', side: '#1a1a1a', bg: '#0f0f0f', activity: '#e6e6e6', title: '#000000', secondary: '#ffd400', fg: '#ececec', primary: '#d0d0d0', accent: '#f5f5f5', statusBg: '#000000', statusFg: '#ffffff',
     brackets: ['#f5f5f5', '#ffd400', '#d0d0d0', '#9d9d9d', '#ffe680', '#e0e0e0'] },
   { slug: 'trem', uf: 'AP', crestLabel: 'Trem (desde 2024)', bgColored: true, swatch: '🟥⬛⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1952, 1984, 2007, 2010, 2011, 2021, 2022, 2023, 2024, 2025] }, label: 'Trem', side: '#20090b', bg: '#130708', chrome: '#3d0c10', secondary: '#ffffff', fg: '#f0e5e6', primary: '#d3202c', accent: '#e7848b', statusBg: '#d3202c', statusFg: '#ffffff',
-    brackets: ['#e7848b', '#ffffff', '#eb9ba0', '#db4a53', '#f1b5b9', '#ffffff'] }
+    brackets: ['#e7848b', '#ffffff', '#eb9ba0', '#db4a53', '#f1b5b9', '#ffffff'] },
+  { slug: 'macapa', uf: 'AP', crestLabel: 'Macapá (desde 2013)', bgColored: true, swatch: '🟦⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1944, 1946, 1947, 1948, 1954, 1955, 1956, 1957, 1958, 1959, 1969, 1974, 1978, 1980, 1981, 1991] }, label: 'Macapá', side: '#0a1621', bg: '#080e13', chrome: '#0f273d', secondary: '#ffffff', fg: '#e6ebf0', primary: '#2a7fd4', accent: '#6aa5e1', statusBg: '#2a7fd4', statusFg: '#080e13',
+    brackets: ['#6aa5e1', '#ffffff', '#9fc5ec', '#2a7fd4', '#a6c9ed', '#ffffff'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

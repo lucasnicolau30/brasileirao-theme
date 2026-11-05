@@ -2774,5 +2774,77 @@
       "local": "Trem-2010-10estrelas.svg",
       "nota": "o escudo de 2010 (o mesmo do arquivo Trem-AP-2010 enviado pelo dono do projeto) com as 10 estrelas em duas fileiras de 5, ouro em cima e cinza embaixo, como no arquivo Trem_Desportivo_Clube_(2022).png do Wikimedia Commons; as estrelas foram desenhadas em vetor sobre o escudo, que não mudou; o fim em 2023 vem de o dono do projeto situar o escudo atual de 1 estrela em 2024"
     }
+  ],
+  "macapa": [
+    {
+      "id": "1944",
+      "label": "1944–1945",
+      "local": "Panair-1944.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#580828",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1950",
+      "label": "1950–1969",
+      "local": "Macapa-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#0868b8"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–2008",
+      "local": "Macapa-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#4a4d50"
+      ]
+    },
+    {
+      "id": "2009",
+      "label": "2009–2012",
+      "local": "Macapa-2009.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f8c818",
+        "#0868b8",
+        "#fcfcfc"
+      ]
+    }
   ]
 }
