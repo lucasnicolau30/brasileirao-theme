@@ -9165,9 +9165,9 @@
     "slug": "crb",
     "uf": "AL",
     "crestLabel": "Atual · desde 2012",
-    "crestIcon": "escudo-be998115.svg",
-    "listIcon": "escudo-be998115.svg",
-    "backgroundAspect": 1.011,
+    "crestIcon": "escudo-d1994e5b.svg",
+    "listIcon": "escudo-d1994e5b.svg",
+    "backgroundAspect": 1.014,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -9230,27 +9230,45 @@
     "retro": [
       {
         "id": "1927",
-        "label": "1927–1959",
-        "fullLabel": "1927–1959",
+        "label": "1912–1939",
+        "fullLabel": "1912–1939",
         "atual": false,
         "file": "retro-1927-3b873aa9.svg",
         "aspect": 1.837,
         "iconTheme": "brasileirao-crb-1927"
       },
       {
-        "id": "1959",
-        "label": "1959–1979",
-        "fullLabel": "1959–1979",
+        "id": "1940",
+        "label": "1940–1978",
+        "fullLabel": "1940–1978",
         "atual": false,
-        "file": "retro-1959-6b77c8fe.svg",
-        "aspect": 1.35,
-        "iconTheme": "brasileirao-crb-1959"
+        "file": "retro-1940-2d99e6e2.svg",
+        "aspect": 1.351,
+        "iconTheme": "brasileirao-crb-1940"
+      },
+      {
+        "id": "1979",
+        "label": "1979–1994",
+        "fullLabel": "1979–1994",
+        "atual": false,
+        "file": "retro-1979-75c24f45.svg",
+        "aspect": 0.819,
+        "iconTheme": "brasileirao-crb-1979"
+      },
+      {
+        "id": "1995",
+        "label": "1995–2011",
+        "fullLabel": "1995–2011",
+        "atual": false,
+        "file": "retro-1995-621f58c0.svg",
+        "aspect": 0.851,
+        "iconTheme": "brasileirao-crb-1995"
       }
     ],
     "alternates": [],
     "swatch": "🟥⬜",
     "primary": "#d12a32",
-    "background": "fundo-09df6418.svg",
+    "background": "fundo-cf8c2781.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",

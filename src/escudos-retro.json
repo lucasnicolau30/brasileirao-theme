@@ -1705,7 +1705,7 @@
   "crb": [
     {
       "id": "1927",
-      "label": "1927–1959",
+      "label": "1912–1939",
       "local": "CRB-1927.png",
       "vetorizar": "alfa",
       "fundoExterno": true,
@@ -1722,23 +1722,59 @@
       "nota": "escudo retangular vermelho com a sigla CRB em branco, enviado pelo dono do projeto (PNG de 185 px, ampliado e traçado nas cores do original); período 1927–1959 segundo a linha do tempo de escudos da Wikipédia pt (1927, 1959, 1979) e o Futbox (1927, 1959, 1979 e 2012); cada escudo vale até o ano do seguinte"
     },
     {
-      "id": "1959",
-      "label": "1959–1979",
-      "local": "CRB-1959.png",
+      "id": "1940",
+      "label": "1940–1978",
+      "local": "CRB-1940.png",
       "vetorizar": "alfa",
-      "bordaPx": 0,
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
-      "escala": 4,
-      "suavidade": 1.2,
+      "escala": 2,
+      "suavidade": 3.0,
       "minimo": 60,
+      "bordaPx": 3,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#da3540",
-        "#c0c0c0",
-        "#000000"
+        "#dc3444",
+        "#fcfcfc",
+        "#4d4d4d"
       ],
-      "nota": "escudo com a boia vermelha, os dois remos cruzados, a corrente e as letras C, R e B, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado nas cores do original; o preto da corrente e das letras, que ficam fora da boia, foi trocado por cinza-claro, #c0c0c0, para aparecer sobre o fundo escuro do editor; o branco de fora da boia, dentro das letras, dos elos da corrente e entre os remos, foi tornado transparente); período 1959–1979 segundo a Wikipédia pt e o Futbox, que datam este escudo de 1959 e o seguinte de 1979"
+      "nota": "boia vermelha com dois remos cruzados, corrente e as letras C R B em preto, PNG de 800×800 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #4d4d4d para aparecer sobre o fundo escuro do editor); período informado pelo dono do projeto"
+    },
+    {
+      "id": "1979",
+      "label": "1979–1994",
+      "local": "CRB-1979.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 3,
+      "vetorizarPaleta": [
+        "#dc3444",
+        "#fcfcfc"
+      ],
+      "nota": "escudo branco com cruz e as letras CRB em traço fino vermelho, PNG de 800×800 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido; período informado pelo dono do projeto"
+    },
+    {
+      "id": "1995",
+      "label": "1995–2011",
+      "local": "CRB-1995.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 3,
+      "vetorizarPaleta": [
+        "#dc3444",
+        "#fcfcfc"
+      ],
+      "nota": "escudo com a cruz de São Jorge e as letras CRB cheias em vermelho, PNG de 800×800 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido; período informado pelo dono do projeto"
     }
   ],
   "csa": [

@@ -1583,13 +1583,23 @@
       },
       {
         "id": "brasileirao-crb-1927",
-        "label": "Brasileirão: CRB (retrô 1927–1959)",
+        "label": "Brasileirão: CRB (retrô 1912–1939)",
         "path": "./icons/crb/icon-theme-1927.json"
       },
       {
-        "id": "brasileirao-crb-1959",
-        "label": "Brasileirão: CRB (retrô 1959–1979)",
-        "path": "./icons/crb/icon-theme-1959.json"
+        "id": "brasileirao-crb-1940",
+        "label": "Brasileirão: CRB (retrô 1940–1978)",
+        "path": "./icons/crb/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-crb-1979",
+        "label": "Brasileirão: CRB (retrô 1979–1994)",
+        "path": "./icons/crb/icon-theme-1979.json"
+      },
+      {
+        "id": "brasileirao-crb-1995",
+        "label": "Brasileirão: CRB (retrô 1995–2011)",
+        "path": "./icons/crb/icon-theme-1995.json"
       },
       {
         "id": "brasileirao-operario-ms",
