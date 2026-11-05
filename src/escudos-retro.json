@@ -1779,40 +1779,222 @@
   ],
   "csa": [
     {
-      "id": "1918",
-      "label": "1918–1940",
-      "local": "CSA-1918.png",
+      "id": "1915",
+      "label": "1915–1917",
+      "local": "CSA-1915.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
-      "bordaPx": 0,
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
-      "escala": 6,
-      "suavidade": 1.2,
-      "minimo": 40,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#02f807",
-        "#0b8eb9"
+        "#2c40b0",
+        "#fcfcfc"
       ],
-      "nota": "escudo com a bandeira listrada do clube, o monograma CSA, o texto CENTRO SPORTIVO ALAGOANO e 1913 dentro de uma coroa de louros, enviado pelo dono do projeto (JPG de 162 px, ampliado e traçado nas cores do original, incluindo o verde vivo dos louros, que foi uniformizado fora do círculo para tirar o ruído do JPG); período 1918–1940 inferido, sem fonte que date este escudo: o clube adotou o nome Centro Sportivo Alagoano em 13 de abril de 1918, e o Futbox, que lista os escudos do clube a partir dos anos 1940, começa pelo redondo CSA"
+      "nota": "escudo azul e branco com as letras C.S.J.F.P. na faixa diagonal, PNG de 1099×1431 com fundo transparente enviado pelo dono do projeto, vetorizado para ficar nítido (o azul-marinho foi clareado para #2c40b0 para aparecer sobre o fundo escuro do editor); período 1915–1917 informado pelo dono do projeto"
     },
     {
-      "id": "1950",
-      "label": "1950–1980",
-      "local": "CSA-1950.png",
+      "id": "1918",
+      "label": "1918–1928",
+      "local": "CSA-1918-monograma.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
-      "escala": 4,
-      "suavidade": 1.2,
+      "escala": 2,
+      "suavidade": 3.0,
       "minimo": 60,
+      "bordaPx": 2,
       "vetorizarPaleta": [
-        "#0077bd",
-        "#ffffff"
+        "#0484d4"
       ],
-      "nota": "escudo azul em forma de coração com a sigla CSA em branco, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado nas cores do original); período 1950–1980 inferido do Futbox, que lista este escudo nos anos 1950 e o seguinte (o escudo listrado com contorno) nos anos 1980, sem anos exatos"
+      "nota": "monograma CSA em azul, só as letras, PNG de 1361×1156 com fundo transparente enviado pelo dono do projeto, vetorizado para ficar nítido; período 1918–1928 informado pelo dono do projeto"
+    },
+    {
+      "id": "1927",
+      "label": "1927–1928",
+      "local": "CSA-1927.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#046cb4",
+        "#fcfcfc"
+      ],
+      "nota": "disco branco com o aro e o monograma CSA em azul, PNG de 1254×1254 com fundo transparente (o halo claro externo foi tirado) enviado pelo dono do projeto, vetorizado para ficar nítido; período 1927–1928 informado pelo dono do projeto"
+    },
+    {
+      "id": "1929",
+      "label": "1929–1932",
+      "local": "CSA-1929.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#0074bc",
+        "#fcfcfc"
+      ],
+      "nota": "disco azul com o monograma CSA em branco, WEBP de 800×800 (convertido para PNG; o arquivo se chamava CSA-1940) com fundo transparente (a margem branca em volta do disco foi tirada) enviado pelo dono do projeto, vetorizado para ficar nítido; período 1929–1932 informado pelo dono do projeto"
+    },
+    {
+      "id": "1933",
+      "label": "1933–1940",
+      "local": "CSA-1933.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#0074bc",
+        "#fcfcfc"
+      ],
+      "nota": "escudo azul com o monograma CSA em branco, WEBP de 800×800 (convertido para PNG; o arquivo se chamava CSA-1950) com fundo transparente (o contorno branco externo foi tirado) enviado pelo dono do projeto, vetorizado para ficar nítido; período 1933–1940 informado pelo dono do projeto"
+    },
+    {
+      "id": "1941",
+      "label": "1941–1952",
+      "local": "CSA-1941.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 3,
+      "vetorizarPaleta": [
+        "#047c34",
+        "#fcfcfc",
+        "#0464bc",
+        "#34045c"
+      ],
+      "nota": "círculo branco com o nome CENTRO SPORTIVO ALAGOANO e 1913, a bandeira listrada de azul e branco com o monograma CSA em roxo e a coroa de louros verde, PNG de 1280×1225 com fundo transparente enviado pelo dono do projeto, vetorizado para ficar nítido; período 1941–1952 informado pelo dono do projeto"
+    },
+    {
+      "id": "1953",
+      "label": "1953–1957",
+      "local": "CSA-1953.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 3,
+      "vetorizarPaleta": [
+        "#0494d4",
+        "#fcfcfc",
+        "#047cc4"
+      ],
+      "nota": "losango branco com o contorno azul e as letras CSA em azul, PNG de 1794×876 sobre fundo preto (que foi tirado) enviado pelo dono do projeto, vetorizado para ficar nítido; período 1953–1957 informado pelo dono do projeto"
+    },
+    {
+      "id": "1958",
+      "label": "1958–1959",
+      "local": "CSA-1958.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 3,
+      "vetorizarPaleta": [
+        "#0450a4",
+        "#fcfcfc"
+      ],
+      "nota": "escudo azul com o monograma CSA, a faixa diagonal UNIÃO E FORÇA e as listras brancas, PNG de 1140×1380 com um fundo xadrez cinza e branco embutido (tirado), enviado pelo dono do projeto, vetorizado para ficar nítido; período 1958–1959 informado pelo dono do projeto"
+    },
+    {
+      "id": "1960",
+      "label": "1960–1968",
+      "local": "CSA-1960.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 3,
+      "vetorizarPaleta": [
+        "#046c74",
+        "#b8b4a4"
+      ],
+      "nota": "escudo verde-azulado e bege com o monograma CSA, a faixa diagonal UNIÃO E FORÇA e as listras, PNG de 1098×1432 com fundo transparente enviado pelo dono do projeto, vetorizado para ficar nítido; período 1960–1968 informado pelo dono do projeto"
+    },
+    {
+      "id": "1969",
+      "label": "1969–1971/1974–1999",
+      "local": "CSA-1969.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 3,
+      "vetorizarPaleta": [
+        "#047cbc",
+        "#fcfcfc"
+      ],
+      "nota": "escudo azul-claro e branco com o monograma CSA, a faixa diagonal UNIÃO E FORÇA e as listras, WEBP de 800×800 (convertido para PNG; o arquivo se chamava CSA-1980; o halo branco externo foi tirado) enviado pelo dono do projeto, vetorizado para ficar nítido; usado de 1969 a 1971 e de 1974 a 1999, segundo os períodos informados pelo dono do projeto"
+    },
+    {
+      "id": "1972",
+      "label": "1972–1973",
+      "local": "CSA-1972.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#2c40b0",
+        "#fcfcfc"
+      ],
+      "nota": "o golfinho com boné segurando a bola sobre a sigla CSA num oval, com UNIÃO E FORÇA embaixo, PNG de 1092×1440 com fundo transparente enviado pelo dono do projeto, vetorizado para ficar nítido (o azul-marinho foi clareado para #2c40b0 para aparecer sobre o fundo escuro do editor); período 1972–1973 informado pelo dono do projeto"
+    },
+    {
+      "id": "2000",
+      "label": "2000–2017",
+      "local": "CSA-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 3,
+      "vetorizarPaleta": [
+        "#28649c",
+        "#fcfcfc"
+      ],
+      "nota": "escudo azul e branco com o monograma CSA, a faixa diagonal UNIÃO E FORÇA e as listras, WEBP de 800×800 (convertido para PNG; o arquivo se chamava CSA-1999; o halo branco externo foi tirado) enviado pelo dono do projeto, vetorizado para ficar nítido; período 2000–2017 informado pelo dono do projeto"
     }
   ],
   "olaria": [

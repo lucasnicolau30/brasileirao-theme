@@ -9081,26 +9081,116 @@
     },
     "retro": [
       {
-        "id": "1918",
-        "label": "1918–1940",
-        "fullLabel": "1918–1940",
+        "id": "1915",
+        "label": "1915–1917",
+        "fullLabel": "1915–1917",
         "atual": false,
-        "file": "retro-1918-95bf3444.svg",
-        "aspect": 1.123,
+        "file": "retro-1915-42762d2a.svg",
+        "aspect": 0.767,
+        "iconTheme": "brasileirao-csa-1915"
+      },
+      {
+        "id": "1918",
+        "label": "1918–1928",
+        "fullLabel": "1918–1928",
+        "atual": false,
+        "file": "retro-1918-6b76a7f6.svg",
+        "aspect": 1.176,
         "iconTheme": "brasileirao-csa-1918"
       },
       {
-        "id": "1950",
-        "label": "1950–1980",
-        "fullLabel": "1950–1980",
+        "id": "1927",
+        "label": "1927–1928",
+        "fullLabel": "1927–1928",
         "atual": false,
-        "file": "retro-1950-06cf6b8f.svg",
-        "aspect": 1.05,
-        "iconTheme": "brasileirao-csa-1950"
+        "file": "retro-1927-35c535df.svg",
+        "aspect": 0.999,
+        "iconTheme": "brasileirao-csa-1927"
+      },
+      {
+        "id": "1929",
+        "label": "1929–1932",
+        "fullLabel": "1929–1932",
+        "atual": false,
+        "file": "retro-1929-c01a30ae.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-csa-1929"
+      },
+      {
+        "id": "1933",
+        "label": "1933–1940",
+        "fullLabel": "1933–1940",
+        "atual": false,
+        "file": "retro-1933-daf820c1.svg",
+        "aspect": 1.049,
+        "iconTheme": "brasileirao-csa-1933"
+      },
+      {
+        "id": "1941",
+        "label": "1941–1952",
+        "fullLabel": "1941–1952",
+        "atual": false,
+        "file": "retro-1941-2e29fcbf.svg",
+        "aspect": 1.043,
+        "iconTheme": "brasileirao-csa-1941"
+      },
+      {
+        "id": "1953",
+        "label": "1953–1957",
+        "fullLabel": "1953–1957",
+        "atual": false,
+        "file": "retro-1953-482b0d17.svg",
+        "aspect": 2.038,
+        "iconTheme": "brasileirao-csa-1953"
+      },
+      {
+        "id": "1958",
+        "label": "1958–1959",
+        "fullLabel": "1958–1959",
+        "atual": false,
+        "file": "retro-1958-c23dd689.svg",
+        "aspect": 0.821,
+        "iconTheme": "brasileirao-csa-1958"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1968",
+        "fullLabel": "1960–1968",
+        "atual": false,
+        "file": "retro-1960-f5044136.svg",
+        "aspect": 0.774,
+        "iconTheme": "brasileirao-csa-1960"
+      },
+      {
+        "id": "1969",
+        "label": "1969–1971/1974–1999",
+        "fullLabel": "1969–1971/1974–1999",
+        "atual": false,
+        "file": "retro-1969-940726f1.svg",
+        "aspect": 0.839,
+        "iconTheme": "brasileirao-csa-1969"
+      },
+      {
+        "id": "1972",
+        "label": "1972–1973",
+        "fullLabel": "1972–1973",
+        "atual": false,
+        "file": "retro-1972-04c0de74.svg",
+        "aspect": 0.761,
+        "iconTheme": "brasileirao-csa-1972"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2017",
+        "fullLabel": "2000–2017",
+        "atual": false,
+        "file": "retro-2000-a93dcbf5.svg",
+        "aspect": 0.833,
+        "iconTheme": "brasileirao-csa-2000"
       }
     ],
     "alternates": [],
-    "swatch": "🟦⬜🟨",
+    "swatch": "🟦⬜",
     "primary": "#2f6fdc",
     "background": "fundo-faf927a6.svg",
     "backgroundColored": true,
