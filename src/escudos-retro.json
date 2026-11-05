@@ -2846,5 +2846,41 @@
         "#fcfcfc"
       ]
     }
+  ],
+  "santos-ap": [
+    {
+      "id": "1973",
+      "label": "1973–2000",
+      "local": "Santos-1973.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2011",
+      "local": "Santos-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#fcfcfc"
+      ]
+    }
   ]
 }

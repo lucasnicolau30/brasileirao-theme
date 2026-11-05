@@ -10951,5 +10951,116 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Santos-AP": {
+    "slug": "santos-ap",
+    "uf": "AP",
+    "crestLabel": "Atual · desde 2012",
+    "crestIcon": "escudo-082c3605.svg",
+    "listIcon": "escudo-082c3605.svg",
+    "backgroundAspect": 0.879,
+    "titles": {
+      "mundial": [],
+      "libertadores": [],
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        2000,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017,
+        2019,
+        2026
+      ]
+    },
+    "retro": [
+      {
+        "id": "1973",
+        "label": "1973–2000",
+        "fullLabel": "1973–2000",
+        "atual": false,
+        "file": "retro-1973-b0a06f81.svg",
+        "aspect": 1.026,
+        "iconTheme": "brasileirao-santos-ap-1973"
+      },
+      {
+        "id": "2001",
+        "label": "2001–2011",
+        "fullLabel": "2001–2011",
+        "atual": false,
+        "file": "retro-2001-b80740ba.svg",
+        "aspect": 1.013,
+        "iconTheme": "brasileirao-santos-ap-2001"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜",
+    "primary": "#d0d0d0",
+    "background": "fundo-a8199e61.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-santos-ap",
+    "colors": [
+      "rgba(245,245,245,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(208,208,208,0.08)",
+      "rgba(157,157,157,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d0d0d033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#d0d0d0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

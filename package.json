@@ -483,6 +483,11 @@
         "label": "Brasileirão: Ypiranga-AP",
         "uiTheme": "vs-dark",
         "path": "./themes/ypiranga-ap-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Santos-AP",
+        "uiTheme": "vs-dark",
+        "path": "./themes/santos-ap-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -1910,6 +1915,21 @@
         "id": "brasileirao-ypiranga-ap",
         "label": "Brasileirão: Ypiranga-AP",
         "path": "./icons/ypiranga-ap/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-santos-ap",
+        "label": "Brasileirão: Santos-AP",
+        "path": "./icons/santos-ap/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-santos-ap-1973",
+        "label": "Brasileirão: Santos-AP (retrô 1973–2000)",
+        "path": "./icons/santos-ap/icon-theme-1973.json"
+      },
+      {
+        "id": "brasileirao-santos-ap-2001",
+        "label": "Brasileirão: Santos-AP (retrô 2001–2011)",
+        "path": "./icons/santos-ap/icon-theme-2001.json"
       }
     ],
     "commands": [
