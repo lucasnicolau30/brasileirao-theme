@@ -8479,11 +8479,60 @@
         1987
       ]
     },
+    "titleOrder": [
+      "estadual",
+      "copaVerde"
+    ],
     "retro": [
       {
+        "id": "1975",
+        "label": "1975–1977",
+        "fullLabel": "1975–1977",
+        "atual": false,
+        "file": "retro-1975-5abfcdce.svg",
+        "aspect": 1.298,
+        "iconTheme": "brasileirao-brasilia-1975"
+      },
+      {
+        "id": "1978",
+        "label": "1978–1979",
+        "fullLabel": "1978–1979",
+        "atual": false,
+        "file": "retro-1978-4ec453d1.svg",
+        "aspect": 0.999,
+        "iconTheme": "brasileirao-brasilia-1978"
+      },
+      {
+        "id": "1980",
+        "label": "1980–1999",
+        "fullLabel": "1980–1999",
+        "atual": false,
+        "file": "retro-1980-8162a13e.svg",
+        "aspect": 1.002,
+        "iconTheme": "brasileirao-brasilia-1980"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2001",
+        "fullLabel": "2000–2001",
+        "atual": false,
+        "file": "retro-2000-e84f8f15.svg",
+        "aspect": 1.511,
+        "iconTheme": "brasileirao-brasilia-2000"
+      },
+      {
+        "id": "2002",
+        "label": "2002–2007",
+        "fullLabel": "2002–2007",
+        "atual": false,
+        "file": "retro-2002-36760db7.svg",
+        "aspect": 0.994,
+        "iconTheme": "brasileirao-brasilia-2002"
+      },
+      {
         "id": "2008",
-        "label": "2008–2013",
-        "fullLabel": "2008–2013",
+        "label": "2008–2012",
+        "fullLabel": "2008–2012",
         "atual": false,
         "file": "retro-2008-49046498.svg",
         "aspect": 1,
@@ -8491,12 +8540,21 @@
       },
       {
         "id": "2013",
-        "label": "2013–2020",
-        "fullLabel": "2013–2020",
+        "label": "2013–2014",
+        "fullLabel": "2013–2014",
         "atual": false,
-        "file": "retro-2013-336f66fc.svg",
+        "file": "retro-2013-3bdf6960.svg",
         "aspect": 1.002,
         "iconTheme": "brasileirao-brasilia-2013"
+      },
+      {
+        "id": "2015",
+        "label": "2015–2019",
+        "fullLabel": "2015–2019",
+        "atual": false,
+        "file": "retro-2015-8b4d796e.svg",
+        "aspect": 1.025,
+        "iconTheme": "brasileirao-brasilia-2015"
       }
     ],
     "alternates": [],

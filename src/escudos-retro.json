@@ -1656,8 +1656,97 @@
   ],
   "brasilia": [
     {
+      "id": "1975",
+      "label": "1975–1977",
+      "local": "Brasilia-1975.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#f00000"
+      ]
+    },
+    {
+      "id": "1978",
+      "label": "1978–1979",
+      "local": "Brasilia-1978.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#f00000"
+      ]
+    },
+    {
+      "id": "1980",
+      "label": "1980–1999",
+      "local": "Brasilia-1980.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#f00000"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2001",
+      "local": "Brasilia-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#003084",
+        "#fcfcfc",
+        "#00903c",
+        "#f03000",
+        "#fcf000"
+      ]
+    },
+    {
+      "id": "2002",
+      "label": "2002–2007",
+      "local": "Brasilia-2002.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#e40000",
+        "#fcfcfc",
+        "#f00000"
+      ]
+    },
+    {
       "id": "2008",
-      "label": "2008–2013",
+      "label": "2008–2012",
       "local": "Brasilia-2008.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1668,24 +1757,43 @@
       "vetorizarPaleta": [
         "#fe0000",
         "#ffffff"
-      ],
-      "nota": "círculo vermelho com a andorinha branca e o texto BRASÍLIA FUTEBOL CLUBE 1975, enviado pelo dono do projeto (WebP de 250 px, traçado pelas duas cores); período 2008–2013 segundo o Logopedia (logos.fandom.com), que lista este arquivo (Brasilia-fc-2008-2012-logo) nesse período"
+      ]
     },
     {
       "id": "2013",
-      "label": "2013–2020",
+      "label": "2013–2014",
       "local": "Brasilia-2013.png",
       "vetorizar": "alfa",
       "nitido": true,
       "sobrepor": 1,
-      "escala": 6,
-      "suavidade": 1.5,
+      "escala": 3,
+      "suavidade": 3.0,
       "minimo": 60,
       "vetorizarPaleta": [
-        "#fe121b",
-        "#ffffff"
+        "#ffffff",
+        "#fe121b"
       ],
-      "nota": "círculo vermelho com anel e andorinha brancas e o texto BRASÍLIA FUTEBOL CLUBE - 1975, enviado pelo dono do projeto (WebP de 408 px, traçado pelas duas cores); período 2013–2020 inferido: o Logopedia lista dois escudos nesse intervalo, 2013–2015 (arquivo Brasilia-fc-2013-2019-logo) e 2015–2020 (Brasilia fc), mas não consegui ver as imagens dele para confirmar qual é, então o rótulo cobre os dois"
+      "macio": true,
+      "bordaPx": 2
+    },
+    {
+      "id": "2015",
+      "label": "2015–2019",
+      "local": "Brasilia-2015.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#24306c",
+        "#e43030",
+        "#fcfcfc"
+      ],
+      "fundoExterno": true
     }
   ],
   "luverdense": [
