@@ -203,7 +203,9 @@ const times = [
   { slug: 'ypiranga-ap', uf: 'AP', crestLabel: 'Ypiranga-AP (desde 1963)', bgColored: true, crestUnchanged: true, swatch: '🟦⬜⬛', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1976, 1992, 1994, 1997, 1999, 2002, 2003, 2004, 2018, 2020] }, label: 'Ypiranga-AP', side: '#0a0e17', bg: '#080a0e', chrome: '#0f182a', secondary: '#ffffff', fg: '#e6e8ec', primary: '#2a4a8c', accent: '#8a9bc0', statusBg: '#2a4a8c', statusFg: '#ffffff',
     brackets: ['#8a9bc0', '#ffffff', '#9faecb', '#637aaa', '#b9c3d9', '#ffffff'] },
   { slug: 'santos-ap', uf: 'AP', crestLabel: 'Santos-AP (desde 2012)', bgColored: true, swatch: '⬛⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [2000, 2013, 2014, 2015, 2016, 2017, 2019, 2026] }, label: 'Santos-AP', side: '#1a1a1a', bg: '#101010', chrome: '#1c1c1c', activity: '#dcdcdc', title: '#000000', secondary: '#ffffff', fg: '#ececec', primary: '#d0d0d0', accent: '#f5f5f5', statusBg: '#000000', statusFg: '#ffffff', statusBorder: '#dcdcdc',
-    brackets: ['#f5f5f5', '#ffffff', '#d0d0d0', '#9d9d9d', '#e0e0e0', '#e0e0e0'] }
+    brackets: ['#f5f5f5', '#ffffff', '#d0d0d0', '#9d9d9d', '#e0e0e0', '#e0e0e0'] },
+  { slug: 'ypiranga-ba', uf: 'BA', crestLabel: 'Ypiranga-BA (1945–1961/desde 1972)', bgColored: true, swatch: '🟧⬛', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1917, 1918, 1920, 1921, 1925, 1928, 1929, 1932, 1939, 1951] }, label: 'Ypiranga-BA', side: '#1a1206', bg: '#110c04', chrome: '#2e1f08', secondary: '#111111', fg: '#f3ead9', primary: '#f0a018', accent: '#f4c46a', statusBg: '#f0a018', statusFg: '#111111',
+    brackets: ['#f4c46a', '#ffffff', '#f7d28f', '#f2b244', '#fae1b5', '#ffffff'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

@@ -488,6 +488,11 @@
         "label": "Brasileirão: Santos-AP",
         "uiTheme": "vs-dark",
         "path": "./themes/santos-ap-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Ypiranga-BA",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ypiranga-ba-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -2025,6 +2030,36 @@
         "id": "brasileirao-santos-ap-2001",
         "label": "Brasileirão: Santos-AP (retrô 2001–2011)",
         "path": "./icons/santos-ap/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-ypiranga-ba",
+        "label": "Brasileirão: Ypiranga-BA",
+        "path": "./icons/ypiranga-ba/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-ypiranga-ba-1914",
+        "label": "Brasileirão: Ypiranga-BA (retrô 1914–1930)",
+        "path": "./icons/ypiranga-ba/icon-theme-1914.json"
+      },
+      {
+        "id": "brasileirao-ypiranga-ba-1931",
+        "label": "Brasileirão: Ypiranga-BA (retrô 1931–1942)",
+        "path": "./icons/ypiranga-ba/icon-theme-1931.json"
+      },
+      {
+        "id": "brasileirao-ypiranga-ba-1943",
+        "label": "Brasileirão: Ypiranga-BA (retrô 1943–1944)",
+        "path": "./icons/ypiranga-ba/icon-theme-1943.json"
+      },
+      {
+        "id": "brasileirao-ypiranga-ba-1962",
+        "label": "Brasileirão: Ypiranga-BA (retrô 1962–1963)",
+        "path": "./icons/ypiranga-ba/icon-theme-1962.json"
+      },
+      {
+        "id": "brasileirao-ypiranga-ba-1964",
+        "label": "Brasileirão: Ypiranga-BA (retrô 1964–1971)",
+        "path": "./icons/ypiranga-ba/icon-theme-1964.json"
       }
     ],
     "commands": [

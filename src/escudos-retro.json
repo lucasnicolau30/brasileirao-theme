@@ -3125,5 +3125,93 @@
         "#fcfcfc"
       ]
     }
+  ],
+  "ypiranga-ba": [
+    {
+      "id": "1914",
+      "label": "1914–1930",
+      "local": "Ypiranga-1914.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f0a018",
+        "#050505"
+      ]
+    },
+    {
+      "id": "1931",
+      "label": "1931–1942",
+      "local": "Ypiranga-1931.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f0a018",
+        "#050505"
+      ]
+    },
+    {
+      "id": "1943",
+      "label": "1943–1944",
+      "local": "Ypiranga-1943.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f0a018",
+        "#050505"
+      ]
+    },
+    {
+      "id": "1962",
+      "label": "1962–1963",
+      "local": "Ypiranga-1964.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#009830"
+      ],
+      "fundoExterno": true
+    },
+    {
+      "id": "1964",
+      "label": "1964–1971",
+      "local": "Ypiranga-1962.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f0a018",
+        "#050505"
+      ]
+    }
   ]
 }

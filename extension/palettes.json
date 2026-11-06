@@ -11241,5 +11241,145 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Ypiranga-BA": {
+    "slug": "ypiranga-ba",
+    "uf": "BA",
+    "crestLabel": "Atual · 1945–1961/desde 1972",
+    "crestIcon": "escudo-df1e53e4.svg",
+    "listIcon": "escudo-df1e53e4.svg",
+    "backgroundAspect": 0.879,
+    "titles": {
+      "mundial": [],
+      "libertadores": [],
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1917,
+        1918,
+        1920,
+        1921,
+        1925,
+        1928,
+        1929,
+        1932,
+        1939,
+        1951
+      ]
+    },
+    "retro": [
+      {
+        "id": "1914",
+        "label": "1914–1930",
+        "fullLabel": "1914–1930",
+        "atual": false,
+        "file": "retro-1914-a73b0037.svg",
+        "aspect": 0.769,
+        "iconTheme": "brasileirao-ypiranga-ba-1914"
+      },
+      {
+        "id": "1931",
+        "label": "1931–1942",
+        "fullLabel": "1931–1942",
+        "atual": false,
+        "file": "retro-1931-60c7197c.svg",
+        "aspect": 0.746,
+        "iconTheme": "brasileirao-ypiranga-ba-1931"
+      },
+      {
+        "id": "1943",
+        "label": "1943–1944",
+        "fullLabel": "1943–1944",
+        "atual": false,
+        "file": "retro-1943-100581fa.svg",
+        "aspect": 0.888,
+        "iconTheme": "brasileirao-ypiranga-ba-1943"
+      },
+      {
+        "id": "1962",
+        "label": "1962–1963",
+        "fullLabel": "1962–1963",
+        "atual": false,
+        "file": "retro-1962-c5f856fe.svg",
+        "aspect": 0.971,
+        "iconTheme": "brasileirao-ypiranga-ba-1962"
+      },
+      {
+        "id": "1964",
+        "label": "1964–1971",
+        "fullLabel": "1964–1971",
+        "atual": false,
+        "file": "retro-1964-bb823fe2.svg",
+        "aspect": 0.803,
+        "iconTheme": "brasileirao-ypiranga-ba-1964"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟧⬛",
+    "primary": "#f0a018",
+    "background": "fundo-4ce69c84.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-ypiranga-ba",
+    "colors": [
+      "rgba(244,196,106,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(247,210,143,0.08)",
+      "rgba(242,178,68,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#f0a01833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f4c46a"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#f7d28f"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f4c46a"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }
