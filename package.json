@@ -1307,6 +1307,16 @@
         "path": "./icons/nacional-am/icon-theme-1913.json"
       },
       {
+        "id": "brasileirao-nacional-am-1982",
+        "label": "Brasileirão: Nacional-AM (retrô 1982–2010)",
+        "path": "./icons/nacional-am/icon-theme-1982.json"
+      },
+      {
+        "id": "brasileirao-nacional-am-2011",
+        "label": "Brasileirão: Nacional-AM (retrô 2011–2012)",
+        "path": "./icons/nacional-am/icon-theme-2011.json"
+      },
+      {
         "id": "brasileirao-nacional-am-2012",
         "label": "Brasileirão: Nacional-AM (retrô 2012–2013)",
         "path": "./icons/nacional-am/icon-theme-2012.json"

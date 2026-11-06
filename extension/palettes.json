@@ -6404,9 +6404,9 @@
     "slug": "nacional-am",
     "uf": "AM",
     "crestLabel": "Atual · desde 2013",
-    "crestIcon": "escudo-333387a7.svg",
-    "listIcon": "escudo-333387a7.svg",
-    "backgroundAspect": 0.766,
+    "crestIcon": "escudo-1a87872d.svg",
+    "listIcon": "escudo-1a87872d.svg",
+    "backgroundAspect": 0.774,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -6476,19 +6476,37 @@
         "iconTheme": "brasileirao-nacional-am-1913"
       },
       {
+        "id": "1982",
+        "label": "1982–2010",
+        "fullLabel": "1982–2010",
+        "atual": false,
+        "file": "retro-1982-8e7ae640.svg",
+        "aspect": 0.956,
+        "iconTheme": "brasileirao-nacional-am-1982"
+      },
+      {
+        "id": "2011",
+        "label": "2011–2012",
+        "fullLabel": "2011–2012",
+        "atual": false,
+        "file": "retro-2011-d11fa756.svg",
+        "aspect": 0.914,
+        "iconTheme": "brasileirao-nacional-am-2011"
+      },
+      {
         "id": "2012",
         "label": "2012–2013",
         "fullLabel": "2012–2013",
         "atual": false,
-        "file": "retro-2012-d6a68421.svg",
-        "aspect": 0.83,
+        "file": "retro-2012-1eae3c4e.svg",
+        "aspect": 0.814,
         "iconTheme": "brasileirao-nacional-am-2012"
       }
     ],
     "alternates": [],
     "swatch": "🟦⬜🟨",
     "primary": "#2a66e0",
-    "background": "fundo-652bbda7.svg",
+    "background": "fundo-664a1efd.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
