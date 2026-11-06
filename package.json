@@ -1113,18 +1113,38 @@
       },
       {
         "id": "brasileirao-bahia-1931",
-        "label": "Brasileirão: Bahia (retrô 1931–1940)",
+        "label": "Brasileirão: Bahia (retrô 1931–1939)",
         "path": "./icons/bahia/icon-theme-1931.json"
       },
       {
         "id": "brasileirao-bahia-1940",
-        "label": "Brasileirão: Bahia (retrô 1940–1959)",
+        "label": "Brasileirão: Bahia (retrô 1940–1958)",
         "path": "./icons/bahia/icon-theme-1940.json"
       },
       {
+        "id": "brasileirao-bahia-1959",
+        "label": "Brasileirão: Bahia (retrô 1959–1978)",
+        "path": "./icons/bahia/icon-theme-1959.json"
+      },
+      {
+        "id": "brasileirao-bahia-1979",
+        "label": "Brasileirão: Bahia (retrô 1979–1984)",
+        "path": "./icons/bahia/icon-theme-1979.json"
+      },
+      {
         "id": "brasileirao-bahia-1985",
-        "label": "Brasileirão: Bahia (retrô 1985–1988)",
+        "label": "Brasileirão: Bahia (retrô 1985–1987)",
         "path": "./icons/bahia/icon-theme-1985.json"
+      },
+      {
+        "id": "brasileirao-bahia-1988",
+        "label": "Brasileirão: Bahia (retrô 1988–1989)",
+        "path": "./icons/bahia/icon-theme-1988.json"
+      },
+      {
+        "id": "brasileirao-bahia-1990",
+        "label": "Brasileirão: Bahia (retrô 1990–2004)",
+        "path": "./icons/bahia/icon-theme-1990.json"
       },
       {
         "id": "brasileirao-vitoria",

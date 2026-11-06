@@ -4621,11 +4621,15 @@
         2026
       ]
     },
+    "titleOrder": [
+      "copaDoNordeste",
+      "brasileirao"
+    ],
     "retro": [
       {
         "id": "1931",
-        "label": "1931–1940",
-        "fullLabel": "1931–1940",
+        "label": "1931–1939",
+        "fullLabel": "1931–1939",
         "atual": false,
         "file": "retro-1931-878a3326.svg",
         "aspect": 1,
@@ -4633,21 +4637,57 @@
       },
       {
         "id": "1940",
-        "label": "1940–1959",
-        "fullLabel": "1940–1959",
+        "label": "1940–1958",
+        "fullLabel": "1940–1958",
         "atual": false,
         "file": "retro-1940-02330d82.svg",
         "aspect": 0.999,
         "iconTheme": "brasileirao-bahia-1940"
       },
       {
+        "id": "1959",
+        "label": "1959–1978",
+        "fullLabel": "1959–1978",
+        "atual": false,
+        "file": "retro-1959-9a14cb2f.svg",
+        "aspect": 0.994,
+        "iconTheme": "brasileirao-bahia-1959"
+      },
+      {
+        "id": "1979",
+        "label": "1979–1984",
+        "fullLabel": "1979–1984",
+        "atual": false,
+        "file": "retro-1979-296be4a1.svg",
+        "aspect": 0.994,
+        "iconTheme": "brasileirao-bahia-1979"
+      },
+      {
         "id": "1985",
-        "label": "1985–1988",
-        "fullLabel": "1985–1988",
+        "label": "1985–1987",
+        "fullLabel": "1985–1987",
         "atual": false,
         "file": "retro-1985-fe8bbdda.svg",
         "aspect": 1,
         "iconTheme": "brasileirao-bahia-1985"
+      },
+      {
+        "id": "1988",
+        "label": "1988–1989",
+        "fullLabel": "1988–1989",
+        "atual": false,
+        "file": "retro-1988-3e8fdee2.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-bahia-1988"
+      },
+      {
+        "id": "1990",
+        "label": "1990–2004",
+        "fullLabel": "1990–2004",
+        "atual": false,
+        "file": "retro-1990-a0877e4a.svg",
+        "aspect": 0.847,
+        "iconTheme": "brasileirao-bahia-1990"
       }
     ],
     "alternates": [],

@@ -286,20 +286,80 @@
   "bahia": [
     {
       "id": "1931",
-      "label": "1931–1940",
+      "label": "1931–1939",
       "commons": "Esporte Clube Bahia logo (1931–1940).svg"
     },
     {
       "id": "1940",
-      "label": "1940–1959",
+      "label": "1940–1958",
       "commons": "Esporte Clube Bahia logo (1940–1959).png",
       "vetorizarAuto": true
     },
     {
+      "id": "1959",
+      "label": "1959–1978",
+      "local": "Bahia-1959.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#003078",
+        "#f8f8f8",
+        "#d80810"
+      ]
+    },
+    {
+      "id": "1979",
+      "label": "1979–1984",
+      "local": "Bahia-1979.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#003078",
+        "#f8f8f8",
+        "#d80810"
+      ]
+    },
+    {
       "id": "1985",
-      "label": "1985–1988",
+      "label": "1985–1987",
       "commons": "Esporte Clube Bahia logo (1985–1988).png",
       "vetorizarAuto": true
+    },
+    {
+      "id": "1988",
+      "label": "1988–1989",
+      "local": "Bahia-1988.svg"
+    },
+    {
+      "id": "1990",
+      "label": "1990–2004",
+      "local": "Bahia-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#2870b0",
+        "#f8f8f8",
+        "#d83038",
+        "#ffd55b"
+      ]
     }
   ],
   "remo": [
