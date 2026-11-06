@@ -493,6 +493,11 @@
         "label": "Brasileirão: Ypiranga-BA",
         "uiTheme": "vs-dark",
         "path": "./themes/ypiranga-ba-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Guarany de Sobral",
+        "uiTheme": "vs-dark",
+        "path": "./themes/guarany-de-sobral-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -2080,6 +2085,36 @@
         "id": "brasileirao-ypiranga-ba-1964",
         "label": "Brasileirão: Ypiranga-BA (retrô 1964–1971)",
         "path": "./icons/ypiranga-ba/icon-theme-1964.json"
+      },
+      {
+        "id": "brasileirao-guarany-de-sobral",
+        "label": "Brasileirão: Guarany de Sobral",
+        "path": "./icons/guarany-de-sobral/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-guarany-de-sobral-1938",
+        "label": "Brasileirão: Guarany de Sobral (retrô 1938–1965)",
+        "path": "./icons/guarany-de-sobral/icon-theme-1938.json"
+      },
+      {
+        "id": "brasileirao-guarany-de-sobral-1966",
+        "label": "Brasileirão: Guarany de Sobral (retrô 1966–1967)",
+        "path": "./icons/guarany-de-sobral/icon-theme-1966.json"
+      },
+      {
+        "id": "brasileirao-guarany-de-sobral-1968",
+        "label": "Brasileirão: Guarany de Sobral (retrô 1968–1989)",
+        "path": "./icons/guarany-de-sobral/icon-theme-1968.json"
+      },
+      {
+        "id": "brasileirao-guarany-de-sobral-1990",
+        "label": "Brasileirão: Guarany de Sobral (retrô 1990–1999)",
+        "path": "./icons/guarany-de-sobral/icon-theme-1990.json"
+      },
+      {
+        "id": "brasileirao-guarany-de-sobral-2000",
+        "label": "Brasileirão: Guarany de Sobral (retrô 2000–2014)",
+        "path": "./icons/guarany-de-sobral/icon-theme-2000.json"
       }
     ],
     "commands": [

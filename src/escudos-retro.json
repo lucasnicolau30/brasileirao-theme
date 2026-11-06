@@ -3279,5 +3279,99 @@
         "#050505"
       ]
     }
+  ],
+  "guarany-de-sobral": [
+    {
+      "id": "1938",
+      "label": "1938–1965",
+      "local": "Guarany-1938.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#ff3c00",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1966",
+      "label": "1966–1967",
+      "local": "Guarany-1966.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#0c0c0c",
+        "#e43000"
+      ],
+      "fundoExterno": true
+    },
+    {
+      "id": "1968",
+      "label": "1968–1989",
+      "local": "Guarany-1968.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#f83c00",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1990",
+      "label": "1990–1999",
+      "local": "Guarany-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#f83c00",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2014",
+      "local": "Guarany-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#181818",
+        "#fc0000",
+        "#fcfcfc",
+        "#fccd02"
+      ]
+    }
   ]
 }

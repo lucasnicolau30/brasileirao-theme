@@ -11417,5 +11417,136 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Guarany de Sobral": {
+    "slug": "guarany-de-sobral",
+    "uf": "CE",
+    "crestLabel": "Atual · desde 2015",
+    "crestIcon": "escudo-8e11372b.svg",
+    "listIcon": "escudo-8e11372b.svg",
+    "backgroundAspect": 0.803,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [
+        2010
+      ],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1938",
+        "label": "1938–1965",
+        "fullLabel": "1938–1965",
+        "atual": false,
+        "file": "retro-1938-b189d4d7.svg",
+        "aspect": 1.005,
+        "iconTheme": "brasileirao-guarany-de-sobral-1938"
+      },
+      {
+        "id": "1966",
+        "label": "1966–1967",
+        "fullLabel": "1966–1967",
+        "atual": false,
+        "file": "retro-1966-2af65fcf.svg",
+        "aspect": 1.009,
+        "iconTheme": "brasileirao-guarany-de-sobral-1966"
+      },
+      {
+        "id": "1968",
+        "label": "1968–1989",
+        "fullLabel": "1968–1989",
+        "atual": false,
+        "file": "retro-1968-8f8c340a.svg",
+        "aspect": 0.91,
+        "iconTheme": "brasileirao-guarany-de-sobral-1968"
+      },
+      {
+        "id": "1990",
+        "label": "1990–1999",
+        "fullLabel": "1990–1999",
+        "atual": false,
+        "file": "retro-1990-62949016.svg",
+        "aspect": 0.938,
+        "iconTheme": "brasileirao-guarany-de-sobral-1990"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2014",
+        "fullLabel": "2000–2014",
+        "atual": false,
+        "file": "retro-2000-844c8199.svg",
+        "aspect": 0.641,
+        "iconTheme": "brasileirao-guarany-de-sobral-2000"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬛⬜",
+    "primary": "#e6122f",
+    "background": "fundo-cb486af1.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-guarany-de-sobral",
+    "colors": [
+      "rgba(255,106,126,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,163,175,0.08)",
+      "rgba(238,58,82,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e6122f33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6a7e"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ffa3af"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6a7e"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }
