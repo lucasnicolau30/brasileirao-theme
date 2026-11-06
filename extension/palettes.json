@@ -4813,22 +4813,94 @@
     },
     "retro": [
       {
-        "id": "1901",
-        "label": "1901–1909",
-        "fullLabel": "1901–1909",
+        "id": "1899",
+        "label": "1899–1933",
+        "fullLabel": "1899–1933",
         "atual": false,
-        "file": "retro-1901-2146d665.svg",
-        "aspect": 0.674,
-        "iconTheme": "brasileirao-vitoria-1901"
+        "file": "retro-1899-88d1aee3.png",
+        "aspect": 0.676,
+        "iconTheme": "brasileirao-vitoria-1899"
+      },
+      {
+        "id": "1934",
+        "label": "1934–1938",
+        "fullLabel": "1934–1938",
+        "atual": false,
+        "file": "retro-1934-61c740f0.svg",
+        "aspect": 0.843,
+        "iconTheme": "brasileirao-vitoria-1934"
       },
       {
         "id": "1939",
-        "label": "1939–1994",
-        "fullLabel": "1939–1994",
+        "label": "1939–1958",
+        "fullLabel": "1939–1958",
         "atual": false,
         "file": "retro-1939-bda49cdc.svg",
         "aspect": 0.841,
         "iconTheme": "brasileirao-vitoria-1939"
+      },
+      {
+        "id": "1959",
+        "label": "1959–1979",
+        "fullLabel": "1959–1979",
+        "atual": false,
+        "file": "retro-1959-592115c6.svg",
+        "aspect": 0.832,
+        "iconTheme": "brasileirao-vitoria-1959"
+      },
+      {
+        "id": "1980",
+        "label": "1980–1984",
+        "fullLabel": "1980–1984",
+        "atual": false,
+        "file": "retro-1980-335cd7d6.svg",
+        "aspect": 0.807,
+        "iconTheme": "brasileirao-vitoria-1980"
+      },
+      {
+        "id": "1985",
+        "label": "1985–1993",
+        "fullLabel": "1985–1993",
+        "atual": false,
+        "file": "retro-1985-d511bd2f.svg",
+        "aspect": 1.206,
+        "iconTheme": "brasileirao-vitoria-1985"
+      },
+      {
+        "id": "1994",
+        "label": "1994–1999",
+        "fullLabel": "1994–1999",
+        "atual": false,
+        "file": "retro-1994-477e720a.svg",
+        "aspect": 0.958,
+        "iconTheme": "brasileirao-vitoria-1994"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2009",
+        "fullLabel": "2000–2009",
+        "atual": false,
+        "file": "retro-2000-5e3fa412.svg",
+        "aspect": 0.859,
+        "iconTheme": "brasileirao-vitoria-2000"
+      },
+      {
+        "id": "2010",
+        "label": "2010–2018",
+        "fullLabel": "2010–2018",
+        "atual": false,
+        "file": "retro-2010-5b5c3f10.svg",
+        "aspect": 0.858,
+        "iconTheme": "brasileirao-vitoria-2010"
+      },
+      {
+        "id": "2019",
+        "label": "2019–2023",
+        "fullLabel": "2019–2023",
+        "atual": false,
+        "file": "retro-2019-6f4568f6.svg",
+        "aspect": 0.863,
+        "iconTheme": "brasileirao-vitoria-2019"
       }
     ],
     "alternates": [],

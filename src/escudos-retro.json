@@ -416,63 +416,30 @@
   ],
   "vitoria": [
     {
-      "id": "1901",
-      "label": "1901–1909",
-      "local": "Vitoria-1901.png",
-      "vetorizar": "sombreado",
-      "niveis": 3,
-      "sigma": 2.0,
-      "nota": "primeiro escudo do Sport Club Victoria (boia com a data 13 de maio de 1899, âncora, remos, raquete e a bandeira rubro-negra), enviado pelo dono do projeto (JPG de 447 px, depois limpo do ruído e com o fundo branco transparente); traçado em 3 tons de luminosidade, uma camada de traços finos (texto, corda e contornos internos) e o vermelho da bandeira, sobre uma base escura (5 cores chapadas, contornos alisados) mais o vermelho da bandeira. Período estimado: o clube virou Sport Club Victoria em 1901 e o escudo de fundo vermelho aparece em 1909 (Correio e Arena Rubro-Negra); um historiador citado pelo Correio diz que o primeiro escudo tinha um livro aberto, então o período precisa de confirmação; a argola da âncora e a ponta do mastro foram redesenhadas à mão (campo 'retoques'), porque o traçado automático errava essas duas peças pequenas e curvas",
+      "id": "1899",
+      "label": "1899–1933",
+      "local": "Vitoria-1899.png"
+    },
+    {
+      "id": "1934",
+      "label": "1934–1938",
+      "local": "Vitoria-1934.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
       "escala": 3,
-      "limites": [
-        95,
-        200
-      ],
-      "alisar": 2.5,
-      "minimo": 250,
-      "tracos": 35,
-      "retoques": [
-        {
-          "svg": "<defs><clipPath id=\"cf\"><ellipse cx=\"237\" cy=\"55\" rx=\"24.5\" ry=\"31\"/></clipPath><clipPath id=\"cb\"><ellipse cx=\"241.5\" cy=\"25.5\" rx=\"19.5\" ry=\"21.5\" transform=\"rotate(8 241.5 25.5)\"/></clipPath></defs><g><!-- elo da frente (embaixo), com claro à esquerda e sombra à direita --><ellipse cx=\"237\" cy=\"55\" rx=\"24.5\" ry=\"31\" fill=\"#7a7163\"/><g clip-path=\"url(#cf)\"><ellipse cx=\"237\" cy=\"55\" rx=\"24.5\" ry=\"31\" fill=\"#bab099\"/><ellipse cx=\"247\" cy=\"55\" rx=\"24.5\" ry=\"31\" fill=\"#7a7163\"/><ellipse cx=\"259\" cy=\"56\" rx=\"24.5\" ry=\"31\" fill=\"#3c3735\"/></g><ellipse cx=\"237\" cy=\"55\" rx=\"24.5\" ry=\"31\" fill=\"none\" stroke=\"#3c3735\" stroke-width=\"1.5\"/><ellipse cx=\"237\" cy=\"59\" rx=\"11.8\" ry=\"14\" fill=\"#3c3735\"/><ellipse cx=\"237.4\" cy=\"60\" rx=\"10.2\" ry=\"12.4\" fill=\"#7a7163\"/><rect x=\"231\" y=\"47\" width=\"15\" height=\"12.5\" rx=\"1.3\" fill=\"#7a7163\" stroke=\"#3c3735\" stroke-width=\"1\"/><rect x=\"226.6\" y=\"46.5\" width=\"3.6\" height=\"11\" rx=\"1.4\" fill=\"#ebdebf\"/><rect x=\"247.4\" y=\"46.5\" width=\"2.2\" height=\"9\" rx=\"1\" fill=\"#bab099\"/><!-- elo de trás (em cima) --><g clip-path=\"url(#cb)\"><ellipse cx=\"241.5\" cy=\"25.5\" rx=\"19.5\" ry=\"21.5\" fill=\"#bab099\" transform=\"rotate(8 241.5 25.5)\"/><ellipse cx=\"246.5\" cy=\"26.5\" rx=\"19.5\" ry=\"21.5\" fill=\"#7a7163\" transform=\"rotate(8 241.5 25.5)\"/><ellipse cx=\"256\" cy=\"27\" rx=\"19.5\" ry=\"21.5\" fill=\"#3c3735\" transform=\"rotate(8 241.5 25.5)\"/></g><ellipse cx=\"241.5\" cy=\"25.5\" rx=\"19.5\" ry=\"21.5\" fill=\"none\" stroke=\"#3c3735\" stroke-width=\"1.5\" transform=\"rotate(8 241.5 25.5)\"/><ellipse cx=\"242.2\" cy=\"31\" rx=\"8\" ry=\"13.6\" fill=\"#3c3735\" transform=\"rotate(8 242.2 31)\"/><ellipse cx=\"242.8\" cy=\"31.6\" rx=\"6.4\" ry=\"12\" fill=\"#7a7163\" transform=\"rotate(8 242.2 31)\"/><ellipse cx=\"244.2\" cy=\"19.6\" rx=\"3.4\" ry=\"1.3\" fill=\"#ebdebf\" transform=\"rotate(8 242.2 31)\"/></g>",
-          "elipses": [
-            [
-              237,
-              55,
-              25.0,
-              31.5
-            ],
-            [
-              241.5,
-              25.5,
-              20.5,
-              22.5
-            ]
-          ]
-        },
-        {
-          "caixa": [
-            150.7,
-            129.2,
-            173,
-            151
-          ],
-          "svg": "<polygon points=\"149.5,132 153,138.5 160.5,144 167,146.5 172.5,149 174,152.4 149.5,152.4\" fill=\"#3c3735\"/><polygon points=\"156,129.8 160.2,129 172,141.5 172.6,148.6 167.4,146 168.8,143.8\" fill=\"#7a7163\" stroke=\"#3c3735\" stroke-width=\"0.7\"/><polygon points=\"150.4,130.8 155.6,127.8 168.8,144.4 167.2,146.6 160.4,143.8 153.2,138.6 151,134.2\" fill=\"#ebdebf\" stroke=\"#3c3735\" stroke-width=\"0.8\"/>"
-        }
-      ],
-      "detalhes": [
-        [
-          80,
-          30,
-          120,
-          70
-        ]
-      ],
-      "detalhe_sigma": 0.9,
-      "detalhe_alisar": 0.7
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#f0f0f0"
+      ]
     },
     {
       "id": "1939",
-      "label": "1939–1994",
+      "label": "1939–1958",
       "local": "Vitoria-monograma.png",
       "vetorizar": "suave",
       "vetorizarPaleta": [
@@ -480,8 +447,118 @@
         "#020101"
       ],
       "silhueta": "borda",
-      "refinar": true,
-      "nota": "escudo vermelho e preto com o monograma SCV em branco, enviado pelo dono do projeto; em 1934 apareceu o escudo de fundo preto, em 1939 o vermelho e preto, e em 1994 o clube voltou ao escudo suíço de borda preta e branca (Arena Rubro-Negra e Wikipédia: datas conferidas só em parte)"
+      "refinar": true
+    },
+    {
+      "id": "1959",
+      "label": "1959–1979",
+      "local": "Vitoria-1959.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#f0f0f0",
+        "#e00000"
+      ]
+    },
+    {
+      "id": "1980",
+      "label": "1980–1984",
+      "local": "Vitoria-1980.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#f0e0e0",
+        "#d03030"
+      ]
+    },
+    {
+      "id": "1985",
+      "label": "1985–1993",
+      "local": "Vitoria-1985.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#c0c0c0"
+      ]
+    },
+    {
+      "id": "1994",
+      "label": "1994–1999",
+      "local": "Vitoria-1994.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#f0f0f0",
+        "#d02020"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2009",
+      "local": "Vitoria-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#f0f0f0",
+        "#f01000"
+      ]
+    },
+    {
+      "id": "2010",
+      "label": "2010–2018",
+      "local": "Vitoria-2010.svg"
+    },
+    {
+      "id": "2019",
+      "label": "2019–2023",
+      "local": "Vitoria-2019.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#f0f0f0",
+        "#e00010"
+      ]
     }
   ],
   "sport": [

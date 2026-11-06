@@ -1152,14 +1152,54 @@
         "path": "./icons/vitoria/icon-theme.json"
       },
       {
-        "id": "brasileirao-vitoria-1901",
-        "label": "Brasileirão: Vitória (retrô 1901–1909)",
-        "path": "./icons/vitoria/icon-theme-1901.json"
+        "id": "brasileirao-vitoria-1899",
+        "label": "Brasileirão: Vitória (retrô 1899–1933)",
+        "path": "./icons/vitoria/icon-theme-1899.json"
+      },
+      {
+        "id": "brasileirao-vitoria-1934",
+        "label": "Brasileirão: Vitória (retrô 1934–1938)",
+        "path": "./icons/vitoria/icon-theme-1934.json"
       },
       {
         "id": "brasileirao-vitoria-1939",
-        "label": "Brasileirão: Vitória (retrô 1939–1994)",
+        "label": "Brasileirão: Vitória (retrô 1939–1958)",
         "path": "./icons/vitoria/icon-theme-1939.json"
+      },
+      {
+        "id": "brasileirao-vitoria-1959",
+        "label": "Brasileirão: Vitória (retrô 1959–1979)",
+        "path": "./icons/vitoria/icon-theme-1959.json"
+      },
+      {
+        "id": "brasileirao-vitoria-1980",
+        "label": "Brasileirão: Vitória (retrô 1980–1984)",
+        "path": "./icons/vitoria/icon-theme-1980.json"
+      },
+      {
+        "id": "brasileirao-vitoria-1985",
+        "label": "Brasileirão: Vitória (retrô 1985–1993)",
+        "path": "./icons/vitoria/icon-theme-1985.json"
+      },
+      {
+        "id": "brasileirao-vitoria-1994",
+        "label": "Brasileirão: Vitória (retrô 1994–1999)",
+        "path": "./icons/vitoria/icon-theme-1994.json"
+      },
+      {
+        "id": "brasileirao-vitoria-2000",
+        "label": "Brasileirão: Vitória (retrô 2000–2009)",
+        "path": "./icons/vitoria/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-vitoria-2010",
+        "label": "Brasileirão: Vitória (retrô 2010–2018)",
+        "path": "./icons/vitoria/icon-theme-2010.json"
+      },
+      {
+        "id": "brasileirao-vitoria-2019",
+        "label": "Brasileirão: Vitória (retrô 2019–2023)",
+        "path": "./icons/vitoria/icon-theme-2019.json"
       },
       {
         "id": "brasileirao-fortaleza",
