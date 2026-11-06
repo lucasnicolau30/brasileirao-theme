@@ -12003,5 +12003,118 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Vitória-ES": {
+    "slug": "vitoria-es",
+    "uf": "ES",
+    "crestLabel": "Atual · desde 2025",
+    "crestIcon": "escudo-e5c1e9f4.svg",
+    "listIcon": "escudo-e5c1e9f4.svg",
+    "backgroundAspect": 0.648,
+    "titles": {
+      "mundial": [],
+      "libertadores": [],
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1920,
+        1932,
+        1933,
+        1943,
+        1950,
+        1952,
+        1956,
+        1976,
+        2006,
+        2019
+      ]
+    },
+    "retro": [
+      {
+        "id": "1912",
+        "label": "1912–1969",
+        "fullLabel": "1912–1969",
+        "atual": false,
+        "file": "retro-1912-23fff9cb.svg",
+        "aspect": 0.748,
+        "iconTheme": "brasileirao-vitoria-es-1912"
+      },
+      {
+        "id": "1970",
+        "label": "1970–2024",
+        "fullLabel": "1970–2024",
+        "atual": false,
+        "file": "retro-1970-198136a3.svg",
+        "aspect": 0.659,
+        "iconTheme": "brasileirao-vitoria-es-1970"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟦⬜🟨",
+    "primary": "#2a4ab8",
+    "background": "fundo-116fc51a.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-vitoria-es",
+    "colors": [
+      "rgba(138,155,216,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(159,174,223,0.08)",
+      "rgba(99,122,203,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#2a4ab833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#8a9bd8"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#9faedf"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#8a9bd8"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

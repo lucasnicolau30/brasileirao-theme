@@ -508,6 +508,11 @@
         "label": "Brasileirão: Rio Branco-ES",
         "uiTheme": "vs-dark",
         "path": "./themes/rio-branco-es-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Vitória-ES",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vitoria-es-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -2255,6 +2260,21 @@
         "id": "brasileirao-rio-branco-es-2012",
         "label": "Brasileirão: Rio Branco-ES (retrô 2012–2021)",
         "path": "./icons/rio-branco-es/icon-theme-2012.json"
+      },
+      {
+        "id": "brasileirao-vitoria-es",
+        "label": "Brasileirão: Vitória-ES",
+        "path": "./icons/vitoria-es/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-vitoria-es-1912",
+        "label": "Brasileirão: Vitória-ES (retrô 1912–1969)",
+        "path": "./icons/vitoria-es/icon-theme-1912.json"
+      },
+      {
+        "id": "brasileirao-vitoria-es-1970",
+        "label": "Brasileirão: Vitória-ES (retrô 1970–2024)",
+        "path": "./icons/vitoria-es/icon-theme-1970.json"
       }
     ],
     "commands": [

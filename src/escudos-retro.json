@@ -3930,5 +3930,42 @@
         "#fcfcfc"
       ]
     }
+  ],
+  "vitoria-es": [
+    {
+      "id": "1912",
+      "label": "1912–1969",
+      "local": "VitoriaES-1912.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#3c5484",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–2024",
+      "local": "VitoriaES-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#002460",
+        "#fcfcfc",
+        "#f0c000"
+      ]
+    }
   ]
 }

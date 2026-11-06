@@ -4295,7 +4295,7 @@ const times = [
     slug: "vitoria-es",
     swatch: "🟦⬜🟨",
     uf: "ES",
-    crestLabel: "Vitória-ES",
+    crestLabel: "Vitória-ES (desde 2025)",
     bgColored: true,
     titles: {
       mundial: [],
