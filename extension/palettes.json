@@ -8622,7 +8622,7 @@
   "Brasileirão: Gama": {
     "slug": "gama",
     "uf": "DF",
-    "crestLabel": "Atual · desde 1999",
+    "crestLabel": "Atual · desde 2003",
     "crestIcon": "escudo-14286cc5.svg",
     "listIcon": "escudo-14286cc5.svg",
     "backgroundAspect": 0.644,
@@ -8657,15 +8657,55 @@
         2026
       ]
     },
+    "titleOrder": [
+      "estadual",
+      "serieB"
+    ],
     "retro": [
       {
         "id": "1976",
-        "label": "1976–1978",
-        "fullLabel": "1976–1978",
+        "label": "1975–1977",
+        "fullLabel": "1975–1977",
         "atual": false,
         "file": "retro-1976-7bcbfd7b.svg",
         "aspect": 0.946,
         "iconTheme": "brasileirao-gama-1976"
+      },
+      {
+        "id": "1978",
+        "label": "1978–1995",
+        "fullLabel": "1978–1995",
+        "atual": false,
+        "file": "retro-1978-a2f8e95e.svg",
+        "aspect": 0.806,
+        "iconTheme": "brasileirao-gama-1978"
+      },
+      {
+        "id": "1996",
+        "label": "1996–1997",
+        "fullLabel": "1996–1997",
+        "atual": false,
+        "file": "retro-1996-f35f933d.svg",
+        "aspect": 0.661,
+        "iconTheme": "brasileirao-gama-1996"
+      },
+      {
+        "id": "1998",
+        "label": "1998–1999",
+        "fullLabel": "1998–1999",
+        "atual": false,
+        "file": "retro-1998-9c5b08c9.svg",
+        "aspect": 0.806,
+        "iconTheme": "brasileirao-gama-1998"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2002",
+        "fullLabel": "2000–2002",
+        "atual": false,
+        "file": "retro-2000-3d82f234.svg",
+        "aspect": 0.791,
+        "iconTheme": "brasileirao-gama-2000"
       }
     ],
     "alternates": [],
