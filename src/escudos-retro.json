@@ -4141,5 +4141,80 @@
       ],
       "fundoExterno": true
     }
+  ],
+  "serra": [
+    {
+      "id": "1930",
+      "label": "1930–1996",
+      "local": "Serra-1930.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#050505",
+        "#fc0000"
+      ]
+    },
+    {
+      "id": "1997",
+      "label": "1997–1998",
+      "local": "Serra-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#050505",
+        "#fc0000"
+      ]
+    },
+    {
+      "id": "1999",
+      "label": "1999–2009",
+      "local": "Serra-1999.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#050505",
+        "#fc0000"
+      ],
+      "fundoExterno": true
+    },
+    {
+      "id": "2010",
+      "label": "2010–2016",
+      "local": "Serra-2010.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#050505",
+        "#fc0000"
+      ]
+    }
   ]
 }

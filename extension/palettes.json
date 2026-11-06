@@ -12309,5 +12309,132 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Serra": {
+    "slug": "serra",
+    "uf": "ES",
+    "crestLabel": "Atual · desde 2017",
+    "crestIcon": "escudo-f1930c49.svg",
+    "listIcon": "escudo-f1930c49.svg",
+    "backgroundAspect": 0.804,
+    "titles": {
+      "mundial": [],
+      "libertadores": [],
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1999,
+        2003,
+        2004,
+        2005,
+        2008,
+        2018
+      ]
+    },
+    "retro": [
+      {
+        "id": "1930",
+        "label": "1930–1996",
+        "fullLabel": "1930–1996",
+        "atual": false,
+        "file": "retro-1930-2d127e6a.svg",
+        "aspect": 0.837,
+        "iconTheme": "brasileirao-serra-1930"
+      },
+      {
+        "id": "1997",
+        "label": "1997–1998",
+        "fullLabel": "1997–1998",
+        "atual": false,
+        "file": "retro-1997-347021c3.svg",
+        "aspect": 0.925,
+        "iconTheme": "brasileirao-serra-1997"
+      },
+      {
+        "id": "1999",
+        "label": "1999–2009",
+        "fullLabel": "1999–2009",
+        "atual": false,
+        "file": "retro-1999-8826008e.svg",
+        "aspect": 0.784,
+        "iconTheme": "brasileirao-serra-1999"
+      },
+      {
+        "id": "2010",
+        "label": "2010–2016",
+        "fullLabel": "2010–2016",
+        "atual": false,
+        "file": "retro-2010-6eb8ed75.svg",
+        "aspect": 0.784,
+        "iconTheme": "brasileirao-serra-2010"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬛⬜",
+    "primary": "#d3202c",
+    "background": "fundo-430ea475.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-serra",
+    "colors": [
+      "rgba(231,132,139,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(235,155,160,0.08)",
+      "rgba(219,74,83,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d3202c33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#e7848b"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#eb9ba0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#e7848b"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

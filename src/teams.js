@@ -4333,7 +4333,7 @@ const times = [
     slug: "serra",
     swatch: "🟥⬛⬜",
     uf: "ES",
-    crestLabel: "Serra",
+    crestLabel: "Serra (desde 2017)",
     bgColored: true,
     titles: {
       mundial: [],

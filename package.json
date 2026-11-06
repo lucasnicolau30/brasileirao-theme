@@ -518,6 +518,11 @@
         "label": "Brasileirão: Desportiva Ferroviária",
         "uiTheme": "vs-dark",
         "path": "./themes/desportiva-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Serra",
+        "uiTheme": "vs-dark",
+        "path": "./themes/serra-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -2335,6 +2340,31 @@
         "id": "brasileirao-desportiva-2011",
         "label": "Brasileirão: Desportiva Ferroviária (retrô 2011–2012)",
         "path": "./icons/desportiva/icon-theme-2011.json"
+      },
+      {
+        "id": "brasileirao-serra",
+        "label": "Brasileirão: Serra",
+        "path": "./icons/serra/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-serra-1930",
+        "label": "Brasileirão: Serra (retrô 1930–1996)",
+        "path": "./icons/serra/icon-theme-1930.json"
+      },
+      {
+        "id": "brasileirao-serra-1997",
+        "label": "Brasileirão: Serra (retrô 1997–1998)",
+        "path": "./icons/serra/icon-theme-1997.json"
+      },
+      {
+        "id": "brasileirao-serra-1999",
+        "label": "Brasileirão: Serra (retrô 1999–2009)",
+        "path": "./icons/serra/icon-theme-1999.json"
+      },
+      {
+        "id": "brasileirao-serra-2010",
+        "label": "Brasileirão: Serra (retrô 2010–2016)",
+        "path": "./icons/serra/icon-theme-2010.json"
       }
     ],
     "commands": [
