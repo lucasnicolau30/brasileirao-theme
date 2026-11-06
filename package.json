@@ -498,6 +498,11 @@
         "label": "Brasileirão: Guarany de Sobral",
         "uiTheme": "vs-dark",
         "path": "./themes/guarany-de-sobral-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Ferroviário-CE",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ferroviario-ce-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -2115,6 +2120,56 @@
         "id": "brasileirao-guarany-de-sobral-2000",
         "label": "Brasileirão: Guarany de Sobral (retrô 2000–2014)",
         "path": "./icons/guarany-de-sobral/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-ferroviario-ce",
+        "label": "Brasileirão: Ferroviário-CE",
+        "path": "./icons/ferroviario-ce/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-ferroviario-ce-1933",
+        "label": "Brasileirão: Ferroviário-CE (retrô 1933–1939)",
+        "path": "./icons/ferroviario-ce/icon-theme-1933.json"
+      },
+      {
+        "id": "brasileirao-ferroviario-ce-1940",
+        "label": "Brasileirão: Ferroviário-CE (retrô 1940–1949)",
+        "path": "./icons/ferroviario-ce/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-ferroviario-ce-1950",
+        "label": "Brasileirão: Ferroviário-CE (retrô 1950–1967)",
+        "path": "./icons/ferroviario-ce/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-ferroviario-ce-1968",
+        "label": "Brasileirão: Ferroviário-CE (retrô 1968–1969)",
+        "path": "./icons/ferroviario-ce/icon-theme-1968.json"
+      },
+      {
+        "id": "brasileirao-ferroviario-ce-1970",
+        "label": "Brasileirão: Ferroviário-CE (retrô 1970–1987)",
+        "path": "./icons/ferroviario-ce/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-ferroviario-ce-1988",
+        "label": "Brasileirão: Ferroviário-CE (retrô 1988–1989)",
+        "path": "./icons/ferroviario-ce/icon-theme-1988.json"
+      },
+      {
+        "id": "brasileirao-ferroviario-ce-1990",
+        "label": "Brasileirão: Ferroviário-CE (retrô 1990–2008)",
+        "path": "./icons/ferroviario-ce/icon-theme-1990.json"
+      },
+      {
+        "id": "brasileirao-ferroviario-ce-2009",
+        "label": "Brasileirão: Ferroviário-CE (retrô 2009–2017)",
+        "path": "./icons/ferroviario-ce/icon-theme-2009.json"
+      },
+      {
+        "id": "brasileirao-ferroviario-ce-2018",
+        "label": "Brasileirão: Ferroviário-CE (retrô 2018–2022)",
+        "path": "./icons/ferroviario-ce/icon-theme-2018.json"
       }
     ],
     "commands": [

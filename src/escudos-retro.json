@@ -3373,5 +3373,143 @@
         "#fccd02"
       ]
     }
+  ],
+  "ferroviario-ce": [
+    {
+      "id": "1933",
+      "label": "1933–1939",
+      "local": "Ferroviario-1933.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#fc0000",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1940",
+      "label": "1940–1949",
+      "local": "Ferroviario-1940.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#fc0000",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1950",
+      "label": "1950–1967",
+      "local": "Ferroviario-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#fc0000",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1968",
+      "label": "1968–1969",
+      "local": "Ferroviario-1968.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#fc0000",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1987",
+      "local": "Ferroviario-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#fc0000",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1988",
+      "label": "1988–1989",
+      "local": "Ferroviario-1988.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#fc0000",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1990",
+      "label": "1990–2008",
+      "local": "Ferroviario-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#fc3c00",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "2009",
+      "label": "2009–2017",
+      "local": "Ferroviario-2009.svg"
+    },
+    {
+      "id": "2018",
+      "label": "2018–2022",
+      "commons": "Ferroviario-logo.svg"
+    }
   ]
 }

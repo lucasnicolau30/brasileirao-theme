@@ -207,7 +207,9 @@ const times = [
   { slug: 'ypiranga-ba', uf: 'BA', crestLabel: 'Ypiranga-BA (1945–1961/desde 1972)', bgColored: true, swatch: '🟧⬛', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [], copaDoNordeste: [], copaVerde: [], estadual: [1917, 1918, 1920, 1921, 1925, 1928, 1929, 1932, 1939, 1951] }, label: 'Ypiranga-BA', side: '#1a1206', bg: '#110c04', chrome: '#2e1f08', secondary: '#111111', fg: '#f3ead9', primary: '#f0a018', accent: '#f4c46a', statusBg: '#f0a018', statusFg: '#111111',
     brackets: ['#f4c46a', '#ffffff', '#f7d28f', '#f2b244', '#fae1b5', '#ffffff'] },
   { slug: 'guarany-de-sobral', uf: 'CE', crestLabel: 'Guarany de Sobral (desde 2015)', bgColored: true, swatch: '🟥⬛⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [2010], copaDoNordeste: [], copaVerde: [], estadual: [] }, label: 'Guarany de Sobral', side: '#1a0e10', bg: '#0e0809', chrome: '#1c1c1c', secondary: '#ffffff', fg: '#efe6e7', primary: '#e6122f', accent: '#ff6a7e', statusBg: '#b30f26', statusFg: '#ffffff',
-    brackets: ['#ff6a7e', '#ffffff', '#ffa3af', '#ee3a52', '#f9d6db', '#ff8797'] }
+    brackets: ['#ff6a7e', '#ffffff', '#ffa3af', '#ee3a52', '#f9d6db', '#ff8797'] },
+  { slug: 'ferroviario-ce', uf: 'CE', crestLabel: 'Ferroviário-CE (desde 2023)', bgColored: true, swatch: '🟥⬛⬜', titles: { brasileirao: [], copaDoBrasil: [], libertadores: [], mundial: [], sulAmericana: [], serieB: [], serieC: [], serieD: [2018, 2023], copaDoNordeste: [], copaVerde: [], estadual: [1945, 1950, 1952, 1968, 1970, 1979, 1988, 1994, 1995] }, titleOrder: ['estadual', 'serieD'], label: 'Ferroviário-CE', side: '#150e0f', bg: '#0d0a0a', chrome: '#1c1c1c', secondary: '#ffffff', fg: '#ececec', primary: '#e0161f', accent: '#ff6a6f', statusBg: '#b8101a', statusFg: '#ffffff',
+    brackets: ['#ff6a6f', '#ffffff', '#f4cf12', '#e8383f', '#f9d6d8', '#ff8a8e'] }
 ];
 
 // Ordem dos times: agrupados por estado (o estado vem de `uf`), os estados na ordem em que aparecem neste arquivo (Rio, São

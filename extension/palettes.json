@@ -11548,5 +11548,187 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Ferroviário-CE": {
+    "slug": "ferroviario-ce",
+    "uf": "CE",
+    "crestLabel": "Atual · desde 2023",
+    "crestIcon": "escudo-f261ae07.svg",
+    "listIcon": "escudo-f261ae07.svg",
+    "backgroundAspect": 0.838,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [
+        2018,
+        2023
+      ],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1945,
+        1950,
+        1952,
+        1968,
+        1970,
+        1979,
+        1988,
+        1994,
+        1995
+      ]
+    },
+    "titleOrder": [
+      "estadual",
+      "serieD"
+    ],
+    "retro": [
+      {
+        "id": "1933",
+        "label": "1933–1939",
+        "fullLabel": "1933–1939",
+        "atual": false,
+        "file": "retro-1933-46492add.svg",
+        "aspect": 1.874,
+        "iconTheme": "brasileirao-ferroviario-ce-1933"
+      },
+      {
+        "id": "1940",
+        "label": "1940–1949",
+        "fullLabel": "1940–1949",
+        "atual": false,
+        "file": "retro-1940-50278bbe.svg",
+        "aspect": 1.065,
+        "iconTheme": "brasileirao-ferroviario-ce-1940"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1967",
+        "fullLabel": "1950–1967",
+        "atual": false,
+        "file": "retro-1950-933acf94.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-ferroviario-ce-1950"
+      },
+      {
+        "id": "1968",
+        "label": "1968–1969",
+        "fullLabel": "1968–1969",
+        "atual": false,
+        "file": "retro-1968-a7947f60.svg",
+        "aspect": 0.903,
+        "iconTheme": "brasileirao-ferroviario-ce-1968"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1987",
+        "fullLabel": "1970–1987",
+        "atual": false,
+        "file": "retro-1970-40296876.svg",
+        "aspect": 0.981,
+        "iconTheme": "brasileirao-ferroviario-ce-1970"
+      },
+      {
+        "id": "1988",
+        "label": "1988–1989",
+        "fullLabel": "1988–1989",
+        "atual": false,
+        "file": "retro-1988-97ab15de.svg",
+        "aspect": 0.992,
+        "iconTheme": "brasileirao-ferroviario-ce-1988"
+      },
+      {
+        "id": "1990",
+        "label": "1990–2008",
+        "fullLabel": "1990–2008",
+        "atual": false,
+        "file": "retro-1990-bba202a0.svg",
+        "aspect": 0.922,
+        "iconTheme": "brasileirao-ferroviario-ce-1990"
+      },
+      {
+        "id": "2009",
+        "label": "2009–2017",
+        "fullLabel": "2009–2017",
+        "atual": false,
+        "file": "retro-2009-5e461c32.svg",
+        "aspect": 1.073,
+        "iconTheme": "brasileirao-ferroviario-ce-2009"
+      },
+      {
+        "id": "2018",
+        "label": "2018–2022",
+        "fullLabel": "2018–2022",
+        "atual": false,
+        "file": "retro-2018-ea988b0b.svg",
+        "aspect": 0.842,
+        "iconTheme": "brasileirao-ferroviario-ce-2018"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬛⬜",
+    "primary": "#e0161f",
+    "background": "fundo-4df604ed.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-ferroviario-ce",
+    "colors": [
+      "rgba(255,106,111,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(244,207,18,0.08)",
+      "rgba(232,56,63,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#e0161f33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff6a6f"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#f4cf12"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff6a6f"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }
