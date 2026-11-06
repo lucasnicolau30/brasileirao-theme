@@ -1232,9 +1232,29 @@
         "path": "./icons/ceara/icon-theme-1914.json"
       },
       {
+        "id": "brasileirao-ceara-1916",
+        "label": "Brasileirão: Ceará (retrô 1916–1954)",
+        "path": "./icons/ceara/icon-theme-1916.json"
+      },
+      {
         "id": "brasileirao-ceara-1955",
-        "label": "Brasileirão: Ceará (retrô 1955–1969)",
+        "label": "Brasileirão: Ceará (retrô 1955–1968)",
         "path": "./icons/ceara/icon-theme-1955.json"
+      },
+      {
+        "id": "brasileirao-ceara-1969",
+        "label": "Brasileirão: Ceará (retrô 1969–1970)",
+        "path": "./icons/ceara/icon-theme-1969.json"
+      },
+      {
+        "id": "brasileirao-ceara-1971",
+        "label": "Brasileirão: Ceará (retrô 1971–2002)",
+        "path": "./icons/ceara/icon-theme-1971.json"
+      },
+      {
+        "id": "brasileirao-ceara-2003",
+        "label": "Brasileirão: Ceará (retrô 2003–2018)",
+        "path": "./icons/ceara/icon-theme-2003.json"
       },
       {
         "id": "brasileirao-athletico-pr",

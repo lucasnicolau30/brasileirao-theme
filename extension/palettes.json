@@ -5124,9 +5124,9 @@
   "Brasileirão: Ceará": {
     "slug": "ceara",
     "uf": "CE",
-    "crestLabel": "Atual · desde 2003",
-    "crestIcon": "escudo-14a7430c.svg",
-    "listIcon": "escudo-14a7430c.svg",
+    "crestLabel": "Atual · desde 2019",
+    "crestIcon": "escudo-40e6e6cd.svg",
+    "listIcon": "escudo-40e6e6cd.svg",
     "backgroundAspect": 0.907,
     "titles": {
       "brasileirao": [],
@@ -5199,18 +5199,54 @@
         "label": "1914–1915",
         "fullLabel": "1914–1915",
         "atual": false,
-        "file": "retro-1914-8e091543.svg",
+        "file": "retro-1914-3c2994d3.svg",
         "aspect": 0.968,
         "iconTheme": "brasileirao-ceara-1914"
       },
       {
+        "id": "1916",
+        "label": "1916–1954",
+        "fullLabel": "1916–1954",
+        "atual": false,
+        "file": "retro-1916-722115f6.svg",
+        "aspect": 0.867,
+        "iconTheme": "brasileirao-ceara-1916"
+      },
+      {
         "id": "1955",
-        "label": "1955–1969",
-        "fullLabel": "1955–1969",
+        "label": "1955–1968",
+        "fullLabel": "1955–1968",
         "atual": false,
         "file": "retro-1955-ccdd252b.svg",
         "aspect": 0.944,
         "iconTheme": "brasileirao-ceara-1955"
+      },
+      {
+        "id": "1969",
+        "label": "1969–1970",
+        "fullLabel": "1969–1970",
+        "atual": false,
+        "file": "retro-1969-6dbaeff1.svg",
+        "aspect": 0.941,
+        "iconTheme": "brasileirao-ceara-1969"
+      },
+      {
+        "id": "1971",
+        "label": "1971–2002",
+        "fullLabel": "1971–2002",
+        "atual": false,
+        "file": "retro-1971-d2ff6f19.svg",
+        "aspect": 0.94,
+        "iconTheme": "brasileirao-ceara-1971"
+      },
+      {
+        "id": "2003",
+        "label": "2003–2018",
+        "fullLabel": "2003–2018",
+        "atual": false,
+        "file": "retro-2003-f7a37f11.svg",
+        "aspect": 0.953,
+        "iconTheme": "brasileirao-ceara-2003"
       }
     ],
     "alternates": [],

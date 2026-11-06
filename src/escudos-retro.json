@@ -641,15 +641,81 @@
         "#000000"
       ],
       "silhueta": "borda",
-      "refinar": true,
-      "nota": "primeiro escudo oficial, do Rio Branco Foot-Ball Club (roxo e branco), enviado pelo dono do projeto; período da Wikipédia (1914–1915; o clube trocou as cores pela dificuldade de conseguir uniformes roxos e brancos)"
+      "refinar": true
+    },
+    {
+      "id": "1916",
+      "label": "1916–1954",
+      "local": "Ceara-1916.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#050505"
+      ]
     },
     {
       "id": "1955",
-      "label": "1955–1969",
+      "label": "1955–1968",
       "local": "Ceara-1955.jpg",
-      "vetorizar": "duas-tintas",
-      "nota": "terceiro escudo (inspirado no do Santos, com bola, a palavra Ceará e as listras pretas e brancas), enviado pelo dono do projeto; período da Wikipédia (1955–1969)"
+      "vetorizar": "duas-tintas"
+    },
+    {
+      "id": "1969",
+      "label": "1969–1970",
+      "local": "Ceara-1969.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#050505"
+      ]
+    },
+    {
+      "id": "1971",
+      "label": "1971–2002",
+      "local": "Ceara-1971.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#050505"
+      ]
+    },
+    {
+      "id": "2003",
+      "label": "2003–2018",
+      "local": "Ceara-2003.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#050505"
+      ]
     }
   ],
   "coritiba": [
