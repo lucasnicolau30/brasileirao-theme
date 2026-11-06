@@ -4208,7 +4208,7 @@ const times = [
     slug: "rio-branco-es",
     swatch: "⬛⬜",
     uf: "ES",
-    crestLabel: "Rio Branco-ES",
+    crestLabel: "Rio Branco-ES (desde 2022)",
     bgColored: true,
     titles: {
       mundial: [],

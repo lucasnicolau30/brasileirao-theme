@@ -503,6 +503,11 @@
         "label": "Brasileirão: Ferroviário-CE",
         "uiTheme": "vs-dark",
         "path": "./themes/ferroviario-ce-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Rio Branco-ES",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rio-branco-es-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -2225,6 +2230,31 @@
         "id": "brasileirao-ferroviario-ce-2018",
         "label": "Brasileirão: Ferroviário-CE (retrô 2018–2022)",
         "path": "./icons/ferroviario-ce/icon-theme-2018.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-es",
+        "label": "Brasileirão: Rio Branco-ES",
+        "path": "./icons/rio-branco-es/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-es-1913",
+        "label": "Brasileirão: Rio Branco-ES (retrô 1913–1936)",
+        "path": "./icons/rio-branco-es/icon-theme-1913.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-es-1937",
+        "label": "Brasileirão: Rio Branco-ES (retrô 1937–1984)",
+        "path": "./icons/rio-branco-es/icon-theme-1937.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-es-1985",
+        "label": "Brasileirão: Rio Branco-ES (retrô 1985–2011)",
+        "path": "./icons/rio-branco-es/icon-theme-1985.json"
+      },
+      {
+        "id": "brasileirao-rio-branco-es-2012",
+        "label": "Brasileirão: Rio Branco-ES (retrô 2012–2021)",
+        "path": "./icons/rio-branco-es/icon-theme-2012.json"
       }
     ],
     "commands": [

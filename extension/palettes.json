@@ -11843,5 +11843,165 @@
         "color": "#808080"
       }
     ]
+  },
+  "Brasileirão: Rio Branco-ES": {
+    "slug": "rio-branco-es",
+    "uf": "ES",
+    "crestLabel": "Atual · desde 2022",
+    "crestIcon": "escudo-a6b85185.svg",
+    "listIcon": "escudo-a6b85185.svg",
+    "backgroundAspect": 0.778,
+    "titles": {
+      "mundial": [],
+      "libertadores": [],
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1918,
+        1919,
+        1921,
+        1924,
+        1929,
+        1930,
+        1934,
+        1935,
+        1936,
+        1937,
+        1938,
+        1939,
+        1941,
+        1942,
+        1945,
+        1946,
+        1947,
+        1949,
+        1951,
+        1957,
+        1958,
+        1959,
+        1962,
+        1963,
+        1966,
+        1968,
+        1969,
+        1970,
+        1971,
+        1973,
+        1975,
+        1978,
+        1982,
+        1983,
+        1985,
+        2010,
+        2015,
+        2024,
+        2025
+      ]
+    },
+    "retro": [
+      {
+        "id": "1913",
+        "label": "1913–1936",
+        "fullLabel": "1913–1936",
+        "atual": false,
+        "file": "retro-1913-31366f2c.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-rio-branco-es-1913"
+      },
+      {
+        "id": "1937",
+        "label": "1937–1984",
+        "fullLabel": "1937–1984",
+        "atual": false,
+        "file": "retro-1937-af43ff84.svg",
+        "aspect": 0.947,
+        "iconTheme": "brasileirao-rio-branco-es-1937"
+      },
+      {
+        "id": "1985",
+        "label": "1985–2011",
+        "fullLabel": "1985–2011",
+        "atual": false,
+        "file": "retro-1985-023f7b24.svg",
+        "aspect": 0.824,
+        "iconTheme": "brasileirao-rio-branco-es-1985"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2021",
+        "fullLabel": "2012–2021",
+        "atual": false,
+        "file": "retro-2012-60a80816.svg",
+        "aspect": 0.804,
+        "iconTheme": "brasileirao-rio-branco-es-2012"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜",
+    "primary": "#d0d0d0",
+    "background": "fundo-d5db9198.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-rio-branco-es",
+    "colors": [
+      "rgba(245,245,245,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(208,208,208,0.08)",
+      "rgba(157,157,157,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d0d0d033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#d0d0d0"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f5f5f5"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
   }
 }

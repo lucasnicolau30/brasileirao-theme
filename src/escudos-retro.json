@@ -3860,5 +3860,75 @@
         "#050505"
       ]
     }
+  ],
+  "rio-branco-es": [
+    {
+      "id": "1913",
+      "label": "1913–1936",
+      "local": "RioBrancoES-1913.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#0c6c54",
+        "#fcc054"
+      ]
+    },
+    {
+      "id": "1937",
+      "label": "1937–1984",
+      "local": "RioBrancoES-1937.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#050505"
+      ]
+    },
+    {
+      "id": "1985",
+      "label": "1985–2011",
+      "local": "RioBrancoES-1985.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2021",
+      "local": "RioBrancoES-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#050505",
+        "#fcfcfc"
+      ]
+    }
   ]
 }
