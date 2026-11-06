@@ -3967,5 +3967,179 @@
         "#f0c000"
       ]
     }
+  ],
+  "desportiva": [
+    {
+      "id": "1963",
+      "label": "1963–1965",
+      "local": "Desportiva-1963.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#900000"
+      ]
+    },
+    {
+      "id": "1966",
+      "label": "1966–1970",
+      "local": "Desportiva-1966.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#600000"
+      ]
+    },
+    {
+      "id": "1971",
+      "label": "1971–1977",
+      "local": "Desportiva-1971.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#a83c54"
+      ]
+    },
+    {
+      "id": "1978",
+      "label": "1978/1991–1993",
+      "local": "Desportiva-1978.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#3c0000"
+      ]
+    },
+    {
+      "id": "1979",
+      "label": "1979–1981/1989",
+      "local": "Desportiva-1979.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#600000"
+      ]
+    },
+    {
+      "id": "1982",
+      "label": "1982–1988/1994–1996",
+      "local": "Desportiva-1982.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#a83c54"
+      ]
+    },
+    {
+      "id": "1990",
+      "label": "1990",
+      "local": "Desportiva-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#6c0000"
+      ]
+    },
+    {
+      "id": "1997",
+      "label": "1997–1998",
+      "local": "Desportiva-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#900030"
+      ]
+    },
+    {
+      "id": "1999",
+      "label": "1999–2010",
+      "local": "Desportiva-1999.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#a83c54",
+        "#489054"
+      ]
+    },
+    {
+      "id": "2011",
+      "label": "2011–2012",
+      "local": "Desportiva-2011.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#903c54"
+      ],
+      "fundoExterno": true
+    }
   ]
 }

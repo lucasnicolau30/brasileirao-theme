@@ -513,6 +513,11 @@
         "label": "Brasileirão: Vitória-ES",
         "uiTheme": "vs-dark",
         "path": "./themes/vitoria-es-color-theme.json"
+      },
+      {
+        "label": "Brasileirão: Desportiva Ferroviária",
+        "uiTheme": "vs-dark",
+        "path": "./themes/desportiva-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -2275,6 +2280,61 @@
         "id": "brasileirao-vitoria-es-1970",
         "label": "Brasileirão: Vitória-ES (retrô 1970–2024)",
         "path": "./icons/vitoria-es/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-desportiva",
+        "label": "Brasileirão: Desportiva Ferroviária",
+        "path": "./icons/desportiva/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-desportiva-1963",
+        "label": "Brasileirão: Desportiva Ferroviária (retrô 1963–1965)",
+        "path": "./icons/desportiva/icon-theme-1963.json"
+      },
+      {
+        "id": "brasileirao-desportiva-1966",
+        "label": "Brasileirão: Desportiva Ferroviária (retrô 1966–1970)",
+        "path": "./icons/desportiva/icon-theme-1966.json"
+      },
+      {
+        "id": "brasileirao-desportiva-1971",
+        "label": "Brasileirão: Desportiva Ferroviária (retrô 1971–1977)",
+        "path": "./icons/desportiva/icon-theme-1971.json"
+      },
+      {
+        "id": "brasileirao-desportiva-1978",
+        "label": "Brasileirão: Desportiva Ferroviária (retrô 1978/1991–1993)",
+        "path": "./icons/desportiva/icon-theme-1978.json"
+      },
+      {
+        "id": "brasileirao-desportiva-1979",
+        "label": "Brasileirão: Desportiva Ferroviária (retrô 1979–1981/1989)",
+        "path": "./icons/desportiva/icon-theme-1979.json"
+      },
+      {
+        "id": "brasileirao-desportiva-1982",
+        "label": "Brasileirão: Desportiva Ferroviária (retrô 1982–1988/1994–1996)",
+        "path": "./icons/desportiva/icon-theme-1982.json"
+      },
+      {
+        "id": "brasileirao-desportiva-1990",
+        "label": "Brasileirão: Desportiva Ferroviária (retrô 1990)",
+        "path": "./icons/desportiva/icon-theme-1990.json"
+      },
+      {
+        "id": "brasileirao-desportiva-1997",
+        "label": "Brasileirão: Desportiva Ferroviária (retrô 1997–1998)",
+        "path": "./icons/desportiva/icon-theme-1997.json"
+      },
+      {
+        "id": "brasileirao-desportiva-1999",
+        "label": "Brasileirão: Desportiva Ferroviária (retrô 1999–2010)",
+        "path": "./icons/desportiva/icon-theme-1999.json"
+      },
+      {
+        "id": "brasileirao-desportiva-2011",
+        "label": "Brasileirão: Desportiva Ferroviária (retrô 2011–2012)",
+        "path": "./icons/desportiva/icon-theme-2011.json"
       }
     ],
     "commands": [
