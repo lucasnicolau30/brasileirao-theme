@@ -5,8 +5,7 @@
       "id": "1895",
       "label": "1895/2018",
       "local": "Flamengo-rowing-2018.png",
-      "vetorizar": "cores",
-      "nota": "escudo do remo: usado em 1895 e de novo desde 2018, segundo o quadro de datas enviado pelo dono do projeto"
+      "vetorizar": "cores"
     },
     {
       "id": "1897",
@@ -17,8 +16,7 @@
       "id": "1980",
       "label": "1980–1981",
       "local": "d07ad3c423e130fc56819d39df5af116.jpg",
-      "vetorizar": "monocromo",
-      "nota": "monograma CRF com 3 estrelas brancas (dos tricampeonatos cariocas, adotadas em 1980; a estrela dourada veio em 1981); arquivo enviado pelo dono do projeto, que informava o ano 1981"
+      "vetorizar": "monocromo"
     },
     {
       "id": "1981",
@@ -31,8 +29,7 @@
       "id": "1894",
       "label": "1894–1919",
       "local": "CRB.png",
-      "vetorizar": "duas-tintas",
-      "nota": "escudo do Club de Regatas Botafogo (estrela, remos e monograma CRB), enviado pelo dono do projeto; o período é uma estimativa: o escudo era não oficial e a estrela passou a cobrir o monograma em 1919"
+      "vetorizar": "duas-tintas"
     },
     {
       "id": "1904",
@@ -76,8 +73,7 @@
       "label": "1910–1914",
       "local": "Corinthians-1910.png",
       "vetorizar": "monocromo",
-      "cor": "#f2f2f2",
-      "nota": "monograma CP, primeiro emblema do clube, enviado pelo dono do projeto; usado até o escudo de 1914 (as fontes divergem se desde 1910 ou 1913); em branco, porque o preto original some no fundo escuro"
+      "cor": "#f2f2f2"
     },
     {
       "id": "1939",
@@ -89,7 +85,6 @@
         "#fe001a"
       ],
       "silhueta": "borda",
-      "nota": "escudo com âncora, remos e bandeira, enviado pelo dono do projeto; a âncora entrou em 1939 (Identidade Corinthiana) e as 13 listras só em 1980 (Bola Parada)",
       "vazarFuros": [
         "#fe001a"
       ],
@@ -108,8 +103,7 @@
         "#fbb903",
         "#019440"
       ],
-      "silhueta": "borda",
-      "nota": "escudo institucional do Palestra Italia (círculo vermelho, Cruz de Savoia e PI), enviado pelo dono do projeto; período do site oficial do Palmeiras (1914 até a mudança de nome, em 1942)"
+      "silhueta": "borda"
     },
     {
       "id": "1916",
@@ -119,8 +113,7 @@
       "vetorizarPaleta": [
         "#e10101"
       ],
-      "silhueta": "borda",
-      "nota": "Cruz de Savoia sozinha, escudo de camisa do Palestra Italia, enviado pelo dono do projeto (foto de papel, recortada); período dos escudos de camisa do site oficial do Palmeiras"
+      "silhueta": "borda"
     }
   ],
   "sao-paulo": [
@@ -140,8 +133,7 @@
         "#ff0000"
       ],
       "silhueta": "borda",
-      "refinar": true,
-      "nota": "escudo S.P.F.C., com pontos entre as letras, enviado pelo dono do projeto; legendas da Wikipédia dão 1935–1981 (outras fontes dizem que os pontos saíram em 1980, 1982 ou 1984)"
+      "refinar": true
     }
   ],
   "santos": [
@@ -155,22 +147,19 @@
         "#e0b50c"
       ],
       "silhueta": "borda",
-      "refinar": true,
-      "nota": "primeiro escudo do Santos (circular, SFC, azul, branco e dourado, como o do Clube Concórdia), enviado pelo dono do projeto; período do Lance (em 1913 o clube adotou o preto e branco)"
+      "refinar": true
     },
     {
       "id": "1925",
       "label": "1925–1942/1944–1968",
       "local": "Santos-1925.png",
-      "vetorizar": "duas-tintas",
-      "nota": "escudo listrado sem estrelas (surgiu em 1925), enviado pelo dono do projeto; foi usado de 1925 a 1942 e de novo de 1944 a 1968, quando o SFC branco ocupou 1942–1944 e entraram as estrelas dos títulos mundiais (Wikipédia, Lance)"
+      "vetorizar": "duas-tintas"
     },
     {
       "id": "1942",
       "label": "1942–1944",
       "local": "Santos-1942.png",
-      "vetorizar": "duas-tintas",
-      "nota": "escudo SFC preto sobre fundo branco, adotado em 1942 e abandonado em 1944 (Lance e Wikipédia), enviado pelo dono do projeto"
+      "vetorizar": "duas-tintas"
     },
     {
       "id": "1968",
@@ -182,8 +171,7 @@
         "#d7ae00"
       ],
       "silhueta": "borda",
-      "refinar": true,
-      "nota": "escudo listrado com as duas estrelas dos títulos mundiais e sem coroa, enviado pelo dono do projeto; estrelas desde 1968 (Wikipédia) e coroa de Pelé só a partir de 2023"
+      "refinar": true
     }
   ],
   "cruzeiro": [
@@ -199,8 +187,7 @@
       ],
       "silhueta": "borda",
       "usarAlpha": true,
-      "refinar": true,
-      "nota": "escudo do Palestra Itália com as letras SSPI (Società Sportiva Palestra Itália), enviado pelo dono do projeto"
+      "refinar": true
     },
     {
       "id": "1942",
@@ -212,16 +199,14 @@
       ],
       "silhueta": "borda",
       "usarAlpha": true,
-      "refinar": true,
-      "nota": "primeiro escudo do Cruzeiro (círculo azul com as cinco estrelas), enviado pelo dono do projeto; o círculo foi recortado do fundo de losangos azuis da imagem"
+      "refinar": true
     },
     {
       "id": "1959",
       "label": "1959–1961",
       "local": "Cruzeiro-1959.png",
       "vetorizar": "duas-tintas",
-      "tinta": "#2f4c88",
-      "nota": "escudo com o nome por extenso e a estrela menor à esquerda, enviado pelo dono do projeto (sem o '1959' escrito embaixo, que é legenda da imagem)"
+      "tinta": "#2f4c88"
     },
     {
       "id": "2004",
@@ -235,7 +220,6 @@
       ],
       "silhueta": "borda",
       "refinar": true,
-      "nota": "escudo com a coroa dourada da Tríplice Coroa, enviado pelo dono do projeto (arquivo 'ESCUDO-DO-CRUZEIRO-2004-2015'; sem o '2004' escrito embaixo); as fontes dizem que a coroa entrou em 2003 e que em 2015 houve pequenos ajustes",
       "vazarFuros": [
         "#f1bd36"
       ],
@@ -248,22 +232,19 @@
       "label": "1910–1922",
       "local": "Atletico-1910.jpg",
       "vetorizar": "monocromo",
-      "cor": "#dcdcdc",
-      "nota": "monograma CAM em oval, primeiro escudo do Atlético (usado nas décadas de 1910 e 1920, até 1922: Wikipédia e Superesportes), enviado pelo dono do projeto; em cinza-claro, porque o preto original some no fundo escuro; o começo em 1910 é a década do Commons"
+      "cor": "#dcdcdc"
     },
     {
       "id": "1940",
       "label": "1940–1949",
       "commons": "1940 Clube Atlético Mineiro crest.jpg",
-      "vetorizarAuto": true,
-      "nota": "escudo dos anos 1940 (Commons: 'used in 1940s'); período = a década"
+      "vetorizarAuto": true
     },
     {
       "id": "1971",
       "label": "1971–1979",
       "commons": "1970 Clube Atlético Mineiro crest.jpg",
-      "vetorizarAuto": true,
-      "nota": "escudo com a estrela amarela do título de 1971, usado nos anos 1970 (Commons); período = de 1971 ao fim da década"
+      "vetorizarAuto": true
     }
   ],
   "internacional": [
@@ -370,8 +351,7 @@
       "vetorizar": "alfa",
       "vetorizarPaleta": [
         "#e6ebf7"
-      ],
-      "nota": "âncora cercada por treze estrelas, o desenho da primeira bandeira do clube (artigo 15 do Estatuto de 1905), enviado pelo dono do projeto; período da tabela 'Evolução Cronológica dos Escudos' da Wikipédia (1905–1911). O desenho é azul-marinho; foi traçado em azul-claro quase branco para aparecer sobre o fundo escuro do editor (como o Corinthians 1910)"
+      ]
     },
     {
       "id": "1911",
@@ -385,7 +365,6 @@
         "#c9a24b",
         "#f8f8f8"
       ],
-      "nota": "escudo do Grupo do Remo depois da reorganização de 1911 (boia salva-vidas com as iniciais GR entrelaçadas, cruzada por um par de remos), enviado pelo dono do projeto; período da Wikipédia (1911–1914). O azul-marinho foi clareado (#36497a) para aparecer sobre o fundo escuro do editor; a imagem original (400 px, com contorno pontilhado) foi limpa antes de traçar: ampliada 4 vezes e reduzida a três cores puras (azul-marinho, ouro e branco), com os contornos alisados",
       "escala": 2,
       "suavidade": 1.4,
       "minimo": 150
@@ -396,22 +375,19 @@
       "id": "1924",
       "label": "1924–1936",
       "commons": "Símbolo 1934.png",
-      "vetorizarAuto": true,
-      "nota": "escudo simples com as letras CAP entrelaçadas, sem listras, usado desde a fundação até 1936 (Olho no Lance, 'O escudo esquecido'); no Commons o arquivo se chama 'Símbolo 1934'"
+      "vetorizarAuto": true
     },
     {
       "id": "1936",
       "label": "1936–1944",
       "commons": "Símbolo 1924.png",
-      "vetorizarAuto": true,
-      "nota": "escudo triangular de listras horizontais vermelhas e pretas, com o CAP em estilo gótico; as listras aparecem em 1936 (Olho no Lance) e o redesenho de Lolô, com as letras estilizadas, vem por volta de 1944 (UmDois Esportes), por isso o período termina em 1944 (data inferida); no Commons o arquivo se chama 'Símbolo 1924'"
+      "vetorizarAuto": true
     },
     {
       "id": "1997",
       "label": "1997–2018",
       "commons": "Simbolo 2002.png",
-      "vetorizarAuto": true,
-      "nota": "escudo redondo, com as listras verticais e as letras de Lolô, adotado em 1997 e trocado na nova identidade de dezembro de 2018 (Wikipédia pt); no Commons o arquivo se chama 'Simbolo 2002'"
+      "vetorizarAuto": true
     }
   ],
   "vitoria": [
@@ -571,8 +547,7 @@
       "vetorizarPaleta": [
         "#f2c200",
         "#b80c10"
-      ],
-      "nota": "primeiro brasão do clube (âncora, remos, boia, croqué, bola, taco e raquete, com a data 13-5-1905), imagem de 735 px enviada pelo dono do projeto; a Wikipédia o dá como o brasão de 1905, até a adoção do leão em 1919"
+      ]
     },
     {
       "id": "1940",
@@ -585,7 +560,6 @@
         "#ea2126",
         "#3b3335"
       ],
-      "nota": "leão dourado segurando o escudo listrado com o monograma SCR e contorno preto fino, enviado pelo dono do projeto; período informado pelo dono do projeto (1940–1949). O preto foi clareado (#3b3335) para aparecer sobre o fundo escuro do editor",
       "sobrepor": 1,
       "nitido": true
     }
@@ -603,8 +577,7 @@
       "label": "1929–1938",
       "local": "Guarani-1930.png",
       "vetorizar": "duas-tintas",
-      "tinta": "#167358",
-      "nota": "escudo GUARANY F.C. CAMPINAS em alta resolução, enviado pelo dono do projeto (arquivo 'Guarani-1930'); período da Wikipédia (1929–1938)"
+      "tinta": "#167358"
     },
     {
       "id": "1949",
@@ -618,8 +591,7 @@
       "label": "1981–2000",
       "local": "Guarani-1981.png",
       "vetorizar": "duas-tintas",
-      "tinta": "#486838",
-      "nota": "escudo GUARANI F. CLUBE CAMPINAS 1911 em alta resolução (2400 px, só o traço verde, assentado sobre branco), enviado pelo dono do projeto; sem as estrelas (dourada e prateada de 1982 a 1996, só a dourada de 1996 a 2000)"
+      "tinta": "#486838"
     }
   ],
   "paysandu": [
@@ -727,8 +699,7 @@
       "vetorizarPaleta": [
         "#67915f",
         "#ffffff"
-      ],
-      "nota": "primeiro escudo do clube (brasão com a faixa branca e o monograma CFC), enviado pelo dono do projeto; usado de 1909 a 1915: uma foto de 1912 o mostra na camisa branca e em 1915 o clube trocou por um escudo mais simples (Arena Geral e Gazeta do Povo); a tabela 'Evolução do escudo' da Wikipédia lista 1909 e depois 1916"
+      ]
     }
   ],
   "fortaleza": [
@@ -736,8 +707,7 @@
       "id": "1918",
       "label": "1918–1935",
       "commons": "Fortaleza SC 1920 crest.png",
-      "vetorizarAuto": true,
-      "nota": "primeiro escudo do clube (círculo com as iniciais FSC, de Fortaleza Sporting Club); a Wikipédia o chama de 'primeiro escudo' e mostra o seguinte em 1935, por isso o período vai da fundação (1918) a 1935"
+      "vetorizarAuto": true
     },
     {
       "id": "1961",
@@ -749,8 +719,7 @@
         "#f5473e"
       ],
       "silhueta": "borda",
-      "refinar": true,
-      "nota": "escudo com a palavra FORTALEZA no alto e três faixas verticais (azul, branca e vermelha), enviado pelo dono do projeto; a Wikipédia registra o nome 'Fortaleza' no escudo a partir de 1961 e a adoção do triângulo atual por volta de 1966 (período inferido dessas duas datas)"
+      "refinar": true
     }
   ],
   "fluminense": [
@@ -774,15 +743,13 @@
         "#a43752",
         "#007f6d"
       ],
-      "silhueta": "linha",
-      "nota": "escudo de 1905–1906 (grená e verde, monograma ornamentado), enviado pelo dono do projeto; período conferido no World Soccer Pins"
+      "silhueta": "linha"
     },
     {
       "id": "2011",
       "label": "2011–2012",
       "local": "Fluminense-2011.png",
       "vetorizar": "paleta",
-      "nota": "escudo comemorativo de 2011–2012 (grená e dourado, segundo o World Soccer Pins), enviado pelo dono do projeto",
       "vetorizarPaleta": [
         "#a43752",
         "#d2ae6d"
@@ -795,8 +762,7 @@
       "label": "1903–1910",
       "local": "Gremio-1903.png",
       "vetorizar": "duas-tintas",
-      "tinta": "#4f80b1",
-      "nota": "primeiro emblema do Grêmio, 'G / FOOTBALL / PA' em azul e branco (Grêmiopédia: 1903–1910), enviado pelo dono do projeto"
+      "tinta": "#4f80b1"
     },
     {
       "id": "1922",
@@ -809,8 +775,7 @@
         "#f0cc18"
       ],
       "silhueta": "borda",
-      "refinar": true,
-      "nota": "escudo comemorativo dos 100 anos da Independência do Brasil, com o amarelo (não oficial) e 'FOOT-BALL' em letras vazadas; não foi usado em competições (Grêmiopédia e Wikipédia), enviado pelo dono do projeto"
+      "refinar": true
     }
   ],
   "amazonas": [
@@ -834,8 +799,7 @@
       "vetorizarPaleta": [
         "#2a8f68",
         "#f4f4f0"
-      ],
-      "nota": "escudo em brasão (escudo branco com contorno verde e monograma entrelaçado das iniciais EC G), enviado pelo dono do projeto (PNG de 447 px com fundo preto, limpo e traçado); período 1943–1950 segundo a linha do tempo de escudos do World Soccer Pins (o clube e a Wikipédia não trazem a história dos escudos). O verde foi clareado (#2a8f68) para aparecer sobre o fundo escuro do editor"
+      ]
     },
     {
       "id": "2019",
@@ -845,8 +809,7 @@
       "vetorizarPaleta": [
         "#f4f4f0",
         "#2f9e78"
-      ],
-      "nota": "escudo minimalista (G dentro de dois anéis), enviado pelo dono do projeto; o clube o oficializou em 18/01/2019 ('mais ênfase ao monograma G dentro do círculo', ESPN e Escudos do Mundo Inteiro); fim em 2021, quando o clube divulgou o escudo oficial atual (post de 06/04/2021 no site do clube; Commons: 'Goiás EC 2021'), ano aproximado; o estatuto do clube não permitia usá-lo nas camisas 1 e 2 (Mais Goiás). O disco interno foi preenchido de branco (como o escudo real, verde sobre branco, e como o brasão de 1943) para o fundo ter cor. O verde foi clareado (#2f9e78) para aparecer sobre o fundo escuro do editor"
+      ]
     }
   ],
   "bragantino": [
@@ -864,8 +827,7 @@
         "#f4f4f0",
         "#f2c200",
         "#4b4345"
-      ],
-      "nota": "escudo do Clube Atlético Bragantino (preto e branco, bola, faixa diagonal e três estrelas douradas), enviado pelo dono do projeto (JPG de 554 px, limpo e traçado); o fim em 2019 é firme (o clube anunciou o escudo do Red Bull Bragantino em 01/01/2020 e usou este até dezembro de 2019); o INÍCIO (2007) é estimativa: as três estrelas lembram o Paulista de 1990, a Série B de 1989 e a Série C de 2007 (blogs Abre o Jogo e Vem pra Garagem), então o desenho com as três só pode ser de 2007 em diante. O preto foi clareado (#4b4345) para aparecer sobre o fundo escuro do editor"
+      ]
     }
   ],
   "mirassol": [
@@ -882,8 +844,7 @@
       "vetorizarPaleta": [
         "#f4f4f0",
         "#3d4b9a"
-      ],
-      "nota": "escudo do Mirassol Atlético Clube (MAC, azul e branco), enviado pelo dono do projeto (JPG de 736 px, limpo e traçado); período de 1964 a 1981, quando o Mirassol e o GREC se fundiram no MAC e depois desfizeram a fusão, voltando ao nome e às cores originais (Wikipédia pt e en). O azul foi clareado (#3d4b9a) para aparecer sobre o fundo escuro do editor"
+      ]
     }
   ],
   "chapecoense": [
@@ -900,8 +861,7 @@
       "vetorizarPaleta": [
         "#f4f4f0",
         "#1fa046"
-      ],
-      "nota": "escudo da Chapecoense de 1975 a 1984 (monograma ACF de letras irregulares, anel com o nome e 'CHAPECÓ SC'; sem ano nem estrelas), enviado pelo dono do projeto (WebP de 1000 px, com fundo transparente), período dado por ele; o verde foi clareado (#1fa046) para aparecer sobre o fundo escuro do editor"
+      ]
     }
   ],
   "criciuma": [
@@ -918,8 +878,7 @@
       "vetorizarPaleta": [
         "#f4f4f0",
         "#3b7ccc"
-      ],
-      "nota": "primeiro escudo do clube, quando ainda era o Comerciário (globo azul e branco com as letras C E C), enviado pelo dono do projeto (WebP de 200 px, ampliado e traçado); período de 1947 a 1948 segundo a página de símbolos do site oficial do Criciúma, que diz que ele só aparecia no segundo uniforme; o azul foi clareado (#3b7ccc) para aparecer sobre o fundo escuro do editor"
+      ]
     },
     {
       "id": "1948",
@@ -934,8 +893,7 @@
       "vetorizarPaleta": [
         "#f4f4f0",
         "#3b7ccc"
-      ],
-      "nota": "segundo escudo do Comerciário, com o emblema do comércio (caduceu com asas) no centro, enviado pelo dono do projeto (PNG de 800 px); período de 1948 a 1978 segundo o site oficial do clube, que o manteve depois da mudança de nome para Criciúma Esporte Clube em 1978; o azul foi clareado (#3b7ccc) para aparecer sobre o fundo escuro do editor"
+      ]
     }
   ],
   "juventude": [
@@ -952,8 +910,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#00a038"
-      ],
-      "nota": "escudo redondo em forma de bola, com o S.C. Juventude e 1913, enviado pelo dono do projeto (PNG de 241 px, ampliado e traçado); período de 1949 a 1957 segundo a seção de símbolos da Wikipédia pt, que lista os períodos sem descrever os desenhos"
+      ]
     },
     {
       "id": "1963",
@@ -968,8 +925,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#089050"
-      ],
-      "nota": "bola com o J grande, S.C., 1913 e ramos de louro em volta, enviado pelo dono do projeto (PNG de 2841 px, reduzido para 1000 px e traçado); período de 1963 a 1974 segundo a seção de símbolos da Wikipédia pt, que lista os períodos sem descrever os desenhos"
+      ]
     }
   ],
   "parana": [
@@ -989,14 +945,12 @@
         "#ff0000",
         "#000000"
       ],
-      "nota": "escudo do Colorado Esporte Clube, um dos dois clubes que se fundiram no Paraná Clube em 19 de dezembro de 1989: círculo vermelho com a barra preta e as palavras COLORADO E.C. PARANÁ, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado); o período é o da existência do clube (29 de junho de 1971 a 19 de dezembro de 1989, Wikipédia pt), que não traz a data de cada escudo",
       "bordaPx": 0
     },
     {
       "id": "1971-pinheiros",
       "label": "Pinheiros · 1971–1989",
-      "local": "Pinheiros-1971.svg",
-      "nota": "escudo do Esporte Clube Pinheiros (ex-Água Verde), o outro clube da fusão que criou o Paraná Clube em 1989: bola roxa com o pinheiro e o nome PINHEIROS PARANÁ, enviado pelo dono do projeto (SVG, só com o viewBox ajustado ao conteúdo); o clube adotou o nome e o escudo em 12 de agosto de 1971 e durou até 1989 (Wikipédia pt)"
+      "local": "Pinheiros-1971.svg"
     }
   ],
   "santo-andre": [
@@ -1009,8 +963,7 @@
       "vetorizarPaleta": [
         "#3b8052",
         "#f5eb38"
-      ],
-      "nota": "escudo SAFC, em verde e amarelo, com o X do brasão da cidade, enviado pelo dono do projeto (WebP de 1000 px, traçado); período de 1967 a 1975 inferido: a Wikipédia pt diz que o Santo André F.C. nasceu em 1967 com as cores da cidade e um detalhe do brasão no escudo, e que em 1975 o brasão inteiro virou o escudo e o verde e amarelo deu lugar ao azul e branco, mas não traz o desenho nem a data exata do escudo SAFC"
+      ]
     }
   ],
   "santa-cruz": [
@@ -1019,8 +972,7 @@
       "label": "1914–1915",
       "local": "Santa-Cruz-1914.png",
       "vetorizar": "monocromo",
-      "cor": "#ffffff",
-      "nota": "primeiro símbolo do clube, só o monograma SCFC em linhas, enviado pelo dono do projeto (PNG de 447 px, traçado); período de 1914 a 1915 informado pelo dono do projeto (o clube foi fundado em 3 de fevereiro de 1914 e o escudo da âncora, de Teófilo de Carvalho, é de 1915); o desenho era preto e foi traçado em branco para aparecer sobre o fundo escuro do editor"
+      "cor": "#ffffff"
     },
     {
       "id": "1940",
@@ -1039,8 +991,7 @@
         "#d83040",
         "#000000",
         "#f0bc66"
-      ],
-      "nota": "escudo com contorno e monograma dourados sobre preto, branco e vermelho, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado); período informado pelo dono do projeto como \"dos anos 40/50\", registrado como 1940–1959 (aproximado, sem fonte que date o desenho)"
+      ]
     }
   ],
   "sampaio-correa": [
@@ -1058,8 +1009,7 @@
         "#f8f050",
         "#28905f",
         "#e03838"
-      ],
-      "nota": "primeiro escudo do clube: listras verticais vermelhas e verdes, S.C.F.C. e uma pequena bola no topo, enviado pelo dono do projeto (WebP de 200 px, ampliado e traçado); período de 1923 a 1933 segundo a lista de escudos do Logopedia (logos.fandom.com), onde o arquivo se chama Sampaio-Corrêa-1923"
+      ]
     },
     {
       "id": "1933",
@@ -1077,8 +1027,7 @@
         "#f8f050",
         "#28905f",
         "#e03838"
-      ],
-      "nota": "escudo amarelo com listras verdes, S.C.F.C. em vermelho e a bola no topo, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado); período de 1933 a 1972 segundo a lista de escudos do Logopedia (logos.fandom.com), casado com o desenho"
+      ]
     }
   ],
   "portuguesa": [
@@ -1094,8 +1043,7 @@
         "#38a848",
         "#f0f030",
         "#2878d0"
-      ],
-      "nota": "primeiro escudo do clube, o escudo português (metade verde, metade vermelha, com o brasão e a esfera armilar de Portugal), apresentado em 14 de agosto de 1920, na fundação (Wikipédia pt); enviado pelo dono do projeto como uma captura de tela de 172 px, ampliada e traçada pelas cores (verde, vermelho, amarelo e azul); período 1920–1923 definido pelo dono do projeto (o da Cruz de Avis começa em 1923; o blog de torcedores 'Orgulho de ser Lusa' legenda o escudo de Portugal como '1920' e o do Mackenzie College como '1920 até 1923')"
+      ]
     },
     {
       "id": "2005",
@@ -1115,8 +1063,7 @@
         "#c81818",
         "#409038",
         "#c0a050"
-      ],
-      "nota": "escudo modernizado, com a guarnição dourada em volta do contorno vermelho, enviado pelo dono do projeto (PNG de 492 px com o xadrez de transparência gravado na imagem, apagado e traçado); período de 2005 a 2015 segundo a Wikipédia pt (legenda do escudo e texto: em 2005 o logotipo foi modernizado e em 2015 voltou o distintivo dos anos 90)"
+      ]
     }
   ],
   "ponte-preta": [
@@ -1133,8 +1080,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#181818"
-      ],
-      "nota": "escudo com dois P sobrepostos e as letras A A no canto superior esquerdo, enviado pelo dono do projeto (PNG de 482 px, ampliado e traçado); adotado em 1928 e substituído em 1929 por um com as letras PP, segundo a Wikipédia pt (tabela de evolução do escudo e texto)"
+      ]
     },
     {
       "id": "1995",
@@ -1145,8 +1091,7 @@
       "vetorizarPaleta": [
         "#000000",
         "#ffffff"
-      ],
-      "nota": "escudo com PONTE PRETA no lugar de AAPP, o círculo O PRIMEIRO CLUBE DE FUTEBOL DO BRASIL e a faixa com a data de fundação, enviado pelo dono do projeto (PNG de 801 px, traçado); período 1995–1996 definido pelo dono do projeto: a Wikipédia pt diz que o uniforme com esse escudo foi usado no segundo semestre de 1995 e que em 1996 o clube manteve PONTE PRETA no lugar de AAPP, mas tirou o círculo e a faixa"
+      ]
     }
   ],
   "america-mg": [
@@ -1159,8 +1104,7 @@
       "vetorizarPaleta": [
         "#000000",
         "#ffffff"
-      ],
-      "nota": "primeiro escudo do clube, o monograma AFC em preto e branco (o clube foi alvinegro no início), enviado pelo dono do projeto (WebP de 800 px, traçado); período 1912–1933 segundo a lista de escudos do Logopedia (logos.fandom.com), onde o arquivo se chama América-MG-1912"
+      ]
     },
     {
       "id": "2017",
@@ -1173,8 +1117,7 @@
         "#006038",
         "#f8c000",
         "#b82820"
-      ],
-      "nota": "escudo verde com três estrelas (duas amarelas e uma vermelha, a da Copa Sul-Minas de 2000) e a faixa 1916 DECA 1925, enviado pelo dono do projeto (PNG de 343 px, traçado pelas cores); período 2017–2018 segundo a Wikipédia pt (\"escudo utilizado em 2017\"; em 2018 as estrelas mudaram para duas douradas) e o Logopedia"
+      ]
     }
   ],
   "nautico": [
@@ -1187,8 +1130,7 @@
       "refinar": true,
       "vetorizarPaleta": [
         "#ff0000"
-      ],
-      "nota": "primeiro escudo do clube, com a âncora, os dois remos (o esporte que deu origem ao clube) e o diagrama CNC, enviado pelo dono do projeto (JPG de 736 px, traçado); a Wikipédia pt diz que o primeiro escudo é de 1901 e que em 1931 o clube o trocou pela bandeira no uniforme"
+      ]
     },
     {
       "id": "1931",
@@ -1197,8 +1139,7 @@
       "vetorizar": "finas",
       "cor": "#f01828",
       "ganho": 1.6,
-      "preto": "#000000",
-      "nota": "a bandeira listrada com o mastro e o CNC, enviada pelo dono do projeto (PNG de 399 px, traçado no modo \"finas\", que reforça as linhas de 1 px da bola, do X e das letras do cantão); período 1931–1969 segundo a tabela de evolução do escudo da Wikipédia pt (\"de 1931 a 1969\"; em 1969 entram as seis estrelas do hexa e em 1995 sai o mastro)"
+      "preto": "#000000"
     }
   ],
   "atletico-go": [
@@ -1212,8 +1153,7 @@
         "#181810",
         "#c82018",
         "#ffffff"
-      ],
-      "nota": "círculo vermelho e preto com o monograma ACG em letras grandes, enviado pelo dono do projeto (PNG de 800 px, traçado); período 1937–1940 inferido: a Wikipédia pt diz que o escudo começou \"com letras garrafais\" e o Logopedia (logos.fandom.com) lista 1937–1940 como o primeiro período, mas não consegui ver a imagem dele para confirmar que é este desenho"
+      ]
     },
     {
       "id": "2017",
@@ -1228,7 +1168,6 @@
         "#c9a56d",
         "#c6cacd"
       ],
-      "nota": "escudo triangular com a placa A C G e as três estrelas (bronze, prata e bronze, que batem com a Série C 1990 e 2008 e a Série B 2016), enviado pelo dono do projeto (PNG de 148 px, traçado pelas cores); período 2017–2020 inferido: a Wikipédia pt tem este desenho como \"escudo 2017\" e diz que o formato atual foi incorporado em 2020, e a terceira estrela só pôde entrar depois do título da Série B de 2016; as três estrelas foram redesenhadas como estrelas regulares (no mesmo centro e tamanho), porque a imagem original, de 148 px, deixava as bordas onduladas",
       "estrelasRegulares": [
         "#c9a56d",
         "#c6cacd"
@@ -1245,8 +1184,7 @@
       "refinar": true,
       "vetorizarPaleta": [
         "#d83040"
-      ],
-      "nota": "primeiro escudo do clube, o monograma V N F C em branco sobre um escudo vermelho, enviado pelo dono do projeto (PNG de 447 px, traçado); período 1943–1945 inferido: o Logopedia (logos.fandom.com) lista 1943–1945 como o primeiro período e o desenho é o mais antigo dos enviados, mas não consegui ver a imagem dele para confirmar"
+      ]
     },
     {
       "id": "1996",
@@ -1258,8 +1196,7 @@
       "vetorizarPaleta": [
         "#e01820",
         "#f8c800"
-      ],
-      "nota": "escudo com cinco estrelas, as quatro vermelhas do tetra goiano (1977 a 1980) e a amarela da Série C de 1996, enviado pelo dono do projeto (PNG de 320 px, traçado pelas cores); período 1996–2016 segundo O Popular e o Futebol Goiano: a estrela amarela vem do título de 1996 e, a partir de 2016, o escudo passou a ter duas estrelas amarelas (Série C 1996 e 2015)"
+      ]
     }
   ],
   "cuiaba": [
@@ -1275,8 +1212,7 @@
         "#f8f000",
         "#d01800",
         "#000000"
-      ],
-      "nota": "primeiro escudo do clube, o escudo redondo com o nome em vermelho, o mapa de Mato Grosso, o obelisco do Centro Geodésico e \"Fundado em 12-12-2001\", enviado pelo dono do projeto (JPG de 554 px, traçado pelas cores); período 2001–2010 segundo o Logopedia (logos.fandom.com), que lista este como o primeiro escudo do clube"
+      ]
     }
   ],
   "brasiliense": [
@@ -1416,8 +1352,7 @@
       "refinar": true,
       "vetorizarPaleta": [
         "#000000"
-      ],
-      "nota": "escudo redondo com o monograma ABC em preto e branco, enviado pelo dono do projeto (PNG de 447 px, traçado); período 1915–1926 inferido: o Logopedia (logos.fandom.com) lista 1915–1926 como o primeiro período do clube (fundado em 29 de junho de 1915) e este é o desenho mais simples e mais antigo dos enviados, mas não consegui ver a imagem dele para confirmar"
+      ]
     },
     {
       "id": "1996",
@@ -1432,8 +1367,7 @@
       "vetorizarPaleta": [
         "#000000",
         "#ffffff"
-      ],
-      "nota": "escudo de campo branco com uma faixa diagonal preta e as letras A B C em branco (o inverso do atual), enviado pelo dono do projeto (PNG de 320 px do SeekLogo, traçado); período 1996–2010 inferido: o Logopedia (logos.fandom.com) lista 1996–2010 entre o círculo de 1915 e o escudo atual, que é de 2011 em diante, mas não consegui ver as imagens dele para confirmar qual período é este desenho"
+      ]
     }
   ],
   "america-rn": [
@@ -1450,8 +1384,7 @@
       "vetorizarPaleta": [
         "#302878",
         "#ffffff"
-      ],
-      "nota": "primeiro escudo do clube, o círculo azul e branco com o monograma AFC (o clube começou azul e branco e adotou o vermelho depois da extinção do Sport Club Natalense), enviado pelo dono do projeto (WebP de 250 px, ampliado e traçado); período 1915–1918 segundo a Wikipédia pt (legenda da evolução do escudo) e o Logopedia"
+      ]
     },
     {
       "id": "1973",
@@ -1462,8 +1395,7 @@
       "vetorizarPaleta": [
         "#d80810",
         "#ffffff"
-      ],
-      "nota": "círculo vermelho e branco com o monograma AFC e NATAL-RN embaixo, enviado pelo dono do projeto (PNG de 922 px, traçado); período 1973–1979 segundo o nome do arquivo (Wikimedia Commons) e o Logopedia; a legenda da Wikipédia pt diz 1973–1978"
+      ]
     },
     {
       "id": "2022",
@@ -1480,8 +1412,7 @@
       "estrelasRegulares": [
         "#f8c058",
         "#c8c8c8"
-      ],
-      "nota": "escudo redondo com seis estrelas (cinco douradas e uma cinza), enviado pelo dono do projeto (PNG de 447 px, traçado pelas cores, com as estrelas redesenhadas como estrelas regulares); período 2022–2023 inferido: o Logopedia (logos.fandom.com) lista 2022–2023 antes do escudo atual (2023 em diante, com quatro estrelas) e a estrela cinza do centro combina com o título da Série D de 2022, mas não consegui ver as imagens dele para confirmar"
+      ]
     }
   ],
   "botafogo-pb": [
@@ -1495,8 +1426,7 @@
       "vetorizarPaleta": [
         "#000000"
       ],
-      "contornoClaro": true,
-      "nota": "escudo antigo preto e branco, a estrela preta com as letras BFC, enviado pelo dono do projeto (JPG de 554 px, traçado); período 1931–1952 inferido: a Wikipédia pt diz que o escudo antigo foi usado até a década de 1970 (preto e branco, com a estrela preta) e o Logopedia (logos.fandom.com) lista 1931–1952 como o primeiro período do clube, mas não consegui ver as imagens dele para confirmar; ganhou um contorno branco fino por fora, porque a estrela preta some no fundo escuro do editor (só as letras apareciam)"
+      "contornoClaro": true
     },
     {
       "id": "1974",
@@ -1508,8 +1438,7 @@
       "vetorizarPaleta": [
         "#000000",
         "#d83040"
-      ],
-      "nota": "escudo com as cores da bandeira da Paraíba, metade preta e metade vermelha com a estrela branca, enviado pelo dono do projeto (PNG de 447 px, traçado pelas cores); período 1974–1978 segundo a Wikipédia pt: em 1974 o clube passou a ter a estrela vermelha e o escudo com as cores da bandeira da Paraíba, e em 1978 voltou ao alvinegro da estrela vermelha (o Logopedia lista 1970–1976 e 1977–1978)"
+      ]
     }
   ],
   "nacional-am": [
@@ -1591,8 +1520,7 @@
       "vetorizarPaleta": [
         "#f4f4f0",
         "#ed3237"
-      ],
-      "nota": "losango vermelho e branco com as letras B A C, enviado pelo dono do projeto (PNG de 320 px do SeekLogo, traçado); o SeekLogo o chama de \"primeiro escudo do time\" e o data de 1906 (também no nome do arquivo); período 1906–1950 inferido: o início é o do SeekLogo e o fim é a virada do primeiro período do Logopedia (logos.fandom.com), que lista 1905–1950 para o primeiro escudo do clube, mas não consegui ver as imagens dele para confirmar qual é"
+      ]
     },
     {
       "id": "1949",
@@ -1609,8 +1537,7 @@
         "#f4f4f0",
         "#f70400",
         "#46423a"
-      ],
-      "nota": "losango com a palavra BANGU em vermelho e moldura preta, enviado pelo dono do projeto (PNG de 617 px, traçado); é o losango da Fábrica Bangu, que o clube estampou na camisa (a Wikipédia pt conta que foi pioneiro na publicidade em camisas, com o losango da fábrica em 1949, e a Revista REGEO diz que o arranjo durou até 1956), então não é um escudo do clube em si; período 1949–1956; a moldura preta foi clareada (#46423a) para aparecer sobre o fundo escuro do editor"
+      ]
     }
   ],
   "ituano": [
@@ -1629,8 +1556,7 @@
         "#f4f4f0",
         "#f81d24",
         "#2d309c"
-      ],
-      "nota": "círculo vermelho com a locomotiva azul, a sigla F.A.I. em cima e ITU embaixo (a Estrada de Ferro Sorocabana, dona do clube de origem ferroviária), enviado pelo dono do projeto (WebP de 300 px, traçado) (a sigla F.A.I. é de Ferroviário Atlético Ituano, nome que o clube teve de 1966 a 1990; o Logopedia, logos.fandom.com, lista sete escudos desse período, 1966–1968, 1968–1972, 1972–1976, 1976–1978, 1978–1980, 1980–1982 e 1982–1991, mas não consegui ver as imagens dele nem achei fonte que ligue cada desenho a um ano); período 1966–1977 inferido: começa quando o clube virou Ferroviário e termina no ano em que, segundo a Wikipédia pt, o futebol de Itu foi unificado em torno do FAI e o clube adotou o rubro-negro, que o escudo azul e vermelho já não usa"
+      ]
     },
     {
       "id": "1977",
@@ -1647,8 +1573,7 @@
         "#f4f4f0",
         "#e93f02",
         "#292f81"
-      ],
-      "nota": "escudo em brasão com listras verticais laranja, brancas e azuis, a faixa diagonal com F.A.I. e a bola de vôlei-futebol, enviado pelo dono do projeto (JPG de 447 px, traçado) (a sigla F.A.I. é de Ferroviário Atlético Ituano, nome que o clube teve de 1966 a 1990; o Logopedia, logos.fandom.com, lista sete escudos desse período, 1966–1968, 1968–1972, 1972–1976, 1976–1978, 1978–1980, 1980–1982 e 1982–1991, mas não consegui ver as imagens dele nem achei fonte que ligue cada desenho a um ano); período 1977–1990 inferido: depois da unificação de 1977 em torno do FAI até o clube virar Ituano Futebol Clube (1990, segundo a Wikipédia pt e o Gino Escudos; o Logopedia dá 1991)"
+      ]
     }
   ],
   "volta-redonda": [
@@ -1666,8 +1591,7 @@
       "vetorizarPaleta": [
         "#46423a",
         "#f4f4f0"
-      ],
-      "nota": "primeiro escudo do clube (fundado em 09/02/1976), o brasão preto com as letras VRFC, o U branco e as setas de raios cruzadas, enviado pelo dono do projeto (WebP de 1000 px, com a borda semitransparente achatada sobre o branco e traçado); período 1976–1980 segundo o Logopedia (logos.fandom.com), que lista este arquivo (Volta-Redonda-1976) como o primeiro período do clube; o preto foi clareado (#46423a) para aparecer sobre o fundo escuro do editor"
+      ]
     }
   ],
   "avai": [
@@ -1679,8 +1603,7 @@
       "vetorizarPaleta": [
         "#003380",
         "#ffffff"
-      ],
-      "nota": "brasão azul com o círculo branco e as letras AFC (Avahy Foot-ball Club), enviado pelo dono do projeto (WebP de 3840 px do Avahy FC (01), traçado pelas duas cores; a lasca branca solta por fora da borda azul, na parte de baixo do arquivo original, foi apagada antes de traçar, porque no fundo escuro parecia um vão na ponta do escudo) (a Wikipédia pt diz que, nos primeiros anos, o clube, então Avahy Foot-ball Club, tinha um escudo em forma de brasão com um círculo branco e as letras AFC em azul; o Logopedia, logos.fandom.com, lista dois escudos de 1923, o de \"1923\" e o de \"1923–1940\", mas não consegui ver as imagens dele, então qual arquivo é qual é inferência); o nome do arquivo (01) indica o primeiro"
+      ]
     },
     {
       "id": "1923-2",
@@ -1696,8 +1619,7 @@
       "vetorizarPaleta": [
         "#044897",
         "#ffffff"
-      ],
-      "nota": "escudo azul com filete branco por dentro e as letras AFC inclinadas, enviado pelo dono do projeto (PNG de 554 px, traçado pelas cores) (a Wikipédia pt diz que, nos primeiros anos, o clube, então Avahy Foot-ball Club, tinha um escudo em forma de brasão com um círculo branco e as letras AFC em azul; o Logopedia, logos.fandom.com, lista dois escudos de 1923, o de \"1923\" e o de \"1923–1940\", mas não consegui ver as imagens dele, então qual arquivo é qual é inferência); é o segundo, que o Logopedia dá de 1923 a 1940"
+      ]
     }
   ],
   "figueirense": [
@@ -1706,7 +1628,6 @@
       "label": "1921–1930",
       "local": "Figueirense-1921.png",
       "vetorizar": "duas-tintas",
-      "nota": "primeiro escudo do clube, as iniciais FFC sobrepostas num brasão branco (inspirado no do Botafogo, segundo o ND Mais), enviado pelo dono do projeto (JPG de 280 px; para o traço sair liso, a imagem foi ampliada 6x, ganhou níveis e um alisamento antes de traçar pelos tons de cinza; o JPG original está em _originais/Figueirense-1921-original.jpg); período 1921–1930 inferido: a Wikipédia pt lista 1921–1930 para o primeiro escudo e o Logopedia (logos.fandom.com) lista 1921–1924, mas não consegui ver as imagens dos dois para confirmar qual é; o preto foi clareado (#46423a) para aparecer sobre o fundo escuro do editor",
       "tinta": "#46423a"
     },
     {
@@ -1718,8 +1639,7 @@
         "#46423a",
         "#ffffff",
         "#2c9563"
-      ],
-      "nota": "escudo redondo com o nome do clube por extenso, SANTA CATARINA, o brasão com a figueira ao centro e o anel verde, enviado pelo dono do projeto (PNG de 800 px, traçado); o ND Mais (2017) diz que um escudo redondo com o nome por extenso e Santa Catarina foi usado nos anos 80; período 1980–1999 inferido: é o que a Wikipédia pt lista para o escudo de 1980 até o atual (1999), mas não consegui ver as imagens dela para confirmar qual é; o preto foi clareado (#46423a) para aparecer sobre o fundo escuro do editor"
+      ]
     }
   ],
   "brasilia": [
@@ -1883,14 +1803,12 @@
         "#dc221c",
         "#046aac",
         "#4a4a4a"
-      ],
-      "nota": "escudo original do clube: círculo verde com a bola em verde, vermelho e azul, o monograma LEC, o ano 2004 e o texto LUVERDENSE ESPORTE CLUBE, enviado pelo dono do projeto (GIF de 200 px do seeklogo, aro traçado como círculo exato e o resto pelas cores); período 2004–2011: o clube foi fundado em 2004 e um escudo novo do clube foi divulgado em 1º de junho de 2011 (post \"Novo escudo do Luverdense/MT\" do blog História do Futebol, com imagem do site do clube, sem descrever o desenho); o fim em 2011 supõe que esse seja o brasão com as estrelas, e a data exata em que o redondo saiu de uso não é conhecida"
+      ]
     },
     {
       "id": "2012",
       "label": "2012–2016",
-      "local": "Luverdense-2012.svg",
-      "nota": "escudo em forma de brasão, com o LEC, as faixas verdes, o texto Luverdense Esporte Clube 2004 e duas estrelas (uma por título estadual), arquivo SVG da Wikipédia pt (LuverdenseEsporteClube.svg, enviado em 22 de agosto de 2013 a partir da página de imprensa do clube); período 2012–2016 inferido: as duas estrelas valem os títulos estaduais de 2009 e 2012, e o escudo atual, com três, vem do terceiro título, o de 2016"
+      "local": "Luverdense-2012.svg"
     }
   ],
   "manaus": [
@@ -2070,8 +1988,7 @@
         "#ffffff",
         "#ee0103",
         "#000000"
-      ],
-      "nota": "escudo em brasão listrado de preto e vermelho com o CC branco no quadro, parecido com o do Flamengo, enviado pelo dono do projeto (PNG de 320 px, ampliado e traçado nas cores do original); período 1960–1969 pela Wikipédia pt (\"no início da década de 1960\" o clube chegou a usar três escudos na mesma temporada, um deles uma cópia do escudo do Flamengo com o CC no quadro) e pelo Logopedia, que legenda os escudos alternativos dessa fase como \"1960s\"; o escudo aparece em 1963 no uniforme rubro-negro do post \"Campinense Clube\" do blog História do Futebol (fonte: Diário de Pernambuco); o ano exato de início e o de fim não são conhecidos, então o período é a década"
+      ]
     }
   ],
   "paulista": [
@@ -2090,8 +2007,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#0c0c0a"
-      ],
-      "nota": "escudo preto e branco em forma de brasão com o monograma PFc, o primeiro do clube, enviado pelo dono do projeto (JPG de 735 px, ampliado e traçado nas cores do original); período 1909–1910: o Logopedia (logos.fandom.com) lista este escudo (Paulista-FC-1909) só em 1909 e traz o seguinte, o PFC branco, a partir de 1910 (1910–1912); o fim em 1910 é o ano em que o seguinte começa, e a data exata da troca não é conhecida"
+      ]
     },
     {
       "id": "1951",
@@ -2109,8 +2025,7 @@
         "#ffffff",
         "#db0415",
         "#000000"
-      ],
-      "nota": "escudo com as listras diagonais pretas e brancas, a faixa PAULISTA em vermelho e o símbolo redondo no centro, enviado pelo dono do projeto (JPG de 533 px, ampliado e traçado nas cores do original); período 1951–1955 segundo o Logopedia (logos.fandom.com), que lista este escudo (Paulista-FC-1951) nesse intervalo"
+      ]
     }
   ],
   "tombense": [
@@ -2127,8 +2042,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#e84838"
-      ],
-      "nota": "escudo em losango vermelho com o monograma TFC, enviado pelo dono do projeto (PNG de 320 px do seeklogo, ampliado e traçado nas cores do original); período 1999–2014 segundo o Logopedia (logos.fandom.com), e a Wikipédia pt legenda este escudo como o usado até 2014, ano do título da Série D"
+      ]
     },
     {
       "id": "2015",
@@ -2145,8 +2059,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#b81818"
-      ],
-      "nota": "escudo em losango vermelho com o tabuleiro de xadrez e o texto TOMBENSE FUTEBOL CLUBE 1914, enviado pelo dono do projeto (JPG de 401 px recortado na área do escudo, sem a marca d'água, ampliado e traçado); período 2015–2019 segundo o Logopedia (logos.fandom.com), casado com o desenho porque o arquivo dele não pôde ser baixado para conferir"
+      ]
     }
   ],
   "tupi": [
@@ -2163,8 +2076,7 @@
       "vetorizarPaleta": [
         "#1f1f21",
         "#f6f6f6"
-      ],
-      "nota": "escudo preto com o monograma TF em branco, o primeiro do clube, enviado pelo dono do projeto (PNG de 424 px, ampliado e traçado nas cores do original); período 1912–1913 segundo o Logopedia (logos.fandom.com), e a linha do tempo \"Evolução dos Escudos do Tupi\" da Wikipédia pt dá 1912 e seguinte a partir de 1913"
+      ]
     }
   ],
   "uberlandia": [
@@ -2181,8 +2093,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#007848"
-      ],
-      "nota": "escudo oval branco com a borda verde e as letras UEC, enviado pelo dono do projeto (WebP de 1000 px, convertido para PNG, ampliado e traçado); período 1922–1923 segundo o Logopedia (logos.fandom.com), que lista este escudo (Uberlandia-EC-1922) só em 1922 e o seguinte a partir de 1923; o fim em 1923 é o ano em que o seguinte começa"
+      ]
     },
     {
       "id": "1966",
@@ -2197,8 +2108,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#088848"
-      ],
-      "nota": "escudo branco com a faixa verde U.E.C. e a bola, enviado pelo dono do projeto (WebP de 200 px, convertido para PNG, ampliado e traçado); período 1966–1968 segundo o Logopedia (logos.fandom.com)"
+      ]
     }
   ],
   "crb": [
@@ -2217,8 +2127,7 @@
       "vetorizarPaleta": [
         "#ed0303",
         "#ffffff"
-      ],
-      "nota": "escudo retangular vermelho com a sigla CRB em branco, enviado pelo dono do projeto (PNG de 185 px, ampliado e traçado nas cores do original); período 1927–1959 segundo a linha do tempo de escudos da Wikipédia pt (1927, 1959, 1979) e o Futbox (1927, 1959, 1979 e 2012); cada escudo vale até o ano do seguinte"
+      ]
     },
     {
       "id": "1940",
@@ -2236,8 +2145,7 @@
         "#dc3444",
         "#fcfcfc",
         "#4d4d4d"
-      ],
-      "nota": "boia vermelha com dois remos cruzados, corrente e as letras C R B em preto, PNG de 800×800 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #4d4d4d para aparecer sobre o fundo escuro do editor); período informado pelo dono do projeto"
+      ]
     },
     {
       "id": "1979",
@@ -2254,8 +2162,7 @@
       "vetorizarPaleta": [
         "#dc3444",
         "#fcfcfc"
-      ],
-      "nota": "escudo branco com cruz e as letras CRB em traço fino vermelho, PNG de 800×800 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido; período informado pelo dono do projeto"
+      ]
     },
     {
       "id": "1995",
@@ -2272,8 +2179,7 @@
       "vetorizarPaleta": [
         "#dc3444",
         "#fcfcfc"
-      ],
-      "nota": "escudo com a cruz de São Jorge e as letras CRB cheias em vermelho, PNG de 800×800 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido; período informado pelo dono do projeto"
+      ]
     }
   ],
   "csa": [
@@ -2292,8 +2198,7 @@
       "vetorizarPaleta": [
         "#2c40b0",
         "#fcfcfc"
-      ],
-      "nota": "escudo azul e branco com as letras C.S.J.F.P. na faixa diagonal, PNG de 1099×1431 com fundo transparente enviado pelo dono do projeto, vetorizado para ficar nítido (o azul-marinho foi clareado para #2c40b0 para aparecer sobre o fundo escuro do editor); período 1915–1917 informado pelo dono do projeto"
+      ]
     },
     {
       "id": "1918",
@@ -2309,8 +2214,7 @@
       "bordaPx": 2,
       "vetorizarPaleta": [
         "#0484d4"
-      ],
-      "nota": "monograma CSA em azul, só as letras, PNG de 1361×1156 com fundo transparente enviado pelo dono do projeto, vetorizado para ficar nítido; período 1918–1928 informado pelo dono do projeto"
+      ]
     },
     {
       "id": "1927",
@@ -2327,8 +2231,7 @@
       "vetorizarPaleta": [
         "#046cb4",
         "#fcfcfc"
-      ],
-      "nota": "disco branco com o aro e o monograma CSA em azul, PNG de 1254×1254 com fundo transparente (o halo claro externo foi tirado) enviado pelo dono do projeto, vetorizado para ficar nítido; período 1927–1928 informado pelo dono do projeto"
+      ]
     },
     {
       "id": "1929",
@@ -2345,8 +2248,7 @@
       "vetorizarPaleta": [
         "#0074bc",
         "#fcfcfc"
-      ],
-      "nota": "disco azul com o monograma CSA em branco, WEBP de 800×800 (convertido para PNG; o arquivo se chamava CSA-1940) com fundo transparente (a margem branca em volta do disco foi tirada) enviado pelo dono do projeto, vetorizado para ficar nítido; período 1929–1932 informado pelo dono do projeto"
+      ]
     },
     {
       "id": "1933",
@@ -2363,8 +2265,7 @@
       "vetorizarPaleta": [
         "#0074bc",
         "#fcfcfc"
-      ],
-      "nota": "escudo azul com o monograma CSA em branco, WEBP de 800×800 (convertido para PNG; o arquivo se chamava CSA-1950) com fundo transparente (o contorno branco externo foi tirado) enviado pelo dono do projeto, vetorizado para ficar nítido; período 1933–1940 informado pelo dono do projeto"
+      ]
     },
     {
       "id": "1941",
@@ -2383,8 +2284,7 @@
         "#fcfcfc",
         "#0464bc",
         "#34045c"
-      ],
-      "nota": "círculo branco com o nome CENTRO SPORTIVO ALAGOANO e 1913, a bandeira listrada de azul e branco com o monograma CSA em roxo e a coroa de louros verde, PNG de 1280×1225 com fundo transparente enviado pelo dono do projeto, vetorizado para ficar nítido; período 1941–1952 informado pelo dono do projeto"
+      ]
     },
     {
       "id": "1953",
@@ -2402,8 +2302,7 @@
         "#0494d4",
         "#fcfcfc",
         "#047cc4"
-      ],
-      "nota": "losango branco com o contorno azul e as letras CSA em azul, PNG de 1794×876 sobre fundo preto (que foi tirado) enviado pelo dono do projeto, vetorizado para ficar nítido; período 1953–1957 informado pelo dono do projeto"
+      ]
     },
     {
       "id": "1958",
@@ -2420,8 +2319,7 @@
       "vetorizarPaleta": [
         "#0450a4",
         "#fcfcfc"
-      ],
-      "nota": "escudo azul com o monograma CSA, a faixa diagonal UNIÃO E FORÇA e as listras brancas, PNG de 1140×1380 com um fundo xadrez cinza e branco embutido (tirado), enviado pelo dono do projeto, vetorizado para ficar nítido; período 1958–1959 informado pelo dono do projeto"
+      ]
     },
     {
       "id": "1960",
@@ -2438,8 +2336,7 @@
       "vetorizarPaleta": [
         "#046c74",
         "#b8b4a4"
-      ],
-      "nota": "escudo verde-azulado e bege com o monograma CSA, a faixa diagonal UNIÃO E FORÇA e as listras, PNG de 1098×1432 com fundo transparente enviado pelo dono do projeto, vetorizado para ficar nítido; período 1960–1968 informado pelo dono do projeto"
+      ]
     },
     {
       "id": "1969",
@@ -2456,8 +2353,7 @@
       "vetorizarPaleta": [
         "#047cbc",
         "#fcfcfc"
-      ],
-      "nota": "escudo azul-claro e branco com o monograma CSA, a faixa diagonal UNIÃO E FORÇA e as listras, WEBP de 800×800 (convertido para PNG; o arquivo se chamava CSA-1980; o halo branco externo foi tirado) enviado pelo dono do projeto, vetorizado para ficar nítido; usado de 1969 a 1971 e de 1974 a 1999, segundo os períodos informados pelo dono do projeto"
+      ]
     },
     {
       "id": "1972",
@@ -2474,8 +2370,7 @@
       "vetorizarPaleta": [
         "#2c40b0",
         "#fcfcfc"
-      ],
-      "nota": "o golfinho com boné segurando a bola sobre a sigla CSA num oval, com UNIÃO E FORÇA embaixo, PNG de 1092×1440 com fundo transparente enviado pelo dono do projeto, vetorizado para ficar nítido (o azul-marinho foi clareado para #2c40b0 para aparecer sobre o fundo escuro do editor); período 1972–1973 informado pelo dono do projeto"
+      ]
     },
     {
       "id": "2000",
@@ -2492,8 +2387,7 @@
       "vetorizarPaleta": [
         "#28649c",
         "#fcfcfc"
-      ],
-      "nota": "escudo azul e branco com o monograma CSA, a faixa diagonal UNIÃO E FORÇA e as listras, WEBP de 800×800 (convertido para PNG; o arquivo se chamava CSA-1999; o halo branco externo foi tirado) enviado pelo dono do projeto, vetorizado para ficar nítido; período 2000–2017 informado pelo dono do projeto"
+      ]
     }
   ],
   "olaria": [
@@ -2512,8 +2406,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#000000"
-      ],
-      "nota": "primeiro escudo do clube, um losango preto com as iniciais OFC (Olaria Foot-ball Club), enviado pelo dono do projeto (JPEG de 1024 px, ampliado e traçado nas cores do original); período 1915–1920 segundo o Logopedia (logos.fandom.com) e a Wikipédia pt: o clube foi fundado em 1915 e em 1920 passou a Olaria Atlético Clube, com novo escudo"
+      ]
     },
     {
       "vetorizar": "alfa",
@@ -2530,8 +2423,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#081868"
-      ],
-      "nota": "escudo azul-marinho do Olaria Atlético Clube com a roda de leme, a âncora, os remos e a bola com OAC, enviado pelo dono do projeto (PNG de 397 px, ampliado e traçado nas cores do original); período 1920–1997 inferido: a Wikipédia pt diz que o escudo foi concebido em 1920 e o Logopedia lista várias versões do mesmo desenho (1920, até 1983, 1983–1994 e 1994–1997) antes do atual, de 1997, sem que eu pudesse ver as imagens para saber a qual delas este arquivo corresponde"
+      ]
     }
   ],
   "macae": [
@@ -2549,8 +2441,7 @@
         "#080808",
         "#ffffff",
         "#c0c0c0"
-      ],
-      "nota": "escudo preto com o leão branco do Botafogo Futebol Clube (nome do clube em Macaé antes de virar Macaé Sports), com as letras BFC e MACAÉ, enviado pelo dono do projeto (PNG de 1600 px; as letras de fora do escudo, que eram pretas, foram trocadas por cinza-claro, #c0c0c0, para aparecer sobre o fundo escuro do editor); período 1990–1999 segundo o Logopedia (logos.fandom.com)"
+      ]
     }
   ],
   "america-rj": [
@@ -2569,8 +2460,7 @@
       "vetorizarPaleta": [
         "#181818",
         "#ffffff"
-      ],
-      "nota": "escudo redondo preto com o monograma AFC entrelaçado em branco, enviado pelo dono do projeto (PNG de 447 px, ampliado e traçado nas cores do original); período 1904–1946 segundo o Logopedia (logos.fandom.com) e o Futbox (1904 e 1946)"
+      ]
     },
     {
       "vetorizar": "alfa",
@@ -2585,8 +2475,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#d83838"
-      ],
-      "nota": "escudo em disco branco com as letras AFC em vermelho, enviado pelo dono do projeto (PNG de 800 px, ampliado e traçado nas cores do original); período 1960–1968 inferido: o Logopedia e o Futbox listam o escudo de 1960 como o de disco claro com o AFC, mas não consegui ver as imagens para confirmar que é este"
+      ]
     }
   ],
   "campo-grande": [
@@ -2603,8 +2492,7 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#000000"
-      ],
-      "nota": "escudo em brasão branco com as letras C.G.A.C., a bola e o aperto de mãos, enviado pelo dono do projeto (JPG de 264 px com fundo preto, ampliado 4 vezes com o contorno externo suavizado e traçado); período 1950–1982 inferido do Logopedia, que lista o escudo de \"anos 1950 a 1982\" (Campo Grande Atlético Clube) e outro de 1920 (Campo Grande Athletico Club), sem eu poder ver as imagens para saber qual é este"
+      ]
     },
     {
       "vetorizar": "alfa",
@@ -2620,8 +2508,63 @@
         "#ffffff",
         "#000000",
         "#ffd400"
-      ],
-      "nota": "escudo em brasão com as listras brancas e pretas, as letras C G A C e a estrela amarela do lado esquerdo, enviado pelo dono do projeto (PNG de 320 px do seeklogo, ampliado e traçado); período 1984–2025 segundo o Logopedia (logos.fandom.com), que lista a versão com estrela nos anos 1984–1991 e 2007–2025"
+      ]
+    }
+  ],
+  "operario-pr": [
+    {
+      "id": "1912",
+      "label": "1912–1941",
+      "local": "Escudo operário 1912 - atualizado.svg",
+      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operário_1912_-_atualizado.svg (fundo cinza tirado)"
+    },
+    {
+      "id": "1941",
+      "label": "1941–1947",
+      "local": "Escudo operario-pr 1941.svg",
+      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operario-pr_1941.svg (fundo cinza tirado)"
+    },
+    {
+      "id": "1947",
+      "label": "1947–1957",
+      "local": "Escudo operário-pr 1947.svg",
+      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operário-pr_1947.svg (fundo cinza tirado)"
+    },
+    {
+      "id": "1957",
+      "label": "1957–1961",
+      "local": "Escudo operario-pr 1957.svg",
+      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operario-pr_1957.svg (fundo cinza tirado)"
+    },
+    {
+      "id": "1976",
+      "label": "1976–1979",
+      "local": "Escudo operário-pr 1976.svg",
+      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operário-pr_1976.svg (fundo cinza tirado)"
+    },
+    {
+      "id": "1979",
+      "label": "1979–1981",
+      "local": "Escudo operario-pr1979.svg",
+      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operario-pr1979.svg (fundo cinza tirado)"
+    },
+    {
+      "id": "1981",
+      "label": "1981–1987",
+      "local": "Escudo operário-pr 1981.svg",
+      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operário-pr_1981.svg (fundo cinza tirado)"
+    },
+    {
+      "id": "1987",
+      "label": "1987–2008",
+      "local": "Escudo operario-pr 1987.svg",
+      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operario-pr_1987.svg (fundo cinza tirado)"
+    },
+    {
+      "id": "2008",
+      "label": "2008–2013",
+      "local": "Escudo operario-pr 2008.svg",
+      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operario-pr_2008.svg (fundo cinza tirado)"
     }
   ],
   "juventus-sp": [
@@ -2630,844 +2573,22 @@
       "label": "1935–1954",
       "local": "Juventus-1935.jpg",
       "vetorizar": "suave",
-      "vetorizarPaleta": ["#832412", "#ffffff"],
-      "silhueta": "borda",
-      "nota": "o círculo com C.A. JUVENTUS SÃO PAULO e o J, enviado pelo dono do projeto (JPG de 735×736, vetorizado); período 1935–1954 do Logopedia (que lista 1935–1953)"
+      "vetorizarPaleta": [
+        "#832412",
+        "#ffffff"
+      ],
+      "silhueta": "borda"
     },
     {
       "id": "1954",
       "label": "1954–1985",
       "local": "Juventus-1954.png",
       "vetorizar": "suave",
-      "vetorizarPaleta": ["#833329", "#ffffff"],
-      "silhueta": "borda",
-      "nota": "o J grená num círculo, com o fundo branco dentro do círculo, \"muito usado em jornais de 1954 até 1985\" (Wikipédia pt), enviado pelo dono do projeto (captura de tela, vetorizada); o Logopedia lista 1954–1977 para ele"
-    }
-  ],
-  "boa-esporte": [
-    {
-      "id": "1998",
-      "label": "1998–2011",
-      "local": "Ituiutaba-1998.svg",
-      "nota": "escudo do Ituiutaba Esporte Clube (imagem enviada pelo dono do projeto, vetorizada de novo para as bordas ficarem lisas), o mesmo clube antes de virar Boa Esporte em 2011 (Wikipédia pt: \"1998–2011, como Ituiutaba Esporte Clube\")"
-    }
-  ],
-  "villa-nova": [
-    {
-      "id": "1908",
-      "label": "1908–2008",
-      "local": "VillaNova-1908.svg",
-      "nota": "primeiro escudo do clube, enviado pelo dono do projeto (JPG pequeno, 236×319, vetorizado e sem o texto \"Villa Nova Atlético Clube\" de baixo); período inferido, de 1908 (fundação) até 2008, quando começa o de 2008–2012"
-    },
-    {
-      "id": "2008",
-      "label": "2008–2012",
-      "commons": "Villa Nova AC - MG.svg",
-      "nota": "o mesmo escudo de hoje, só que sem as duas estrelas (arquivo do Commons de 2009); período 2008–2012 inferido do Logopedia, que lista 2008–2012 e depois 2012–hoje com duas estrelas"
-    }
-  ],
-  "uniao-sao-joao": [
-    {
-      "id": "1988",
-      "label": "1988–1992",
-      "local": "USJ-1988.jpg",
-      "vetorizar": "monocromo",
-      "cor": "#f2f2f2",
-      "nota": "escudo U.S.J. E.C., o do título da Série C de 1988, enviado pelo dono do projeto (JPG de 166×190, só o contorno e as letras, vetorizado); em branco, porque o preto original some no fundo escuro; período 1988–1992 inferido"
-    }
-  ],
-  "inter-de-limeira": [
-    {
-      "id": "1913",
-      "label": "1913–1975",
-      "local": "Inter-1913.svg",
-      "nota": "escudo com a faixa diagonal e as letras AAI, de nome 1913 no arquivo enviado pelo dono do projeto (WebP de 200×210, redesenhado em vetor: contorno do escudo espelhado e suavizado, faixa com bordas retas); em branco, porque o preto original some no fundo escuro; não achei fonte com as datas dos escudos do clube (Wikipédia, Commons e site do clube não trazem), então o período 1913–1975 é inferido, até a volta ao profissionalismo"
-    }
-  ],
-  "xv-de-piracicaba": [
-    {
-      "id": "1960",
-      "label": "1960–2013",
-      "local": "XV-escudo.jpg",
-      "vetorizar": "suave",
-      "vetorizarPaleta": ["#2b2b2b", "#ffffff"],
-      "silhueta": "borda",
-      "nota": "o \"tradicional escudo do XV de Piracicaba\" (Wikipédia pt, na seção dos anos 1960): escudo com a faixa diagonal PIRACICABA e as letras XV, enviado pelo dono do projeto (JPG de 549×559, vetorizado); período 1960–2013 inferido, dos anos 1960 até o selo do centenário"
-    },
-    {
-      "id": "2013",
-      "label": "2013–2014",
-      "local": "XV-centenario.svg",
-      "nota": "estrela verde e amarela com a bola e o ano 1913, o selo do centenário do clube (Wikipédia pt, \"2013: O Centenário do XV\"), enviado pelo dono do projeto (WebP de 620×470, imagem cortada no topo; redesenhado em vetor: a estrela é um pentagrama regular ajustado às pontas da imagem, com cada ponta metade amarela e metade verde, o disco do emblema é um círculo exato e as letras e linhas do emblema foram vetorizadas e suavizadas; tirei os dois círculos finos pretos em volta e pintei o 1913 de verde, porque o preto some no fundo escuro); período 2013–2014 inferido, do centenário até o escudo atual (desde 2014)"
-    }
-  ],
-  "uniao-barbarense": [
-    {
-      "id": "1914",
-      "label": "1914–2001",
-      "local": "UniaoBarbarense-retro.svg",
-      "nota": "escudo listrado de preto e branco com a faixa UABFC e a bola, versão com listras pretas grossas, enviado pelo dono do projeto (captura de tela de 388×423, vetorizada com bordas suavizadas; tem as listras pretas mais grossas que o escudo atual); período 1914–2001 inferido, da fundação até o escudo atual (desde 2001)"
-    }
-  ],
-  "novorizontino": [
-    {
-      "id": "1973",
-      "label": "1973–1999",
-      "local": "GE-Novorizontino.png",
-      "vetorizar": "alfa",
-      "vetorizarPaleta": ["#000000", "#f4e800", "#ffffff"],
-      "nitido": true,
-      "sobrepor": 1,
-      "nota": "escudo G.E.N. com a data 13-3-73 (fundação do Grêmio Esportivo Novorizontino, extinto em 1999, sem ligação oficial com o clube de 2010), enviado pelo dono do projeto (PNG de 575×521, vetorizado); período 1973–1999: da fundação do Grêmio Esportivo Novorizontino até a extinção do clube antigo, em 1999 (o clube atual, de 2010, é visto como sua continuação, então o hiato de 1999 a 2010 fica sem escudo)"
-    }
-  ],
-  "oeste": [
-    {
-      "id": "1921",
-      "label": "1921–2001",
-      "local": "Oeste-triangulo.svg",
-      "nota": "escudo triangular listrado de vermelho e preto com OESTE F.C. na faixa branca, enviado pelo dono do projeto (PNG de 486×545, redesenhado em vetor: triângulo e listras com bordas retas, letras vetorizadas); período 1921–2001 inferido: da fundação até o escudo de 2001"
-    },
-    {
-      "id": "2001",
-      "label": "2001–2025",
-      "local": "Oeste-2001.svg",
-      "nota": "escudo listrado de vermelho e preto com o monograma OFC na caixa do canto, arquivo SVG da Wikipédia fr (\"Oeste Futebol Clube (logo).svg\", marca registrada); período 2001–2025: o Logopedia (logos.fandom.com) lista dois escudos para 2001–2025 (um de 2001 a 2013 como principal e outro de 2013 a 2025) e não consegui ver as imagens para saber qual é qual; o outro, com a borda branca e o aro do monograma, é o atual do tema",
-      "credito": "Oeste Futebol Clube | marca registrada | https://fr.wikipedia.org/wiki/Fichier:Oeste_Futebol_Club_(logo).svg"
-    }
-  ],
-  "botafogo-sp": [
-    {
-      "id": "1990",
-      "label": "1990–2021",
-      "local": "Botafogo-SP-1990.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 1.2,
-      "minimo": 100,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#ee2d24",
-        "#000000"
+        "#833329",
+        "#ffffff"
       ],
-      "nota": "escudo B.F.C. sem estrela, PNG de 1231 px de domínio público no Commons (\"Botafogo de Ribeirão Preto (Escudo)\") traçado; período 1990–2021 inferido: o Logopedia lista 1990–2021 e depois 2021–hoje (o atual, com estrela), mas não consegui ver as imagens dele, e o arquivo do Commons não tem data",
-      "credito": "Botafogo de Ribeirão Preto | domínio público | https://commons.wikimedia.org/wiki/File:Botafogo_Ribeirao_Preto_SP.png"
-    }
-  ],
-  "comercial-ms": [
-    {
-      "id": "1943",
-      "label": "1943–2013",
-      "local": "Comercial-ECC.svg",
-      "nota": "escudo com o ECC em caixa alta sobre a faixa diagonal preta e listras vermelhas, enviado pelo dono do projeto (PNG de 320×320 do SeekLogo, redesenhado em vetor por máscaras de vermelho, preto e branco, com o contorno vermelho contínuo); período 1943–2013 palpite: 1943 é a fundação do clube (Wikipédia en), 2013 é a data que o escudo atual já tinha no cadastro, não conferida"
-    }
-  ],
-  "operario-ms": [
-    {
-      "id": "1938",
-      "label": "1938–1970",
-      "local": "OFC-circulo.jpg",
-      "vetorizar": "monocromo",
-      "cor": "#f2f2f2",
-      "nota": "círculo com as letras O F C, enviado pelo dono do projeto (JPG de 200×200, vetorizado); em branco, porque o preto some no fundo escuro; período 1938–1970 palpite: 1938 é a fundação do clube (Wikipédia en) e 1970 é um corte sem fonte, a conferir"
-    }
-
-  ],
-  "fluminense-pi": [
-    {
-      "id": "1938",
-      "label": "1938–1977",
-      "local": "Fluminense-PI-1938-1977.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "vetorizarPaleta": [
-        "#e83800",
-        "#f8f8f8",
-        "#009048"
-      ],
-      "nota": "escudo do Fluminense-PI enviado pelo dono do projeto (PNG de 1000 px com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
-    },
-    {
-      "id": "1978",
-      "label": "1978–2000",
-      "local": "Fluminense-PI-1978-2000.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "vetorizarPaleta": [
-        "#803028",
-        "#f8f8f8",
-        "#006038"
-      ],
-      "nota": "escudo do Fluminense-PI enviado pelo dono do projeto (PNG de 1000 px com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
-    },
-    {
-      "id": "2001",
-      "label": "2001–2019",
-      "local": "Fluminense-PI-2001-2019.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "vetorizarPaleta": [
-        "#c83808",
-        "#f8f8f8",
-        "#006038"
-      ],
-      "nota": "escudo do Fluminense-PI enviado pelo dono do projeto (PNG de 1000 px com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
-    }
-  ],
-  "river-pi": [
-    {
-      "id": "1946",
-      "label": "1946–1977",
-      "local": "River-PI-1946-1977.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "vetorizarPaleta": [
-        "#000000",
-        "#f8f8f8"
-      ],
-      "nota": "escudo do River-PI enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
-    },
-    {
-      "id": "1978",
-      "label": "1978–1994",
-      "local": "River-PI-1978-1994.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "vetorizarPaleta": [
-        "#080808",
-        "#f8f8f8",
-        "#d83040"
-      ],
-      "nota": "escudo do River-PI enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
-    },
-    {
-      "id": "1995",
-      "label": "1995–2007",
-      "local": "River-PI-1995-2007.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "vetorizarPaleta": [
-        "#000000",
-        "#f8f8f8",
-        "#d83040"
-      ],
-      "nota": "escudo do River-PI enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado"
-    }
-  ],
-  "atletico-ac": [
-    {
-      "id": "1952",
-      "label": "1952–2017",
-      "local": "Atletico-AC-1952.svg",
-      "nota": "losango azul com as letras AA, sem a estrela vermelha do escudo atual, arquivo SVG enviado pelo dono do projeto (só com o viewBox ajustado ao conteúdo); usado de 1952 a 2017, segundo o dono do projeto; a estrela entrou em 2018"
-    }
-  ],
-  "independencia": [
-    {
-      "id": "1946",
-      "label": "1946–1973/2006",
-      "local": "Independencia-1946.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 4.0,
-      "minimo": 80,
-      "vetorizarPaleta": [
-        "#bc0404",
-        "#fcfcfc"
-      ],
-      "nota": "escudo branco com o monograma IFC e o contorno em vermelho, enviado pelo dono do projeto (PNG de 1145×1374 com fundo preto, que foi tirado, vetorizado para ficar nítido); usado de 1946 a 1973 e de novo em 2006, segundo os períodos do nome do arquivo antigo enviado",
-      "macio": true,
-      "bordaPx": 4
-    },
-    {
-      "id": "1974",
-      "label": "1974–1982",
-      "local": "Independencia-1974.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 4.0,
-      "minimo": 80,
-      "vetorizarPaleta": [
-        "#9c1424",
-        "#fcfcfc",
-        "#046c4c"
-      ],
-      "nota": "escudo grená e verde com o monograma IFC em branco e um filete grená por fora da borda branca, enviado pelo dono do projeto (PNG de 1254×1254 com fundo preto, que foi tirado, vetorizado para ficar nítido); período do nome do arquivo antigo enviado",
-      "macio": true,
-      "bordaPx": 4
-    },
-    {
-      "id": "1983",
-      "label": "1983–2005/2007–2018",
-      "local": "Independencia-1983.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 4.0,
-      "minimo": 80,
-      "vetorizarPaleta": [
-        "#fcfcfc",
-        "#ac1424",
-        "#046c44"
-      ],
-      "nota": "escudo grená e verde com o monograma IFC em branco e a borda branca lisa, enviado pelo dono do projeto (PNG de 1140×1380 com fundo preto, que foi tirado, vetorizado para ficar nítido); usado de 1983 a 2005 e de 2007 a 2018, segundo os períodos do nome do arquivo antigo enviado",
-      "macio": true,
-      "bordaPx": 4
-    }
-  ],
-  "juventus-ac": [
-    {
-      "id": "1966",
-      "label": "1966–1979",
-      "local": "Juventus-AC-1966.png",
-      "vetorizar": "alfa",
-      "fundoExterno": true,
-      "limiarFundo": 215,
-      "macio": true,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#fc0404",
-        "#fcfcfc",
-        "#080808"
-      ],
-      "nota": "círculo vermelho com o nome ATLETICO CLUBE JUVENTUS e o ano 1966 em volta da bandeira grená e preta do clube, enviado pelo dono do projeto (PNG de 1275×1234 sobre fundo branco, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto"
-    },
-    {
-      "id": "1980",
-      "label": "1980–1989",
-      "local": "Juventus-AC-1980.jpg",
-      "vetorizar": "alfa",
-      "fundoExterno": true,
-      "limiarFundo": 205,
-      "macio": true,
-      "escala": 6,
-      "suavidade": 5.0,
-      "minimo": 40,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#cc0404",
-        "#f4f4f8"
-      ],
-      "nota": "disco vermelho com o monograma AJC em branco e dois anéis, enviado pelo dono do projeto (JPG de 648×646 com a moldura preta de 2 px cortada, o fundo xadrez cinza tirado e o cinza do monograma clareado para branco, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto"
-    }
-  ],
-  "rio-branco-ac": [
-    {
-      "id": "1919",
-      "label": "1919–1944",
-      "local": "Rio-Branco-AC-1919-1944.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 8,
-      "suavidade": 5.0,
-      "minimo": 40,
-      "vetorizarPaleta": [
-        "#f80000"
-      ],
-      "nota": "círculo com a estrela grande e o nome RIO BRANCO FOOTBALL CLUB · ACRE, só em vermelho (o branco é o fundo), enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
-      "macio": true
-    },
-    {
-      "id": "1945",
-      "label": "1945–1955",
-      "local": "Rio-Branco-AC-1945-1955.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 8,
-      "suavidade": 5.0,
-      "minimo": 40,
-      "vetorizarPaleta": [
-        "#f8f8f8",
-        "#f80000"
-      ],
-      "nota": "círculo branco com a estrela e o nome RIO BRANCO FOOTBALL CLUB · ACRE, enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
-      "macio": true
-    },
-    {
-      "id": "1956",
-      "label": "1956–1964",
-      "local": "Rio-Branco-AC-1956-1964.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 8,
-      "suavidade": 5.0,
-      "minimo": 40,
-      "vetorizarPaleta": [
-        "#f8f8f8",
-        "#f80000"
-      ],
-      "nota": "escudo com recorte nos ombros, estrela vazada e faixa R.B.F.C., enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
-      "macio": true
-    },
-    {
-      "id": "1965",
-      "label": "1965–1970",
-      "local": "Rio-Branco-AC-1965-1970.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 8,
-      "suavidade": 5.0,
-      "minimo": 40,
-      "vetorizarPaleta": [
-        "#f8f8f8",
-        "#f80000"
-      ],
-      "nota": "escudo com a faixa diagonal R.B.F.C. e a estrela no canto, enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
-      "macio": true
-    },
-    {
-      "id": "1971",
-      "label": "1971–1977",
-      "local": "Rio-Branco-AC-1971-1977.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 8,
-      "suavidade": 5.0,
-      "minimo": 40,
-      "vetorizarPaleta": [
-        "#f8f8f8",
-        "#f80000"
-      ],
-      "nota": "escudo arredondado com a bola e a faixa diagonal R.B.F.C., sem estrela, enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
-      "macio": true
-    },
-    {
-      "id": "1978",
-      "label": "1978–1994",
-      "local": "Rio-Branco-AC-1978-1994.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 8,
-      "suavidade": 5.0,
-      "minimo": 40,
-      "vetorizarPaleta": [
-        "#f8f8f8",
-        "#f80000"
-      ],
-      "nota": "escudo pontudo com a estrela pequena e a faixa R.B.F.C., enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
-      "macio": true
-    },
-    {
-      "id": "1995",
-      "label": "1995–2003",
-      "local": "Rio-Branco-AC-1995-2003.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 8,
-      "suavidade": 5.0,
-      "minimo": 40,
-      "vetorizarPaleta": [
-        "#f8f8f8",
-        "#f80000"
-      ],
-      "nota": "escudo com o campo superior vermelho, a estrela branca e a faixa R.B.F.C., enviado pelo dono do projeto (PNG com fundo transparente, vetorizado para ficar nítido); período do nome do arquivo enviado pelo dono do projeto",
-      "macio": true
-    }
-  ],
-  "asa": [
-    {
-      "id": "1953",
-      "label": "1953–1972",
-      "local": "ASA-1953.png",
-      "vetorizar": "alfa",
-      "macio": true,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 1,
-      "vetorizarPaleta": [
-        "#303030",
-        "#e4e4dc",
-        "#fcfcfc"
-      ],
-      "nota": "círculo com o escudo em cortina e a sigla ASA, PNG de ~1280 px enviado pelo dono do projeto (sobre fundo branco, que foi tirado, vetorizado para ficar nítido; o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período inferido: o escudo redondo com ASA do título de 1953 (Arapiraca Legal e Wikipédia) até a mudança de 1972; a ordem em relação ao de 1973 foi deduzida pelo desenho",
-      "nitido": true
-    },
-    {
-      "id": "1973",
-      "label": "1973–1977",
-      "local": "ASA-1973.png",
-      "vetorizar": "alfa",
-      "macio": true,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 1,
-      "vetorizarPaleta": [
-        "#303030",
-        "#dcdcd4",
-        "#fcfcfc"
-      ],
-      "nota": "círculo com raios e o escudo com a sigla ASA, PNG de ~1280 px enviado pelo dono do projeto (sobre fundo branco, que foi tirado, vetorizado para ficar nítido; o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período inferido: o escudo de 1973, de muitas linhas, que durou até o fim da Associação (1977, Arapiraca Legal); a associação ao desenho foi deduzida",
-      "nitido": true
-    },
-    {
-      "id": "1977",
-      "label": "1977–1981",
-      "local": "ASA-1977.png",
-      "vetorizar": "alfa",
-      "macio": true,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 1,
-      "vetorizarPaleta": [
-        "#303030",
-        "#fcfcfc"
-      ],
-      "nota": "círculo com o nome Agremiação Sportiva Arapiraquense, a sigla ASA, as listras e a estrela, criado por Ismael Pereira, PNG de ~1280 px enviado pelo dono do projeto (sobre fundo branco, que foi tirado, vetorizado para ficar nítido; o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); usado de 1977 ao início dos anos 1980 (Arapiraca Legal e Wikipédia); o ano final (1981) é inferido de \"início dos anos 1980\"",
-      "nitido": true
-    },
-    {
-      "id": "1981",
-      "label": "1981–1999",
-      "local": "ASA-1981.png",
-      "vetorizar": "alfa",
-      "macio": true,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 1,
-      "vetorizarPaleta": [
-        "#303030",
-        "#fcfcfc"
-      ],
-      "nota": "escudo com o nome ARAPIRACA em destaque, PNG de ~1280 px enviado pelo dono do projeto (sobre fundo branco, que foi tirado, vetorizado para ficar nítido; o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); usado do início dos anos 1980 até 1999, quando o escudo de 1977 voltou em 2000 (Arapiraca Legal); o ano de início (1981) é inferido",
-      "nitido": true
-    },
-    {
-      "id": "2000",
-      "label": "2000–2009",
-      "local": "ASA-2000.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 3,
-      "suavidade": 4.0,
-      "minimo": 60,
-      "bordaPx": 1,
-      "vetorizarPaleta": [
-        "#303030",
-        "#fcfcfc"
-      ],
-      "nota": "círculo com o nome Agremiação Sportiva Arapiraquense, a sigla ASA, as listras, a estrela e as duas bolas, sem as quatro estrelas amarelas, PNG de 1448×1086 sobre fundo claro enviado pelo dono do projeto (o mesmo arquivo do escudo atual, com as estrelas apagadas por pedido dele; o fundo foi tirado e o preto clareado para #303030 para aparecer sobre o fundo escuro do editor, vetorizado para ficar nítido); período 2000–2009: o escudo de 1977 voltou em 2000 e foi ajustado em 2010 (Arapiraca Legal e Wikipédia)"
-    }
-  ],
-  "trem": [
-    {
-      "id": "1941",
-      "label": "1941–1970",
-      "local": "Trem-1941.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#303030",
-        "#f80000",
-        "#fcfcfc"
-      ],
-      "nota": "disco vermelho com o T branco e dois aros, preto e branco, 507×507 (o arquivo se chamava Trem-AP-1947) com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período 1941–1970 informado pelo dono do projeto"
-    },
-    {
-      "id": "1971",
-      "label": "1971–1983",
-      "local": "Trem-1971.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#303030",
-        "#f80000",
-        "#fcfcfc"
-      ],
-      "nota": "escudo preto e vermelho listrado com o T e as letras D C em branco e borda branca, 1000×1136 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período 1971–1983 informado pelo dono do projeto"
-    },
-    {
-      "id": "1984",
-      "label": "1984–1990",
-      "local": "Trem-1984.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#303030",
-        "#f80000",
-        "#fcfcfc"
-      ],
-      "nota": "escudo listrado de preto e vermelho com o quadro branco DTC no canto, 1000×1218 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período 1984–1990 informado pelo dono do projeto"
-    },
-    {
-      "id": "1991",
-      "label": "1991–2002",
-      "local": "Trem-1991.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#303030",
-        "#f80000",
-        "#fcfcfc"
-      ],
-      "nota": "escudo preto e vermelho com as letras DTC em branco no canto, 1000×1227 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período 1991–2002 informado pelo dono do projeto"
-    },
-    {
-      "id": "2003",
-      "label": "2003–2009",
-      "local": "Trem-2003.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#303030",
-        "#f80000",
-        "#fcfcfc"
-      ],
-      "nota": "escudo preto e vermelho listrado com borda branca e o quadro vermelho DTC, 1000×1187 com fundo transparente (convertido de WEBP) enviado pelo dono do projeto, vetorizado para ficar nítido (o preto foi clareado para #303030 para aparecer sobre o fundo escuro do editor); período 2003–2009 informado pelo dono do projeto"
-    },
-    {
-      "id": "2010",
-      "label": "2010–2023",
-      "local": "Trem-2010-10estrelas.svg",
-      "nota": "o escudo de 2010 (o mesmo do arquivo Trem-AP-2010 enviado pelo dono do projeto) com as 10 estrelas em duas fileiras de 5, ouro em cima e cinza embaixo, como no arquivo Trem_Desportivo_Clube_(2022).png do Wikimedia Commons; as estrelas foram desenhadas em vetor sobre o escudo, que não mudou; o fim em 2023 vem de o dono do projeto situar o escudo atual de 1 estrela em 2024"
-    }
-  ],
-  "macapa": [
-    {
-      "id": "1944",
-      "label": "1944–1945",
-      "local": "Panair-1944.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#303030",
-        "#580828",
-        "#fcfcfc"
-      ]
-    },
-    {
-      "id": "1950",
-      "label": "1950–1969",
-      "local": "Macapa-1950.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#fcfcfc",
-        "#0868b8"
-      ]
-    },
-    {
-      "id": "1970",
-      "label": "1970–2008",
-      "local": "Macapa-1970.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#fcfcfc",
-        "#4a4d50"
-      ]
-    },
-    {
-      "id": "2009",
-      "label": "2009–2012",
-      "local": "Macapa-2009.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#f8c818",
-        "#0868b8",
-        "#fcfcfc"
-      ]
-    }
-  ],
-  "santos-ap": [
-    {
-      "id": "1973",
-      "label": "1973–2000",
-      "local": "Santos-1973.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 4,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#303030",
-        "#fcfcfc"
-      ]
-    },
-    {
-      "id": "2001",
-      "label": "2001–2011",
-      "local": "Santos-2001.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 4,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#303030",
-        "#fcfcfc"
-      ]
-    }
-  ],
-  "ypiranga-ba": [
-    {
-      "id": "1914",
-      "label": "1914–1930",
-      "local": "Ypiranga-1914.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 3,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#f0a018",
-        "#050505"
-      ]
-    },
-    {
-      "id": "1931",
-      "label": "1931–1942",
-      "local": "Ypiranga-1931.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 3,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#f0a018",
-        "#050505"
-      ]
-    },
-    {
-      "id": "1943",
-      "label": "1943–1944",
-      "local": "Ypiranga-1943.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 3,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#f0a018",
-        "#050505"
-      ]
-    },
-    {
-      "id": "1962",
-      "label": "1962–1963",
-      "local": "Ypiranga-1964.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 3,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#ffffff",
-        "#009830"
-      ],
-      "fundoExterno": true
-    },
-    {
-      "id": "1964",
-      "label": "1964–1971",
-      "local": "Ypiranga-1962.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 3,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#f0a018",
-        "#050505"
-      ]
+      "silhueta": "borda"
     }
   ],
   "guarany-de-sobral": [
@@ -3700,6 +2821,1044 @@
       "id": "2018",
       "label": "2018–2022",
       "commons": "Ferroviario-logo.svg"
+    }
+  ],
+  "brusque": [
+    {
+      "id": "2003",
+      "label": "2003–2022",
+      "commons": "Brusque Futebol Clube logo (2003–2022).svg"
+    }
+  ],
+  "boa-esporte": [
+    {
+      "id": "1998",
+      "label": "1998–2011",
+      "local": "Ituiutaba-1998.svg"
+    }
+  ],
+  "villa-nova": [
+    {
+      "id": "1908",
+      "label": "1908–2008",
+      "local": "VillaNova-1908.svg"
+    },
+    {
+      "id": "2008",
+      "label": "2008–2012",
+      "commons": "Villa Nova AC - MG.svg"
+    }
+  ],
+  "uniao-sao-joao": [
+    {
+      "id": "1988",
+      "label": "1988–1992",
+      "local": "USJ-1988.jpg",
+      "vetorizar": "monocromo",
+      "cor": "#f2f2f2"
+    }
+  ],
+  "inter-de-limeira": [
+    {
+      "id": "1913",
+      "label": "1913–1975",
+      "local": "Inter-1913.svg"
+    }
+  ],
+  "xv-de-piracicaba": [
+    {
+      "id": "1960",
+      "label": "1960–2013",
+      "local": "XV-escudo.jpg",
+      "vetorizar": "suave",
+      "vetorizarPaleta": [
+        "#2b2b2b",
+        "#ffffff"
+      ],
+      "silhueta": "borda"
+    },
+    {
+      "id": "2013",
+      "label": "2013–2014",
+      "local": "XV-centenario.svg"
+    }
+  ],
+  "uniao-barbarense": [
+    {
+      "id": "1914",
+      "label": "1914–2001",
+      "local": "UniaoBarbarense-retro.svg"
+    }
+  ],
+  "novorizontino": [
+    {
+      "id": "1973",
+      "label": "1973–1999",
+      "local": "GE-Novorizontino.png",
+      "vetorizar": "alfa",
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4e800",
+        "#ffffff"
+      ],
+      "nitido": true,
+      "sobrepor": 1
+    }
+  ],
+  "treze": [
+    {
+      "id": "1925",
+      "label": "1925–1930",
+      "local": "Escudo antigo treze.PNG",
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#000000"
+      ],
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "contornoClaro": "#c0c0c0",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "credito": "Treze Futebol Clube | domínio público | https://commons.wikimedia.org/wiki/File:Escudo_antigo_treze.PNG"
+    }
+  ],
+  "oeste": [
+    {
+      "id": "1921",
+      "label": "1921–2001",
+      "local": "Oeste-triangulo.svg"
+    },
+    {
+      "id": "2001",
+      "label": "2001–2025",
+      "local": "Oeste-2001.svg",
+      "credito": "Oeste Futebol Clube | marca registrada | https://fr.wikipedia.org/wiki/Fichier:Oeste_Futebol_Club_(logo).svg"
+    }
+  ],
+  "botafogo-sp": [
+    {
+      "id": "1990",
+      "label": "1990–2021",
+      "local": "Botafogo-SP-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 1.2,
+      "minimo": 100,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#ee2d24",
+        "#000000"
+      ],
+      "credito": "Botafogo de Ribeirão Preto | domínio público | https://commons.wikimedia.org/wiki/File:Botafogo_Ribeirao_Preto_SP.png"
+    }
+  ],
+  "aparecidense": [
+    {
+      "id": "2003",
+      "label": "2003–2021",
+      "local": "Aparecidense-2003.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "fundoExterno": true,
+      "bordaPx": 0,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#adbddc",
+        "#5b6db3",
+        "#1d359c"
+      ],
+      "credito": "Associação Atlética Aparecidense | marca registrada | https://fr.wikipedia.org/wiki/Fichier:AA_Aparecidense_(GO).gif"
+    }
+  ],
+  "tuna-luso": [
+    {
+      "id": "1992",
+      "label": "1992–2010",
+      "local": "Tuna-Luso-1992.svg",
+      "credito": "autor desconhecido | domínio público | https://commons.wikimedia.org/wiki/File:TunaLusoB.png"
+    }
+  ],
+  "barra-sc": [
+    {
+      "id": "2013",
+      "label": "2013–2019",
+      "local": "Barra-SC-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#fff210",
+        "#05b2f7",
+        "#ffffff"
+      ],
+      "credito": "EdcarlosBR | CC0 | https://commons.wikimedia.org/wiki/File:Barra_FC_2013_-_2019.png"
+    }
+  ],
+  "retro-pe": [
+    {
+      "id": "2016",
+      "label": "2016–2022",
+      "local": "Retro-2016.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#232350",
+        "#ffffff",
+        "#deaa24"
+      ],
+      "credito": "Retrô Futebol Clube Brasil | uso justo (marca) | https://en.wikipedia.org/wiki/File:Retr%C3%B4_FC_Brasil.png"
+    }
+  ],
+  "londrina": [
+    {
+      "id": "1956",
+      "label": "1956–1962",
+      "local": "Londrina-1956.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#d90107"
+      ],
+      "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688785/londrina-esporte-clube"
+    },
+    {
+      "id": "1962",
+      "label": "1962–1970",
+      "local": "Londrina-1962.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#003a8e",
+        "#0a7133",
+        "#e40800"
+      ],
+      "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688784/londrina-esporte-clube"
+    },
+    {
+      "id": "1970",
+      "label": "1970–1977",
+      "local": "Londrina-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#0092e7",
+        "#0a8938",
+        "#ff0000"
+      ],
+      "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688783/londrina-esporte-clube"
+    },
+    {
+      "id": "1977",
+      "label": "1977–1981",
+      "local": "Londrina-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#0069d2",
+        "#0c6927",
+        "#e20204"
+      ],
+      "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688782/londrina-esporte-clube"
+    },
+    {
+      "id": "1981",
+      "label": "1981–1992",
+      "local": "Londrina-1981.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#049eed",
+        "#017a33",
+        "#dc0c18"
+      ],
+      "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688781/londrina-esporte-clube"
+    },
+    {
+      "id": "1992",
+      "label": "1992–1995",
+      "local": "Londrina-1992.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#00148f",
+        "#008f3d",
+        "#ff1415"
+      ],
+      "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688780/londrina-esporte-clube"
+    }
+  ],
+  "comercial-ms": [
+    {
+      "id": "1943",
+      "label": "1943–1950",
+      "local": "Comercial-ECC.svg"
+    }
+  ],
+  "operario-ms": [
+    {
+      "id": "1938",
+      "label": "1938–1970",
+      "local": "OFC-1938.jpg",
+      "vetorizar": "monocromo",
+      "cor": "#f2f2f2"
+    }
+  ],
+  "fluminense-pi": [
+    {
+      "id": "1938",
+      "label": "1938–1977",
+      "local": "Fluminense-PI-1938-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#e83800",
+        "#f8f8f8",
+        "#009048"
+      ]
+    },
+    {
+      "id": "1978",
+      "label": "1978–2000",
+      "local": "Fluminense-PI-1978-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#803028",
+        "#f8f8f8",
+        "#006038"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2019",
+      "local": "Fluminense-PI-2001-2019.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#c83808",
+        "#f8f8f8",
+        "#006038"
+      ]
+    }
+  ],
+  "river-pi": [
+    {
+      "id": "1946",
+      "label": "1946–1977",
+      "local": "River-PI-1946-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1978",
+      "label": "1978–1994",
+      "local": "River-PI-1978-1994.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#080808",
+        "#f8f8f8",
+        "#d83040"
+      ]
+    },
+    {
+      "id": "1995",
+      "label": "1995–2007",
+      "local": "River-PI-1995-2007.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#d83040"
+      ]
+    }
+  ],
+  "flamengo-pi": [
+    {
+      "id": "1938",
+      "label": "1938–1940",
+      "local": "Flamengo_1938-1940.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f01010",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1941",
+      "label": "1941–1950",
+      "local": "Flamengo-PI-1941-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f00000",
+        "#f0f0f0"
+      ]
+    },
+    {
+      "id": "1951",
+      "label": "1951–1980",
+      "local": "Flamengo-PI-1951-1980.png"
+    },
+    {
+      "id": "1981",
+      "label": "1981–1990",
+      "local": "Flamengo_1981-1990.png"
+    },
+    {
+      "id": "1991",
+      "label": "1991–2012",
+      "local": "Flamengo-PI-1991-2012.png"
+    },
+    {
+      "id": "2013",
+      "label": "2013–2022",
+      "local": "Flamengo-PI-2013-2022.png"
+    }
+  ],
+  "atletico-ac": [
+    {
+      "id": "1952",
+      "label": "1952–2017",
+      "local": "Atletico-AC-1952.svg"
+    }
+  ],
+  "rio-branco-ac": [
+    {
+      "id": "1919",
+      "label": "1919–1944",
+      "local": "Rio-Branco-AC-1919-1944.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f80000"
+      ],
+      "macio": true
+    },
+    {
+      "id": "1945",
+      "label": "1945–1955",
+      "local": "Rio-Branco-AC-1945-1955.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "macio": true
+    },
+    {
+      "id": "1956",
+      "label": "1956–1964",
+      "local": "Rio-Branco-AC-1956-1964.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "macio": true
+    },
+    {
+      "id": "1965",
+      "label": "1965–1970",
+      "local": "Rio-Branco-AC-1965-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "macio": true
+    },
+    {
+      "id": "1971",
+      "label": "1971–1977",
+      "local": "Rio-Branco-AC-1971-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "macio": true
+    },
+    {
+      "id": "1978",
+      "label": "1978–1994",
+      "local": "Rio-Branco-AC-1978-1994.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "macio": true
+    },
+    {
+      "id": "1995",
+      "label": "1995–2003",
+      "local": "Rio-Branco-AC-1995-2003.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#f80000"
+      ],
+      "macio": true
+    }
+  ],
+  "independencia": [
+    {
+      "id": "1946",
+      "label": "1946–1973/2006",
+      "local": "Independencia-1946.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 4.0,
+      "minimo": 80,
+      "vetorizarPaleta": [
+        "#bc0404",
+        "#fcfcfc"
+      ],
+      "macio": true,
+      "bordaPx": 4
+    },
+    {
+      "id": "1974",
+      "label": "1974–1982",
+      "local": "Independencia-1974.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 4.0,
+      "minimo": 80,
+      "vetorizarPaleta": [
+        "#9c1424",
+        "#fcfcfc",
+        "#046c4c"
+      ],
+      "macio": true,
+      "bordaPx": 4
+    },
+    {
+      "id": "1983",
+      "label": "1983–2005/2007–2018",
+      "local": "Independencia-1983.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 4.0,
+      "minimo": 80,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#ac1424",
+        "#046c44"
+      ],
+      "macio": true,
+      "bordaPx": 4
+    }
+  ],
+  "juventus-ac": [
+    {
+      "id": "1966",
+      "label": "1966–1979",
+      "local": "Juventus-AC-1966.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "limiarFundo": 215,
+      "macio": true,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fc0404",
+        "#fcfcfc",
+        "#080808"
+      ]
+    },
+    {
+      "id": "1980",
+      "label": "1980–1989",
+      "local": "Juventus-AC-1980.jpg",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "limiarFundo": 205,
+      "macio": true,
+      "escala": 6,
+      "suavidade": 5.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#cc0404",
+        "#f4f4f8"
+      ]
+    }
+  ],
+  "asa": [
+    {
+      "id": "1953",
+      "label": "1953–1972",
+      "local": "ASA-1953.png",
+      "vetorizar": "alfa",
+      "macio": true,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 1,
+      "vetorizarPaleta": [
+        "#303030",
+        "#e4e4dc",
+        "#fcfcfc"
+      ],
+      "nitido": true
+    },
+    {
+      "id": "1973",
+      "label": "1973–1977",
+      "local": "ASA-1973.png",
+      "vetorizar": "alfa",
+      "macio": true,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 1,
+      "vetorizarPaleta": [
+        "#303030",
+        "#dcdcd4",
+        "#fcfcfc"
+      ],
+      "nitido": true
+    },
+    {
+      "id": "1977",
+      "label": "1977–1981",
+      "local": "ASA-1977.png",
+      "vetorizar": "alfa",
+      "macio": true,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 1,
+      "vetorizarPaleta": [
+        "#303030",
+        "#fcfcfc"
+      ],
+      "nitido": true
+    },
+    {
+      "id": "1981",
+      "label": "1981–1999",
+      "local": "ASA-1981.png",
+      "vetorizar": "alfa",
+      "macio": true,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 1,
+      "vetorizarPaleta": [
+        "#303030",
+        "#fcfcfc"
+      ],
+      "nitido": true
+    },
+    {
+      "id": "2000",
+      "label": "2000–2009",
+      "local": "ASA-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 4.0,
+      "minimo": 60,
+      "bordaPx": 1,
+      "vetorizarPaleta": [
+        "#303030",
+        "#fcfcfc"
+      ]
+    }
+  ],
+  "trem": [
+    {
+      "id": "1941",
+      "label": "1941–1970",
+      "local": "Trem-1941.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#f80000",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1971",
+      "label": "1971–1983",
+      "local": "Trem-1971.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#f80000",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1984",
+      "label": "1984–1990",
+      "local": "Trem-1984.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#f80000",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1991",
+      "label": "1991–2002",
+      "local": "Trem-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#f80000",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "2003",
+      "label": "2003–2009",
+      "local": "Trem-2003.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#f80000",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "2010",
+      "label": "2010–2023",
+      "local": "Trem-2010-10estrelas.svg"
+    }
+  ],
+  "macapa": [
+    {
+      "id": "1944",
+      "label": "1944–1945",
+      "local": "Panair-1944.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#580828",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1950",
+      "label": "1950–1969",
+      "local": "Macapa-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#0868b8"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–2008",
+      "local": "Macapa-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#4a4d50"
+      ]
+    },
+    {
+      "id": "2009",
+      "label": "2009–2012",
+      "local": "Macapa-2009.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f8c818",
+        "#0868b8",
+        "#fcfcfc"
+      ]
+    }
+  ],
+  "santos-ap": [
+    {
+      "id": "1973",
+      "label": "1973–2000",
+      "local": "Santos-1973.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2011",
+      "local": "Santos-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#fcfcfc"
+      ]
+    }
+  ],
+  "ypiranga-ba": [
+    {
+      "id": "1914",
+      "label": "1914–1930",
+      "local": "Ypiranga-1914.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f0a018",
+        "#050505"
+      ]
+    },
+    {
+      "id": "1931",
+      "label": "1931–1942",
+      "local": "Ypiranga-1931.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f0a018",
+        "#050505"
+      ]
+    },
+    {
+      "id": "1943",
+      "label": "1943–1944",
+      "local": "Ypiranga-1943.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f0a018",
+        "#050505"
+      ]
+    },
+    {
+      "id": "1962",
+      "label": "1962–1963",
+      "local": "Ypiranga-1964.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#009830"
+      ],
+      "fundoExterno": true
+    },
+    {
+      "id": "1964",
+      "label": "1964–1971",
+      "local": "Ypiranga-1962.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#f0a018",
+        "#050505"
+      ]
     }
   ]
 }
