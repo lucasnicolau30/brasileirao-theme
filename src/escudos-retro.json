@@ -1337,21 +1337,19 @@
       ]
     },
     {
-      "id": "2017",
-      "label": "2017–2019",
-      "local": "Atletico-GO-2017.png",
-      "vetorizar": "suave",
-      "silhueta": "borda",
-      "refinar": true,
+      "id": "2018",
+      "label": "2018–2019",
+      "local": "Atletico-GO-2018.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
       "vetorizarPaleta": [
-        "#1d2125",
-        "#ee3c44",
-        "#c9a56d",
-        "#c6cacd"
-      ],
-      "estrelasRegulares": [
-        "#c9a56d",
-        "#c6cacd"
+        "#ffffff",
+        "#181818",
+        "#d82018"
       ]
     }
   ],

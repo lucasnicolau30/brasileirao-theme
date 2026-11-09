@@ -7310,8 +7310,8 @@
         "label": "1940–1949",
         "fullLabel": "1940–1949",
         "atual": false,
-        "file": "retro-1940-027a4c71.svg",
-        "aspect": 1,
+        "file": "retro-1940-25828b4a.svg",
+        "aspect": 1.261,
         "iconTheme": "brasileirao-atletico-go-1940"
       },
       {
@@ -7319,8 +7319,8 @@
         "label": "1950–1970",
         "fullLabel": "1950–1970",
         "atual": false,
-        "file": "retro-1950-9f3bd512.svg",
-        "aspect": 1,
+        "file": "retro-1950-ad51a574.svg",
+        "aspect": 0.86,
         "iconTheme": "brasileirao-atletico-go-1950"
       },
       {
@@ -7328,8 +7328,8 @@
         "label": "1971–1989",
         "fullLabel": "1971–1989",
         "atual": false,
-        "file": "retro-1971-7114b648.svg",
-        "aspect": 1,
+        "file": "retro-1971-134880d2.svg",
+        "aspect": 0.981,
         "iconTheme": "brasileirao-atletico-go-1971"
       },
       {
@@ -7337,8 +7337,8 @@
         "label": "1990–2006",
         "fullLabel": "1990–2006",
         "atual": false,
-        "file": "retro-1990-5331267d.svg",
-        "aspect": 1,
+        "file": "retro-1990-74888129.svg",
+        "aspect": 0.922,
         "iconTheme": "brasileirao-atletico-go-1990"
       },
       {
@@ -7346,8 +7346,8 @@
         "label": "2007–2013",
         "fullLabel": "2007–2013",
         "atual": false,
-        "file": "retro-2007-3c1bb570.svg",
-        "aspect": 1,
+        "file": "retro-2007-cbd0b25e.svg",
+        "aspect": 0.681,
         "iconTheme": "brasileirao-atletico-go-2007"
       },
       {
@@ -7355,8 +7355,8 @@
         "label": "2014–2015",
         "fullLabel": "2014–2015",
         "atual": false,
-        "file": "retro-2014-83a0ec42.svg",
-        "aspect": 1,
+        "file": "retro-2014-b06173ea.svg",
+        "aspect": 0.736,
         "iconTheme": "brasileirao-atletico-go-2014"
       },
       {
@@ -7364,18 +7364,18 @@
         "label": "2016–2017",
         "fullLabel": "2016–2017",
         "atual": false,
-        "file": "retro-2016-c21d7e45.svg",
-        "aspect": 1,
+        "file": "retro-2016-e8de5104.svg",
+        "aspect": 0.638,
         "iconTheme": "brasileirao-atletico-go-2016"
       },
       {
-        "id": "2017",
-        "label": "2017–2019",
-        "fullLabel": "2017–2019",
+        "id": "2018",
+        "label": "2018–2019",
+        "fullLabel": "2018–2019",
         "atual": false,
-        "file": "retro-2017-38d37488.svg",
-        "aspect": 0.693,
-        "iconTheme": "brasileirao-atletico-go-2017"
+        "file": "retro-2018-623fa751.svg",
+        "aspect": 0.918,
+        "iconTheme": "brasileirao-atletico-go-2018"
       }
     ],
     "alternates": [],
