@@ -4904,5 +4904,205 @@
         "#1c5f9a"
       ]
     }
+  ],
+  "mixto": [
+    {
+      "id": "1961",
+      "label": "1961–1969",
+      "local": "Mixto-1961.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970",
+      "local": "Mixto-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1971",
+      "label": "1971–1973",
+      "local": "Mixto-1971.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1974",
+      "label": "1974",
+      "local": "Mixto-1974.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1975",
+      "label": "1975",
+      "local": "Mixto-1975.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#e83038",
+        "#f08828"
+      ]
+    },
+    {
+      "id": "1976",
+      "label": "1976–1982",
+      "local": "Mixto-1976.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1983",
+      "label": "1983–1987",
+      "local": "Mixto-1983.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#e02830"
+      ]
+    },
+    {
+      "id": "1988",
+      "label": "1988–1998",
+      "local": "Mixto-1988.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#a8a4a0"
+      ]
+    },
+    {
+      "id": "1999",
+      "label": "1999–2000",
+      "local": "Mixto-1999.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#f8e018"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2002",
+      "local": "Mixto-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#f8f800"
+      ]
+    },
+    {
+      "id": "2003",
+      "label": "2003–2004",
+      "local": "Mixto-2003.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#f8f800"
+      ]
+    },
+    {
+      "id": "2005",
+      "label": "2005–2007",
+      "local": "Mixto-2005.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "2008",
+      "label": "2008–2011",
+      "local": "Mixto-2008.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff"
+      ]
+    }
   ]
 }

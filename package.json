@@ -2367,6 +2367,71 @@
         "path": "./icons/mixto/icon-theme.json"
       },
       {
+        "id": "brasileirao-mixto-1961",
+        "label": "Brasileirão: Mixto (retrô 1961–1969)",
+        "path": "./icons/mixto/icon-theme-1961.json"
+      },
+      {
+        "id": "brasileirao-mixto-1970",
+        "label": "Brasileirão: Mixto (retrô 1970)",
+        "path": "./icons/mixto/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-mixto-1971",
+        "label": "Brasileirão: Mixto (retrô 1971–1973)",
+        "path": "./icons/mixto/icon-theme-1971.json"
+      },
+      {
+        "id": "brasileirao-mixto-1974",
+        "label": "Brasileirão: Mixto (retrô 1974)",
+        "path": "./icons/mixto/icon-theme-1974.json"
+      },
+      {
+        "id": "brasileirao-mixto-1975",
+        "label": "Brasileirão: Mixto (retrô 1975)",
+        "path": "./icons/mixto/icon-theme-1975.json"
+      },
+      {
+        "id": "brasileirao-mixto-1976",
+        "label": "Brasileirão: Mixto (retrô 1976–1982)",
+        "path": "./icons/mixto/icon-theme-1976.json"
+      },
+      {
+        "id": "brasileirao-mixto-1983",
+        "label": "Brasileirão: Mixto (retrô 1983–1987)",
+        "path": "./icons/mixto/icon-theme-1983.json"
+      },
+      {
+        "id": "brasileirao-mixto-1988",
+        "label": "Brasileirão: Mixto (retrô 1988–1998)",
+        "path": "./icons/mixto/icon-theme-1988.json"
+      },
+      {
+        "id": "brasileirao-mixto-1999",
+        "label": "Brasileirão: Mixto (retrô 1999–2000)",
+        "path": "./icons/mixto/icon-theme-1999.json"
+      },
+      {
+        "id": "brasileirao-mixto-2001",
+        "label": "Brasileirão: Mixto (retrô 2001–2002)",
+        "path": "./icons/mixto/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-mixto-2003",
+        "label": "Brasileirão: Mixto (retrô 2003–2004)",
+        "path": "./icons/mixto/icon-theme-2003.json"
+      },
+      {
+        "id": "brasileirao-mixto-2005",
+        "label": "Brasileirão: Mixto (retrô 2005–2007)",
+        "path": "./icons/mixto/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-mixto-2008",
+        "label": "Brasileirão: Mixto (retrô 2008–2011)",
+        "path": "./icons/mixto/icon-theme-2008.json"
+      },
+      {
         "id": "brasileirao-brasiliense",
         "label": "Brasileirão: Brasiliense",
         "path": "./icons/brasiliense/icon-theme.json"

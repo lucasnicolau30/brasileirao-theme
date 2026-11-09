@@ -442,7 +442,7 @@ test('escudos antigos: lista válida, só de times existentes, e os arquivos da 
   for (const [slug, entries] of Object.entries(lista)) {
     if (slug.startsWith('_')) continue;
     assert.ok(slugs.has(slug), `${slug} não é um time`);
-    assert.ok(entries.length >= 1 && entries.length <= 12, `${slug}: quantidade de escudos fora do esperado`);
+    assert.ok(entries.length >= 1 && entries.length <= 13, `${slug}: quantidade de escudos fora do esperado`);
     assert.equal(new Set(entries.map((e) => e.id)).size, entries.length, `${slug}: id repetido`);
     for (const e of entries) {
       assert.match(e.id, /^[a-z0-9-]+$/, `${slug}: id inválido ${e.id}`);

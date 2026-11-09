@@ -10980,7 +10980,125 @@
         2026
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1961",
+        "label": "1961–1969",
+        "fullLabel": "1961–1969",
+        "atual": false,
+        "file": "retro-1961-b0fde78f.svg",
+        "aspect": 1.737,
+        "iconTheme": "brasileirao-mixto-1961"
+      },
+      {
+        "id": "1970",
+        "label": "1970",
+        "fullLabel": "1970",
+        "atual": false,
+        "file": "retro-1970-e3c6e4c3.svg",
+        "aspect": 0.627,
+        "iconTheme": "brasileirao-mixto-1970"
+      },
+      {
+        "id": "1971",
+        "label": "1971–1973",
+        "fullLabel": "1971–1973",
+        "atual": false,
+        "file": "retro-1971-fe15a4fa.svg",
+        "aspect": 1.68,
+        "iconTheme": "brasileirao-mixto-1971"
+      },
+      {
+        "id": "1974",
+        "label": "1974",
+        "fullLabel": "1974",
+        "atual": false,
+        "file": "retro-1974-87313571.svg",
+        "aspect": 0.907,
+        "iconTheme": "brasileirao-mixto-1974"
+      },
+      {
+        "id": "1975",
+        "label": "1975",
+        "fullLabel": "1975",
+        "atual": false,
+        "file": "retro-1975-10d72034.svg",
+        "aspect": 1.418,
+        "iconTheme": "brasileirao-mixto-1975"
+      },
+      {
+        "id": "1976",
+        "label": "1976–1982",
+        "fullLabel": "1976–1982",
+        "atual": false,
+        "file": "retro-1976-0065a82a.svg",
+        "aspect": 1.745,
+        "iconTheme": "brasileirao-mixto-1976"
+      },
+      {
+        "id": "1983",
+        "label": "1983–1987",
+        "fullLabel": "1983–1987",
+        "atual": false,
+        "file": "retro-1983-01d28765.svg",
+        "aspect": 1.404,
+        "iconTheme": "brasileirao-mixto-1983"
+      },
+      {
+        "id": "1988",
+        "label": "1988–1998",
+        "fullLabel": "1988–1998",
+        "atual": false,
+        "file": "retro-1988-221b749a.svg",
+        "aspect": 1.915,
+        "iconTheme": "brasileirao-mixto-1988"
+      },
+      {
+        "id": "1999",
+        "label": "1999–2000",
+        "fullLabel": "1999–2000",
+        "atual": false,
+        "file": "retro-1999-b4d4c59c.svg",
+        "aspect": 1.657,
+        "iconTheme": "brasileirao-mixto-1999"
+      },
+      {
+        "id": "2001",
+        "label": "2001–2002",
+        "fullLabel": "2001–2002",
+        "atual": false,
+        "file": "retro-2001-4797bd70.svg",
+        "aspect": 1.307,
+        "iconTheme": "brasileirao-mixto-2001"
+      },
+      {
+        "id": "2003",
+        "label": "2003–2004",
+        "fullLabel": "2003–2004",
+        "atual": false,
+        "file": "retro-2003-72b1026d.svg",
+        "aspect": 1.148,
+        "iconTheme": "brasileirao-mixto-2003"
+      },
+      {
+        "id": "2005",
+        "label": "2005–2007",
+        "fullLabel": "2005–2007",
+        "atual": false,
+        "file": "retro-2005-46a058ae.svg",
+        "aspect": 1.68,
+        "iconTheme": "brasileirao-mixto-2005"
+      },
+      {
+        "id": "2008",
+        "label": "2008–2011",
+        "fullLabel": "2008–2011",
+        "atual": false,
+        "file": "retro-2008-3f843770.svg",
+        "aspect": 1.745,
+        "iconTheme": "brasileirao-mixto-2008"
+      }
+    ],
     "alternates": [],
     "swatch": "⬛⬜",
     "primary": "#d0d0d0",
