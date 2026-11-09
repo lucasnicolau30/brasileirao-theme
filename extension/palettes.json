@@ -7484,21 +7484,93 @@
     "retro": [
       {
         "id": "1943",
-        "label": "1943–1945",
-        "fullLabel": "1943–1945",
+        "label": "1943–1944",
+        "fullLabel": "1943–1944",
         "atual": false,
         "file": "retro-1943-1f076526.svg",
         "aspect": 0.892,
         "iconTheme": "brasileirao-vila-nova-1943"
       },
       {
-        "id": "1996",
-        "label": "1996–2016",
-        "fullLabel": "1996–2016",
+        "id": "1945",
+        "label": "1945–1960",
+        "fullLabel": "1945–1960",
         "atual": false,
-        "file": "retro-1996-07ab8fa0.svg",
-        "aspect": 0.679,
+        "file": "retro-1945-a522cfc4.svg",
+        "aspect": 0.8,
+        "iconTheme": "brasileirao-vila-nova-1945"
+      },
+      {
+        "id": "1961",
+        "label": "1961–1976",
+        "fullLabel": "1961–1976",
+        "atual": false,
+        "file": "retro-1961-c01cf598.svg",
+        "aspect": 0.891,
+        "iconTheme": "brasileirao-vila-nova-1961"
+      },
+      {
+        "id": "1977",
+        "label": "1977–1979",
+        "fullLabel": "1977–1979",
+        "atual": false,
+        "file": "retro-1977-e4ad73e7.svg",
+        "aspect": 0.891,
+        "iconTheme": "brasileirao-vila-nova-1977"
+      },
+      {
+        "id": "1980",
+        "label": "1980–1984",
+        "fullLabel": "1980–1984",
+        "atual": false,
+        "file": "retro-1980-819b7104.svg",
+        "aspect": 0.686,
+        "iconTheme": "brasileirao-vila-nova-1980"
+      },
+      {
+        "id": "1985",
+        "label": "1985–1989",
+        "fullLabel": "1985–1989",
+        "atual": false,
+        "file": "retro-1985-9889a427.svg",
+        "aspect": 0.79,
+        "iconTheme": "brasileirao-vila-nova-1985"
+      },
+      {
+        "id": "1990",
+        "label": "1990–1995",
+        "fullLabel": "1990–1995",
+        "atual": false,
+        "file": "retro-1990-4c5e632e.svg",
+        "aspect": 0.837,
+        "iconTheme": "brasileirao-vila-nova-1990"
+      },
+      {
+        "id": "1996",
+        "label": "1996–2011",
+        "fullLabel": "1996–2011",
+        "atual": false,
+        "file": "retro-1996-4dde6845.svg",
+        "aspect": 0.833,
         "iconTheme": "brasileirao-vila-nova-1996"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2015",
+        "fullLabel": "2012–2015",
+        "atual": false,
+        "file": "retro-2012-b1e7e8c3.svg",
+        "aspect": 0.683,
+        "iconTheme": "brasileirao-vila-nova-2012"
+      },
+      {
+        "id": "2016",
+        "label": "2016–2019",
+        "fullLabel": "2016–2019",
+        "atual": false,
+        "file": "retro-2016-0f505123.svg",
+        "aspect": 0.69,
+        "iconTheme": "brasileirao-vila-nova-2016"
       }
     ],
     "alternates": [],
