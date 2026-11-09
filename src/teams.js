@@ -1267,7 +1267,7 @@ const times = [
     slug: "goias",
     swatch: "🟩⬜",
     uf: "GO",
-    crestLabel: "Goiás (desde 2021)",
+    crestLabel: "Goiás (desde 2013)",
     bgColored: true,
     titles: {
       brasileirao: [],
@@ -2378,6 +2378,7 @@ const times = [
     uf: "GO",
     crestLabel: "Atlético-GO (desde 2020)",
     bgColored: true,
+    titleOrder: ["serieC", "serieB", "estadual"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],
@@ -2421,6 +2422,7 @@ const times = [
     uf: "GO",
     crestLabel: "Vila Nova (desde 2020)",
     bgColored: true,
+    titleOrder: ["estadual", "serieC"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],
@@ -3008,6 +3010,7 @@ const times = [
     ],
   },
   {
+    // Exceção: os retrôs 2011–2012 e 2012–2013 se sobrepõem em 2012 de propósito (decisão do dono do projeto).
     slug: "nacional-am",
     swatch: "🟦⬜🟨",
     uf: "AM",
@@ -5852,10 +5855,16 @@ const porTitulos = (a, b) => {
 // Única exceção hoje: o Remo fica à frente do Tuna Luso (o Tuna tem Série B e C; o Remo, Série C e Copa Verde).
 const ordenado = estados.flatMap((uf) => {
   const lista = times.filter((t) => estado(t) === uf).sort(porTitulos);
-  lista.filter((t) => t.antesDe).forEach((t) => {
-    lista.splice(lista.indexOf(t), 1);
-    lista.splice(lista.findIndex((x) => x.slug === t.antesDe), 0, t);
-  });
+  lista
+    .filter((t) => t.antesDe)
+    .forEach((t) => {
+      lista.splice(lista.indexOf(t), 1);
+      lista.splice(
+        lista.findIndex((x) => x.slug === t.antesDe),
+        0,
+        t,
+      );
+    });
   return lista;
 });
 module.exports = ordenado;
