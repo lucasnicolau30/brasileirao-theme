@@ -525,26 +525,6 @@
         "path": "./themes/comercial-ms-color-theme.json"
       },
       {
-        "label": "Brasileirão: Águia Negra",
-        "uiTheme": "vs-dark",
-        "path": "./themes/aguia-negra-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Costa Rica",
-        "uiTheme": "vs-dark",
-        "path": "./themes/costa-rica-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Aquidauanense",
-        "uiTheme": "vs-dark",
-        "path": "./themes/aquidauanense-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Novoperário",
-        "uiTheme": "vs-dark",
-        "path": "./themes/novoperario-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Rio Branco-AC",
         "uiTheme": "vs-dark",
         "path": "./themes/rio-branco-ac-color-theme.json"
@@ -2735,26 +2715,6 @@
         "id": "brasileirao-comercial-ms-1943",
         "label": "Brasileirão: Comercial-MS (retrô 1943–1950)",
         "path": "./icons/comercial-ms/icon-theme-1943.json"
-      },
-      {
-        "id": "brasileirao-aguia-negra",
-        "label": "Brasileirão: Águia Negra",
-        "path": "./icons/aguia-negra/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-costa-rica",
-        "label": "Brasileirão: Costa Rica",
-        "path": "./icons/costa-rica/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-aquidauanense",
-        "label": "Brasileirão: Aquidauanense",
-        "path": "./icons/aquidauanense/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-novoperario",
-        "label": "Brasileirão: Novoperário",
-        "path": "./icons/novoperario/icon-theme.json"
       },
       {
         "id": "brasileirao-rio-branco-ac",
