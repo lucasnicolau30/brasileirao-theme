@@ -10219,8 +10219,8 @@
     "retro": [
       {
         "id": "1923",
-        "label": "1923–1933",
-        "fullLabel": "1923–1933",
+        "label": "1923–1932",
+        "fullLabel": "1923–1932",
         "atual": false,
         "file": "retro-1923-3639ef3e.svg",
         "aspect": 0.732,
@@ -10228,12 +10228,84 @@
       },
       {
         "id": "1933",
-        "label": "1933–1972",
-        "fullLabel": "1933–1972",
+        "label": "1933–1971",
+        "fullLabel": "1933–1971",
         "atual": false,
         "file": "retro-1933-f333c0e0.svg",
         "aspect": 0.718,
         "iconTheme": "brasileirao-sampaio-correa-1933"
+      },
+      {
+        "id": "1972",
+        "label": "1972–1987",
+        "fullLabel": "1972–1987",
+        "atual": false,
+        "file": "retro-1972-174b43af.svg",
+        "aspect": 1.245,
+        "iconTheme": "brasileirao-sampaio-correa-1972"
+      },
+      {
+        "id": "1988",
+        "label": "1988–1989",
+        "fullLabel": "1988–1989",
+        "atual": false,
+        "file": "retro-1988-be5412b5.svg",
+        "aspect": 1.079,
+        "iconTheme": "brasileirao-sampaio-correa-1988"
+      },
+      {
+        "id": "1990",
+        "label": "1990–1997",
+        "fullLabel": "1990–1997",
+        "atual": false,
+        "file": "retro-1990-67fdf88f.svg",
+        "aspect": 0.775,
+        "iconTheme": "brasileirao-sampaio-correa-1990"
+      },
+      {
+        "id": "1998",
+        "label": "1998–2008",
+        "fullLabel": "1998–2008",
+        "atual": false,
+        "file": "retro-1998-2ae40476.svg",
+        "aspect": 1.04,
+        "iconTheme": "brasileirao-sampaio-correa-1998"
+      },
+      {
+        "id": "2009",
+        "label": "2009–2012",
+        "fullLabel": "2009–2012",
+        "atual": false,
+        "file": "retro-2009-0263cfd0.svg",
+        "aspect": 0.858,
+        "iconTheme": "brasileirao-sampaio-correa-2009"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2013",
+        "fullLabel": "2012–2013",
+        "atual": false,
+        "file": "retro-2012-3ae23d6d.svg",
+        "aspect": 0.833,
+        "iconTheme": "brasileirao-sampaio-correa-2012"
+      },
+      {
+        "id": "2013",
+        "label": "2013–2016",
+        "fullLabel": "2013–2016",
+        "atual": false,
+        "file": "retro-2013-3476e473.svg",
+        "aspect": 0.752,
+        "iconTheme": "brasileirao-sampaio-correa-2013"
+      },
+      {
+        "id": "2017",
+        "label": "2017–2018",
+        "fullLabel": "2017–2018",
+        "atual": false,
+        "file": "retro-2017-19a01734.svg",
+        "aspect": 0.762,
+        "iconTheme": "brasileirao-sampaio-correa-2017"
       }
     ],
     "alternates": [],

@@ -1062,7 +1062,7 @@
   "sampaio-correa": [
     {
       "id": "1923",
-      "label": "1923–1933",
+      "label": "1923–1932",
       "local": "Sampaio-Correa-1923.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1078,7 +1078,7 @@
     },
     {
       "id": "1933",
-      "label": "1933–1972",
+      "label": "1933–1971",
       "local": "Sampaio-Correa-1933.png",
       "vetorizar": "alfa",
       "fundoExterno": true,
@@ -1092,6 +1092,139 @@
         "#f8f050",
         "#28905f",
         "#e03838"
+      ]
+    },
+    {
+      "id": "1972",
+      "label": "1972–1987",
+      "local": "Sampaio-Correa-1972.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#00a050",
+        "#f8f050",
+        "#e03838",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1988",
+      "label": "1988–1989",
+      "local": "Sampaio-Correa-1988.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#00a050",
+        "#f8f050",
+        "#e03838",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1990",
+      "label": "1990–1997",
+      "local": "Sampaio-Correa-1989.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#00a050",
+        "#f8f050",
+        "#e03838",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1998",
+      "label": "1998–2008",
+      "local": "Sampaio-Correa-1998.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#e03838",
+        "#00a050",
+        "#f8f050",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "2009",
+      "label": "2009–2012",
+      "local": "Sampaio-Correa-2009.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#00a050",
+        "#f8f050",
+        "#e03838",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2013",
+      "local": "Sampaio-Correa-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#088058",
+        "#f8d058",
+        "#d03040"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013–2016",
+      "local": "Sampaio-Correa-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#088058",
+        "#f8d058",
+        "#d03040"
+      ]
+    },
+    {
+      "id": "2017",
+      "label": "2017–2018",
+      "local": "Sampaio-Correa-2017.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#f8d048",
+        "#007048",
+        "#c02028"
       ]
     }
   ],

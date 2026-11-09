@@ -1661,12 +1661,13 @@ const times = [
     ],
   },
   {
+    // Exceção: os retrôs se sobrepõem de propósito em 2012 e 2013 (2009–2012 e 2012–2013, 2012–2013 e 2013–2016), decisão do dono do projeto.
     slug: "sampaio-correa",
     swatch: "🟨🟩🟥",
     uf: "MA",
     crestLabel: "Sampaio Corrêa (desde 2019)",
     bgColored: true,
-    titleOrder: ["serieC", "serieB", "copaDoNordeste", "serieD"],
+    titleOrder: ["copaDoNordeste", "serieD", "serieB", "serieC", "estadual"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],
