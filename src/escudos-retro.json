@@ -2301,28 +2301,42 @@
   "luverdense": [
     {
       "id": "2004",
-      "label": "2004–2011",
-      "local": "Luverdense-2004.png",
+      "label": "2004–2006",
+      "local": "Luverdense-2004.svg"
+    },
+    {
+      "id": "2007",
+      "label": "2007–2010",
+      "local": "Luverdense-2007.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
-      "bordaPx": 0,
       "nitido": true,
       "sobrepor": 1,
-      "escala": 6,
-      "suavidade": 1.2,
+      "escala": 3,
+      "suavidade": 1.5,
       "minimo": 30,
       "vetorizarPaleta": [
         "#ffffff",
         "#049a44",
-        "#dc221c",
-        "#046aac",
+        "#f0e000",
+        "#0a5cb4",
         "#4a4a4a"
       ]
     },
     {
-      "id": "2012",
-      "label": "2012–2016",
-      "local": "Luverdense-2012.svg"
+      "id": "2011",
+      "label": "2011–2023",
+      "local": "Luverdense-2011.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#58804a",
+        "#88c048"
+      ]
     }
   ],
   "manaus": [

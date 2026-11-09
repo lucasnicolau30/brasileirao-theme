@@ -2671,8 +2671,9 @@ const times = [
     slug: "luverdense",
     swatch: "🟩⬜",
     uf: "MT",
-    crestLabel: "Luverdense (desde 2016)",
+    crestLabel: "Luverdense (desde 2024)",
     bgColored: true,
+    titleOrder: ["estadual", "copaVerde"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],

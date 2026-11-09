@@ -2348,13 +2348,18 @@
       },
       {
         "id": "brasileirao-luverdense-2004",
-        "label": "Brasileirão: Luverdense (retrô 2004–2011)",
+        "label": "Brasileirão: Luverdense (retrô 2004–2006)",
         "path": "./icons/luverdense/icon-theme-2004.json"
       },
       {
-        "id": "brasileirao-luverdense-2012",
-        "label": "Brasileirão: Luverdense (retrô 2012–2016)",
-        "path": "./icons/luverdense/icon-theme-2012.json"
+        "id": "brasileirao-luverdense-2007",
+        "label": "Brasileirão: Luverdense (retrô 2007–2010)",
+        "path": "./icons/luverdense/icon-theme-2007.json"
+      },
+      {
+        "id": "brasileirao-luverdense-2011",
+        "label": "Brasileirão: Luverdense (retrô 2011–2023)",
+        "path": "./icons/luverdense/icon-theme-2011.json"
       },
       {
         "id": "brasileirao-mixto",

@@ -10847,21 +10847,30 @@
     "retro": [
       {
         "id": "2004",
-        "label": "2004–2011",
-        "fullLabel": "2004–2011",
+        "label": "2004–2006",
+        "fullLabel": "2004–2006",
         "atual": false,
-        "file": "retro-2004-a1acfcba.svg",
+        "file": "retro-2004-285d0733.svg",
         "aspect": 1,
         "iconTheme": "brasileirao-luverdense-2004"
       },
       {
-        "id": "2012",
-        "label": "2012–2016",
-        "fullLabel": "2012–2016",
+        "id": "2007",
+        "label": "2007–2010",
+        "fullLabel": "2007–2010",
         "atual": false,
-        "file": "retro-2012-f0f2d0b5.svg",
-        "aspect": 0.617,
-        "iconTheme": "brasileirao-luverdense-2012"
+        "file": "retro-2007-48f3d6ef.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-luverdense-2007"
+      },
+      {
+        "id": "2011",
+        "label": "2011–2023",
+        "fullLabel": "2011–2023",
+        "atual": false,
+        "file": "retro-2011-d51b9fe6.svg",
+        "aspect": 0.695,
+        "iconTheme": "brasileirao-luverdense-2011"
       }
     ],
     "alternates": [],
