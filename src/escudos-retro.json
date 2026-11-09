@@ -4714,5 +4714,91 @@
         "#2c2c30"
       ]
     }
+  ],
+  "maranhao-ac": [
+    {
+      "id": "1932",
+      "label": "1932–1937",
+      "local": "Maranhao-MAC-1932.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#2c2c30",
+        "#ffffff",
+        "#f00000",
+        "#0f3f8a"
+      ]
+    },
+    {
+      "id": "1938",
+      "label": "1938–1949",
+      "local": "Maranhao-MAC-1938.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#0a5cb4",
+        "#ffffff",
+        "#f80000",
+        "#2c2c30"
+      ]
+    },
+    {
+      "id": "1950",
+      "label": "1950–1968",
+      "local": "Maranhao-MAC-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#1f46b0",
+        "#ffffff",
+        "#f80000",
+        "#2c2c30"
+      ]
+    },
+    {
+      "id": "1969",
+      "label": "1969–1970",
+      "local": "Maranhao-MAC-1969.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#1f3a9c",
+        "#ffffff",
+        "#f80000"
+      ]
+    },
+    {
+      "id": "1971",
+      "label": "1971–1990",
+      "local": "Maranhao-MAC-1971.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#e01818",
+        "#2c2c30",
+        "#ffffff",
+        "#1c5f9a"
+      ]
+    }
   ]
 }

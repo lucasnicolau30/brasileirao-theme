@@ -440,6 +440,11 @@
         "path": "./themes/moto-club-color-theme.json"
       },
       {
+        "label": "Brasileirão: Maranhão AC",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maranhao-ac-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Cuiabá",
         "uiTheme": "vs-dark",
         "path": "./themes/cuiaba-color-theme.json"
@@ -2270,6 +2275,36 @@
         "id": "brasileirao-moto-club-1983",
         "label": "Brasileirão: Moto Club (retrô 1983–2012)",
         "path": "./icons/moto-club/icon-theme-1983.json"
+      },
+      {
+        "id": "brasileirao-maranhao-ac",
+        "label": "Brasileirão: Maranhão AC",
+        "path": "./icons/maranhao-ac/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-maranhao-ac-1932",
+        "label": "Brasileirão: Maranhão AC (retrô 1932–1937)",
+        "path": "./icons/maranhao-ac/icon-theme-1932.json"
+      },
+      {
+        "id": "brasileirao-maranhao-ac-1938",
+        "label": "Brasileirão: Maranhão AC (retrô 1938–1949)",
+        "path": "./icons/maranhao-ac/icon-theme-1938.json"
+      },
+      {
+        "id": "brasileirao-maranhao-ac-1950",
+        "label": "Brasileirão: Maranhão AC (retrô 1950–1968)",
+        "path": "./icons/maranhao-ac/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-maranhao-ac-1969",
+        "label": "Brasileirão: Maranhão AC (retrô 1969–1970)",
+        "path": "./icons/maranhao-ac/icon-theme-1969.json"
+      },
+      {
+        "id": "brasileirao-maranhao-ac-1971",
+        "label": "Brasileirão: Maranhão AC (retrô 1971–1990)",
+        "path": "./icons/maranhao-ac/icon-theme-1971.json"
       },
       {
         "id": "brasileirao-cuiaba",

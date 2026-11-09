@@ -10517,6 +10517,152 @@
       }
     ]
   },
+  "Brasileirão: Maranhão AC": {
+    "slug": "maranhao-ac",
+    "uf": "MA",
+    "crestLabel": "Atual · desde 1991",
+    "crestIcon": "escudo-af713c66.svg",
+    "listIcon": "escudo-af713c66.svg",
+    "backgroundAspect": 0.995,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1937,
+        1941,
+        1943,
+        1951,
+        1963,
+        1969,
+        1970,
+        1979,
+        1993,
+        1994,
+        1995,
+        1999,
+        2007,
+        2013,
+        2023,
+        2025
+      ]
+    },
+    "retro": [
+      {
+        "id": "1932",
+        "label": "1932–1937",
+        "fullLabel": "1932–1937",
+        "atual": false,
+        "file": "retro-1932-0dd4b491.svg",
+        "aspect": 0.985,
+        "iconTheme": "brasileirao-maranhao-ac-1932"
+      },
+      {
+        "id": "1938",
+        "label": "1938–1949",
+        "fullLabel": "1938–1949",
+        "atual": false,
+        "file": "retro-1938-81d18e1c.svg",
+        "aspect": 0.769,
+        "iconTheme": "brasileirao-maranhao-ac-1938"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1968",
+        "fullLabel": "1950–1968",
+        "atual": false,
+        "file": "retro-1950-420bbb54.svg",
+        "aspect": 0.88,
+        "iconTheme": "brasileirao-maranhao-ac-1950"
+      },
+      {
+        "id": "1969",
+        "label": "1969–1970",
+        "fullLabel": "1969–1970",
+        "atual": false,
+        "file": "retro-1969-eba3de33.svg",
+        "aspect": 0.859,
+        "iconTheme": "brasileirao-maranhao-ac-1969"
+      },
+      {
+        "id": "1971",
+        "label": "1971–1990",
+        "fullLabel": "1971–1990",
+        "atual": false,
+        "file": "retro-1971-4adc8145.svg",
+        "aspect": 0.907,
+        "iconTheme": "brasileirao-maranhao-ac-1971"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥🟦⬜",
+    "primary": "#1f6fc0",
+    "background": "fundo-2d4de4ef.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-maranhao-ac",
+    "colors": [
+      "rgba(111,176,255,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,138,130,0.08)",
+      "rgba(63,143,224,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#1f6fc033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#6fb0ff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff8a82"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#6fb0ff"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Cuiabá": {
     "slug": "cuiaba",
     "uf": "MT",
