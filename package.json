@@ -2317,6 +2317,31 @@
         "path": "./icons/cuiaba/icon-theme-2001.json"
       },
       {
+        "id": "brasileirao-cuiaba-2010",
+        "label": "Brasileirão: Cuiabá (retrô 2010)",
+        "path": "./icons/cuiaba/icon-theme-2010.json"
+      },
+      {
+        "id": "brasileirao-cuiaba-2011",
+        "label": "Brasileirão: Cuiabá (retrô 2011–2012)",
+        "path": "./icons/cuiaba/icon-theme-2011.json"
+      },
+      {
+        "id": "brasileirao-cuiaba-2013",
+        "label": "Brasileirão: Cuiabá (retrô 2013–2015)",
+        "path": "./icons/cuiaba/icon-theme-2013.json"
+      },
+      {
+        "id": "brasileirao-cuiaba-2016",
+        "label": "Brasileirão: Cuiabá (retrô 2016)",
+        "path": "./icons/cuiaba/icon-theme-2016.json"
+      },
+      {
+        "id": "brasileirao-cuiaba-2017",
+        "label": "Brasileirão: Cuiabá (retrô 2017–2018)",
+        "path": "./icons/cuiaba/icon-theme-2017.json"
+      },
+      {
         "id": "brasileirao-luverdense",
         "label": "Brasileirão: Luverdense",
         "path": "./icons/luverdense/icon-theme.json"

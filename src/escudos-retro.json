@@ -1637,6 +1637,96 @@
         "#d01800",
         "#000000"
       ]
+    },
+    {
+      "id": "2010",
+      "label": "2010",
+      "local": "Cuiaba-EC-2010.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#046c38",
+        "#1c5230",
+        "#f8e818",
+        "#0e9a46",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "2011",
+      "label": "2011–2012",
+      "local": "Cuiaba-EC-2011.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#046c38",
+        "#1c5230",
+        "#f8e818",
+        "#0e9a46",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013–2015",
+      "local": "Cuiaba-EC-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#046c38",
+        "#1c5230",
+        "#f8e818",
+        "#0e9a46",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "2016",
+      "label": "2016",
+      "local": "Cuiaba-EC-2016.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#046c38",
+        "#1c5230",
+        "#f8e818",
+        "#0e9a46",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "2017",
+      "label": "2017–2018",
+      "local": "Cuiaba-EC-2017.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#046c38",
+        "#1c5230",
+        "#f8e818",
+        "#0e9a46",
+        "#ffffff"
+      ]
     }
   ],
   "brasiliense": [

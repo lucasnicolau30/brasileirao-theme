@@ -2625,11 +2625,13 @@ const times = [
     ],
   },
   {
+    // Exceção: o retrô 2010 repete o ano final do 2001–2010 de propósito (decisão do dono do projeto). 
     slug: "cuiaba",
     swatch: "🟩🟨",
     uf: "MT",
     crestLabel: "Cuiabá (desde 2020)",
     bgColored: true,
+    titleOrder: ["estadual", "copaVerde"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],

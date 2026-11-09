@@ -10709,6 +10709,51 @@
         "file": "retro-2001-4df5bd43.svg",
         "aspect": 0.979,
         "iconTheme": "brasileirao-cuiaba-2001"
+      },
+      {
+        "id": "2010",
+        "label": "2010",
+        "fullLabel": "2010",
+        "atual": false,
+        "file": "retro-2010-8733f490.svg",
+        "aspect": 0.736,
+        "iconTheme": "brasileirao-cuiaba-2010"
+      },
+      {
+        "id": "2011",
+        "label": "2011–2012",
+        "fullLabel": "2011–2012",
+        "atual": false,
+        "file": "retro-2011-36382d91.svg",
+        "aspect": 0.724,
+        "iconTheme": "brasileirao-cuiaba-2011"
+      },
+      {
+        "id": "2013",
+        "label": "2013–2015",
+        "fullLabel": "2013–2015",
+        "atual": false,
+        "file": "retro-2013-2a755e02.svg",
+        "aspect": 0.796,
+        "iconTheme": "brasileirao-cuiaba-2013"
+      },
+      {
+        "id": "2016",
+        "label": "2016",
+        "fullLabel": "2016",
+        "atual": false,
+        "file": "retro-2016-1d01b169.svg",
+        "aspect": 0.73,
+        "iconTheme": "brasileirao-cuiaba-2016"
+      },
+      {
+        "id": "2017",
+        "label": "2017–2018",
+        "fullLabel": "2017–2018",
+        "atual": false,
+        "file": "retro-2017-115f57eb.svg",
+        "aspect": 0.7,
+        "iconTheme": "brasileirao-cuiaba-2017"
       }
     ],
     "alternates": [],
