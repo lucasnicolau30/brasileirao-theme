@@ -10370,6 +10370,153 @@
       }
     ]
   },
+  "Brasileirão: Moto Club": {
+    "slug": "moto-club",
+    "uf": "MA",
+    "crestLabel": "Atual · desde 2013",
+    "crestIcon": "escudo-d15d4768.svg",
+    "listIcon": "escudo-d15d4768.svg",
+    "backgroundAspect": 0.849,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": [
+        1944,
+        1945,
+        1946,
+        1947,
+        1948,
+        1949,
+        1950,
+        1955,
+        1959,
+        1960,
+        1966,
+        1967,
+        1968,
+        1974,
+        1977,
+        1981,
+        1982,
+        1983,
+        1989,
+        2000,
+        2001,
+        2004,
+        2006,
+        2008,
+        2016,
+        2018
+      ]
+    },
+    "retro": [
+      {
+        "id": "1937",
+        "label": "1937–1967",
+        "fullLabel": "1937–1967",
+        "atual": false,
+        "file": "retro-1937-edfcb05e.svg",
+        "aspect": 0.88,
+        "iconTheme": "brasileirao-moto-club-1937"
+      },
+      {
+        "id": "1968",
+        "label": "1968–1973",
+        "fullLabel": "1968–1973",
+        "atual": false,
+        "file": "retro-1968-123e1730.svg",
+        "aspect": 0.845,
+        "iconTheme": "brasileirao-moto-club-1968"
+      },
+      {
+        "id": "1974",
+        "label": "1974–1982",
+        "fullLabel": "1974–1982",
+        "atual": false,
+        "file": "retro-1974-43a2caa1.svg",
+        "aspect": 1.224,
+        "iconTheme": "brasileirao-moto-club-1974"
+      },
+      {
+        "id": "1983",
+        "label": "1983–2012",
+        "fullLabel": "1983–2012",
+        "atual": false,
+        "file": "retro-1983-eb86a89c.svg",
+        "aspect": 0.892,
+        "iconTheme": "brasileirao-moto-club-1983"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬛⬜",
+    "primary": "#d81818",
+    "background": "fundo-69dfd28f.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-moto-club",
+    "colors": [
+      "rgba(255,90,90,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,154,154,0.08)",
+      "rgba(232,74,74,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#d8181833",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ff5a5a"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#ff9a9a"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ff5a5a"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Cuiabá": {
     "slug": "cuiaba",
     "uf": "MT",

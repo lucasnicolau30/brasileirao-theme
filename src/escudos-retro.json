@@ -4650,5 +4650,69 @@
         "#fc0000"
       ]
     }
+  ],
+  "moto-club": [
+    {
+      "id": "1937",
+      "label": "1937–1967",
+      "local": "Moto-Club-1937.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#2c2c30",
+        "#007830"
+      ]
+    },
+    {
+      "id": "1968",
+      "label": "1968–1973",
+      "local": "Moto-Club-1968.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#e03830",
+        "#2c2c30"
+      ]
+    },
+    {
+      "id": "1974",
+      "label": "1974–1982",
+      "local": "Moto-Club-1974.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#c0c0c0"
+      ]
+    },
+    {
+      "id": "1983",
+      "label": "1983–2012",
+      "local": "Moto-Club-1983.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#e03830",
+        "#2c2c30"
+      ]
+    }
   ]
 }
