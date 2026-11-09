@@ -7635,6 +7635,110 @@
       }
     ]
   },
+  "Brasileirão: Aparecidense": {
+    "slug": "aparecidense",
+    "uf": "GO",
+    "crestLabel": "Atual · desde 2022",
+    "crestIcon": "escudo-83c7b8af.svg",
+    "listIcon": "escudo-83c7b8af.svg",
+    "backgroundAspect": 1,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [],
+      "serieC": [],
+      "serieD": [
+        2021
+      ],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1985",
+        "label": "1985–2002",
+        "fullLabel": "1985–2002",
+        "atual": false,
+        "file": "retro-1985-d0e29339.svg",
+        "aspect": 0.996,
+        "iconTheme": "brasileirao-aparecidense-1985"
+      },
+      {
+        "id": "2003",
+        "label": "2003–2021",
+        "fullLabel": "2003–2021",
+        "atual": false,
+        "file": "retro-2003-f3d48af7.svg",
+        "aspect": 1.006,
+        "iconTheme": "brasileirao-aparecidense-2003"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟨🟦",
+    "primary": "#dabf50",
+    "background": "fundo-c08079b2.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-aparecidense",
+    "colors": [
+      "rgba(240,220,138,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(157,182,230,0.08)",
+      "rgba(218,191,80,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#dabf5033",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#f0dc8a"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#9db6e6"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#f0dc8a"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Criciúma": {
     "slug": "criciuma",
     "uf": "SC",

@@ -3242,6 +3242,21 @@
   ],
   "aparecidense": [
     {
+      "id": "1985",
+      "label": "1985–2002",
+      "local": "Aparecidense-1985.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#3c44a0"
+      ]
+    },
+    {
       "id": "2003",
       "label": "2003–2021",
       "local": "Aparecidense-2003.png",
@@ -3250,16 +3265,11 @@
       "sobrepor": 1,
       "escala": 3,
       "suavidade": 1.2,
-      "minimo": 60,
-      "fundoExterno": true,
-      "bordaPx": 0,
+      "minimo": 30,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#adbddc",
-        "#5b6db3",
-        "#1d359c"
-      ],
-      "credito": "Associação Atlética Aparecidense | marca registrada | https://fr.wikipedia.org/wiki/Fichier:AA_Aparecidense_(GO).gif"
+        "#d4ac74",
+        "#3c4492"
+      ]
     }
   ],
   "tuna-luso": [

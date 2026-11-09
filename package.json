@@ -345,6 +345,11 @@
         "path": "./themes/vila-nova-color-theme.json"
       },
       {
+        "label": "Brasileirão: Aparecidense",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aparecidense-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Criciúma",
         "uiTheme": "vs-dark",
         "path": "./themes/criciuma-color-theme.json"
@@ -1635,6 +1640,21 @@
         "id": "brasileirao-vila-nova-2016",
         "label": "Brasileirão: Vila Nova (retrô 2016–2019)",
         "path": "./icons/vila-nova/icon-theme-2016.json"
+      },
+      {
+        "id": "brasileirao-aparecidense",
+        "label": "Brasileirão: Aparecidense",
+        "path": "./icons/aparecidense/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-aparecidense-1985",
+        "label": "Brasileirão: Aparecidense (retrô 1985–2002)",
+        "path": "./icons/aparecidense/icon-theme-1985.json"
+      },
+      {
+        "id": "brasileirao-aparecidense-2003",
+        "label": "Brasileirão: Aparecidense (retrô 2003–2021)",
+        "path": "./icons/aparecidense/icon-theme-2003.json"
       },
       {
         "id": "brasileirao-criciuma",
