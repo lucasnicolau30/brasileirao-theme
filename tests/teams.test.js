@@ -495,8 +495,8 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     // Criciúma: a Copa do Brasil fica no centro (titleOrder em teams.js); os outros times mantêm a ordem padrão. O Estadual vai sempre por último, fora da conta do centro.
     assert.deepEqual(itens('Criciúma'), ['Série B', 'Copa do Brasil', 'Série C', 'Estadual']);
     assert.deepEqual(itens('Bragantino'), ['Série C', 'Série B', 'Estadual'], 'Bragantino: a Série B fica no centro (titleOrder em teams.js)');
-    // Sampaio Corrêa: a ordem vem de titleOrder em teams.js (Série C, Série B, Copa do Nordeste, Série D), não da lista padrão.
-    assert.deepEqual(itens('Sampaio Corrêa'), ['Série C', 'Série B', 'Copa do Nordeste', 'Série D', 'Estadual']);
+    // Sampaio Corrêa: a ordem vem de titleOrder em teams.js (Copa do Nordeste, Série D, Série B, Série C), não da lista padrão.
+    assert.deepEqual(itens('Sampaio Corrêa'), ['Copa do Nordeste', 'Série D', 'Série B', 'Série C', 'Estadual']);
     // Todos os troféus têm a mesma altura: nenhum item recebe classe de tamanho especial, e a altura vem de uma variável única.
     for (const time of ['São Paulo', 'Flamengo', 'Palmeiras', 'Amazonas FC']) assert.ok(!/class="item big/.test(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`])), `${time}: nenhum troféu pode ser maior que os outros`);
     assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: Flamengo`]).includes('var(--h)'), 'a altura dos troféus deve vir da variável única --h');
@@ -507,8 +507,8 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Sport'), ['Copa do Brasil', 'Brasileirão', 'Copa do Nordeste', 'Série B', 'Estadual']);
     // Copa Verde: Paysandu, Remo, Goiás, Cuiabá e Brasiliense a mostram, logo depois da Copa do Nordeste na ordem padrão.
     assert.deepEqual(itens('Goiás'), ['Copa Verde', 'Série B', 'Estadual']);
-    assert.deepEqual(itens('Cuiabá'), ['Copa Verde', 'Estadual']);
-    assert.deepEqual(itens('Luverdense'), ['Copa Verde', 'Estadual']);
+    assert.deepEqual(itens('Cuiabá'), ['Estadual', 'Copa Verde']);
+    assert.deepEqual(itens('Luverdense'), ['Estadual', 'Copa Verde']);
     assert.deepEqual(itens('Brasiliense'), ['Copa Verde', 'Série C', 'Série B', 'Estadual']);
     assert.deepEqual(itens('Gama'), ['Estadual', 'Série B']);
     assert.deepEqual(itens('Brasília'), ['Estadual', 'Copa Verde']);
