@@ -1224,68 +1224,80 @@
       "id": "1940",
       "label": "1940–1949",
       "local": "Atletico-GO-1940.png",
-      "vetorizar": "suave",
-      "silhueta": "borda",
-      "refinar": true,
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
       "vetorizarPaleta": [
+        "#ffffff",
         "#181818",
-        "#c82018",
-        "#ffffff"
+        "#c82018"
       ]
     },
     {
       "id": "1950",
       "label": "1950–1970",
       "local": "Atletico-GO-1950.png",
-      "vetorizar": "suave",
-      "silhueta": "borda",
-      "refinar": true,
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
       "vetorizarPaleta": [
+        "#ffffff",
         "#181818",
-        "#c82018",
-        "#ffffff"
+        "#c82018"
       ]
     },
     {
       "id": "1971",
       "label": "1971–1989",
       "local": "Atletico-GO-1971.png",
-      "vetorizar": "suave",
-      "silhueta": "borda",
-      "refinar": true,
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
       "vetorizarPaleta": [
+        "#ffffff",
         "#181818",
-        "#c82018",
-        "#ffffff"
+        "#c82018"
       ]
     },
     {
       "id": "1990",
       "label": "1990–2006",
       "local": "Atletico-GO-1990.png",
-      "vetorizar": "suave",
-      "silhueta": "borda",
-      "refinar": true,
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
       "vetorizarPaleta": [
+        "#ffffff",
         "#181818",
-        "#c82018",
-        "#ffffff"
+        "#c82018"
       ]
     },
     {
       "id": "2007",
       "label": "2007–2013",
       "local": "Atletico-GO-2007.png",
-      "vetorizar": "suave",
-      "silhueta": "borda",
-      "refinar": true,
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
       "vetorizarPaleta": [
+        "#ffffff",
         "#181818",
         "#c82018",
-        "#ffffff",
-        "#f8d800"
-      ],
-      "estrelasRegulares": [
         "#f8d800"
       ]
     },
@@ -1293,16 +1305,16 @@
       "id": "2014",
       "label": "2014–2015",
       "local": "Atletico-GO-2014.png",
-      "vetorizar": "suave",
-      "silhueta": "borda",
-      "refinar": true,
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
       "vetorizarPaleta": [
+        "#ffffff",
         "#181818",
         "#c82018",
-        "#ffffff",
-        "#f0b848"
-      ],
-      "estrelasRegulares": [
         "#f0b848"
       ]
     },
@@ -1310,17 +1322,16 @@
       "id": "2016",
       "label": "2016–2017",
       "local": "Atletico-GO-2016.png",
-      "vetorizar": "suave",
-      "silhueta": "borda",
-      "refinar": true,
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 40,
       "vetorizarPaleta": [
+        "#ffffff",
         "#181818",
         "#c82018",
-        "#ffffff",
-        "#e3ab4c",
-        "#b2b4b7"
-      ],
-      "estrelasRegulares": [
         "#e3ab4c",
         "#b2b4b7"
       ]
