@@ -3675,8 +3675,120 @@
   "comercial-ms": [
     {
       "id": "1943",
-      "label": "1943–1950",
-      "local": "Comercial-ECC.svg"
+      "label": "1943–1949",
+      "local": "Comercial-MS-1943.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#e83800"
+      ]
+    },
+    {
+      "id": "1950",
+      "label": "1950–1959",
+      "local": "Comercial-MS-1950.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#f80000"
+      ]
+    },
+    {
+      "id": "1960",
+      "label": "1960–1964",
+      "local": "Comercial-MS-1960.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#f80000"
+      ]
+    },
+    {
+      "id": "1965",
+      "label": "1965–1974",
+      "local": "Comercial-MS-1965.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#f80000"
+      ]
+    },
+    {
+      "id": "1975",
+      "label": "1975–1981",
+      "local": "Comercial-MS-1975.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#e83800"
+      ]
+    },
+    {
+      "id": "1982",
+      "label": "1982–2009",
+      "local": "Comercial-MS-1982.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#d03038"
+      ]
+    },
+    {
+      "id": "2010",
+      "label": "2010–2012",
+      "local": "Comercial-MS-2010.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#d03038"
+      ]
     }
   ],
   "operario-ms": [

@@ -2723,8 +2723,38 @@
       },
       {
         "id": "brasileirao-comercial-ms-1943",
-        "label": "Brasileirão: Comercial-MS (retrô 1943–1950)",
+        "label": "Brasileirão: Comercial-MS (retrô 1943–1949)",
         "path": "./icons/comercial-ms/icon-theme-1943.json"
+      },
+      {
+        "id": "brasileirao-comercial-ms-1950",
+        "label": "Brasileirão: Comercial-MS (retrô 1950–1959)",
+        "path": "./icons/comercial-ms/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-comercial-ms-1960",
+        "label": "Brasileirão: Comercial-MS (retrô 1960–1964)",
+        "path": "./icons/comercial-ms/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-comercial-ms-1965",
+        "label": "Brasileirão: Comercial-MS (retrô 1965–1974)",
+        "path": "./icons/comercial-ms/icon-theme-1965.json"
+      },
+      {
+        "id": "brasileirao-comercial-ms-1975",
+        "label": "Brasileirão: Comercial-MS (retrô 1975–1981)",
+        "path": "./icons/comercial-ms/icon-theme-1975.json"
+      },
+      {
+        "id": "brasileirao-comercial-ms-1982",
+        "label": "Brasileirão: Comercial-MS (retrô 1982–2009)",
+        "path": "./icons/comercial-ms/icon-theme-1982.json"
+      },
+      {
+        "id": "brasileirao-comercial-ms-2010",
+        "label": "Brasileirão: Comercial-MS (retrô 2010–2012)",
+        "path": "./icons/comercial-ms/icon-theme-2010.json"
       },
       {
         "id": "brasileirao-rio-branco-ac",

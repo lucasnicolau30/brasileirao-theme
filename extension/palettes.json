@@ -13020,12 +13020,66 @@
     "retro": [
       {
         "id": "1943",
-        "label": "1943–1950",
-        "fullLabel": "1943–1950",
+        "label": "1943–1949",
+        "fullLabel": "1943–1949",
         "atual": false,
-        "file": "retro-1943-4bc0379f.svg",
-        "aspect": 0.92,
+        "file": "retro-1943-6529208d.svg",
+        "aspect": 0.938,
         "iconTheme": "brasileirao-comercial-ms-1943"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1959",
+        "fullLabel": "1950–1959",
+        "atual": false,
+        "file": "retro-1950-18e6caef.svg",
+        "aspect": 0.936,
+        "iconTheme": "brasileirao-comercial-ms-1950"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1964",
+        "fullLabel": "1960–1964",
+        "atual": false,
+        "file": "retro-1960-d094d348.svg",
+        "aspect": 0.94,
+        "iconTheme": "brasileirao-comercial-ms-1960"
+      },
+      {
+        "id": "1965",
+        "label": "1965–1974",
+        "fullLabel": "1965–1974",
+        "atual": false,
+        "file": "retro-1965-f653c582.svg",
+        "aspect": 1.029,
+        "iconTheme": "brasileirao-comercial-ms-1965"
+      },
+      {
+        "id": "1975",
+        "label": "1975–1981",
+        "fullLabel": "1975–1981",
+        "atual": false,
+        "file": "retro-1975-26ff0387.svg",
+        "aspect": 0.918,
+        "iconTheme": "brasileirao-comercial-ms-1975"
+      },
+      {
+        "id": "1982",
+        "label": "1982–2009",
+        "fullLabel": "1982–2009",
+        "atual": false,
+        "file": "retro-1982-10c36594.svg",
+        "aspect": 0.909,
+        "iconTheme": "brasileirao-comercial-ms-1982"
+      },
+      {
+        "id": "2010",
+        "label": "2010–2012",
+        "fullLabel": "2010–2012",
+        "atual": false,
+        "file": "retro-2010-6e57a61c.svg",
+        "aspect": 0.966,
+        "iconTheme": "brasileirao-comercial-ms-2010"
       }
     ],
     "alternates": [],
