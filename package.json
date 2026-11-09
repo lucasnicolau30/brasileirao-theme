@@ -2703,8 +2703,18 @@
       },
       {
         "id": "brasileirao-operario-ms-1938",
-        "label": "Brasileirão: Operário-MS (retrô 1938–1970)",
+        "label": "Brasileirão: Operário-MS (retrô 1938–1969)",
         "path": "./icons/operario-ms/icon-theme-1938.json"
+      },
+      {
+        "id": "brasileirao-operario-ms-1970",
+        "label": "Brasileirão: Operário-MS (retrô 1970–1980)",
+        "path": "./icons/operario-ms/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-operario-ms-1981",
+        "label": "Brasileirão: Operário-MS (retrô 1981–2010)",
+        "path": "./icons/operario-ms/icon-theme-1981.json"
       },
       {
         "id": "brasileirao-comercial-ms",

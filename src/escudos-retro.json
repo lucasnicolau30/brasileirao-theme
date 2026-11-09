@@ -3682,10 +3682,56 @@
   "operario-ms": [
     {
       "id": "1938",
-      "label": "1938–1970",
-      "local": "OFC-1938.jpg",
-      "vetorizar": "monocromo",
-      "cor": "#f2f2f2"
+      "label": "1938–1969",
+      "local": "Operario-MS-1938.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1980",
+      "local": "Operario-MS-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#f8c058"
+      ],
+      "estrelasRegulares": [
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "1981",
+      "label": "1981–2010",
+      "local": "Operario-MS-1981.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#46423a",
+        "#ffffff",
+        "#f8c058"
+      ],
+      "estrelasRegulares": [
+        "#f8c058"
+      ]
     }
   ],
   "fluminense-pi": [

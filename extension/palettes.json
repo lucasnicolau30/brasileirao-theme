@@ -12899,12 +12899,30 @@
     "retro": [
       {
         "id": "1938",
-        "label": "1938–1970",
-        "fullLabel": "1938–1970",
+        "label": "1938–1969",
+        "fullLabel": "1938–1969",
         "atual": false,
-        "file": "retro-1938-d2b5efa4.svg",
-        "aspect": 0.97,
+        "file": "retro-1938-6ca38672.svg",
+        "aspect": 1.02,
         "iconTheme": "brasileirao-operario-ms-1938"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1980",
+        "fullLabel": "1970–1980",
+        "atual": false,
+        "file": "retro-1970-7a87f17e.svg",
+        "aspect": 0.674,
+        "iconTheme": "brasileirao-operario-ms-1970"
+      },
+      {
+        "id": "1981",
+        "label": "1981–2010",
+        "fullLabel": "1981–2010",
+        "atual": false,
+        "file": "retro-1981-85d1ba34.svg",
+        "aspect": 0.649,
+        "iconTheme": "brasileirao-operario-ms-1981"
       }
     ],
     "alternates": [],
