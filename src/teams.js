@@ -4046,6 +4046,7 @@ const times = [
     ],
   },
   {
+    // Especulação: o retrô 1946–1969 começa em 1946 por suposição, sem fonte concreta do escudo de 1946 a 1949 (a troca de nome de Panair para Macapá é de 1945 ou 1946, as fontes divergem).
     slug: "macapa",
     swatch: "🟦⬜",
     uf: "AP",
