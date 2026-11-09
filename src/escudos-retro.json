@@ -788,7 +788,22 @@
   "goias": [
     {
       "id": "1943",
-      "label": "1943–1950",
+      "label": "1943",
+      "local": "Goias-1943.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 150,
+      "vetorizarPaleta": [
+        "#2a8f68",
+        "#f4f4f0"
+      ]
+    },
+    {
+      "id": "1944",
+      "label": "1944–1949",
       "local": "Goias-escudo.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -802,13 +817,63 @@
       ]
     },
     {
-      "id": "2019",
-      "label": "2019–2021",
-      "local": "Goias-G-branco.png",
+      "id": "1950",
+      "label": "1950–1959",
+      "local": "Goias-1950.png",
       "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 150,
       "vetorizarPaleta": [
-        "#f4f4f0",
-        "#2f9e78"
+        "#17745a",
+        "#f4f4f0"
+      ]
+    },
+    {
+      "id": "1960",
+      "label": "1960–1982",
+      "local": "Goias-1966.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 150,
+      "vetorizarPaleta": [
+        "#17745a",
+        "#f4f4f0"
+      ]
+    },
+    {
+      "id": "1983",
+      "label": "1983–2000",
+      "local": "Goias-1983.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 150,
+      "vetorizarPaleta": [
+        "#17745a",
+        "#f4f4f0"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2012",
+      "local": "Goias-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 150,
+      "vetorizarPaleta": [
+        "#17745a",
+        "#f4f4f0"
       ]
     }
   ],

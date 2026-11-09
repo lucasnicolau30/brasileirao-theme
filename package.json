@@ -1503,13 +1503,33 @@
       },
       {
         "id": "brasileirao-goias-1943",
-        "label": "Brasileirão: Goiás (retrô 1943–1950)",
+        "label": "Brasileirão: Goiás (retrô 1943)",
         "path": "./icons/goias/icon-theme-1943.json"
       },
       {
-        "id": "brasileirao-goias-2019",
-        "label": "Brasileirão: Goiás (retrô 2019–2021)",
-        "path": "./icons/goias/icon-theme-2019.json"
+        "id": "brasileirao-goias-1944",
+        "label": "Brasileirão: Goiás (retrô 1944–1949)",
+        "path": "./icons/goias/icon-theme-1944.json"
+      },
+      {
+        "id": "brasileirao-goias-1950",
+        "label": "Brasileirão: Goiás (retrô 1950–1959)",
+        "path": "./icons/goias/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-goias-1960",
+        "label": "Brasileirão: Goiás (retrô 1960–1982)",
+        "path": "./icons/goias/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-goias-1983",
+        "label": "Brasileirão: Goiás (retrô 1983–2000)",
+        "path": "./icons/goias/icon-theme-1983.json"
+      },
+      {
+        "id": "brasileirao-goias-2001",
+        "label": "Brasileirão: Goiás (retrô 2001–2012)",
+        "path": "./icons/goias/icon-theme-2001.json"
       },
       {
         "id": "brasileirao-atletico-go",

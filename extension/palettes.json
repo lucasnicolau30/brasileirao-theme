@@ -7136,21 +7136,57 @@
     "retro": [
       {
         "id": "1943",
-        "label": "1943–1950",
-        "fullLabel": "1943–1950",
+        "label": "1943",
+        "fullLabel": "1943",
         "atual": false,
-        "file": "retro-1943-aef79535.svg",
-        "aspect": 0.942,
+        "file": "retro-1943-0718a7c7.svg",
+        "aspect": 1,
         "iconTheme": "brasileirao-goias-1943"
       },
       {
-        "id": "2019",
-        "label": "2019–2021",
-        "fullLabel": "2019–2021",
+        "id": "1944",
+        "label": "1944–1949",
+        "fullLabel": "1944–1949",
         "atual": false,
-        "file": "retro-2019-d1df22f1.svg",
+        "file": "retro-1944-aef79535.svg",
+        "aspect": 0.942,
+        "iconTheme": "brasileirao-goias-1944"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1959",
+        "fullLabel": "1950–1959",
+        "atual": false,
+        "file": "retro-1950-8527a6db.svg",
         "aspect": 1,
-        "iconTheme": "brasileirao-goias-2019"
+        "iconTheme": "brasileirao-goias-1950"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1982",
+        "fullLabel": "1960–1982",
+        "atual": false,
+        "file": "retro-1960-40bf50fc.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-goias-1960"
+      },
+      {
+        "id": "1983",
+        "label": "1983–2000",
+        "fullLabel": "1983–2000",
+        "atual": false,
+        "file": "retro-1983-1fe0b700.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-goias-1983"
+      },
+      {
+        "id": "2001",
+        "label": "2001–2012",
+        "fullLabel": "2001–2012",
+        "atual": false,
+        "file": "retro-2001-cc5f8f10.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-goias-2001"
       }
     ],
     "alternates": [],
