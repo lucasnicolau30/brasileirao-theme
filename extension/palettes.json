@@ -7784,21 +7784,84 @@
     "retro": [
       {
         "id": "1905",
-        "label": "1905–1911",
-        "fullLabel": "1905–1911",
+        "label": "1905–1924",
+        "fullLabel": "1905–1924",
         "atual": false,
-        "file": "retro-1905-152b1a15.svg",
-        "aspect": 0.985,
+        "file": "retro-1905-2f594daa.svg",
+        "aspect": 1.338,
         "iconTheme": "brasileirao-remo-1905"
       },
       {
-        "id": "1911",
-        "label": "1911–1914",
-        "fullLabel": "1911–1914",
+        "id": "1925",
+        "label": "1925–1949",
+        "fullLabel": "1925–1949",
         "atual": false,
-        "file": "retro-1911-8d476fb6.svg",
-        "aspect": 1.77,
-        "iconTheme": "brasileirao-remo-1911"
+        "file": "retro-1925-1377ff0b.svg",
+        "aspect": 1.364,
+        "iconTheme": "brasileirao-remo-1925"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1959",
+        "fullLabel": "1950–1959",
+        "atual": false,
+        "file": "retro-1950-a5c9939f.svg",
+        "aspect": 0.912,
+        "iconTheme": "brasileirao-remo-1950"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1979",
+        "fullLabel": "1960–1979",
+        "atual": false,
+        "file": "retro-1960-6b9eb158.svg",
+        "aspect": 0.896,
+        "iconTheme": "brasileirao-remo-1960"
+      },
+      {
+        "id": "1980",
+        "label": "1980–1990",
+        "fullLabel": "1980–1990",
+        "atual": false,
+        "file": "retro-1980-7aa19235.svg",
+        "aspect": 0.946,
+        "iconTheme": "brasileirao-remo-1980"
+      },
+      {
+        "id": "1991",
+        "label": "1991–2003",
+        "fullLabel": "1991–2003",
+        "atual": false,
+        "file": "retro-1991-ee90e471.svg",
+        "aspect": 0.798,
+        "iconTheme": "brasileirao-remo-1991"
+      },
+      {
+        "id": "2004",
+        "label": "2004–2007",
+        "fullLabel": "2004–2007",
+        "atual": false,
+        "file": "retro-2004-4bc5d8a1.svg",
+        "aspect": 0.682,
+        "iconTheme": "brasileirao-remo-2004"
+      },
+      {
+        "id": "2008",
+        "label": "2008–2011",
+        "fullLabel": "2008–2011",
+        "atual": false,
+        "file": "retro-2008-4f2bd7a4.svg",
+        "aspect": 0.638,
+        "iconTheme": "brasileirao-remo-2008"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2013",
+        "fullLabel": "2012–2013",
+        "atual": false,
+        "file": "retro-2012-8384b3a0.svg",
+        "aspect": 0.598,
+        "iconTheme": "brasileirao-remo-2012"
       }
     ],
     "alternates": [],
