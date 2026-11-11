@@ -4457,21 +4457,48 @@
     },
     "retro": [
       {
-        "id": "1999",
-        "label": "1999–2014",
-        "fullLabel": "1999–2014",
+        "id": "1914",
+        "label": "1914–1929",
+        "fullLabel": "1914–1929",
         "atual": false,
-        "file": "retro-1999-5d708cfb.svg",
-        "aspect": 2.035,
+        "file": "retro-1914-c945fdcc.svg",
+        "aspect": 2.016,
+        "iconTheme": "brasileirao-tombense-1914"
+      },
+      {
+        "id": "1930",
+        "label": "1930–1969",
+        "fullLabel": "1930–1969",
+        "atual": false,
+        "file": "retro-1930-5345ab2f.svg",
+        "aspect": 2.016,
+        "iconTheme": "brasileirao-tombense-1930"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1998",
+        "fullLabel": "1970–1998",
+        "atual": false,
+        "file": "retro-1970-0c7e2b37.svg",
+        "aspect": 1.602,
+        "iconTheme": "brasileirao-tombense-1970"
+      },
+      {
+        "id": "1999",
+        "label": "1999–2013",
+        "fullLabel": "1999–2013",
+        "atual": false,
+        "file": "retro-1999-68a04355.svg",
+        "aspect": 2.041,
         "iconTheme": "brasileirao-tombense-1999"
       },
       {
         "id": "2015",
-        "label": "2015–2019",
-        "fullLabel": "2015–2019",
+        "label": "2015–2018",
+        "fullLabel": "2015–2018",
         "atual": false,
-        "file": "retro-2015-9698a3ad.svg",
-        "aspect": 1.516,
+        "file": "retro-2015-e6ac15a7.svg",
+        "aspect": 1,
         "iconTheme": "brasileirao-tombense-2015"
       }
     ],
