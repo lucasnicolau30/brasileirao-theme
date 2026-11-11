@@ -551,7 +551,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     for (const time of ['Operário-MS', 'Comercial-MS']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-ms.png')), `${time}: deve usar o troféu do Sul-Mato-Grossense`);
     // Campeões nacionais que faltavam: com taça do estado (Paraná, Pará, Ceará, Santa Catarina) o Estadual aparece por último; sem ela (Goiás, Pernambuco) só as Séries.
     assert.deepEqual(itens('União São João'), ['Série C', 'Série B']);
-    assert.deepEqual(itens('Tuna Luso'), ['Série B', 'Série C', 'Estadual']);
+    assert.deepEqual(itens('Tuna Luso'), ['Série C', 'Série B', 'Estadual']);
     assert.deepEqual(itens('XV de Piracicaba'), ['Série C']);
     assert.deepEqual(itens('União Barbarense'), ['Série C']);
     assert.deepEqual(itens('Boa Esporte-MG'), ['Série C']);

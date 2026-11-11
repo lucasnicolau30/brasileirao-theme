@@ -8033,14 +8033,91 @@
         1988
       ]
     },
+    "titleOrder": [
+      "serieC",
+      "serieB",
+      "estadual"
+    ],
     "retro": [
       {
-        "id": "1992",
-        "label": "1992–2010",
-        "fullLabel": "1992–2010",
+        "id": "1903",
+        "label": "1903–1909",
+        "fullLabel": "1903–1909",
         "atual": false,
-        "file": "retro-1992-2ed30029.svg",
-        "aspect": 0.856,
+        "file": "retro-1903-1eedd6fc.svg",
+        "aspect": 0.89,
+        "iconTheme": "brasileirao-tuna-luso-1903"
+      },
+      {
+        "id": "1910",
+        "label": "1910–1917",
+        "fullLabel": "1910–1917",
+        "atual": false,
+        "file": "retro-1910-dc9d4ca9.svg",
+        "aspect": 0.687,
+        "iconTheme": "brasileirao-tuna-luso-1910"
+      },
+      {
+        "id": "1918",
+        "label": "1918–1925",
+        "fullLabel": "1918–1925",
+        "atual": false,
+        "file": "retro-1918-f98a97b3.svg",
+        "aspect": 0.879,
+        "iconTheme": "brasileirao-tuna-luso-1918"
+      },
+      {
+        "id": "1926",
+        "label": "1926–1942",
+        "fullLabel": "1926–1942",
+        "atual": false,
+        "file": "retro-1926-f03f953c.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-tuna-luso-1926"
+      },
+      {
+        "id": "1943",
+        "label": "1943–1947",
+        "fullLabel": "1943–1947",
+        "atual": false,
+        "file": "retro-1943-480a108d.svg",
+        "aspect": 1.048,
+        "iconTheme": "brasileirao-tuna-luso-1943"
+      },
+      {
+        "id": "1948",
+        "label": "1948–1967",
+        "fullLabel": "1948–1967",
+        "atual": false,
+        "file": "retro-1948-b5f56a07.svg",
+        "aspect": 0.902,
+        "iconTheme": "brasileirao-tuna-luso-1948"
+      },
+      {
+        "id": "1968",
+        "label": "1968–1984",
+        "fullLabel": "1968–1984",
+        "atual": false,
+        "file": "retro-1968-ebdfd98a.svg",
+        "aspect": 0.901,
+        "iconTheme": "brasileirao-tuna-luso-1968"
+      },
+      {
+        "id": "1985",
+        "label": "1985–1991",
+        "fullLabel": "1985–1991",
+        "atual": false,
+        "file": "retro-1985-ec314000.svg",
+        "aspect": 0.901,
+        "iconTheme": "brasileirao-tuna-luso-1985"
+      },
+      {
+        "id": "1992",
+        "label": "1992–2009",
+        "fullLabel": "1992–2009",
+        "atual": false,
+        "file": "retro-1992-12433ce6.svg",
+        "aspect": 0.901,
         "iconTheme": "brasileirao-tuna-luso-1992"
       }
     ],
@@ -8128,7 +8205,6 @@
       "copaVerde": [],
       "estadual": []
     },
-    "retro": [],
     "retro": [
       {
         "id": "1994",

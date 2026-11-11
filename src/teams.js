@@ -1020,6 +1020,7 @@ const times = [
     uf: "PA",
     crestLabel: "Tuna Luso (desde 2010)",
     bgColored: true,
+    titleOrder: ["serieC", "serieB", "estadual"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],

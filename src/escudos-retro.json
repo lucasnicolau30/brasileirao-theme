@@ -3780,10 +3780,146 @@
   ],
   "tuna-luso": [
     {
+      "id": "1903",
+      "label": "1903–1909",
+      "local": "Tuna-Luso-1903.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#048f4a",
+        "#ec4204"
+      ]
+    },
+    {
+      "id": "1910",
+      "label": "1910–1917",
+      "local": "Tuna-Luso-1910.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#048f4a",
+        "#ec4204"
+      ]
+    },
+    {
+      "id": "1918",
+      "label": "1918–1925",
+      "local": "Tuna-Luso-1918.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#048f4a",
+        "#ec4204"
+      ]
+    },
+    {
+      "id": "1926",
+      "label": "1926–1942",
+      "local": "Tuna-Luso-1926.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#fc0404"
+      ]
+    },
+    {
+      "id": "1943",
+      "label": "1943–1947",
+      "local": "Tuna-Luso-1943.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#048f4a",
+        "#ec4204"
+      ]
+    },
+    {
+      "id": "1948",
+      "label": "1948–1967",
+      "local": "Tuna-Luso-1948.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#048f4a",
+        "#ec4204"
+      ]
+    },
+    {
+      "id": "1968",
+      "label": "1968–1984",
+      "local": "Tuna-Luso-1968.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#048f4a",
+        "#ec4204"
+      ]
+    },
+    {
+      "id": "1985",
+      "label": "1985–1991",
+      "local": "Tuna-Luso-1985.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#048f4a",
+        "#ec4204"
+      ]
+    },
+    {
       "id": "1992",
-      "label": "1992–2010",
-      "local": "Tuna-Luso-1992.svg",
-      "credito": "autor desconhecido | domínio público | https://commons.wikimedia.org/wiki/File:TunaLusoB.png"
+      "label": "1992–2009",
+      "local": "Tuna-Luso-1992.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#04847a",
+        "#ec4c04"
+      ]
     }
   ],
   "barra-sc": [
