@@ -8129,6 +8129,35 @@
       "estadual": []
     },
     "retro": [],
+    "retro": [
+      {
+        "id": "1994",
+        "label": "1994–1996",
+        "fullLabel": "1994–1996",
+        "atual": false,
+        "file": "retro-1994-95507cd3.svg",
+        "aspect": 0.981,
+        "iconTheme": "brasileirao-sao-raimundo-pa-1994"
+      },
+      {
+        "id": "1997",
+        "label": "1997–1999",
+        "fullLabel": "1997–1999",
+        "atual": false,
+        "file": "retro-1997-f03c685b.svg",
+        "aspect": 0.871,
+        "iconTheme": "brasileirao-sao-raimundo-pa-1997"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2008",
+        "fullLabel": "2000–2008",
+        "atual": false,
+        "file": "retro-2000-78432ae3.svg",
+        "aspect": 1.003,
+        "iconTheme": "brasileirao-sao-raimundo-pa-2000"
+      }
+    ],
     "alternates": [],
     "swatch": "⬛⬜",
     "primary": "#d0d0d0",

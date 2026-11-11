@@ -5522,5 +5522,57 @@
         "#ffffff"
       ]
     }
+  ],
+  "sao-raimundo-pa": [
+    {
+      "id": "1994",
+      "label": "1994–1996",
+      "local": "Sao-Raimundo-PA-1994.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "limiarFundo": 150,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1997",
+      "label": "1997–1999",
+      "local": "Sao-Raimundo-PA-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#ffffff",
+        "#fcd302"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2008",
+      "local": "Sao-Raimundo-PA-2000.png",
+      "vetorizar": "alfa",
+      "fundoExterno": true,
+      "limiarFundo": 170,
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#ffffff"
+      ]
+    }
   ]
 }

@@ -1922,6 +1922,21 @@
         "path": "./icons/sao-raimundo-pa/icon-theme.json"
       },
       {
+        "id": "brasileirao-sao-raimundo-pa-1994",
+        "label": "Brasileirão: São Raimundo-PA (retrô 1994–1996)",
+        "path": "./icons/sao-raimundo-pa/icon-theme-1994.json"
+      },
+      {
+        "id": "brasileirao-sao-raimundo-pa-1997",
+        "label": "Brasileirão: São Raimundo-PA (retrô 1997–1999)",
+        "path": "./icons/sao-raimundo-pa/icon-theme-1997.json"
+      },
+      {
+        "id": "brasileirao-sao-raimundo-pa-2000",
+        "label": "Brasileirão: São Raimundo-PA (retrô 2000–2008)",
+        "path": "./icons/sao-raimundo-pa/icon-theme-2000.json"
+      },
+      {
         "id": "brasileirao-amazonas",
         "label": "Brasileirão: Amazonas FC",
         "path": "./icons/amazonas/icon-theme.json"
