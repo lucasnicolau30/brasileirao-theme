@@ -201,13 +201,13 @@ const COMPETITIONS = [
   { key: 'serieB', label: 'Série B', file: 'serie-b.png' },
   { key: 'serieC', label: 'Série C', file: 'serie-c.png' },
   { key: 'serieD', label: 'Série D', file: 'serie-d.png' },
-  { key: 'estadual', label: 'Estadual' } // a foto vem do estado (stateTrophy) e, sem ela, vale o troféu genérico
+  { key: 'estadual', label: 'Estadual' }
 ];
 const pngAspect = (file) => {
   const buf = fs.readFileSync(path.join(__dirname, '..', 'images', 'trofeus', file));
   return buf.readUInt32BE(16) / buf.readUInt32BE(20); // IHDR: largura e altura
 };
-// Cada estado tem o troféu do seu estadual em images/trofeus/estadual-<uf>.png (o Amazonense, o Carioca...). Estado sem a foto usa o troféu genérico (estadual-generico.png), até a foto do estado chegar.
+// Cada estado tem o troféu do seu estadual em images/trofeus/estadual-<uf>.png (o Amazonense, o Carioca...).
 const stateTrophy = (palette) => {
   const own = palette.uf ? `estadual-${palette.uf.toLowerCase()}.png` : '';
   return own && fs.existsSync(path.join(__dirname, '..', 'images', 'trofeus', own)) ? own : 'estadual-generico.png';
