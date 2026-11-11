@@ -201,16 +201,16 @@ const COMPETITIONS = [
   { key: 'serieB', label: 'Série B', file: 'serie-b.png' },
   { key: 'serieC', label: 'Série C', file: 'serie-c.png' },
   { key: 'serieD', label: 'Série D', file: 'serie-d.png' },
-  { key: 'estadual', label: 'Estadual' } // só os times menores têm (veja teams.js); a foto vem do estado (stateTrophy) e, sem ela, o troféu não aparece
+  { key: 'estadual', label: 'Estadual' } // a foto vem do estado (stateTrophy) e, sem ela, vale o troféu genérico
 ];
 const pngAspect = (file) => {
   const buf = fs.readFileSync(path.join(__dirname, '..', 'images', 'trofeus', file));
   return buf.readUInt32BE(16) / buf.readUInt32BE(20); // IHDR: largura e altura
 };
-// Cada estado tem o troféu do seu estadual em images/trofeus/estadual-<uf>.png (o Amazonense, o Carioca...). Estado sem a foto não mostra o Estadual.
+// Cada estado tem o troféu do seu estadual em images/trofeus/estadual-<uf>.png (o Amazonense, o Carioca...). Estado sem a foto usa o troféu genérico (estadual-generico.png), até a foto do estado chegar.
 const stateTrophy = (palette) => {
   const own = palette.uf ? `estadual-${palette.uf.toLowerCase()}.png` : '';
-  return own && fs.existsSync(path.join(__dirname, '..', 'images', 'trofeus', own)) ? own : null;
+  return own && fs.existsSync(path.join(__dirname, '..', 'images', 'trofeus', own)) ? own : 'estadual-generico.png';
 };
 const trophyUri = (file) => `data:image/png;base64,${fs.readFileSync(path.join(__dirname, '..', 'images', 'trofeus', file)).toString('base64')}`;
 
@@ -295,7 +295,7 @@ function titlesHtml(palette) {
   body { margin: 0; padding: 12px 8px; color: var(--vscode-foreground); font-family: var(--vscode-font-family); font-size: 11px; }
   /* Todos os troféus têm a mesma altura (--h); a largura de cada um segue a proporção da imagem. Na linha única o script reduz --h até caber. */
   .row { --h: 100px; display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: center; gap: 14px 10px; }
-  .item { flex: 0 0 auto; min-width: 56px; text-align: center; cursor: pointer; }
+  .item { flex: 0 0 auto; width: 92px; text-align: center; cursor: pointer; }
   .trophy { position: relative; display: inline-flex; transition: transform .12s ease; }
   .item:hover .trophy { transform: translateY(-4px) scale(1.08); }
   .trophy img { display: block; height: calc(var(--h) * var(--k, 1)); width: auto; }
