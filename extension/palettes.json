@@ -7638,12 +7638,84 @@
     "retro": [
       {
         "id": "1914",
-        "label": "1914–1970",
-        "fullLabel": "1914–1970",
+        "label": "1914–1969",
+        "fullLabel": "1914–1969",
         "atual": false,
         "file": "retro-1914-053c95a4.svg",
         "aspect": 0.9,
         "iconTheme": "brasileirao-paysandu-1914"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1990",
+        "fullLabel": "1970–1990",
+        "atual": false,
+        "file": "retro-1970-bea4b3c6.svg",
+        "aspect": 0.916,
+        "iconTheme": "brasileirao-paysandu-1970"
+      },
+      {
+        "id": "1991",
+        "label": "1991–1992",
+        "fullLabel": "1991–1992",
+        "atual": false,
+        "file": "retro-1991-8b262151.svg",
+        "aspect": 0.999,
+        "iconTheme": "brasileirao-paysandu-1991"
+      },
+      {
+        "id": "1992",
+        "label": "1993–2000",
+        "fullLabel": "1993–2000",
+        "atual": false,
+        "file": "retro-1992-1f958e25.svg",
+        "aspect": 0.797,
+        "iconTheme": "brasileirao-paysandu-1992"
+      },
+      {
+        "id": "2001",
+        "label": "2001–2002",
+        "fullLabel": "2001–2002",
+        "atual": false,
+        "file": "retro-2001-98ac5ce7.svg",
+        "aspect": 0.8,
+        "iconTheme": "brasileirao-paysandu-2001"
+      },
+      {
+        "id": "2002",
+        "label": "2002–2003",
+        "fullLabel": "2002–2003",
+        "atual": false,
+        "file": "retro-2002-df99033c.svg",
+        "aspect": 0.626,
+        "iconTheme": "brasileirao-paysandu-2002"
+      },
+      {
+        "id": "2003",
+        "label": "2004–2011",
+        "fullLabel": "2004–2011",
+        "atual": false,
+        "file": "retro-2003-86317e79.svg",
+        "aspect": 0.626,
+        "iconTheme": "brasileirao-paysandu-2003"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2013",
+        "fullLabel": "2012–2013",
+        "atual": false,
+        "file": "retro-2012-08ab6b42.svg",
+        "aspect": 0.621,
+        "iconTheme": "brasileirao-paysandu-2012"
+      },
+      {
+        "id": "2013",
+        "label": "2014–2015",
+        "fullLabel": "2014–2015",
+        "atual": false,
+        "file": "retro-2013-9a2802fa.svg",
+        "aspect": 0.916,
+        "iconTheme": "brasileirao-paysandu-2013"
       }
     ],
     "alternates": [],

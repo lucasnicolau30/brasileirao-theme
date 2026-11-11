@@ -723,9 +723,143 @@
   "paysandu": [
     {
       "id": "1914",
-      "label": "1914–1970",
+      "label": "1914–1969",
       "commons": "Paysandu-1914-1970-logo.png",
       "vetorizarAuto": true
+    },
+    {
+      "id": "1970",
+      "label": "1970–1990",
+      "local": "Paysandu-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#2a0a60",
+        "#380a78",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1991",
+      "label": "1991–1992",
+      "local": "Paysandu-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#2878b8",
+        "#3888c8",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1992",
+      "label": "1993–2000",
+      "local": "Paysandu-1992.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#2878b8",
+        "#3888c8",
+        "#ffffff",
+        "#f8c858"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2002",
+      "local": "Paysandu-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#38a8d8",
+        "#58b8e8",
+        "#ffffff",
+        "#f8c858"
+      ]
+    },
+    {
+      "id": "2002",
+      "label": "2002–2003",
+      "local": "Paysandu-2002.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#38a8d8",
+        "#ffffff",
+        "#d83848",
+        "#f8c858"
+      ]
+    },
+    {
+      "id": "2003",
+      "label": "2004–2011",
+      "local": "Paysandu-2003.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#38a8d8",
+        "#ffffff",
+        "#d83848",
+        "#f8c858",
+        "#080808"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2013",
+      "local": "Paysandu-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#38a8d8",
+        "#ffffff",
+        "#d83848",
+        "#f8c858",
+        "#080808"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2014–2015",
+      "local": "Paysandu-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 1.5,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#38a8d8",
+        "#ffffff"
+      ]
     }
   ],
   "ceara": [

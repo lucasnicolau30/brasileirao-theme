@@ -1813,8 +1813,48 @@
       },
       {
         "id": "brasileirao-paysandu-1914",
-        "label": "Brasileirão: Paysandu (retrô 1914–1970)",
+        "label": "Brasileirão: Paysandu (retrô 1914–1969)",
         "path": "./icons/paysandu/icon-theme-1914.json"
+      },
+      {
+        "id": "brasileirao-paysandu-1970",
+        "label": "Brasileirão: Paysandu (retrô 1970–1990)",
+        "path": "./icons/paysandu/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-paysandu-1991",
+        "label": "Brasileirão: Paysandu (retrô 1991–1992)",
+        "path": "./icons/paysandu/icon-theme-1991.json"
+      },
+      {
+        "id": "brasileirao-paysandu-1992",
+        "label": "Brasileirão: Paysandu (retrô 1993–2000)",
+        "path": "./icons/paysandu/icon-theme-1992.json"
+      },
+      {
+        "id": "brasileirao-paysandu-2001",
+        "label": "Brasileirão: Paysandu (retrô 2001–2002)",
+        "path": "./icons/paysandu/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-paysandu-2002",
+        "label": "Brasileirão: Paysandu (retrô 2002–2003)",
+        "path": "./icons/paysandu/icon-theme-2002.json"
+      },
+      {
+        "id": "brasileirao-paysandu-2003",
+        "label": "Brasileirão: Paysandu (retrô 2004–2011)",
+        "path": "./icons/paysandu/icon-theme-2003.json"
+      },
+      {
+        "id": "brasileirao-paysandu-2012",
+        "label": "Brasileirão: Paysandu (retrô 2012–2013)",
+        "path": "./icons/paysandu/icon-theme-2012.json"
+      },
+      {
+        "id": "brasileirao-paysandu-2013",
+        "label": "Brasileirão: Paysandu (retrô 2014–2015)",
+        "path": "./icons/paysandu/icon-theme-2013.json"
       },
       {
         "id": "brasileirao-remo",
