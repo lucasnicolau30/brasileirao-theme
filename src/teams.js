@@ -4102,6 +4102,7 @@ const times = [
     uf: "AC",
     crestLabel: "Juventus-AC (desde 1990)",
     bgColored: true,
+    // Retrô 1966–1979: datas aproximadas, as fontes só dão o escudo até o final dos anos 70.
     // Retrô 1966–1979: as fontes só dão o escudo até o final dos anos 70.
     titles: {
       mundial: [],
@@ -4139,7 +4140,7 @@ const times = [
     ],
   },
   {
-    // As datas dos retrôs são aproximações, já que não temos confirmação.
+    // Retrôs: datas aproximadas, sem fonte concreta que as confirme.
     slug: "macapa",
     swatch: "🟦⬜",
     uf: "AP",
