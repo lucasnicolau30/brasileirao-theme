@@ -3796,7 +3796,7 @@
   "ferroviario-ce": [
     {
       "id": "1933",
-      "label": "1933–1939",
+      "label": "1933–1940",
       "local": "Ferroviario-1933.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3814,7 +3814,7 @@
     },
     {
       "id": "1940",
-      "label": "1940–1949",
+      "label": "1940–1950",
       "local": "Ferroviario-1940.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3832,7 +3832,7 @@
     },
     {
       "id": "1950",
-      "label": "1950–1967",
+      "label": "1950–1968",
       "local": "Ferroviario-1950.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3850,7 +3850,7 @@
     },
     {
       "id": "1968",
-      "label": "1968–1969",
+      "label": "1968–1970",
       "local": "Ferroviario-1968.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3868,7 +3868,7 @@
     },
     {
       "id": "1970",
-      "label": "1970–1987",
+      "label": "1970–1988",
       "local": "Ferroviario-1970.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3886,7 +3886,7 @@
     },
     {
       "id": "1988",
-      "label": "1988–1989",
+      "label": "1988–1990",
       "local": "Ferroviario-1988.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3904,7 +3904,7 @@
     },
     {
       "id": "1990",
-      "label": "1990–2008",
+      "label": "1990–2009",
       "local": "Ferroviario-1990.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3922,12 +3922,12 @@
     },
     {
       "id": "2009",
-      "label": "2009–2017",
+      "label": "2009–2018",
       "local": "Ferroviario-2009.svg"
     },
     {
       "id": "2018",
-      "label": "2018–2022",
+      "label": "2018–2023",
       "commons": "Ferroviario-logo.svg"
     }
   ],
