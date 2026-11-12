@@ -2728,37 +2728,37 @@
       },
       {
         "id": "brasileirao-csa-1915",
-        "label": "Brasileirão: CSA (retrô 1915–1917)",
+        "label": "Brasileirão: CSA (retrô 1915–1918)",
         "path": "./icons/csa/icon-theme-1915.json"
       },
       {
         "id": "brasileirao-csa-1918",
-        "label": "Brasileirão: CSA (retrô 1918–1926)",
+        "label": "Brasileirão: CSA (retrô 1918–1927)",
         "path": "./icons/csa/icon-theme-1918.json"
       },
       {
         "id": "brasileirao-csa-1927",
-        "label": "Brasileirão: CSA (retrô 1927–1928)",
+        "label": "Brasileirão: CSA (retrô 1927–1929)",
         "path": "./icons/csa/icon-theme-1927.json"
       },
       {
         "id": "brasileirao-csa-1929",
-        "label": "Brasileirão: CSA (retrô 1929–1932)",
+        "label": "Brasileirão: CSA (retrô 1929–1933)",
         "path": "./icons/csa/icon-theme-1929.json"
       },
       {
         "id": "brasileirao-csa-1933",
-        "label": "Brasileirão: CSA (retrô 1933–1940)",
+        "label": "Brasileirão: CSA (retrô 1933–1941)",
         "path": "./icons/csa/icon-theme-1933.json"
       },
       {
         "id": "brasileirao-csa-1941",
-        "label": "Brasileirão: CSA (retrô 1941–1952)",
+        "label": "Brasileirão: CSA (retrô 1941–1953)",
         "path": "./icons/csa/icon-theme-1941.json"
       },
       {
         "id": "brasileirao-csa-1953",
-        "label": "Brasileirão: CSA (retrô 1953–1957)",
+        "label": "Brasileirão: CSA (retrô 1953–1958)",
         "path": "./icons/csa/icon-theme-1953.json"
       },
       {
@@ -2768,12 +2768,12 @@
       },
       {
         "id": "brasileirao-csa-1960",
-        "label": "Brasileirão: CSA (retrô 1960–1968)",
+        "label": "Brasileirão: CSA (retrô 1959–1969)",
         "path": "./icons/csa/icon-theme-1960.json"
       },
       {
         "id": "brasileirao-csa-1969",
-        "label": "Brasileirão: CSA (retrô 1969–1971/1974–1999)",
+        "label": "Brasileirão: CSA (retrô 1969–1971/1973–1999)",
         "path": "./icons/csa/icon-theme-1969.json"
       },
       {
@@ -2782,9 +2782,24 @@
         "path": "./icons/csa/icon-theme-1972.json"
       },
       {
-        "id": "brasileirao-csa-2000",
-        "label": "Brasileirão: CSA (retrô 2000–2017)",
-        "path": "./icons/csa/icon-theme-2000.json"
+        "id": "brasileirao-csa-1999",
+        "label": "Brasileirão: CSA (retrô 1999–2012)",
+        "path": "./icons/csa/icon-theme-1999.json"
+      },
+      {
+        "id": "brasileirao-csa-2012",
+        "label": "Brasileirão: CSA (retrô 2012–2017)",
+        "path": "./icons/csa/icon-theme-2012.json"
+      },
+      {
+        "id": "brasileirao-csa-2013",
+        "label": "Brasileirão: CSA (retrô 2013)",
+        "path": "./icons/csa/icon-theme-2013.json"
+      },
+      {
+        "id": "brasileirao-csa-2017",
+        "label": "Brasileirão: CSA (retrô 2017–2018)",
+        "path": "./icons/csa/icon-theme-2017.json"
       },
       {
         "id": "brasileirao-crb",

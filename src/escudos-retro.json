@@ -3009,7 +3009,7 @@
   "csa": [
     {
       "id": "1915",
-      "label": "1915–1917",
+      "label": "1915–1918",
       "local": "CSA-1915.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3026,7 +3026,7 @@
     },
     {
       "id": "1918",
-      "label": "1918–1926",
+      "label": "1918–1927",
       "local": "CSA-1918-monograma.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3042,7 +3042,7 @@
     },
     {
       "id": "1927",
-      "label": "1927–1928",
+      "label": "1927–1929",
       "local": "CSA-1927.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3059,7 +3059,7 @@
     },
     {
       "id": "1929",
-      "label": "1929–1932",
+      "label": "1929–1933",
       "local": "CSA-1929.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3076,7 +3076,7 @@
     },
     {
       "id": "1933",
-      "label": "1933–1940",
+      "label": "1933–1941",
       "local": "CSA-1933.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3093,7 +3093,7 @@
     },
     {
       "id": "1941",
-      "label": "1941–1952",
+      "label": "1941–1953",
       "local": "CSA-1941.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3112,7 +3112,7 @@
     },
     {
       "id": "1953",
-      "label": "1953–1957",
+      "label": "1953–1958",
       "local": "CSA-1953.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3147,7 +3147,7 @@
     },
     {
       "id": "1960",
-      "label": "1960–1968",
+      "label": "1959–1969",
       "local": "CSA-1960.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3164,7 +3164,7 @@
     },
     {
       "id": "1969",
-      "label": "1969–1971/1974–1999",
+      "label": "1969–1971/1973–1999",
       "local": "CSA-1969.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -3197,9 +3197,60 @@
       ]
     },
     {
-      "id": "2000",
-      "label": "2000–2017",
-      "local": "CSA-2000.png",
+      "id": "1999",
+      "label": "1999–2012",
+      "local": "CSA-1999.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 3,
+      "vetorizarPaleta": [
+        "#28649c",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2017",
+      "local": "CSA-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 3,
+      "vetorizarPaleta": [
+        "#28649c",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013",
+      "local": "CSA-2013-100-years.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 3,
+      "vetorizarPaleta": [
+        "#f0f0f0",
+        "#285080"
+      ]
+    },
+    {
+      "id": "2017",
+      "label": "2017–2018",
+      "local": "CSA-2017.png",
       "vetorizar": "alfa",
       "nitido": true,
       "macio": true,

@@ -12649,8 +12649,8 @@
     "retro": [
       {
         "id": "1915",
-        "label": "1915–1917",
-        "fullLabel": "1915–1917",
+        "label": "1915–1918",
+        "fullLabel": "1915–1918",
         "atual": false,
         "file": "retro-1915-42762d2a.svg",
         "aspect": 0.767,
@@ -12658,8 +12658,8 @@
       },
       {
         "id": "1918",
-        "label": "1918–1926",
-        "fullLabel": "1918–1926",
+        "label": "1918–1927",
+        "fullLabel": "1918–1927",
         "atual": false,
         "file": "retro-1918-6b76a7f6.svg",
         "aspect": 1.176,
@@ -12667,8 +12667,8 @@
       },
       {
         "id": "1927",
-        "label": "1927–1928",
-        "fullLabel": "1927–1928",
+        "label": "1927–1929",
+        "fullLabel": "1927–1929",
         "atual": false,
         "file": "retro-1927-35c535df.svg",
         "aspect": 0.999,
@@ -12676,8 +12676,8 @@
       },
       {
         "id": "1929",
-        "label": "1929–1932",
-        "fullLabel": "1929–1932",
+        "label": "1929–1933",
+        "fullLabel": "1929–1933",
         "atual": false,
         "file": "retro-1929-c01a30ae.svg",
         "aspect": 1,
@@ -12685,8 +12685,8 @@
       },
       {
         "id": "1933",
-        "label": "1933–1940",
-        "fullLabel": "1933–1940",
+        "label": "1933–1941",
+        "fullLabel": "1933–1941",
         "atual": false,
         "file": "retro-1933-daf820c1.svg",
         "aspect": 1.049,
@@ -12694,8 +12694,8 @@
       },
       {
         "id": "1941",
-        "label": "1941–1952",
-        "fullLabel": "1941–1952",
+        "label": "1941–1953",
+        "fullLabel": "1941–1953",
         "atual": false,
         "file": "retro-1941-2e29fcbf.svg",
         "aspect": 1.043,
@@ -12703,8 +12703,8 @@
       },
       {
         "id": "1953",
-        "label": "1953–1957",
-        "fullLabel": "1953–1957",
+        "label": "1953–1958",
+        "fullLabel": "1953–1958",
         "atual": false,
         "file": "retro-1953-482b0d17.svg",
         "aspect": 2.038,
@@ -12721,8 +12721,8 @@
       },
       {
         "id": "1960",
-        "label": "1960–1968",
-        "fullLabel": "1960–1968",
+        "label": "1959–1969",
+        "fullLabel": "1959–1969",
         "atual": false,
         "file": "retro-1960-f5044136.svg",
         "aspect": 0.774,
@@ -12730,8 +12730,8 @@
       },
       {
         "id": "1969",
-        "label": "1969–1971/1974–1999",
-        "fullLabel": "1969–1971/1974–1999",
+        "label": "1969–1971/1973–1999",
+        "fullLabel": "1969–1971/1973–1999",
         "atual": false,
         "file": "retro-1969-940726f1.svg",
         "aspect": 0.839,
@@ -12747,13 +12747,40 @@
         "iconTheme": "brasileirao-csa-1972"
       },
       {
-        "id": "2000",
-        "label": "2000–2017",
-        "fullLabel": "2000–2017",
+        "id": "1999",
+        "label": "1999–2012",
+        "fullLabel": "1999–2012",
         "atual": false,
         "file": "retro-2000-a93dcbf5.svg",
         "aspect": 0.833,
-        "iconTheme": "brasileirao-csa-2000"
+        "iconTheme": "brasileirao-csa-1999"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2017",
+        "fullLabel": "2012–2017",
+        "atual": false,
+        "file": "retro-2012-4bf67754.svg",
+        "aspect": 0.836,
+        "iconTheme": "brasileirao-csa-2012"
+      },
+      {
+        "id": "2013",
+        "label": "2013",
+        "fullLabel": "2013",
+        "atual": false,
+        "file": "retro-2013-ed97f541.svg",
+        "aspect": 0.979,
+        "iconTheme": "brasileirao-csa-2013"
+      },
+      {
+        "id": "2017",
+        "label": "2017–2018",
+        "fullLabel": "2017–2018",
+        "atual": false,
+        "file": "retro-2017-b020d914.svg",
+        "aspect": 0.791,
+        "iconTheme": "brasileirao-csa-2017"
       }
     ],
     "alternates": [],
