@@ -606,7 +606,7 @@ const times = [
     titleOrder: ["copaDoNordeste", "serieB", "estadual"],
     swatch: "🟦🟥⬜",
     uf: "CE",
-    crestLabel: "Fortaleza (desde 2018)",
+    crestLabel: "Fortaleza (desde 2019)",
     bgColored: true,
     titles: {
       brasileirao: [],

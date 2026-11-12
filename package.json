@@ -1508,13 +1508,68 @@
       },
       {
         "id": "brasileirao-fortaleza-1918",
-        "label": "Brasileirão: Fortaleza (retrô 1918–1935)",
+        "label": "Brasileirão: Fortaleza (retrô 1918–1927)",
         "path": "./icons/fortaleza/icon-theme-1918.json"
       },
       {
-        "id": "brasileirao-fortaleza-1961",
-        "label": "Brasileirão: Fortaleza (retrô 1961–1966)",
-        "path": "./icons/fortaleza/icon-theme-1961.json"
+        "id": "brasileirao-fortaleza-1927",
+        "label": "Brasileirão: Fortaleza (retrô 1927–1929)",
+        "path": "./icons/fortaleza/icon-theme-1927.json"
+      },
+      {
+        "id": "brasileirao-fortaleza-1929",
+        "label": "Brasileirão: Fortaleza (retrô 1929–1940)",
+        "path": "./icons/fortaleza/icon-theme-1929.json"
+      },
+      {
+        "id": "brasileirao-fortaleza-1940",
+        "label": "Brasileirão: Fortaleza (retrô 1940–1950)",
+        "path": "./icons/fortaleza/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-fortaleza-1950",
+        "label": "Brasileirão: Fortaleza (retrô 1950–1958)",
+        "path": "./icons/fortaleza/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-fortaleza-1958",
+        "label": "Brasileirão: Fortaleza (retrô 1958–1960)",
+        "path": "./icons/fortaleza/icon-theme-1958.json"
+      },
+      {
+        "id": "brasileirao-fortaleza-1960",
+        "label": "Brasileirão: Fortaleza (retrô 1960–1963)",
+        "path": "./icons/fortaleza/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-fortaleza-1963",
+        "label": "Brasileirão: Fortaleza (retrô 1963–1980)",
+        "path": "./icons/fortaleza/icon-theme-1963.json"
+      },
+      {
+        "id": "brasileirao-fortaleza-1980",
+        "label": "Brasileirão: Fortaleza (retrô 1980–1982)",
+        "path": "./icons/fortaleza/icon-theme-1980.json"
+      },
+      {
+        "id": "brasileirao-fortaleza-1982",
+        "label": "Brasileirão: Fortaleza (retrô 1982–2010)",
+        "path": "./icons/fortaleza/icon-theme-1982.json"
+      },
+      {
+        "id": "brasileirao-fortaleza-2010",
+        "label": "Brasileirão: Fortaleza (retrô 2010–2017)",
+        "path": "./icons/fortaleza/icon-theme-2010.json"
+      },
+      {
+        "id": "brasileirao-fortaleza-2017",
+        "label": "Brasileirão: Fortaleza (retrô 2017–2018)",
+        "path": "./icons/fortaleza/icon-theme-2017.json"
+      },
+      {
+        "id": "brasileirao-fortaleza-2018",
+        "label": "Brasileirão: Fortaleza (retrô 2018–2019)",
+        "path": "./icons/fortaleza/icon-theme-2018.json"
       },
       {
         "id": "brasileirao-ceara",

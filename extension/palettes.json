@@ -5591,9 +5591,9 @@
   "Brasileirão: Fortaleza": {
     "slug": "fortaleza",
     "uf": "CE",
-    "crestLabel": "Atual · desde 2018",
-    "crestIcon": "escudo-8bcf86f2.svg",
-    "listIcon": "escudo-8bcf86f2.svg",
+    "crestLabel": "Atual · desde 2019",
+    "crestIcon": "escudo-e2c2c4b3.svg",
+    "listIcon": "escudo-e2c2c4b3.svg",
     "backgroundAspect": 0.764,
     "titles": {
       "brasileirao": [],
@@ -5670,21 +5670,120 @@
     "retro": [
       {
         "id": "1918",
-        "label": "1918–1935",
-        "fullLabel": "1918–1935",
+        "label": "1918–1927",
+        "fullLabel": "1918–1927",
         "atual": false,
-        "file": "retro-1918-40176751.svg",
-        "aspect": 1,
+        "file": "retro-1918-d6e7819b.svg",
+        "aspect": 0.807,
         "iconTheme": "brasileirao-fortaleza-1918"
       },
       {
-        "id": "1961",
-        "label": "1961–1966",
-        "fullLabel": "1961–1966",
+        "id": "1927",
+        "label": "1927–1929",
+        "fullLabel": "1927–1929",
         "atual": false,
-        "file": "retro-1961-43700e03.svg",
-        "aspect": 0.824,
-        "iconTheme": "brasileirao-fortaleza-1961"
+        "file": "retro-1927-358a4264.svg",
+        "aspect": 0.916,
+        "iconTheme": "brasileirao-fortaleza-1927"
+      },
+      {
+        "id": "1929",
+        "label": "1929–1940",
+        "fullLabel": "1929–1940",
+        "atual": false,
+        "file": "retro-1929-1d75f4a5.svg",
+        "aspect": 0.851,
+        "iconTheme": "brasileirao-fortaleza-1929"
+      },
+      {
+        "id": "1940",
+        "label": "1940–1950",
+        "fullLabel": "1940–1950",
+        "atual": false,
+        "file": "retro-1940-1ffc809a.svg",
+        "aspect": 0.857,
+        "iconTheme": "brasileirao-fortaleza-1940"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1958",
+        "fullLabel": "1950–1958",
+        "atual": false,
+        "file": "retro-1950-53f1bcbf.svg",
+        "aspect": 0.85,
+        "iconTheme": "brasileirao-fortaleza-1950"
+      },
+      {
+        "id": "1958",
+        "label": "1958–1960",
+        "fullLabel": "1958–1960",
+        "atual": false,
+        "file": "retro-1958-80e5a429.svg",
+        "aspect": 0.829,
+        "iconTheme": "brasileirao-fortaleza-1958"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1963",
+        "fullLabel": "1960–1963",
+        "atual": false,
+        "file": "retro-1960-c479c005.svg",
+        "aspect": 0.839,
+        "iconTheme": "brasileirao-fortaleza-1960"
+      },
+      {
+        "id": "1963",
+        "label": "1963–1980",
+        "fullLabel": "1963–1980",
+        "atual": false,
+        "file": "retro-1963-912c9ac9.svg",
+        "aspect": 0.844,
+        "iconTheme": "brasileirao-fortaleza-1963"
+      },
+      {
+        "id": "1980",
+        "label": "1980–1982",
+        "fullLabel": "1980–1982",
+        "atual": false,
+        "file": "retro-1980-98c8cb2b.svg",
+        "aspect": 0.858,
+        "iconTheme": "brasileirao-fortaleza-1980"
+      },
+      {
+        "id": "1982",
+        "label": "1982–2010",
+        "fullLabel": "1982–2010",
+        "atual": false,
+        "file": "retro-1982-b63ffcaa.svg",
+        "aspect": 0.977,
+        "iconTheme": "brasileirao-fortaleza-1982"
+      },
+      {
+        "id": "2010",
+        "label": "2010–2017",
+        "fullLabel": "2010–2017",
+        "atual": false,
+        "file": "retro-2010-8b6848e2.svg",
+        "aspect": 0.724,
+        "iconTheme": "brasileirao-fortaleza-2010"
+      },
+      {
+        "id": "2017",
+        "label": "2017–2018",
+        "fullLabel": "2017–2018",
+        "atual": false,
+        "file": "retro-2017-2112b2d2.svg",
+        "aspect": 0.735,
+        "iconTheme": "brasileirao-fortaleza-2017"
+      },
+      {
+        "id": "2018",
+        "label": "2018–2019",
+        "fullLabel": "2018–2019",
+        "atual": false,
+        "file": "retro-2018-02fbd88b.svg",
+        "aspect": 0.734,
+        "iconTheme": "brasileirao-fortaleza-2018"
       }
     ],
     "alternates": [],
