@@ -3415,7 +3415,7 @@ const times = [
     slug: "asa",
     swatch: "⬛⬜",
     uf: "AL",
-    crestLabel: "ASA (desde 2010)",
+    crestLabel: "ASA (desde 2014)",
     bgColored: true,
     titles: {
       brasileirao: [],

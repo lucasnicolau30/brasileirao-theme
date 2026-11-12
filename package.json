@@ -2832,13 +2832,23 @@
         "path": "./icons/asa/icon-theme.json"
       },
       {
+        "id": "brasileirao-asa-1952",
+        "label": "Brasileirão: ASA (retrô 1952–1964)",
+        "path": "./icons/asa/icon-theme-1952.json"
+      },
+      {
+        "id": "brasileirao-asa-1964",
+        "label": "Brasileirão: ASA (retrô 1964–1972)",
+        "path": "./icons/asa/icon-theme-1964.json"
+      },
+      {
         "id": "brasileirao-asa-1953",
-        "label": "Brasileirão: ASA (retrô 1953–1972)",
+        "label": "Brasileirão: ASA (retrô 1972–1973)",
         "path": "./icons/asa/icon-theme-1953.json"
       },
       {
         "id": "brasileirao-asa-1973",
-        "label": "Brasileirão: ASA (retrô 1973–1976)",
+        "label": "Brasileirão: ASA (retrô 1973–1977)",
         "path": "./icons/asa/icon-theme-1973.json"
       },
       {
@@ -2848,12 +2858,12 @@
       },
       {
         "id": "brasileirao-asa-1981",
-        "label": "Brasileirão: ASA (retrô 1981–1999)",
+        "label": "Brasileirão: ASA (retrô 1980–2000)",
         "path": "./icons/asa/icon-theme-1981.json"
       },
       {
         "id": "brasileirao-asa-2000",
-        "label": "Brasileirão: ASA (retrô 2000–2009)",
+        "label": "Brasileirão: ASA (retrô 2000–2014)",
         "path": "./icons/asa/icon-theme-2000.json"
       },
       {

@@ -13014,10 +13014,10 @@
   "Brasileirão: ASA": {
     "slug": "asa",
     "uf": "AL",
-    "crestLabel": "Atual · desde 2010",
-    "crestIcon": "escudo-e57f22e6.svg",
-    "listIcon": "escudo-e57f22e6.svg",
-    "backgroundAspect": 0.825,
+    "crestLabel": "Atual · desde 2014",
+    "crestIcon": "escudo-06977b06.svg",
+    "listIcon": "escudo-06977b06.svg",
+    "backgroundAspect": 1,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -13042,17 +13042,35 @@
     "retro": [
       {
         "id": "1953",
-        "label": "1953–1972",
-        "fullLabel": "1953–1972",
+        "label": "1972–1973",
+        "fullLabel": "1972–1973",
         "atual": false,
         "file": "retro-1953-a55a8b49.svg",
+      {
+        "id": "1952",
+        "label": "1952–1964",
+        "fullLabel": "1952–1964",
+        "atual": false,
+        "file": "retro-1952-c8644728.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-asa-1952"
+      },
+      {
+        "id": "1964",
+        "label": "1964–1972",
+        "fullLabel": "1964–1972",
+        "atual": false,
+        "file": "retro-1964-ef4a91a6.svg",
+        "aspect": 1.474,
+        "iconTheme": "brasileirao-asa-1964"
+      },
         "aspect": 0.992,
         "iconTheme": "brasileirao-asa-1953"
       },
       {
         "id": "1973",
-        "label": "1973–1976",
-        "fullLabel": "1973–1976",
+        "label": "1973–1977",
+        "fullLabel": "1973–1977",
         "atual": false,
         "file": "retro-1973-7845fd62.svg",
         "aspect": 1.004,
@@ -13069,8 +13087,8 @@
       },
       {
         "id": "1981",
-        "label": "1981–1999",
-        "fullLabel": "1981–1999",
+        "label": "1980–2000",
+        "fullLabel": "1980–2000",
         "atual": false,
         "file": "retro-1981-9f064b3b.svg",
         "aspect": 0.82,
@@ -13078,8 +13096,8 @@
       },
       {
         "id": "2000",
-        "label": "2000–2009",
-        "fullLabel": "2000–2009",
+        "label": "2000–2014",
+        "fullLabel": "2000–2014",
         "atual": false,
         "file": "retro-2000-6e8b1f75.svg",
         "aspect": 1.003,
@@ -13089,7 +13107,7 @@
     "alternates": [],
     "swatch": "⬛⬜",
     "primary": "#d0d0d0",
-    "background": "fundo-b32e3b1b.svg",
+    "background": "fundo-0159916e.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
