@@ -4022,6 +4022,7 @@ const times = [
     uf: "AC",
     crestLabel: "Atlético-AC (desde 2018)",
     bgColored: true,
+    // O clube ainda usa o escudo sem estrela em alguns casos, mas desde 2018 usa na camisa o com a estrela.
     titles: {
       mundial: [],
       libertadores: [],
