@@ -4409,7 +4409,7 @@
   "rio-branco-ac": [
     {
       "id": "1919",
-      "label": "1919–1944",
+      "label": "1919–1945",
       "local": "Rio-Branco-AC-1919-1944.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -4424,7 +4424,7 @@
     },
     {
       "id": "1945",
-      "label": "1945–1955",
+      "label": "1945–1956",
       "local": "Rio-Branco-AC-1945-1955.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -4456,7 +4456,7 @@
     },
     {
       "id": "1965",
-      "label": "1965–1970",
+      "label": "1964–1970",
       "local": "Rio-Branco-AC-1965-1970.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -4472,7 +4472,7 @@
     },
     {
       "id": "1971",
-      "label": "1971–1977",
+      "label": "1970–1978",
       "local": "Rio-Branco-AC-1971-1977.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -4488,7 +4488,7 @@
     },
     {
       "id": "1978",
-      "label": "1978–1994",
+      "label": "1978–1995",
       "local": "Rio-Branco-AC-1978-1994.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -4504,7 +4504,7 @@
     },
     {
       "id": "1995",
-      "label": "1995–2003",
+      "label": "1995–2004",
       "local": "Rio-Branco-AC-1995-2003.png",
       "vetorizar": "alfa",
       "nitido": true,
