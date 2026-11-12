@@ -4784,7 +4784,7 @@
   "trem": [
     {
       "id": "1941",
-      "label": "1941–1970",
+      "label": "1947–1971",
       "local": "Trem-1941.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -4802,7 +4802,7 @@
     },
     {
       "id": "1971",
-      "label": "1971–1983",
+      "label": "1971–1984",
       "local": "Trem-1971.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -4820,7 +4820,7 @@
     },
     {
       "id": "1984",
-      "label": "1984–1990",
+      "label": "1984–1991",
       "local": "Trem-1984.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -4838,7 +4838,7 @@
     },
     {
       "id": "1991",
-      "label": "1991–2002",
+      "label": "1991–2003",
       "local": "Trem-1991.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -4856,7 +4856,7 @@
     },
     {
       "id": "2003",
-      "label": "2003–2009",
+      "label": "2003–2010",
       "local": "Trem-2003.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -4874,7 +4874,7 @@
     },
     {
       "id": "2010",
-      "label": "2010–2023",
+      "label": "2010–2024",
       "local": "Trem-2010-10estrelas.svg"
     }
   ],
