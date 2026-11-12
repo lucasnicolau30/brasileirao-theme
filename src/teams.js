@@ -4101,6 +4101,7 @@ const times = [
     uf: "AC",
     crestLabel: "Juventus-AC (desde 1990)",
     bgColored: true,
+    // Retrô 1966–1979: as fontes só dão o escudo até o final dos anos 70.
     titles: {
       mundial: [],
       libertadores: [],
