@@ -2938,7 +2938,7 @@
   "crb": [
     {
       "id": "1927",
-      "label": "1912–1939",
+      "label": "1912–1940",
       "local": "CRB-1927.png",
       "vetorizar": "alfa",
       "fundoExterno": true,
@@ -2955,7 +2955,7 @@
     },
     {
       "id": "1940",
-      "label": "1940–1978",
+      "label": "1940–1979",
       "local": "CRB-1940.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -2973,7 +2973,7 @@
     },
     {
       "id": "1979",
-      "label": "1979–1994",
+      "label": "1979–1995",
       "local": "CRB-1979.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -2990,7 +2990,7 @@
     },
     {
       "id": "1995",
-      "label": "1995–2011",
+      "label": "1995–2012",
       "local": "CRB-1995.png",
       "vetorizar": "alfa",
       "nitido": true,
