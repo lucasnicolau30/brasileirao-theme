@@ -1019,9 +1019,9 @@ const times = [
     swatch: "🟩⬜",
     uf: "PA",
     crestLabel: "Tuna Luso (desde 2010)",
-    bgColored: true,
     // Retrôs 1985–1995 e 1992–2010: as datas se sobrepõem, pois segundo o Logopedia houve dois escudos nesses períodos.
     titleOrder: ["serieC", "serieB", "estadual"],
+    bgColored: true,
     titles: {
       brasileirao: [],
       copaDoBrasil: [],
@@ -1663,7 +1663,6 @@ const times = [
     ],
   },
   {
-    // Exceção: os retrôs se sobrepõem de propósito em 2012 e 2013 (2009–2012 e 2012–2013, 2012–2013 e 2013–2016), decisão do dono do projeto.
     slug: "sampaio-correa",
     swatch: "🟨🟩🟥",
     uf: "MA",
@@ -2627,7 +2626,6 @@ const times = [
     ],
   },
   {
-    // Exceção: o retrô 2010 repete o ano final do 2001–2010 de propósito (decisão do dono do projeto). 
     slug: "cuiaba",
     swatch: "🟩🟨",
     uf: "MT",
@@ -3099,7 +3097,6 @@ const times = [
     ],
   },
   {
-    // Exceção: os retrôs 2011–2012 e 2012–2013 se sobrepõem em 2012 de propósito (decisão do dono do projeto).
     slug: "nacional-am",
     swatch: "🟦⬜🟨",
     uf: "AM",
@@ -4023,9 +4020,9 @@ const times = [
     swatch: "🟦⬜",
     uf: "AC",
     crestLabel: "Atlético-AC (desde 2018)",
-    bgColored: true,
     // O clube ainda usa o escudo sem estrela em alguns casos, mas desde 2018 usa na camisa o com a estrela.
     titles: {
+    bgColored: true,
       mundial: [],
       libertadores: [],
       brasileirao: [],
@@ -4103,9 +4100,8 @@ const times = [
     swatch: "🟥⬛",
     uf: "AC",
     crestLabel: "Juventus-AC (desde 1990)",
-    bgColored: true,
     // Retrô 1966–1979: datas aproximadas, as fontes só dão o escudo até o final dos anos 70.
-    // Retrô 1966–1979: as fontes só dão o escudo até o final dos anos 70.
+    bgColored: true,
     titles: {
       mundial: [],
       libertadores: [],
