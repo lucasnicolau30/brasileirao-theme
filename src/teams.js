@@ -1020,8 +1020,8 @@ const times = [
     uf: "PA",
     crestLabel: "Tuna Luso (desde 2010)",
     // Retrôs 1985–1995 e 1992–2010: as datas se sobrepõem, pois segundo o Logopedia houve dois escudos nesses períodos.
-    titleOrder: ["serieC", "serieB", "estadual"],
     bgColored: true,
+    titleOrder: ["serieC", "serieB", "estadual"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],
@@ -4021,8 +4021,8 @@ const times = [
     uf: "AC",
     crestLabel: "Atlético-AC (desde 2018)",
     // O clube ainda usa o escudo sem estrela em alguns casos, mas desde 2018 usa na camisa o com a estrela.
-    titles: {
     bgColored: true,
+    titles: {
       mundial: [],
       libertadores: [],
       brasileirao: [],
