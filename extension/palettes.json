@@ -4458,8 +4458,8 @@
     "retro": [
       {
         "id": "1914",
-        "label": "1914–1929",
-        "fullLabel": "1914–1929",
+        "label": "1914–1930",
+        "fullLabel": "1914–1930",
         "atual": false,
         "file": "retro-1914-c945fdcc.svg",
         "aspect": 2.016,
@@ -4467,8 +4467,8 @@
       },
       {
         "id": "1930",
-        "label": "1930–1969",
-        "fullLabel": "1930–1969",
+        "label": "1930–1970",
+        "fullLabel": "1930–1970",
         "atual": false,
         "file": "retro-1930-5345ab2f.svg",
         "aspect": 2.016,
@@ -4476,8 +4476,8 @@
       },
       {
         "id": "1970",
-        "label": "1970–1998",
-        "fullLabel": "1970–1998",
+        "label": "1970–1999",
+        "fullLabel": "1970–1999",
         "atual": false,
         "file": "retro-1970-0c7e2b37.svg",
         "aspect": 1.602,
@@ -4485,8 +4485,8 @@
       },
       {
         "id": "1999",
-        "label": "1999–2013",
-        "fullLabel": "1999–2013",
+        "label": "1999–2014",
+        "fullLabel": "1999–2014",
         "atual": false,
         "file": "retro-1999-68a04355.svg",
         "aspect": 2.041,
@@ -4494,8 +4494,8 @@
       },
       {
         "id": "2015",
-        "label": "2015–2018",
-        "fullLabel": "2015–2018",
+        "label": "2015–2019",
+        "fullLabel": "2015–2019",
         "atual": false,
         "file": "retro-2015-e6ac15a7.svg",
         "aspect": 1,
