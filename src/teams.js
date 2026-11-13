@@ -5017,7 +5017,8 @@ const times = [
     slug: "gurupi",
     swatch: "🟩🟨",
     uf: "TO",
-    crestLabel: "Gurupi",
+    crestLabel: "Gurupi (desde 2017)",
+    // Retrôs: datas aproximadas, sem fonte concreta que as confirme.
     bgColored: true,
     titles: {
       mundial: [],

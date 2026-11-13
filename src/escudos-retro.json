@@ -6329,5 +6329,61 @@
         "#1f6b25"
       ]
     }
+  ],
+  "gurupi": [
+    {
+      "id": "1988",
+      "label": "1988–1995",
+      "local": "Gurupi-1988.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#0c840c",
+        "#fcfc0c",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1996",
+      "label": "1996–2011",
+      "local": "Gurupi-1996.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#0f6a2e",
+        "#fcfc0c",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2016",
+      "local": "Gurupi-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfc0c",
+        "#fcfcfc",
+        "#0f6a2e"
+      ]
+    }
   ]
 }

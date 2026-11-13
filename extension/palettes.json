@@ -16979,10 +16979,10 @@
   "Brasileirão: Gurupi": {
     "slug": "gurupi",
     "uf": "TO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-5e3d8684.svg",
-    "listIcon": "escudo-5e3d8684.svg",
-    "backgroundAspect": 0.874,
+    "crestLabel": "Atual · desde 2017",
+    "crestIcon": "escudo-ee526b25.svg",
+    "listIcon": "escudo-ee526b25.svg",
+    "backgroundAspect": 1,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -17003,11 +17003,39 @@
         2016
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1988",
+        "label": "1988–1995",
+        "fullLabel": "1988–1995",
+        "atual": false,
+        "file": "retro-1988-e2385d99.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-gurupi-1988"
+      },
+      {
+        "id": "1996",
+        "label": "1996–2011",
+        "fullLabel": "1996–2011",
+        "atual": false,
+        "file": "retro-1996-a5f3101f.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-gurupi-1996"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2016",
+        "fullLabel": "2012–2016",
+        "atual": false,
+        "file": "retro-2012-1add20c8.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-gurupi-2012"
+      }
+    ],
     "alternates": [],
     "swatch": "🟩🟨",
     "primary": "#1f9d3a",
-    "background": "fundo-52ad639c.png",
+    "background": "fundo-251e3f6e.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",

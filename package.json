@@ -3410,6 +3410,21 @@
         "id": "brasileirao-gurupi",
         "label": "Brasileirão: Gurupi",
         "path": "./icons/gurupi/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-gurupi-1988",
+        "label": "Brasileirão: Gurupi (retrô 1988–1995)",
+        "path": "./icons/gurupi/icon-theme-1988.json"
+      },
+      {
+        "id": "brasileirao-gurupi-1996",
+        "label": "Brasileirão: Gurupi (retrô 1996–2011)",
+        "path": "./icons/gurupi/icon-theme-1996.json"
+      },
+      {
+        "id": "brasileirao-gurupi-2012",
+        "label": "Brasileirão: Gurupi (retrô 2012–2016)",
+        "path": "./icons/gurupi/icon-theme-2012.json"
       }
     ],
     "commands": [
