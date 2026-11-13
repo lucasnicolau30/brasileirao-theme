@@ -3186,6 +3186,111 @@
         "#1f1f21",
         "#f6f6f6"
       ]
+    },
+    {
+      "id": "1913",
+      "label": "1913–1920",
+      "local": "Tupi-1913.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#1f1f21",
+        "#f6f6f6"
+      ]
+    },
+    {
+      "id": "1920",
+      "label": "1920–1944",
+      "local": "Tupi-1920.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#1f1f21",
+        "#f6f6f6"
+      ]
+    },
+    {
+      "id": "1923",
+      "label": "1913",
+      "local": "Tupi-1923.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#1f1f21",
+        "#f6f6f6"
+      ]
+    },
+    {
+      "id": "1944",
+      "label": "1944–1950",
+      "local": "Tupi-1944.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#1f1f21",
+        "#f6f6f6"
+      ]
+    },
+    {
+      "id": "1950",
+      "label": "1950–1990",
+      "local": "Tupi-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#1f1f21",
+        "#f6f6f6"
+      ]
+    },
+    {
+      "id": "1990",
+      "label": "1990–1998",
+      "local": "Tupi-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#1f1f21",
+        "#f6f6f6"
+      ]
+    },
+    {
+      "id": "1998",
+      "label": "1998–2011",
+      "local": "Tupi-1998.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 1.2,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#1f1f21",
+        "#f6f6f6"
+      ]
     }
   ],
   "uberlandia": [

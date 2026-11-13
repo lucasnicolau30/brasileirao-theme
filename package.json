@@ -1297,6 +1297,41 @@
         "path": "./icons/tupi/icon-theme-1912.json"
       },
       {
+        "id": "brasileirao-tupi-1923",
+        "label": "Brasileirão: Tupi (retrô 1913)",
+        "path": "./icons/tupi/icon-theme-1923.json"
+      },
+      {
+        "id": "brasileirao-tupi-1913",
+        "label": "Brasileirão: Tupi (retrô 1913–1920)",
+        "path": "./icons/tupi/icon-theme-1913.json"
+      },
+      {
+        "id": "brasileirao-tupi-1920",
+        "label": "Brasileirão: Tupi (retrô 1920–1944)",
+        "path": "./icons/tupi/icon-theme-1920.json"
+      },
+      {
+        "id": "brasileirao-tupi-1944",
+        "label": "Brasileirão: Tupi (retrô 1944–1950)",
+        "path": "./icons/tupi/icon-theme-1944.json"
+      },
+      {
+        "id": "brasileirao-tupi-1950",
+        "label": "Brasileirão: Tupi (retrô 1950–1990)",
+        "path": "./icons/tupi/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-tupi-1990",
+        "label": "Brasileirão: Tupi (retrô 1990–1998)",
+        "path": "./icons/tupi/icon-theme-1990.json"
+      },
+      {
+        "id": "brasileirao-tupi-1998",
+        "label": "Brasileirão: Tupi (retrô 1998–2011)",
+        "path": "./icons/tupi/icon-theme-1998.json"
+      },
+      {
         "id": "brasileirao-tombense",
         "label": "Brasileirão: Tombense",
         "path": "./icons/tombense/icon-theme.json"

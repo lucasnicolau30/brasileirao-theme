@@ -4372,9 +4372,72 @@
       }
     ],
     "alternates": [],
-    "swatch": "⬛⬜🟨",
+    "swatch": "⬛⬜",
     "primary": "#d0d0d0",
     "background": "fundo-92bcb024.svg",
+      },
+      {
+        "id": "1923",
+        "label": "1913",
+        "fullLabel": "1913",
+        "atual": false,
+        "file": "retro-1923-27ef297e.svg",
+        "aspect": 0.999,
+        "iconTheme": "brasileirao-tupi-1923"
+      },
+      {
+        "id": "1913",
+        "label": "1913–1920",
+        "fullLabel": "1913–1920",
+        "atual": false,
+        "file": "retro-1913-fa55ad2d.svg",
+        "aspect": 0.974,
+        "iconTheme": "brasileirao-tupi-1913"
+      },
+      {
+        "id": "1920",
+        "label": "1920–1944",
+        "fullLabel": "1920–1944",
+        "atual": false,
+        "file": "retro-1920-a9bd1998.svg",
+        "aspect": 0.727,
+        "iconTheme": "brasileirao-tupi-1920"
+      },
+      {
+        "id": "1944",
+        "label": "1944–1950",
+        "fullLabel": "1944–1950",
+        "atual": false,
+        "file": "retro-1944-0c17c117.svg",
+        "aspect": 0.58,
+        "iconTheme": "brasileirao-tupi-1944"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1990",
+        "fullLabel": "1950–1990",
+        "atual": false,
+        "file": "retro-1950-745e74a9.svg",
+        "aspect": 0.819,
+        "iconTheme": "brasileirao-tupi-1950"
+      },
+      {
+        "id": "1990",
+        "label": "1990–1998",
+        "fullLabel": "1990–1998",
+        "atual": false,
+        "file": "retro-1990-a817afc4.svg",
+        "aspect": 0.846,
+        "iconTheme": "brasileirao-tupi-1990"
+      },
+      {
+        "id": "1998",
+        "label": "1998–2011",
+        "fullLabel": "1998–2011",
+        "atual": false,
+        "file": "retro-1998-9e55204f.svg",
+        "aspect": 1.003,
+        "iconTheme": "brasileirao-tupi-1998"
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
