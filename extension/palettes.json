@@ -16878,9 +16878,9 @@
   "Brasileirão: Tocantinópolis": {
     "slug": "tocantinopolis",
     "uf": "TO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-9ac82af8.svg",
-    "listIcon": "escudo-9ac82af8.svg",
+    "crestLabel": "Atual · desde 2002",
+    "crestIcon": "escudo-8e93512c.svg",
+    "listIcon": "escudo-8e93512c.svg",
     "backgroundAspect": 1,
     "titles": {
       "mundial": [],
@@ -16903,11 +16903,21 @@
         2026
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1989",
+        "label": "1989–2002",
+        "fullLabel": "1989–2002",
+        "atual": false,
+        "file": "retro-1989-9be88fb8.svg",
+        "aspect": 0.999,
+        "iconTheme": "brasileirao-tocantinopolis-1989"
+      }
+    ],
     "alternates": [],
     "swatch": "🟩⬜",
     "primary": "#1f9d4a",
-    "background": "fundo-3f81cfc7.svg",
+    "background": "fundo-5f238c8d.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",

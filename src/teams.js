@@ -4979,7 +4979,7 @@ const times = [
     slug: "tocantinopolis",
     swatch: "🟩⬜",
     uf: "TO",
-    crestLabel: "Tocantinópolis",
+    crestLabel: "Tocantinópolis (desde 2002)",
     bgColored: true,
     titles: {
       mundial: [],

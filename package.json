@@ -3402,6 +3402,11 @@
         "path": "./icons/tocantinopolis/icon-theme.json"
       },
       {
+        "id": "brasileirao-tocantinopolis-1989",
+        "label": "Brasileirão: Tocantinópolis (retrô 1989–2002)",
+        "path": "./icons/tocantinopolis/icon-theme-1989.json"
+      },
+      {
         "id": "brasileirao-gurupi",
         "label": "Brasileirão: Gurupi",
         "path": "./icons/gurupi/icon-theme.json"
