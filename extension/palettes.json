@@ -4068,7 +4068,7 @@
       }
     ],
     "alternates": [],
-    "swatch": "🟩⬜🟨",
+    "swatch": "🟩⬜",
     "primary": "#12a05a",
     "background": "fundo-8bc218f8.svg",
     "backgroundColored": true,
@@ -4369,12 +4369,6 @@
         "file": "retro-1912-1d03cb4b.svg",
         "aspect": 0.764,
         "iconTheme": "brasileirao-tupi-1912"
-      }
-    ],
-    "alternates": [],
-    "swatch": "⬛⬜",
-    "primary": "#d0d0d0",
-    "background": "fundo-92bcb024.svg",
       },
       {
         "id": "1923",
@@ -4438,6 +4432,12 @@
         "file": "retro-1998-9e55204f.svg",
         "aspect": 1.003,
         "iconTheme": "brasileirao-tupi-1998"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜",
+    "primary": "#d0d0d0",
+    "background": "fundo-92bcb024.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -4566,7 +4566,7 @@
       }
     ],
     "alternates": [],
-    "swatch": "🟥🟨⬜",
+    "swatch": "🟥⬜",
     "primary": "#e81828",
     "background": "fundo-0e847ca0.svg",
     "backgroundColored": true,
@@ -8107,12 +8107,6 @@
         "iconTheme": "brasileirao-remo-2004"
       },
       {
-        "id": "2008",
-        "label": "2008–2012",
-        "fullLabel": "2008–2012",
-        "atual": false,
-        "file": "retro-2008-4f2bd7a4.svg",
-      {
         "id": "2005",
         "label": "2005",
         "fullLabel": "2005",
@@ -8121,6 +8115,12 @@
         "aspect": 1.261,
         "iconTheme": "brasileirao-remo-2005"
       },
+      {
+        "id": "2008",
+        "label": "2008–2012",
+        "fullLabel": "2008–2012",
+        "atual": false,
+        "file": "retro-2008-4f2bd7a4.svg",
         "aspect": 0.638,
         "iconTheme": "brasileirao-remo-2008"
       },
@@ -8532,12 +8532,6 @@
         "file": "retro-2019-bb9a1564.svg",
         "aspect": 0.876,
         "iconTheme": "brasileirao-amazonas-2019"
-      }
-    ],
-    "alternates": [],
-    "swatch": "🟨⬛",
-    "primary": "#f2c200",
-    "background": "fundo-46c68c85.svg",
       },
       {
         "id": "2022",
@@ -8547,6 +8541,12 @@
         "file": "retro-2022-0d3ce1ac.svg",
         "aspect": 0.691,
         "iconTheme": "brasileirao-amazonas-2022"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟨⬛",
+    "primary": "#f2c200",
+    "background": "fundo-46c68c85.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -8843,12 +8843,6 @@
         "file": "retro-1991-2e47d481.svg",
         "aspect": 0.977,
         "iconTheme": "brasileirao-rio-negro-am-1991"
-      }
-    ],
-    "alternates": [],
-    "swatch": "⬛⬜",
-    "primary": "#d4d4d4",
-    "background": "fundo-96cdc781.svg",
       },
       {
         "id": "2013",
@@ -8858,6 +8852,12 @@
         "file": "retro-2013-a5954a53.svg",
         "aspect": 1.286,
         "iconTheme": "brasileirao-rio-negro-am-2013"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜",
+    "primary": "#d4d4d4",
+    "background": "fundo-96cdc781.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -9237,12 +9237,6 @@
         "iconTheme": "brasileirao-goias-1983"
       },
       {
-        "id": "2001",
-        "label": "2001–2013",
-        "fullLabel": "2001–2013",
-        "atual": false,
-        "file": "retro-2001-cc5f8f10.svg",
-      {
         "id": "2000",
         "label": "2000–2001",
         "fullLabel": "2000–2001",
@@ -9251,6 +9245,12 @@
         "aspect": 0.762,
         "iconTheme": "brasileirao-goias-2000"
       },
+      {
+        "id": "2001",
+        "label": "2001–2013",
+        "fullLabel": "2001–2013",
+        "atual": false,
+        "file": "retro-2001-cc5f8f10.svg",
         "aspect": 1,
         "iconTheme": "brasileirao-goias-2001"
       }
@@ -11848,12 +11848,6 @@
         "file": "retro-2000-3d82f234.svg",
         "aspect": 0.791,
         "iconTheme": "brasileirao-gama-2000"
-      }
-    ],
-    "alternates": [],
-    "swatch": "🟩⬜",
-    "primary": "#1a8f5f",
-    "background": "fundo-0a970f59.svg",
       },
       {
         "id": "2002",
@@ -11863,6 +11857,12 @@
         "file": "retro-2002-e4d865d7.svg",
         "aspect": 0.644,
         "iconTheme": "brasileirao-gama-2002"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟩⬜",
+    "primary": "#1a8f5f",
+    "background": "fundo-0a970f59.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -12949,7 +12949,7 @@
         "label": "1999–2012",
         "fullLabel": "1999–2012",
         "atual": false,
-        "file": "retro-2000-a93dcbf5.svg",
+        "file": "retro-1999-97b10648.svg",
         "aspect": 0.833,
         "iconTheme": "brasileirao-csa-1999"
       },
@@ -13239,12 +13239,6 @@
     },
     "retro": [
       {
-        "id": "1953",
-        "label": "1972–1973",
-        "fullLabel": "1972–1973",
-        "atual": false,
-        "file": "retro-1953-a55a8b49.svg",
-      {
         "id": "1952",
         "label": "1952–1964",
         "fullLabel": "1952–1964",
@@ -13262,6 +13256,12 @@
         "aspect": 1.474,
         "iconTheme": "brasileirao-asa-1964"
       },
+      {
+        "id": "1953",
+        "label": "1972–1973",
+        "fullLabel": "1972–1973",
+        "atual": false,
+        "file": "retro-1953-a55a8b49.svg",
         "aspect": 0.992,
         "iconTheme": "brasileirao-asa-1953"
       },
@@ -13297,8 +13297,8 @@
         "label": "2000–2014",
         "fullLabel": "2000–2014",
         "atual": false,
-        "file": "retro-2000-6e8b1f75.svg",
-        "aspect": 1.003,
+        "file": "retro-2000-3ccd787e.svg",
+        "aspect": 1,
         "iconTheme": "brasileirao-asa-2000"
       }
     ],
@@ -13368,9 +13368,9 @@
     "slug": "operario-ms",
     "uf": "MS",
     "crestLabel": "Atual · desde 2010",
-    "crestIcon": "escudo-6d4cebbd.svg",
-    "listIcon": "escudo-6d4cebbd.svg",
-    "backgroundAspect": 0.724,
+    "crestIcon": "escudo-87a5b13f.svg",
+    "listIcon": "escudo-87a5b13f.svg",
+    "backgroundAspect": 0.691,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -13438,7 +13438,7 @@
     "alternates": [],
     "swatch": "⬛⬜🟨",
     "primary": "#d0d0d0",
-    "background": "fundo-852bd074.svg",
+    "background": "fundo-5b3ab2dc.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -13501,9 +13501,9 @@
     "slug": "comercial-ms",
     "uf": "MS",
     "crestLabel": "Atual · desde 2013",
-    "crestIcon": "escudo-15a5a84d.svg",
-    "listIcon": "escudo-15a5a84d.svg",
-    "backgroundAspect": 0.971,
+    "crestIcon": "escudo-4380ecf2.svg",
+    "listIcon": "escudo-4380ecf2.svg",
+    "backgroundAspect": 0.966,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -13595,7 +13595,7 @@
     "alternates": [],
     "swatch": "🟥⬛⬜",
     "primary": "#d81f28",
-    "background": "fundo-61e18307.svg",
+    "background": "fundo-cf4f1187.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -14784,12 +14784,6 @@
         "file": "retro-2012-60a80816.svg",
         "aspect": 0.804,
         "iconTheme": "brasileirao-rio-branco-es-2012"
-      }
-    ],
-    "alternates": [],
-    "swatch": "⬛⬜",
-    "primary": "#d0d0d0",
-    "background": "fundo-40eaaca8.svg",
       },
       {
         "id": "2013",
@@ -14799,6 +14793,12 @@
         "file": "retro-2013-78d3f877.svg",
         "aspect": 1.034,
         "iconTheme": "brasileirao-rio-branco-es-2013"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛⬜",
+    "primary": "#d0d0d0",
+    "background": "fundo-40eaaca8.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -14986,12 +14986,6 @@
         "file": "retro-2011-992c38b8.svg",
         "aspect": 1,
         "iconTheme": "brasileirao-desportiva-2011"
-      }
-    ],
-    "alternates": [],
-    "swatch": "🟥⬜",
-    "primary": "#8a2a45",
-    "background": "fundo-a78deb56.png",
       },
       {
         "id": "2013",
@@ -15001,6 +14995,12 @@
         "file": "retro-2013-cf4b9dd2.svg",
         "aspect": 1.521,
         "iconTheme": "brasileirao-desportiva-2013"
+      }
+    ],
+    "alternates": [],
+    "swatch": "🟥⬜",
+    "primary": "#8a2a45",
+    "background": "fundo-a78deb56.png",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -15245,150 +15245,6 @@
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
     "iconTheme": "brasileirao-serra",
-    "colors": [
-      "rgba(231,132,139,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(235,155,160,0.08)",
-      "rgba(219,74,83,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#d3202c33",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#e7848b"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#eb9ba0"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#e7848b"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: River-PI": {
-    "slug": "river-pi",
-    "uf": "PI",
-    "crestLabel": "Atual · desde 2018",
-    "crestIcon": "escudo-ceb80355.svg",
-    "listIcon": "escudo-ceb80355.svg",
-    "backgroundAspect": 0.723,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": [
-        1948,
-        1950,
-        1951,
-        1952,
-        1953,
-        1954,
-        1955,
-        1956,
-        1958,
-        1959,
-        1960,
-        1961,
-        1962,
-        1963,
-        1973,
-        1975,
-        1977,
-        1978,
-        1980,
-        1981,
-        1989,
-        1996,
-        1999,
-        2000,
-        2001,
-        2002,
-        2007,
-        2014,
-        2015,
-        2016,
-        2019,
-        2023
-      ]
-    },
-    "retro": [
-      {
-        "id": "1946",
-        "label": "1946–1977",
-        "fullLabel": "1946–1977",
-        "atual": false,
-        "file": "retro-1946-75ac1955.svg",
-        "aspect": 0.844,
-        "iconTheme": "brasileirao-river-pi-1946"
-      },
-      {
-        "id": "1978",
-        "label": "1978–1994",
-        "fullLabel": "1978–1994",
-        "atual": false,
-        "file": "retro-1978-7552e5da.svg",
-        "aspect": 0.871,
-        "iconTheme": "brasileirao-river-pi-1978"
-      },
-      {
-        "id": "1995",
-        "label": "1995–2007",
-        "fullLabel": "1995–2007",
-        "atual": false,
-        "file": "retro-1995-78c50944.svg",
-        "aspect": 0.92,
-        "iconTheme": "brasileirao-river-pi-1995"
-      }
-    ],
-    "alternates": [],
-    "swatch": "🟥⬛⬜",
-    "primary": "#d3202c",
-    "background": "fundo-b7da9ffc.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-river-pi",
     "colors": [
       "rgba(231,132,139,0.08)",
       "rgba(255,255,255,0.08)",
@@ -15882,183 +15738,6 @@
       }
     ]
   },
-  "Brasileirão: Tiradentes-PI": {
-    "slug": "tiradentes-pi",
-    "uf": "PI",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-ad6c6d67.svg",
-    "listIcon": "escudo-ad6c6d67.svg",
-    "backgroundAspect": 1,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": [
-        1972,
-        1974,
-        1975,
-        1982,
-        1990
-      ]
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "🟦🟨",
-    "primary": "#2a5fb0",
-    "background": "fundo-b5469b2f.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-tiradentes-pi",
-    "colors": [
-      "rgba(127,159,208,0.08)",
-      "rgba(247,215,120,0.08)",
-      "rgba(159,183,219,0.08)",
-      "rgba(82,125,191,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#2a5fb033",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#7f9fd0"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#9fb7db"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#f7d778"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#7f9fd0"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: 4 de Julho": {
-    "slug": "4-de-julho",
-    "uf": "PI",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-0c4e4fd0.svg",
-    "listIcon": "escudo-0c4e4fd0.svg",
-    "backgroundAspect": 0.782,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": [
-        1992,
-        1993,
-        2011,
-        2020
-      ]
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "🟥⬜",
-    "primary": "#d3202c",
-    "background": "fundo-c60d90ca.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-4-de-julho",
-    "colors": [
-      "rgba(231,132,139,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(235,155,160,0.08)",
-      "rgba(219,74,83,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#d3202c33",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#e7848b"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#eb9ba0"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#e7848b"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
   "Brasileirão: Altos": {
     "slug": "altos",
     "uf": "PI",
@@ -16135,119 +15814,6 @@
         "italic": false,
         "tag": "*",
         "color": "#62ba75"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Fluminense-PI": {
-    "slug": "fluminense-pi",
-    "uf": "PI",
-    "crestLabel": "Atual · desde 2020",
-    "crestIcon": "escudo-5ce73a67.svg",
-    "listIcon": "escudo-5ce73a67.svg",
-    "backgroundAspect": 0.963,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": [
-        2022
-      ]
-    },
-    "retro": [
-      {
-        "id": "1938",
-        "label": "1938–1977",
-        "fullLabel": "1938–1977",
-        "atual": false,
-        "file": "retro-1938-c754d545.svg",
-        "aspect": 0.895,
-        "iconTheme": "brasileirao-fluminense-pi-1938"
-      },
-      {
-        "id": "1978",
-        "label": "1978–2000",
-        "fullLabel": "1978–2000",
-        "atual": false,
-        "file": "retro-1978-ce2fca90.svg",
-        "aspect": 0.835,
-        "iconTheme": "brasileirao-fluminense-pi-1978"
-      },
-      {
-        "id": "2001",
-        "label": "2001–2019",
-        "fullLabel": "2001–2019",
-        "atual": false,
-        "file": "retro-2001-178950ed.svg",
-        "aspect": 0.779,
-        "iconTheme": "brasileirao-fluminense-pi-2001"
-      }
-    ],
-    "alternates": [],
-    "swatch": "🟥🟩⬜",
-    "primary": "#8a1f35",
-    "background": "fundo-5aa07cf4.svg",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-fluminense-pi",
-    "colors": [
-      "rgba(196,143,154,0.08)",
-      "rgba(109,179,139,0.08)",
-      "rgba(202,154,164,0.08)",
-      "rgba(178,107,121,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#8a1f3533",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#c48f9a"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#ca9aa4"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#6db38b"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#c48f9a"
       },
       {
         "strikethrough": true,
@@ -16519,263 +16085,6 @@
         "italic": false,
         "tag": "*",
         "color": "#7f9cd4"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Real Ariquemes": {
-    "slug": "real-ariquemes",
-    "uf": "RO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-66562424.svg",
-    "listIcon": "escudo-66562424.svg",
-    "backgroundAspect": 0.716,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": [
-        2017,
-        2018,
-        2022
-      ]
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "🟥⬛⬜",
-    "primary": "#d02027",
-    "background": "fundo-0d986ece.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-real-ariquemes",
-    "colors": [
-      "rgba(229,132,136,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(234,155,158,0.08)",
-      "rgba(216,74,79,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#d0202733",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#e58488"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#ea9b9e"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#e58488"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Guajará": {
-    "slug": "guajara",
-    "uf": "RO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-5eceed1f.svg",
-    "listIcon": "escudo-5eceed1f.svg",
-    "backgroundAspect": 0.786,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": [
-        2000
-      ]
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "🟥⬜",
-    "primary": "#d3202c",
-    "background": "fundo-6f694241.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-guajara",
-    "colors": [
-      "rgba(231,132,139,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(235,155,160,0.08)",
-      "rgba(219,74,83,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#d3202c33",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#e7848b"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#eb9ba0"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#e7848b"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Genus": {
-    "slug": "genus",
-    "uf": "RO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-b8711729.svg",
-    "listIcon": "escudo-b8711729.svg",
-    "backgroundAspect": 0.804,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": [
-        2015
-      ]
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "🟥🟨",
-    "primary": "#b81f2a",
-    "background": "fundo-d1444178.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-genus",
-    "colors": [
-      "rgba(216,132,138,0.08)",
-      "rgba(237,205,117,0.08)",
-      "rgba(223,154,159,0.08)",
-      "rgba(203,91,99,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#b81f2a33",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#d8848a"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#df9a9f"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#edcd75"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#d8848a"
       },
       {
         "strikethrough": true,
@@ -17073,175 +16382,6 @@
         "italic": false,
         "tag": "*",
         "color": "#e68078"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Náutico-RR": {
-    "slug": "nautico-rr",
-    "uf": "RR",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-08f4df86.svg",
-    "listIcon": "escudo-08f4df86.svg",
-    "backgroundAspect": 0.94,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": [
-        2013,
-        2015
-      ]
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "🟥⬜",
-    "primary": "#d3202c",
-    "background": "fundo-a4f59d8c.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-nautico-rr",
-    "colors": [
-      "rgba(231,132,139,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(235,155,160,0.08)",
-      "rgba(219,74,83,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#d3202c33",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#e7848b"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#eb9ba0"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#e7848b"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Roraima": {
-    "slug": "monte-roraima",
-    "uf": "RR",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-6100b1e6.svg",
-    "listIcon": "escudo-6100b1e6.svg",
-    "backgroundAspect": 0.907,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": []
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "🟩🟨⬜",
-    "primary": "#1f9d3a",
-    "background": "fundo-8b54c5f8.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-monte-roraima",
-    "colors": [
-      "rgba(98,186,117,0.08)",
-      "rgba(247,215,120,0.08)",
-      "rgba(154,211,166,0.08)",
-      "rgba(31,157,58,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#1f9d3a33",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#62ba75"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#9ad3a6"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#f7d778"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#62ba75"
       },
       {
         "strikethrough": true,
@@ -17579,257 +16719,6 @@
       }
     ]
   },
-  "Brasileirão: Freipaulistano": {
-    "slug": "freipaulistano",
-    "uf": "SE",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-1e2f8f7f.svg",
-    "listIcon": "escudo-1e2f8f7f.svg",
-    "backgroundAspect": 0.908,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": [
-        2019
-      ]
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "🟦🟨🟩",
-    "primary": "#2a4ab0",
-    "background": "fundo-4f78f550.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-freipaulistano",
-    "colors": [
-      "rgba(138,155,212,0.08)",
-      "rgba(247,215,120,0.08)",
-      "rgba(159,174,219,0.08)",
-      "rgba(99,122,197,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#2a4ab033",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#8a9bd4"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#9faedb"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#f7d778"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#8a9bd4"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Lagarto": {
-    "slug": "lagarto",
-    "uf": "SE",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-dc42714c.svg",
-    "listIcon": "escudo-dc42714c.svg",
-    "backgroundAspect": 0.748,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": []
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "🟥⬜🟩",
-    "primary": "#d3202c",
-    "background": "fundo-89e3459d.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-lagarto",
-    "colors": [
-      "rgba(231,132,139,0.08)",
-      "rgba(109,179,139,0.08)",
-      "rgba(235,155,160,0.08)",
-      "rgba(219,74,83,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#d3202c33",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#e7848b"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#eb9ba0"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#6db38b"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#e7848b"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Falcon": {
-    "slug": "falcon",
-    "uf": "SE",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-c92617fc.svg",
-    "listIcon": "escudo-c92617fc.svg",
-    "backgroundAspect": 0.836,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": []
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "🟪🟨",
-    "primary": "#6a3ac0",
-    "background": "fundo-9e08c8e7.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-falcon",
-    "colors": [
-      "rgba(173,147,220,0.08)",
-      "rgba(235,209,137,0.08)",
-      "rgba(188,166,227,0.08)",
-      "rgba(139,102,207,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#6a3ac033",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#ad93dc"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#bca6e3"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ebd189"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#ad93dc"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
   "Brasileirão: Palmas": {
     "slug": "palmas",
     "uf": "TO",
@@ -18091,260 +16980,6 @@
         "italic": false,
         "tag": "*",
         "color": "#62ba75"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Interporto": {
-    "slug": "interporto",
-    "uf": "TO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-34b20321.svg",
-    "listIcon": "escudo-34b20321.svg",
-    "backgroundAspect": 0.856,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": [
-        1999,
-        2013,
-        2014,
-        2017
-      ]
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "⬛⬜🟨",
-    "primary": "#d0d0d0",
-    "background": "fundo-0dfc583a.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-interporto",
-    "colors": [
-      "rgba(245,245,245,0.08)",
-      "rgba(212,167,44,0.08)",
-      "rgba(208,208,208,0.08)",
-      "rgba(157,157,157,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#d0d0d033",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#f5f5f5"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#d0d0d0"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#d4a72c"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#f5f5f5"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Capital-TO": {
-    "slug": "capital-to",
-    "uf": "TO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-65b8956c.svg",
-    "listIcon": "escudo-65b8956c.svg",
-    "backgroundAspect": 0.836,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": []
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "⬛🟥🟨",
-    "primary": "#c8232c",
-    "background": "fundo-a6b07fe7.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-capital-to",
-    "colors": [
-      "rgba(225,134,139,0.08)",
-      "rgba(237,205,117,0.08)",
-      "rgba(230,156,160,0.08)",
-      "rgba(212,84,92,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#c8232c33",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#e1868b"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#e69ca0"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#edcd75"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#e1868b"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Araguacema": {
-    "slug": "araguacema",
-    "uf": "TO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-8a6c432c.svg",
-    "listIcon": "escudo-8a6c432c.svg",
-    "backgroundAspect": 1,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": []
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "🟦⬜",
-    "primary": "#2a4fd0",
-    "background": "fundo-414d5d4a.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-araguacema",
-    "colors": [
-      "rgba(138,158,229,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(159,176,234,0.08)",
-      "rgba(91,119,218,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#2a4fd033",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#8a9ee5"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#9fb0ea"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#8a9ee5"
       },
       {
         "strikethrough": true,

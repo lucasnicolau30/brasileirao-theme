@@ -585,11 +585,6 @@
         "path": "./themes/serra-color-theme.json"
       },
       {
-        "label": "Brasileirão: River-PI",
-        "uiTheme": "vs-dark",
-        "path": "./themes/river-pi-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Flamengo-PI",
         "uiTheme": "vs-dark",
         "path": "./themes/flamengo-pi-color-theme.json"
@@ -610,24 +605,9 @@
         "path": "./themes/piaui-color-theme.json"
       },
       {
-        "label": "Brasileirão: Tiradentes-PI",
-        "uiTheme": "vs-dark",
-        "path": "./themes/tiradentes-pi-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: 4 de Julho",
-        "uiTheme": "vs-dark",
-        "path": "./themes/4-de-julho-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Altos",
         "uiTheme": "vs-dark",
         "path": "./themes/altos-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Fluminense-PI",
-        "uiTheme": "vs-dark",
-        "path": "./themes/fluminense-pi-color-theme.json"
       },
       {
         "label": "Brasileirão: Ji-Paraná",
@@ -645,21 +625,6 @@
         "path": "./themes/porto-velho-color-theme.json"
       },
       {
-        "label": "Brasileirão: Real Ariquemes",
-        "uiTheme": "vs-dark",
-        "path": "./themes/real-ariquemes-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Guajará",
-        "uiTheme": "vs-dark",
-        "path": "./themes/guajara-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Genus",
-        "uiTheme": "vs-dark",
-        "path": "./themes/genus-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Baré",
         "uiTheme": "vs-dark",
         "path": "./themes/bare-color-theme.json"
@@ -673,16 +638,6 @@
         "label": "Brasileirão: GAS",
         "uiTheme": "vs-dark",
         "path": "./themes/gas-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Náutico-RR",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nautico-rr-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Roraima",
-        "uiTheme": "vs-dark",
-        "path": "./themes/monte-roraima-color-theme.json"
       },
       {
         "label": "Brasileirão: Sergipe",
@@ -700,21 +655,6 @@
         "path": "./themes/itabaiana-color-theme.json"
       },
       {
-        "label": "Brasileirão: Freipaulistano",
-        "uiTheme": "vs-dark",
-        "path": "./themes/freipaulistano-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Lagarto",
-        "uiTheme": "vs-dark",
-        "path": "./themes/lagarto-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Falcon",
-        "uiTheme": "vs-dark",
-        "path": "./themes/falcon-color-theme.json"
-      },
-      {
         "label": "Brasileirão: Palmas",
         "uiTheme": "vs-dark",
         "path": "./themes/palmas-color-theme.json"
@@ -728,21 +668,6 @@
         "label": "Brasileirão: Gurupi",
         "uiTheme": "vs-dark",
         "path": "./themes/gurupi-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Interporto",
-        "uiTheme": "vs-dark",
-        "path": "./themes/interporto-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Capital-TO",
-        "uiTheme": "vs-dark",
-        "path": "./themes/capital-to-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Araguacema",
-        "uiTheme": "vs-dark",
-        "path": "./themes/araguacema-color-theme.json"
       }
     ],
     "iconThemes": [
@@ -3332,26 +3257,6 @@
         "path": "./icons/serra/icon-theme-2010.json"
       },
       {
-        "id": "brasileirao-river-pi",
-        "label": "Brasileirão: River-PI",
-        "path": "./icons/river-pi/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-river-pi-1946",
-        "label": "Brasileirão: River-PI (retrô 1946–1977)",
-        "path": "./icons/river-pi/icon-theme-1946.json"
-      },
-      {
-        "id": "brasileirao-river-pi-1978",
-        "label": "Brasileirão: River-PI (retrô 1978–1994)",
-        "path": "./icons/river-pi/icon-theme-1978.json"
-      },
-      {
-        "id": "brasileirao-river-pi-1995",
-        "label": "Brasileirão: River-PI (retrô 1995–2007)",
-        "path": "./icons/river-pi/icon-theme-1995.json"
-      },
-      {
         "id": "brasileirao-flamengo-pi",
         "label": "Brasileirão: Flamengo-PI",
         "path": "./icons/flamengo-pi/icon-theme.json"
@@ -3402,39 +3307,9 @@
         "path": "./icons/piaui/icon-theme.json"
       },
       {
-        "id": "brasileirao-tiradentes-pi",
-        "label": "Brasileirão: Tiradentes-PI",
-        "path": "./icons/tiradentes-pi/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-4-de-julho",
-        "label": "Brasileirão: 4 de Julho",
-        "path": "./icons/4-de-julho/icon-theme.json"
-      },
-      {
         "id": "brasileirao-altos",
         "label": "Brasileirão: Altos",
         "path": "./icons/altos/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-fluminense-pi",
-        "label": "Brasileirão: Fluminense-PI",
-        "path": "./icons/fluminense-pi/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-fluminense-pi-1938",
-        "label": "Brasileirão: Fluminense-PI (retrô 1938–1977)",
-        "path": "./icons/fluminense-pi/icon-theme-1938.json"
-      },
-      {
-        "id": "brasileirao-fluminense-pi-1978",
-        "label": "Brasileirão: Fluminense-PI (retrô 1978–2000)",
-        "path": "./icons/fluminense-pi/icon-theme-1978.json"
-      },
-      {
-        "id": "brasileirao-fluminense-pi-2001",
-        "label": "Brasileirão: Fluminense-PI (retrô 2001–2019)",
-        "path": "./icons/fluminense-pi/icon-theme-2001.json"
       },
       {
         "id": "brasileirao-ji-parana",
@@ -3452,21 +3327,6 @@
         "path": "./icons/porto-velho/icon-theme.json"
       },
       {
-        "id": "brasileirao-real-ariquemes",
-        "label": "Brasileirão: Real Ariquemes",
-        "path": "./icons/real-ariquemes/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-guajara",
-        "label": "Brasileirão: Guajará",
-        "path": "./icons/guajara/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-genus",
-        "label": "Brasileirão: Genus",
-        "path": "./icons/genus/icon-theme.json"
-      },
-      {
         "id": "brasileirao-bare",
         "label": "Brasileirão: Baré",
         "path": "./icons/bare/icon-theme.json"
@@ -3480,16 +3340,6 @@
         "id": "brasileirao-gas",
         "label": "Brasileirão: GAS",
         "path": "./icons/gas/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-nautico-rr",
-        "label": "Brasileirão: Náutico-RR",
-        "path": "./icons/nautico-rr/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-monte-roraima",
-        "label": "Brasileirão: Roraima",
-        "path": "./icons/monte-roraima/icon-theme.json"
       },
       {
         "id": "brasileirao-sergipe",
@@ -3507,21 +3357,6 @@
         "path": "./icons/itabaiana/icon-theme.json"
       },
       {
-        "id": "brasileirao-freipaulistano",
-        "label": "Brasileirão: Freipaulistano",
-        "path": "./icons/freipaulistano/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-lagarto",
-        "label": "Brasileirão: Lagarto",
-        "path": "./icons/lagarto/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-falcon",
-        "label": "Brasileirão: Falcon",
-        "path": "./icons/falcon/icon-theme.json"
-      },
-      {
         "id": "brasileirao-palmas",
         "label": "Brasileirão: Palmas",
         "path": "./icons/palmas/icon-theme.json"
@@ -3535,21 +3370,6 @@
         "id": "brasileirao-gurupi",
         "label": "Brasileirão: Gurupi",
         "path": "./icons/gurupi/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-interporto",
-        "label": "Brasileirão: Interporto",
-        "path": "./icons/interporto/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-capital-to",
-        "label": "Brasileirão: Capital-TO",
-        "path": "./icons/capital-to/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-araguacema",
-        "label": "Brasileirão: Araguacema",
-        "path": "./icons/araguacema/icon-theme.json"
       }
     ],
     "commands": [
