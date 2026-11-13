@@ -1,14 +1,20 @@
 # O pacote (.vsix) leva o que está no local: temas, ícones, escudos (atuais e antigos), fundos, troféus e a extensão.
 # Fica de fora só o que é de desenvolvimento.
+
 .vscode/**
 .git/**
 .gitignore
+
 src/**
 assets/**
 tests/**
 preview/**
 images/screenshots/**
+
 *.py
 __pycache__/**
 **/*.pyc
 *.vsix
+
+# prompt de uso pessoal para melhorar as imagens dos troféus
+PROMPT-TROFEU-QUALIDADE.md
