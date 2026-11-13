@@ -5330,7 +5330,7 @@
   "rio-branco-es": [
     {
       "id": "1913",
-      "label": "1913–1936",
+      "label": "1913–1937",
       "local": "RioBrancoES-1913.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -5347,7 +5347,7 @@
     },
     {
       "id": "1937",
-      "label": "1937–1984",
+      "label": "1937–1985",
       "local": "RioBrancoES-1937.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -5364,7 +5364,7 @@
     },
     {
       "id": "1985",
-      "label": "1985–2011",
+      "label": "1985–2012",
       "local": "RioBrancoES-1985.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -5381,7 +5381,7 @@
     },
     {
       "id": "2012",
-      "label": "2012–2021",
+      "label": "2012–2022",
       "local": "RioBrancoES-2012.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -5394,6 +5394,24 @@
       "vetorizarPaleta": [
         "#050505",
         "#fcfcfc"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013",
+      "local": "RioBrancoES-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#c0aa50",
+        "#fcfcfc",
+        "#050505"
       ]
     }
   ],

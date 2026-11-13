@@ -14670,8 +14670,8 @@
     "retro": [
       {
         "id": "1913",
-        "label": "1913–1936",
-        "fullLabel": "1913–1936",
+        "label": "1913–1937",
+        "fullLabel": "1913–1937",
         "atual": false,
         "file": "retro-1913-31366f2c.svg",
         "aspect": 1,
@@ -14679,8 +14679,8 @@
       },
       {
         "id": "1937",
-        "label": "1937–1984",
-        "fullLabel": "1937–1984",
+        "label": "1937–1985",
+        "fullLabel": "1937–1985",
         "atual": false,
         "file": "retro-1937-af43ff84.svg",
         "aspect": 0.947,
@@ -14688,8 +14688,8 @@
       },
       {
         "id": "1985",
-        "label": "1985–2011",
-        "fullLabel": "1985–2011",
+        "label": "1985–2012",
+        "fullLabel": "1985–2012",
         "atual": false,
         "file": "retro-1985-023f7b24.svg",
         "aspect": 0.824,
@@ -14697,8 +14697,8 @@
       },
       {
         "id": "2012",
-        "label": "2012–2021",
-        "fullLabel": "2012–2021",
+        "label": "2012–2022",
+        "fullLabel": "2012–2022",
         "atual": false,
         "file": "retro-2012-60a80816.svg",
         "aspect": 0.804,
@@ -14709,6 +14709,15 @@
     "swatch": "⬛⬜",
     "primary": "#d0d0d0",
     "background": "fundo-40eaaca8.svg",
+      },
+      {
+        "id": "2013",
+        "label": "2013",
+        "fullLabel": "2013",
+        "atual": false,
+        "file": "retro-2013-78d3f877.svg",
+        "aspect": 1.034,
+        "iconTheme": "brasileirao-rio-branco-es-2013"
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
