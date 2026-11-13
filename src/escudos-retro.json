@@ -5469,7 +5469,7 @@
     },
     {
       "id": "1978",
-      "label": "1978/1991–1993",
+      "label": "1978/1991–1994",
       "local": "Desportiva-1978.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -5503,7 +5503,7 @@
     },
     {
       "id": "1982",
-      "label": "1982–1988/1994–1996",
+      "label": "1982–1988/1994–1997",
       "local": "Desportiva-1982.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -5537,7 +5537,7 @@
     },
     {
       "id": "1997",
-      "label": "1997–1998",
+      "label": "1997–1999",
       "local": "Desportiva-1997.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -5554,7 +5554,7 @@
     },
     {
       "id": "1999",
-      "label": "1999–2010",
+      "label": "1999–2011",
       "local": "Desportiva-1999.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -5587,6 +5587,22 @@
         "#903c54"
       ],
       "fundoExterno": true
+    },
+    {
+      "id": "2013",
+      "label": "2013",
+      "local": "Desportiva-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 2.0,
+      "minimo": 20,
+      "vetorizarPaleta": [
+        "#a83c54",
+        "#fcfcfc"
+      ]
     }
   ],
   "vitoria-es": [
