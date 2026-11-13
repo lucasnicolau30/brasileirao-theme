@@ -2288,7 +2288,7 @@
   "gama": [
     {
       "id": "1976",
-      "label": "1975–1977",
+      "label": "1975–1978",
       "local": "Gama-1976.png",
       "vetorizar": "suave",
       "silhueta": "borda",
@@ -2299,7 +2299,7 @@
     },
     {
       "id": "1978",
-      "label": "1978–1995",
+      "label": "1978–1997",
       "local": "Gama-1978.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -2316,7 +2316,7 @@
     },
     {
       "id": "1996",
-      "label": "1996–1997",
+      "label": "1997–1998",
       "local": "Gama-1996.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -2351,7 +2351,7 @@
     },
     {
       "id": "2000",
-      "label": "2000–2002",
+      "label": "1999–2002",
       "local": "Gama-2000.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -2365,6 +2365,11 @@
         "#fcfcfc",
         "#0c6c54"
       ]
+    },
+    {
+      "id": "2002",
+      "label": "2002–2003",
+      "local": "Gama-2002.svg"
     }
   ],
   "abc": [

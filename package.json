@@ -2643,17 +2643,17 @@
       },
       {
         "id": "brasileirao-gama-1976",
-        "label": "Brasileirão: Gama (retrô 1975–1977)",
+        "label": "Brasileirão: Gama (retrô 1975–1978)",
         "path": "./icons/gama/icon-theme-1976.json"
       },
       {
         "id": "brasileirao-gama-1978",
-        "label": "Brasileirão: Gama (retrô 1978–1995)",
+        "label": "Brasileirão: Gama (retrô 1978–1997)",
         "path": "./icons/gama/icon-theme-1978.json"
       },
       {
         "id": "brasileirao-gama-1996",
-        "label": "Brasileirão: Gama (retrô 1996–1997)",
+        "label": "Brasileirão: Gama (retrô 1997–1998)",
         "path": "./icons/gama/icon-theme-1996.json"
       },
       {
@@ -2663,8 +2663,13 @@
       },
       {
         "id": "brasileirao-gama-2000",
-        "label": "Brasileirão: Gama (retrô 2000–2002)",
+        "label": "Brasileirão: Gama (retrô 1999–2002)",
         "path": "./icons/gama/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-gama-2002",
+        "label": "Brasileirão: Gama (retrô 2002–2003)",
+        "path": "./icons/gama/icon-theme-2002.json"
       },
       {
         "id": "brasileirao-brasilia",
