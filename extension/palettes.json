@@ -11592,8 +11592,8 @@
     "retro": [
       {
         "id": "2000",
-        "label": "2000–2001",
-        "fullLabel": "2000–2001",
+        "label": "2000–2002",
+        "fullLabel": "2000–2002",
         "atual": false,
         "file": "retro-2000-3d1ffdef.svg",
         "aspect": 0.991,
@@ -11601,8 +11601,8 @@
       },
       {
         "id": "2002",
-        "label": "2002–2004",
-        "fullLabel": "2002–2004",
+        "label": "2002–2005",
+        "fullLabel": "2002–2005",
         "atual": false,
         "file": "retro-2002-00696b2a.svg",
         "aspect": 1.085,
@@ -11610,8 +11610,8 @@
       },
       {
         "id": "2005",
-        "label": "2005–2008",
-        "fullLabel": "2005–2008",
+        "label": "2005–2009",
+        "fullLabel": "2005–2009",
         "atual": false,
         "file": "retro-2005-d12f84bd.svg",
         "aspect": 0.924,

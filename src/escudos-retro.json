@@ -2243,7 +2243,7 @@
   "brasiliense": [
     {
       "id": "2000",
-      "label": "2000–2001",
+      "label": "2000–2002",
       "local": "Brasiliense-2000.png",
       "vetorizar": "alfa",
       "sobrepor": 0,
@@ -2255,7 +2255,7 @@
     },
     {
       "id": "2002",
-      "label": "2002–2004",
+      "label": "2002–2005",
       "local": "Brasiliense-2002.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -2271,7 +2271,7 @@
     },
     {
       "id": "2005",
-      "label": "2005–2008",
+      "label": "2005–2009",
       "local": "Brasiliense-2005.png",
       "vetorizar": "suave",
       "silhueta": "borda",
