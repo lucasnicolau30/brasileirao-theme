@@ -2943,7 +2943,7 @@
     },
     {
       "id": "1976",
-      "label": "1976–1980",
+      "label": "1975–1980",
       "local": "Rio-Negro-1976.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -2959,7 +2959,7 @@
     },
     {
       "id": "1981",
-      "label": "1981–1990",
+      "label": "1980–1990",
       "local": "Rio-Negro-1981.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -2976,7 +2976,7 @@
     },
     {
       "id": "1991",
-      "label": "1991–2000",
+      "label": "1990–2001",
       "local": "Rio-Negro-1991.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -2987,6 +2987,24 @@
       "minimo": 60,
       "bordaPx": 2,
       "vetorizarPaleta": [
+        "#fcfcfc",
+        "#46423a"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013",
+      "local": "Rio-Negro-AM-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#e0b060",
         "#fcfcfc",
         "#46423a"
       ]

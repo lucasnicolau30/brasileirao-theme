@@ -2093,18 +2093,23 @@
       },
       {
         "id": "brasileirao-rio-negro-am-1976",
-        "label": "Brasileirão: Rio Negro-AM (retrô 1976–1980)",
+        "label": "Brasileirão: Rio Negro-AM (retrô 1975–1980)",
         "path": "./icons/rio-negro-am/icon-theme-1976.json"
       },
       {
         "id": "brasileirao-rio-negro-am-1981",
-        "label": "Brasileirão: Rio Negro-AM (retrô 1981–1990)",
+        "label": "Brasileirão: Rio Negro-AM (retrô 1980–1990)",
         "path": "./icons/rio-negro-am/icon-theme-1981.json"
       },
       {
         "id": "brasileirao-rio-negro-am-1991",
-        "label": "Brasileirão: Rio Negro-AM (retrô 1991–2000)",
+        "label": "Brasileirão: Rio Negro-AM (retrô 1990–2001)",
         "path": "./icons/rio-negro-am/icon-theme-1991.json"
+      },
+      {
+        "id": "brasileirao-rio-negro-am-2013",
+        "label": "Brasileirão: Rio Negro-AM (retrô 2013)",
+        "path": "./icons/rio-negro-am/icon-theme-2013.json"
       },
       {
         "id": "brasileirao-sao-raimundo-am",

@@ -8738,8 +8738,8 @@
       },
       {
         "id": "1976",
-        "label": "1976–1980",
-        "fullLabel": "1976–1980",
+        "label": "1975–1980",
+        "fullLabel": "1975–1980",
         "atual": false,
         "file": "retro-1976-5dac3da6.svg",
         "aspect": 0.984,
@@ -8747,8 +8747,8 @@
       },
       {
         "id": "1981",
-        "label": "1981–1990",
-        "fullLabel": "1981–1990",
+        "label": "1980–1990",
+        "fullLabel": "1980–1990",
         "atual": false,
         "file": "retro-1981-186a2e66.svg",
         "aspect": 0.964,
@@ -8756,8 +8756,8 @@
       },
       {
         "id": "1991",
-        "label": "1991–2000",
-        "fullLabel": "1991–2000",
+        "label": "1990–2001",
+        "fullLabel": "1990–2001",
         "atual": false,
         "file": "retro-1991-2e47d481.svg",
         "aspect": 0.977,
@@ -8768,6 +8768,15 @@
     "swatch": "⬛⬜",
     "primary": "#d4d4d4",
     "background": "fundo-96cdc781.svg",
+      },
+      {
+        "id": "2013",
+        "label": "2013",
+        "fullLabel": "2013",
+        "atual": false,
+        "file": "retro-2013-a5954a53.svg",
+        "aspect": 1.286,
+        "iconTheme": "brasileirao-rio-negro-am-2013"
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
