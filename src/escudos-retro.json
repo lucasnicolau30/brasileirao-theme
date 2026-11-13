@@ -1273,9 +1273,27 @@
   ],
   "amazonas": [
     {
+      "id": "2022",
+      "label": "2022–2023",
+      "local": "Amazonas-2019.svg"
+    },
+    {
       "id": "2019",
       "label": "2019–2022",
-      "local": "Amazonas-2019.svg"
+      "local": "Amazonas-2019-novo.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 60,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#141414",
+        "#fcb800"
+      ]
     }
   ],
   "goias": [

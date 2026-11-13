@@ -8457,8 +8457,8 @@
         "label": "2019–2022",
         "fullLabel": "2019–2022",
         "atual": false,
-        "file": "retro-2019-0d3ce1ac.svg",
-        "aspect": 0.691,
+        "file": "retro-2019-bb9a1564.svg",
+        "aspect": 0.876,
         "iconTheme": "brasileirao-amazonas-2019"
       }
     ],
@@ -8466,6 +8466,15 @@
     "swatch": "🟨⬛",
     "primary": "#f2c200",
     "background": "fundo-46c68c85.svg",
+      },
+      {
+        "id": "2022",
+        "label": "2022–2023",
+        "fullLabel": "2022–2023",
+        "atual": false,
+        "file": "retro-2022-0d3ce1ac.svg",
+        "aspect": 0.691,
+        "iconTheme": "brasileirao-amazonas-2022"
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",

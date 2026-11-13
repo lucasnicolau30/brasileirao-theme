@@ -2057,6 +2057,11 @@
         "path": "./icons/amazonas/icon-theme-2019.json"
       },
       {
+        "id": "brasileirao-amazonas-2022",
+        "label": "Brasileirão: Amazonas FC (retrô 2022–2023)",
+        "path": "./icons/amazonas/icon-theme-2022.json"
+      },
+      {
         "id": "brasileirao-nacional-am",
         "label": "Brasileirão: Nacional-AM",
         "path": "./icons/nacional-am/icon-theme.json"
