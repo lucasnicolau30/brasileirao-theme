@@ -1314,7 +1314,7 @@
     },
     {
       "id": "1944",
-      "label": "1944–1949",
+      "label": "1943–1950",
       "local": "Goias-escudo.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1329,7 +1329,7 @@
     },
     {
       "id": "1950",
-      "label": "1950–1959",
+      "label": "1950–1960",
       "local": "Goias-1950.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1344,7 +1344,7 @@
     },
     {
       "id": "1960",
-      "label": "1960–1982",
+      "label": "1960–1983",
       "local": "Goias-1966.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1374,8 +1374,23 @@
     },
     {
       "id": "2001",
-      "label": "2001–2012",
+      "label": "2001–2013",
       "local": "Goias-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 2.0,
+      "minimo": 150,
+      "vetorizarPaleta": [
+        "#17745a",
+        "#f4f4f0"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2001",
+      "local": "Goias-2000.png",
       "vetorizar": "alfa",
       "nitido": true,
       "sobrepor": 1,

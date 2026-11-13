@@ -9130,8 +9130,8 @@
       },
       {
         "id": "1944",
-        "label": "1944–1949",
-        "fullLabel": "1944–1949",
+        "label": "1943–1950",
+        "fullLabel": "1943–1950",
         "atual": false,
         "file": "retro-1944-aef79535.svg",
         "aspect": 0.942,
@@ -9139,8 +9139,8 @@
       },
       {
         "id": "1950",
-        "label": "1950–1959",
-        "fullLabel": "1950–1959",
+        "label": "1950–1960",
+        "fullLabel": "1950–1960",
         "atual": false,
         "file": "retro-1950-8527a6db.svg",
         "aspect": 1,
@@ -9148,8 +9148,8 @@
       },
       {
         "id": "1960",
-        "label": "1960–1982",
-        "fullLabel": "1960–1982",
+        "label": "1960–1983",
+        "fullLabel": "1960–1983",
         "atual": false,
         "file": "retro-1960-40bf50fc.svg",
         "aspect": 1,
@@ -9166,10 +9166,19 @@
       },
       {
         "id": "2001",
-        "label": "2001–2012",
-        "fullLabel": "2001–2012",
+        "label": "2001–2013",
+        "fullLabel": "2001–2013",
         "atual": false,
         "file": "retro-2001-cc5f8f10.svg",
+      {
+        "id": "2000",
+        "label": "2000–2001",
+        "fullLabel": "2000–2001",
+        "atual": false,
+        "file": "retro-2000-043fe72a.svg",
+        "aspect": 0.762,
+        "iconTheme": "brasileirao-goias-2000"
+      },
         "aspect": 1,
         "iconTheme": "brasileirao-goias-2001"
       }

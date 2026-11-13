@@ -2158,17 +2158,17 @@
       },
       {
         "id": "brasileirao-goias-1944",
-        "label": "Brasileirão: Goiás (retrô 1944–1949)",
+        "label": "Brasileirão: Goiás (retrô 1943–1950)",
         "path": "./icons/goias/icon-theme-1944.json"
       },
       {
         "id": "brasileirao-goias-1950",
-        "label": "Brasileirão: Goiás (retrô 1950–1959)",
+        "label": "Brasileirão: Goiás (retrô 1950–1960)",
         "path": "./icons/goias/icon-theme-1950.json"
       },
       {
         "id": "brasileirao-goias-1960",
-        "label": "Brasileirão: Goiás (retrô 1960–1982)",
+        "label": "Brasileirão: Goiás (retrô 1960–1983)",
         "path": "./icons/goias/icon-theme-1960.json"
       },
       {
@@ -2177,8 +2177,13 @@
         "path": "./icons/goias/icon-theme-1983.json"
       },
       {
+        "id": "brasileirao-goias-2000",
+        "label": "Brasileirão: Goiás (retrô 2000–2001)",
+        "path": "./icons/goias/icon-theme-2000.json"
+      },
+      {
         "id": "brasileirao-goias-2001",
-        "label": "Brasileirão: Goiás (retrô 2001–2012)",
+        "label": "Brasileirão: Goiás (retrô 2001–2013)",
         "path": "./icons/goias/icon-theme-2001.json"
       },
       {
