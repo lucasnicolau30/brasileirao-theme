@@ -5735,7 +5735,7 @@
   "moto-club": [
     {
       "id": "1937",
-      "label": "1937–1967",
+      "label": "1937–1968",
       "local": "Moto-Club-1937.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -5751,7 +5751,7 @@
     },
     {
       "id": "1968",
-      "label": "1968–1973",
+      "label": "1968–1974",
       "local": "Moto-Club-1968.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -5767,7 +5767,7 @@
     },
     {
       "id": "1974",
-      "label": "1974–1982",
+      "label": "1974–1983",
       "local": "Moto-Club-1974.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -5781,7 +5781,7 @@
     },
     {
       "id": "1983",
-      "label": "1983–2012",
+      "label": "1983–2013",
       "local": "Moto-Club-1983.png",
       "vetorizar": "alfa",
       "nitido": true,
