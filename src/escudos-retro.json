@@ -723,13 +723,13 @@
   "paysandu": [
     {
       "id": "1914",
-      "label": "1914–1969",
+      "label": "1914–1970",
       "commons": "Paysandu-1914-1970-logo.png",
       "vetorizarAuto": true
     },
     {
       "id": "1970",
-      "label": "1970–1990",
+      "label": "1970–1991",
       "local": "Paysandu-1970.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -761,7 +761,7 @@
     },
     {
       "id": "1992",
-      "label": "1993–2000",
+      "label": "1992–2001",
       "local": "Paysandu-1992.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -812,7 +812,7 @@
     },
     {
       "id": "2003",
-      "label": "2004–2011",
+      "label": "2003–2012",
       "local": "Paysandu-2003.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -848,7 +848,7 @@
     },
     {
       "id": "2013",
-      "label": "2014–2015",
+      "label": "2013–2016",
       "local": "Paysandu-2013.png",
       "vetorizar": "alfa",
       "nitido": true,
