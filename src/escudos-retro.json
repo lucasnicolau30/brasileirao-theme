@@ -6180,5 +6180,135 @@
         "#ffffff"
       ]
     }
+  ],
+  "palmas": [
+    {
+      "id": "1997",
+      "label": "1997–2003",
+      "local": "Palmas-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fce40c",
+        "#fcfcfc",
+        "#3434a0",
+        "#303030"
+      ]
+    },
+    {
+      "id": "2003",
+      "label": "2003–2005",
+      "local": "Palmas-2003.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#303030",
+        "#fcfcfc",
+        "#fce40c",
+        "#1a62c0"
+      ]
+    },
+    {
+      "id": "2005",
+      "label": "2005–2006",
+      "local": "Palmas-2005.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#d9a512",
+        "#f2f2f2",
+        "#243a8a"
+      ]
+    },
+    {
+      "id": "2006",
+      "label": "2006–2007",
+      "local": "Palmas-2006.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#d9a512",
+        "#f2f2f2",
+        "#243a8a"
+      ]
+    },
+    {
+      "id": "2007",
+      "label": "2007–2019",
+      "local": "Palmas-2007.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#d9a512",
+        "#f2f2f2",
+        "#243a8a"
+      ]
+    },
+    {
+      "id": "2019",
+      "label": "2019–2021",
+      "local": "Palmas-2019.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#d9a512",
+        "#f2f2f2",
+        "#243a8a"
+      ]
+    },
+    {
+      "id": "2025",
+      "label": "2025",
+      "local": "Palmas-atual-2025.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#fcb40c",
+        "#1858b0"
+      ]
+    }
   ]
 }

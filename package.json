@@ -3362,6 +3362,41 @@
         "path": "./icons/palmas/icon-theme.json"
       },
       {
+        "id": "brasileirao-palmas-1997",
+        "label": "Brasileirão: Palmas (retrô 1997–2003)",
+        "path": "./icons/palmas/icon-theme-1997.json"
+      },
+      {
+        "id": "brasileirao-palmas-2003",
+        "label": "Brasileirão: Palmas (retrô 2003–2005)",
+        "path": "./icons/palmas/icon-theme-2003.json"
+      },
+      {
+        "id": "brasileirao-palmas-2005",
+        "label": "Brasileirão: Palmas (retrô 2005–2006)",
+        "path": "./icons/palmas/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-palmas-2006",
+        "label": "Brasileirão: Palmas (retrô 2006–2007)",
+        "path": "./icons/palmas/icon-theme-2006.json"
+      },
+      {
+        "id": "brasileirao-palmas-2007",
+        "label": "Brasileirão: Palmas (retrô 2007–2019)",
+        "path": "./icons/palmas/icon-theme-2007.json"
+      },
+      {
+        "id": "brasileirao-palmas-2019",
+        "label": "Brasileirão: Palmas (retrô 2019–2021)",
+        "path": "./icons/palmas/icon-theme-2019.json"
+      },
+      {
+        "id": "brasileirao-palmas-2025",
+        "label": "Brasileirão: Palmas (retrô 2025)",
+        "path": "./icons/palmas/icon-theme-2025.json"
+      },
+      {
         "id": "brasileirao-tocantinopolis",
         "label": "Brasileirão: Tocantinópolis",
         "path": "./icons/tocantinopolis/icon-theme.json"

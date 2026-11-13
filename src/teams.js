@@ -4940,7 +4940,8 @@ const times = [
     slug: "palmas",
     swatch: "🟨🟦",
     uf: "TO",
-    crestLabel: "Palmas",
+    crestLabel: "Palmas (2021–2025/desde 2025)",
+    // Escudo atual usado em 2021–2025 e de novo desde 2025; o escudo com estrelas foi usado só em 2025, segundo o Logopedia.
     bgColored: true,
     titles: {
       mundial: [],

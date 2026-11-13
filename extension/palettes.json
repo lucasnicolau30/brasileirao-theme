@@ -16722,10 +16722,10 @@
   "Brasileirão: Palmas": {
     "slug": "palmas",
     "uf": "TO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-db75a43b.svg",
-    "listIcon": "escudo-db75a43b.svg",
-    "backgroundAspect": 1.039,
+    "crestLabel": "Atual · 2021–2025/desde 2025",
+    "crestIcon": "escudo-b8803764.svg",
+    "listIcon": "escudo-b8803764.svg",
+    "backgroundAspect": 1.04,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -16748,11 +16748,75 @@
         2020
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1997",
+        "label": "1997–2003",
+        "fullLabel": "1997–2003",
+        "atual": false,
+        "file": "retro-1997-4fd8508e.svg",
+        "aspect": 1.006,
+        "iconTheme": "brasileirao-palmas-1997"
+      },
+      {
+        "id": "2003",
+        "label": "2003–2005",
+        "fullLabel": "2003–2005",
+        "atual": false,
+        "file": "retro-2003-1779c33f.svg",
+        "aspect": 0.653,
+        "iconTheme": "brasileirao-palmas-2003"
+      },
+      {
+        "id": "2005",
+        "label": "2005–2006",
+        "fullLabel": "2005–2006",
+        "atual": false,
+        "file": "retro-2005-52a8b714.svg",
+        "aspect": 0.888,
+        "iconTheme": "brasileirao-palmas-2005"
+      },
+      {
+        "id": "2006",
+        "label": "2006–2007",
+        "fullLabel": "2006–2007",
+        "atual": false,
+        "file": "retro-2006-64e2f1b4.svg",
+        "aspect": 0.888,
+        "iconTheme": "brasileirao-palmas-2006"
+      },
+      {
+        "id": "2007",
+        "label": "2007–2019",
+        "fullLabel": "2007–2019",
+        "atual": false,
+        "file": "retro-2007-b227864d.svg",
+        "aspect": 0.882,
+        "iconTheme": "brasileirao-palmas-2007"
+      },
+      {
+        "id": "2019",
+        "label": "2019–2021",
+        "fullLabel": "2019–2021",
+        "atual": false,
+        "file": "retro-2019-b94a2fc5.svg",
+        "aspect": 0.888,
+        "iconTheme": "brasileirao-palmas-2019"
+      },
+      {
+        "id": "2025",
+        "label": "2025",
+        "fullLabel": "2025",
+        "atual": false,
+        "file": "retro-2025-56b7800f.svg",
+        "aspect": 0.849,
+        "iconTheme": "brasileirao-palmas-2025"
+      }
+    ],
     "alternates": [],
     "swatch": "🟨🟦",
     "primary": "#f2c230",
-    "background": "fundo-ececb5d2.png",
+    "background": "fundo-35ef532b.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
