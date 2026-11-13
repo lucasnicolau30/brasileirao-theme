@@ -4859,7 +4859,7 @@ const times = [
     slug: "confianca",
     swatch: "🟦⬜",
     uf: "SE",
-    crestLabel: "Confiança",
+    crestLabel: "Confiança (desde 2025)",
     bgColored: true,
     titles: {
       mundial: [],

@@ -16556,9 +16556,9 @@
   "Brasileirão: Confiança": {
     "slug": "confianca",
     "uf": "SE",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-e123d2db.svg",
-    "listIcon": "escudo-e123d2db.svg",
+    "crestLabel": "Atual · desde 2025",
+    "crestIcon": "escudo-7720bcb9.svg",
+    "listIcon": "escudo-7720bcb9.svg",
     "backgroundAspect": 1,
     "titles": {
       "mundial": [],
@@ -16598,11 +16598,57 @@
         2025
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1936",
+        "label": "1936–1960",
+        "fullLabel": "1936–1960",
+        "atual": false,
+        "file": "retro-1936-4236b717.svg",
+        "aspect": 0.999,
+        "iconTheme": "brasileirao-confianca-1936"
+      },
+      {
+        "id": "1960",
+        "label": "1960–2000",
+        "fullLabel": "1960–2000",
+        "atual": false,
+        "file": "retro-1960-3d8090f4.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-confianca-1960"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2005",
+        "fullLabel": "2000–2005",
+        "atual": false,
+        "file": "retro-2000-42bfddc9.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-confianca-2000"
+      },
+      {
+        "id": "2005",
+        "label": "2005–2013",
+        "fullLabel": "2005–2013",
+        "atual": false,
+        "file": "retro-2005-0f3b26de.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-confianca-2005"
+      },
+      {
+        "id": "2013",
+        "label": "2013–2025",
+        "fullLabel": "2013–2025",
+        "atual": false,
+        "file": "retro-2013-d7aa04f5.svg",
+        "aspect": 0.819,
+        "iconTheme": "brasileirao-confianca-2013"
+      }
+    ],
     "alternates": [],
     "swatch": "🟦⬜",
     "primary": "#2a5ad0",
-    "background": "fundo-f977415a.svg",
+    "background": "fundo-f654e550.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",

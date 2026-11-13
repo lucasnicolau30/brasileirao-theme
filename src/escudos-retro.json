@@ -6456,5 +6456,94 @@
         "#e43c3c"
       ]
     }
+  ],
+  "confianca": [
+    {
+      "id": "1936",
+      "label": "1936–1960",
+      "local": "Confianca-1936.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#3052b8",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1960",
+      "label": "1960–2000",
+      "local": "Confianca-1960.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#3c6cb4"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2005",
+      "local": "Confianca-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#2f64ae"
+      ]
+    },
+    {
+      "id": "2005",
+      "label": "2005–2013",
+      "local": "Confianca-2005.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#3c64b4",
+        "#fcb454"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013–2025",
+      "local": "Confianca-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#2f64ae",
+        "#fcfcfc",
+        "#fccc54"
+      ]
+    }
   ]
 }

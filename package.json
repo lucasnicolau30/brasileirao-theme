@@ -3372,6 +3372,31 @@
         "path": "./icons/confianca/icon-theme.json"
       },
       {
+        "id": "brasileirao-confianca-1936",
+        "label": "Brasileirão: Confiança (retrô 1936–1960)",
+        "path": "./icons/confianca/icon-theme-1936.json"
+      },
+      {
+        "id": "brasileirao-confianca-1960",
+        "label": "Brasileirão: Confiança (retrô 1960–2000)",
+        "path": "./icons/confianca/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-confianca-2000",
+        "label": "Brasileirão: Confiança (retrô 2000–2005)",
+        "path": "./icons/confianca/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-confianca-2005",
+        "label": "Brasileirão: Confiança (retrô 2005–2013)",
+        "path": "./icons/confianca/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-confianca-2013",
+        "label": "Brasileirão: Confiança (retrô 2013–2025)",
+        "path": "./icons/confianca/icon-theme-2013.json"
+      },
+      {
         "id": "brasileirao-itabaiana",
         "label": "Brasileirão: Itabaiana",
         "path": "./icons/itabaiana/icon-theme.json"
