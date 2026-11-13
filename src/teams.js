@@ -1020,6 +1020,7 @@ const times = [
     uf: "PA",
     crestLabel: "Tuna Luso (desde 2010)",
     bgColored: true,
+    // Retrôs 1985–1995 e 1992–2010: as datas se sobrepõem, pois segundo o Logopedia houve dois escudos nesses períodos.
     titleOrder: ["serieC", "serieB", "estadual"],
     titles: {
       brasileirao: [],
