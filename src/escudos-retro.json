@@ -1869,7 +1869,7 @@
   "atletico-go": [
     {
       "id": "1937",
-      "label": "1937–1939",
+      "label": "1937–1940",
       "local": "Atletico-GO-1937.png",
       "vetorizar": "alfa",
       "sobrepor": 0,
@@ -1881,7 +1881,7 @@
     },
     {
       "id": "1940",
-      "label": "1940–1949",
+      "label": "1940–1950",
       "local": "Atletico-GO-1940.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1897,7 +1897,7 @@
     },
     {
       "id": "1950",
-      "label": "1950–1970",
+      "label": "1950–1971",
       "local": "Atletico-GO-1950.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1913,7 +1913,7 @@
     },
     {
       "id": "1971",
-      "label": "1971–1989",
+      "label": "1971–1990",
       "local": "Atletico-GO-1971.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1929,7 +1929,7 @@
     },
     {
       "id": "1990",
-      "label": "1990–2006",
+      "label": "1990–2007",
       "local": "Atletico-GO-1990.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1945,7 +1945,7 @@
     },
     {
       "id": "2007",
-      "label": "2007–2013",
+      "label": "2007–2014",
       "local": "Atletico-GO-2007.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1962,7 +1962,7 @@
     },
     {
       "id": "2014",
-      "label": "2014–2015",
+      "label": "2014–2016",
       "local": "Atletico-GO-2014.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1979,7 +1979,7 @@
     },
     {
       "id": "2016",
-      "label": "2016–2017",
+      "label": "2016–2018",
       "local": "Atletico-GO-2016.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1997,7 +1997,7 @@
     },
     {
       "id": "2018",
-      "label": "2018–2019",
+      "label": "2018–2020",
       "local": "Atletico-GO-2018.png",
       "vetorizar": "alfa",
       "nitido": true,
