@@ -17,5 +17,6 @@ icons/retro-CREDITS.txt
 __pycache__/
 *.pyc
 
-# prompt de uso pessoal para melhorar as imagens dos troféus
+# prompts de uso pessoal para melhorar as imagens dos troféus e dos escudos
 PROMPT-TROFEU-QUALIDADE.md
+PROMPT-ESCUDO-QUALIDADE.md

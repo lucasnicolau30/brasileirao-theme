@@ -16,5 +16,6 @@ __pycache__/**
 **/*.pyc
 *.vsix
 
-# prompt de uso pessoal para melhorar as imagens dos troféus
+# prompts de uso pessoal para melhorar as imagens dos troféus e dos escudos
 PROMPT-TROFEU-QUALIDADE.md
+PROMPT-ESCUDO-QUALIDADE.md
