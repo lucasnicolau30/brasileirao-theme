@@ -4426,7 +4426,7 @@
   "comercial-ms": [
     {
       "id": "1943",
-      "label": "1943–1949",
+      "label": "1943–1950",
       "local": "Comercial-MS-1943.png",
       "vetorizar": "alfa",
       "fundoExterno": true,
@@ -4443,7 +4443,7 @@
     },
     {
       "id": "1950",
-      "label": "1950–1959",
+      "label": "1950–1960",
       "local": "Comercial-MS-1950.png",
       "vetorizar": "alfa",
       "fundoExterno": true,
@@ -4460,7 +4460,7 @@
     },
     {
       "id": "1960",
-      "label": "1960–1964",
+      "label": "1960–1965",
       "local": "Comercial-MS-1960.png",
       "vetorizar": "alfa",
       "fundoExterno": true,
@@ -4477,7 +4477,7 @@
     },
     {
       "id": "1965",
-      "label": "1965–1974",
+      "label": "1965–1975",
       "local": "Comercial-MS-1965.png",
       "vetorizar": "alfa",
       "fundoExterno": true,
@@ -4494,7 +4494,7 @@
     },
     {
       "id": "1975",
-      "label": "1975–1981",
+      "label": "1975–1982",
       "local": "Comercial-MS-1975.png",
       "vetorizar": "alfa",
       "fundoExterno": true,
@@ -4511,7 +4511,7 @@
     },
     {
       "id": "1982",
-      "label": "1982–2009",
+      "label": "1982–2010",
       "local": "Comercial-MS-1982.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -4527,7 +4527,7 @@
     },
     {
       "id": "2010",
-      "label": "2010–2012",
+      "label": "2010–2013",
       "local": "Comercial-MS-2010.png",
       "vetorizar": "alfa",
       "nitido": true,
