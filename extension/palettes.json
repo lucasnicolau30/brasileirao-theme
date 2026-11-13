@@ -16397,10 +16397,10 @@
   "Brasileirão: Sergipe": {
     "slug": "sergipe",
     "uf": "SE",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-999eec95.svg",
-    "listIcon": "escudo-999eec95.svg",
-    "backgroundAspect": 1,
+    "crestLabel": "Atual · desde 2013",
+    "crestIcon": "escudo-5e120bc3.svg",
+    "listIcon": "escudo-5e120bc3.svg",
+    "backgroundAspect": 0.735,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -16453,11 +16453,48 @@
         2026
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1909",
+        "label": "1909–1943",
+        "fullLabel": "1909–1943",
+        "atual": false,
+        "file": "retro-1909-d5a420c4.svg",
+        "aspect": 1.003,
+        "iconTheme": "brasileirao-sergipe-1909"
+      },
+      {
+        "id": "1943",
+        "label": "1943–1974",
+        "fullLabel": "1943–1974",
+        "atual": false,
+        "file": "retro-1943-ca82cb15.svg",
+        "aspect": 0.879,
+        "iconTheme": "brasileirao-sergipe-1943"
+      },
+      {
+        "id": "1974",
+        "label": "1974–1989",
+        "fullLabel": "1974–1989",
+        "atual": false,
+        "file": "retro-1974-5250fc09.svg",
+        "aspect": 0.734,
+        "iconTheme": "brasileirao-sergipe-1974"
+      },
+      {
+        "id": "1989",
+        "label": "1989–2013",
+        "fullLabel": "1989–2013",
+        "atual": false,
+        "file": "retro-1989-31e039e7.svg",
+        "aspect": 0.771,
+        "iconTheme": "brasileirao-sergipe-1989"
+      }
+    ],
     "alternates": [],
     "swatch": "🟥⬜",
     "primary": "#d3202c",
-    "background": "fundo-f6edd238.png",
+    "background": "fundo-38a509da.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",

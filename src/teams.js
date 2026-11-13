@@ -4816,7 +4816,7 @@ const times = [
     slug: "sergipe",
     swatch: "🟥⬜",
     uf: "SE",
-    crestLabel: "Sergipe",
+    crestLabel: "Sergipe (desde 2013)",
     bgColored: true,
     titles: {
       mundial: [],

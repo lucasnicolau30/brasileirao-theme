@@ -3347,6 +3347,26 @@
         "path": "./icons/sergipe/icon-theme.json"
       },
       {
+        "id": "brasileirao-sergipe-1909",
+        "label": "Brasileirão: Sergipe (retrô 1909–1943)",
+        "path": "./icons/sergipe/icon-theme-1909.json"
+      },
+      {
+        "id": "brasileirao-sergipe-1943",
+        "label": "Brasileirão: Sergipe (retrô 1943–1974)",
+        "path": "./icons/sergipe/icon-theme-1943.json"
+      },
+      {
+        "id": "brasileirao-sergipe-1974",
+        "label": "Brasileirão: Sergipe (retrô 1974–1989)",
+        "path": "./icons/sergipe/icon-theme-1974.json"
+      },
+      {
+        "id": "brasileirao-sergipe-1989",
+        "label": "Brasileirão: Sergipe (retrô 1989–2013)",
+        "path": "./icons/sergipe/icon-theme-1989.json"
+      },
+      {
         "id": "brasileirao-confianca",
         "label": "Brasileirão: Confiança",
         "path": "./icons/confianca/icon-theme.json"

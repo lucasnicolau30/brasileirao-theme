@@ -6385,5 +6385,76 @@
         "#0f6a2e"
       ]
     }
+  ],
+  "sergipe": [
+    {
+      "id": "1909",
+      "label": "1909–1943",
+      "local": "Sergipe-1909.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 2.5,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#fc0c0c"
+      ]
+    },
+    {
+      "id": "1943",
+      "label": "1943–1974",
+      "local": "Sergipe-1943.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 2.5,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#e43c0c",
+        "#fcfcfc"
+      ]
+    },
+    {
+      "id": "1974",
+      "label": "1974–1989",
+      "local": "Sergipe-1974.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#e43c3c",
+        "#fcfcfc",
+        "#fccc54"
+      ]
+    },
+    {
+      "id": "1989",
+      "label": "1989–2013",
+      "local": "Sergipe-1989.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#fcfcfc",
+        "#e43c3c"
+      ]
+    }
   ]
 }
