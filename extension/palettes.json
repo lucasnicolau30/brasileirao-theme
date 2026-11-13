@@ -16710,10 +16710,10 @@
   "Brasileirão: Itabaiana": {
     "slug": "itabaiana",
     "uf": "SE",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-1bcd0cf8.svg",
-    "listIcon": "escudo-1bcd0cf8.svg",
-    "backgroundAspect": 0.717,
+    "crestLabel": "Atual · desde 2016",
+    "crestIcon": "escudo-5b00ea47.svg",
+    "listIcon": "escudo-5b00ea47.svg",
+    "backgroundAspect": 0.886,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -16739,11 +16739,30 @@
         2023
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1938",
+        "label": "1938–1950",
+        "fullLabel": "1938–1950",
+        "atual": false,
+        "file": "retro-1938-25903589.svg",
+        "aspect": 0.88,
+        "iconTheme": "brasileirao-itabaiana-1938"
+      },
+      {
+        "id": "1950",
+        "label": "1950–2016",
+        "fullLabel": "1950–2016",
+        "atual": false,
+        "file": "retro-1950-2d356a2b.svg",
+        "aspect": 0.923,
+        "iconTheme": "brasileirao-itabaiana-1950"
+      }
+    ],
     "alternates": [],
     "swatch": "🟦⬜🟥",
     "primary": "#2a5ad0",
-    "background": "fundo-78cc7852.png",
+    "background": "fundo-1da50c76.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",

@@ -3402,6 +3402,16 @@
         "path": "./icons/itabaiana/icon-theme.json"
       },
       {
+        "id": "brasileirao-itabaiana-1938",
+        "label": "Brasileirão: Itabaiana (retrô 1938–1950)",
+        "path": "./icons/itabaiana/icon-theme-1938.json"
+      },
+      {
+        "id": "brasileirao-itabaiana-1950",
+        "label": "Brasileirão: Itabaiana (retrô 1950–2016)",
+        "path": "./icons/itabaiana/icon-theme-1950.json"
+      },
+      {
         "id": "brasileirao-palmas",
         "label": "Brasileirão: Palmas",
         "path": "./icons/palmas/icon-theme.json"

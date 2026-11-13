@@ -4900,7 +4900,7 @@ const times = [
     slug: "itabaiana",
     swatch: "🟦⬜🟥",
     uf: "SE",
-    crestLabel: "Itabaiana",
+    crestLabel: "Itabaiana (desde 2016)",
     bgColored: true,
     titles: {
       mundial: [],

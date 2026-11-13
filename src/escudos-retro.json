@@ -6545,5 +6545,43 @@
         "#fccc54"
       ]
     }
+  ],
+  "itabaiana": [
+    {
+      "id": "1938",
+      "label": "1938–1950",
+      "local": "Itabaiana-1938.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#e40c0c",
+        "#fcfcfc",
+        "#1a5aa8"
+      ]
+    },
+    {
+      "id": "1950",
+      "label": "1950–2016",
+      "local": "Itabaiana-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 3,
+      "suavidade": 3.0,
+      "minimo": 40,
+      "bordaPx": 2,
+      "vetorizarPaleta": [
+        "#e42424",
+        "#fcfcfc",
+        "#1a62b0"
+      ]
+    }
   ]
 }
