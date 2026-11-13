@@ -122,38 +122,23 @@ const EXPECTED = {
   'desportiva': [0, 0, 0],
   'vitoria-es': [0, 0, 0],
   'serra': [0, 0, 0],
-  'river-pi': [0, 0, 0],
   'parnahyba': [0, 0, 0],
   'piaui': [0, 0, 0],
   'altos': [0, 0, 0],
-  '4-de-julho': [0, 0, 0],
-  'fluminense-pi': [0, 0, 0],
   'ji-parana': [0, 0, 0],
   'vilhena': [0, 0, 0],
   'porto-velho': [0, 0, 0],
-  'real-ariquemes': [0, 0, 0],
-  'genus': [0, 0, 0],
-  'guajara': [0, 0, 0],
   'bare': [0, 0, 0],
   'sao-raimundo-rr': [0, 0, 0],
   'gas': [0, 0, 0],
-  'nautico-rr': [0, 0, 0],
-  'monte-roraima': [0, 0, 0],
   'sergipe': [0, 0, 0],
   'confianca': [0, 0, 0],
   'itabaiana': [0, 0, 0],
-  'freipaulistano': [0, 0, 0],
-  'lagarto': [0, 0, 0],
-  'falcon': [0, 0, 0],
   'palmas': [0, 0, 0],
   'tocantinopolis': [0, 0, 0],
   'gurupi': [0, 0, 0],
-  'interporto': [0, 0, 0],
-  'capital-to': [0, 0, 0],
-  'araguacema': [0, 0, 0],
   'flamengo-pi': [0, 0, 0],
   'botafogo-pi': [0, 0, 0],
-  'tiradentes-pi': [0, 0, 0],
   'ypiranga-ba': [0, 0, 0],
 };
 const FIRST_YEAR = { estadual: 1900, brasileirao: 1937, copaDoBrasil: 1989, libertadores: 1960, mundial: 1960, sulAmericana: 2002, serieB: 1971, serieC: 1981, serieD: 2009, copaDoNordeste: 1994, copaVerde: 2014 };
@@ -268,38 +253,23 @@ const EXPECTED_OTHER = {
   'desportiva': [0, 0, 0, 0, 0],
   'vitoria-es': [0, 0, 0, 0, 0],
   'serra': [0, 0, 0, 0, 0],
-  'river-pi': [0, 0, 0, 0, 0],
   'parnahyba': [0, 0, 0, 0, 0],
   'piaui': [0, 0, 0, 0, 0],
   'altos': [0, 0, 0, 0, 0],
-  '4-de-julho': [0, 0, 0, 0, 0],
-  'fluminense-pi': [0, 0, 0, 0, 0],
   'ji-parana': [0, 0, 0, 0, 0],
   'vilhena': [0, 0, 0, 0, 0],
   'porto-velho': [0, 0, 0, 0, 0],
-  'real-ariquemes': [0, 0, 0, 0, 0],
-  'genus': [0, 0, 0, 0, 0],
-  'guajara': [0, 0, 0, 0, 0],
   'bare': [0, 0, 0, 0, 0],
   'sao-raimundo-rr': [0, 0, 0, 0, 0],
   'gas': [0, 0, 0, 0, 0],
-  'nautico-rr': [0, 0, 0, 0, 0],
-  'monte-roraima': [0, 0, 0, 0, 0],
   'sergipe': [0, 0, 0, 0, 0],
   'confianca': [0, 0, 0, 0, 0],
   'itabaiana': [0, 0, 0, 0, 0],
-  'freipaulistano': [0, 0, 0, 0, 0],
-  'lagarto': [0, 0, 0, 0, 0],
-  'falcon': [0, 0, 0, 0, 0],
   'palmas': [0, 0, 0, 0, 0],
   'tocantinopolis': [0, 0, 0, 0, 0],
   'gurupi': [0, 0, 0, 0, 0],
-  'interporto': [0, 0, 0, 0, 0],
-  'capital-to': [0, 0, 0, 0, 0],
-  'araguacema': [0, 0, 0, 0, 0],
   'flamengo-pi': [0, 0, 0, 0, 0],
   'botafogo-pi': [0, 0, 0, 0, 0],
-  'tiradentes-pi': [0, 0, 0, 0, 0],
   'ypiranga-ba': [0, 0, 0, 0, 0],
 };
 const LAST_YEAR = 2025; // última temporada incluída
@@ -315,12 +285,12 @@ const EXPECTED_NORDESTE = { bahia: 5, vitoria: 5, ceara: 3, fortaleza: 3, sport:
 // Ano repetido na mesma lista só quando houve dois títulos no mesmo ano.
 // Estaduais (tabela de títulos de cada campeonato estadual, ou a lista de campeões onde não há tabela; o América-RN tem 40 no artigo mas só 38 anos
 // listados, então valem os 38). Todos os times têm (inclusive os 12 grandes).
-const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juventude: 1, bahia: 52, vitoria: 30, fortaleza: 47, ceara: 47, 'athletico-pr': 28, coritiba: 39, parana: 7, sport: 46, 'santa-cruz': 29, nautico: 24, paysandu: 51, remo: 48, amazonas: 2, goias: 29, 'atletico-go': 18, 'vila-nova': 16, criciuma: 12, chapecoense: 7, 'sampaio-correa': 37, 'moto-club': 26, 'maranhao-ac': 16, cuiaba: 13, luverdense: 3, brasiliense: 11, gama: 15, abc: 56, 'america-rn': 38, 'botafogo-pb': 31, 'nacional-am': 44, 'rio-negro-am': 16, 'sao-raimundo-am': 7, campinense: 22, 'america-rj': 7, crb: 45, csa: 40, manaus: 6, bangu: 2, ituano: 2, avai: 19, figueirense: 18, brasilia: 8, 'villa-nova': 5, 'juventus-sp': 1, 'inter-de-limeira': 1, londrina: 5, joinville: 12, mixto: 24, treze: 17, 'tuna-luso': 10, 'operario-pr': 3, 'ferroviario-ce': 9, brusque: 2, 'barra-sc': 1, 'operario-ms': 15, 'comercial-ms': 9, 'rio-branco-ac': 49, 'atletico-ac': 9, 'independencia': 13, 'juventus-ac': 14, 'asa': 7, 'macapa': 16, 'trem': 10, 'ypiranga-ap': 10, 'santos-ap': 8, 'rio-branco-es': 39, 'desportiva': 18, 'vitoria-es': 10, 'serra': 6, 'river-pi': 32, 'parnahyba': 13, 'piaui': 7, 'altos': 4, '4-de-julho': 4, 'fluminense-pi': 1, 'ji-parana': 9, 'vilhena': 5, 'porto-velho': 5, 'real-ariquemes': 3, 'genus': 1, 'guajara': 1, 'bare': 28, 'sao-raimundo-rr': 14, 'gas': 3, 'nautico-rr': 2, 'sergipe': 38, 'confianca': 24, 'itabaiana': 11, 'freipaulistano': 1, 'palmas': 8, 'tocantinopolis': 7, 'gurupi': 6, 'interporto': 4, flamengo: 40, fluminense: 33, vasco: 24, botafogo: 21, corinthians: 31, palmeiras: 27, 'sao-paulo': 22, santos: 22, 'atletico-mg': 50, cruzeiro: 39, internacional: 46, gremio: 44, 'flamengo-pi': 17, 'botafogo-pi': 11, 'tiradentes-pi': 5, 'ypiranga-ba': 10 };
+const EXPECTED_ESTADUAL = { bragantino: 1, portuguesa: 3, 'america-mg': 16, juventude: 1, bahia: 52, vitoria: 30, fortaleza: 47, ceara: 47, 'athletico-pr': 28, coritiba: 39, parana: 7, sport: 46, 'santa-cruz': 29, nautico: 24, paysandu: 51, remo: 48, amazonas: 2, goias: 29, 'atletico-go': 18, 'vila-nova': 16, criciuma: 12, chapecoense: 7, 'sampaio-correa': 37, 'moto-club': 26, 'maranhao-ac': 16, cuiaba: 13, luverdense: 3, brasiliense: 11, gama: 15, abc: 56, 'america-rn': 38, 'botafogo-pb': 31, 'nacional-am': 44, 'rio-negro-am': 16, 'sao-raimundo-am': 7, campinense: 22, 'america-rj': 7, crb: 45, csa: 40, manaus: 6, bangu: 2, ituano: 2, avai: 19, figueirense: 18, brasilia: 8, 'villa-nova': 5, 'juventus-sp': 1, 'inter-de-limeira': 1, londrina: 5, joinville: 12, mixto: 24, treze: 17, 'tuna-luso': 10, 'operario-pr': 3, 'ferroviario-ce': 9, brusque: 2, 'barra-sc': 1, 'operario-ms': 15, 'comercial-ms': 9, 'rio-branco-ac': 49, 'atletico-ac': 9, 'independencia': 13, 'juventus-ac': 14, 'asa': 7, 'macapa': 16, 'trem': 10, 'ypiranga-ap': 10, 'santos-ap': 8, 'rio-branco-es': 39, 'desportiva': 18, 'vitoria-es': 10, 'serra': 6, 'parnahyba': 13, 'piaui': 7, 'altos': 4, 'ji-parana': 9, 'vilhena': 5, 'porto-velho': 5, 'bare': 28, 'sao-raimundo-rr': 14, 'gas': 3, 'sergipe': 38, 'confianca': 24, 'itabaiana': 11, 'palmas': 8, 'tocantinopolis': 7, 'gurupi': 6, flamengo: 40, fluminense: 33, vasco: 24, botafogo: 21, corinthians: 31, palmeiras: 27, 'sao-paulo': 22, santos: 22, 'atletico-mg': 50, cruzeiro: 39, internacional: 46, gremio: 44, 'flamengo-pi': 17, 'botafogo-pi': 11, 'ypiranga-ba': 10 };
 const ALLOWED_DUPLICATES = { palmeiras: { brasileirao: [1967] }, flamengo: { estadual: [1979] } };
 const HEX = /^#[0-9a-f]{6}$/i;
 
-test('há 141 times, com slug e rótulo únicos', () => {
-  assert.equal(teams.length, 141);
+test('há 126 times, com slug e rótulo únicos', () => {
+  assert.equal(teams.length, 126);
   assert.equal(new Set(teams.map((t) => t.slug)).size, teams.length);
   assert.equal(new Set(teams.map((t) => t.label)).size, teams.length);
 });
@@ -712,5 +682,5 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
       assert.ok(dAno <= 0, `${a.slug} deveria vir depois de ${b.slug}: ${b.slug} ganhou antes o título mais importante`);
     }
   }
-  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'campo-grande', 'volta-redonda', 'olaria', 'macae', 'america-rj', 'bangu', 'sao-paulo', 'santos', 'corinthians', 'palmeiras', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'uniao-sao-joao', 'portuguesa', 'juventus-sp', 'inter-de-limeira', 'ituano', 'mirassol', 'novorizontino', 'xv-de-piracicaba', 'uniao-barbarense', 'oeste', 'ponte-preta', 'botafogo-sp', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'villa-nova', 'boa-esporte', 'tupi', 'tombense', 'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'ypiranga-ba', 'fortaleza', 'ceara', 'ferroviario-ce', 'guarany-de-sobral', 'athletico-pr', 'coritiba', 'parana', 'londrina', 'operario-pr', 'maringa', 'sport', 'santa-cruz', 'nautico', 'retro-pe', 'paysandu', 'remo', 'tuna-luso', 'sao-raimundo-pa', 'amazonas', 'nacional-am', 'rio-negro-am', 'sao-raimundo-am', 'manaus', 'goias', 'atletico-go', 'vila-nova', 'aparecidense', 'criciuma', 'chapecoense', 'joinville', 'avai', 'brusque', 'barra-sc', 'figueirense', 'sampaio-correa', 'moto-club', 'maranhao-ac', 'cuiaba', 'luverdense', 'mixto', 'brasiliense', 'gama', 'brasilia', 'america-rn', 'abc', 'campinense', 'botafogo-pb', 'treze', 'csa', 'crb', 'asa', 'operario-ms', 'comercial-ms', 'rio-branco-ac', 'juventus-ac', 'independencia', 'atletico-ac', 'macapa', 'trem', 'ypiranga-ap', 'santos-ap', 'rio-branco-es', 'desportiva', 'vitoria-es', 'serra', 'river-pi', 'flamengo-pi', 'parnahyba', 'botafogo-pi', 'piaui', 'tiradentes-pi', '4-de-julho', 'altos', 'fluminense-pi', 'ji-parana', 'vilhena', 'porto-velho', 'real-ariquemes', 'guajara', 'genus', 'bare', 'sao-raimundo-rr', 'gas', 'nautico-rr', 'monte-roraima', 'sergipe', 'confianca', 'itabaiana', 'freipaulistano', 'lagarto', 'falcon', 'palmas', 'tocantinopolis', 'gurupi', 'interporto', 'capital-to', 'araguacema']);
+  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'campo-grande', 'volta-redonda', 'olaria', 'macae', 'america-rj', 'bangu', 'sao-paulo', 'santos', 'corinthians', 'palmeiras', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'uniao-sao-joao', 'portuguesa', 'juventus-sp', 'inter-de-limeira', 'ituano', 'mirassol', 'novorizontino', 'xv-de-piracicaba', 'uniao-barbarense', 'oeste', 'ponte-preta', 'botafogo-sp', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'villa-nova', 'boa-esporte', 'tupi', 'tombense', 'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'ypiranga-ba', 'fortaleza', 'ceara', 'ferroviario-ce', 'guarany-de-sobral', 'athletico-pr', 'coritiba', 'parana', 'londrina', 'operario-pr', 'maringa', 'sport', 'santa-cruz', 'nautico', 'retro-pe', 'paysandu', 'remo', 'tuna-luso', 'sao-raimundo-pa', 'amazonas', 'nacional-am', 'rio-negro-am', 'sao-raimundo-am', 'manaus', 'goias', 'atletico-go', 'vila-nova', 'aparecidense', 'criciuma', 'chapecoense', 'joinville', 'avai', 'brusque', 'barra-sc', 'figueirense', 'sampaio-correa', 'moto-club', 'maranhao-ac', 'cuiaba', 'luverdense', 'mixto', 'brasiliense', 'gama', 'brasilia', 'america-rn', 'abc', 'campinense', 'botafogo-pb', 'treze', 'csa', 'crb', 'asa', 'operario-ms', 'comercial-ms', 'rio-branco-ac', 'juventus-ac', 'independencia', 'atletico-ac', 'macapa', 'trem', 'ypiranga-ap', 'santos-ap', 'rio-branco-es', 'desportiva', 'vitoria-es', 'serra', 'flamengo-pi', 'parnahyba', 'botafogo-pi', 'piaui', 'altos', 'ji-parana', 'vilhena', 'porto-velho', 'bare', 'sao-raimundo-rr', 'gas', 'sergipe', 'confianca', 'itabaiana', 'palmas', 'tocantinopolis', 'gurupi']);
 });
