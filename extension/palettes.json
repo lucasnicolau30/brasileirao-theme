@@ -8966,10 +8966,10 @@
   "Brasileirão: Manaus FC": {
     "slug": "manaus",
     "uf": "AM",
-    "crestLabel": "Atual · desde 2019",
-    "crestIcon": "escudo-18284c48.svg",
-    "listIcon": "escudo-18284c48.svg",
-    "backgroundAspect": 0.578,
+    "crestLabel": "Atual · desde 2013",
+    "crestIcon": "escudo-9c97c0d7.svg",
+    "listIcon": "escudo-9c97c0d7.svg",
+    "backgroundAspect": 0.672,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -8990,21 +8990,12 @@
         2024
       ]
     },
-    "retro": [
-      {
-        "id": "2013",
-        "label": "2013–2018",
-        "fullLabel": "2013–2018",
-        "atual": false,
-        "file": "retro-2013-7f1d7749.svg",
-        "aspect": 0.672,
-        "iconTheme": "brasileirao-manaus-2013"
-      }
-    ],
+    "crestUnchanged": true,
+    "retro": [],
     "alternates": [],
     "swatch": "🟩⬛⬜",
     "primary": "#3aa84a",
-    "background": "fundo-2568165e.svg",
+    "background": "fundo-7f1d7749.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",

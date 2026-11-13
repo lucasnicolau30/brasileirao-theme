@@ -3187,7 +3187,8 @@ const times = [
     slug: "manaus",
     swatch: "🟩⬛⬜",
     uf: "AM",
-    crestLabel: "Manaus FC (desde 2019)",
+    crestLabel: "Manaus FC (desde 2013)",
+    crestUnchanged: true,
     bgColored: true,
     titles: {
       brasileirao: [],

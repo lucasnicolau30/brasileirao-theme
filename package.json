@@ -2142,11 +2142,6 @@
         "path": "./icons/manaus/icon-theme.json"
       },
       {
-        "id": "brasileirao-manaus-2013",
-        "label": "Brasileirão: Manaus FC (retrô 2013–2018)",
-        "path": "./icons/manaus/icon-theme-2013.json"
-      },
-      {
         "id": "brasileirao-goias",
         "label": "Brasileirão: Goiás",
         "path": "./icons/goias/icon-theme.json"

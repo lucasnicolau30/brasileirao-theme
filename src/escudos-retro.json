@@ -2832,27 +2832,6 @@
       ]
     }
   ],
-  "manaus": [
-    {
-      "id": "2013",
-      "label": "2013–2018",
-      "local": "Manaus-2013.png",
-      "vetorizar": "alfa",
-      "sobrepor": 1,
-      "nitido": true,
-      "macio": true,
-      "escala": 2,
-      "suavidade": 3.0,
-      "minimo": 60,
-      "bordaPx": 2,
-      "vetorizarPaleta": [
-        "#141414",
-        "#088838",
-        "#f8b818",
-        "#fcfcfc"
-      ]
-    }
-  ],
   "sao-raimundo-am": [
     {
       "id": "1918",
