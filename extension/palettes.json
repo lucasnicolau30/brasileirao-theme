@@ -9823,10 +9823,10 @@
   "Brasileirão: Criciúma": {
     "slug": "criciuma",
     "uf": "SC",
-    "crestLabel": "Atual · desde 1984",
-    "crestIcon": "escudo-81730e03.svg",
-    "listIcon": "escudo-81730e03.svg",
-    "backgroundAspect": 1.596,
+    "crestLabel": "Atual · desde 2025",
+    "crestIcon": "escudo-f2e078e9.svg",
+    "listIcon": "escudo-f2e078e9.svg",
+    "backgroundAspect": 1.297,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [
@@ -9877,18 +9877,90 @@
       },
       {
         "id": "1948",
-        "label": "1948–1978",
-        "fullLabel": "1948–1978",
+        "label": "1948–1968",
+        "fullLabel": "1948–1968",
         "atual": false,
         "file": "retro-1948-06bec9bb.svg",
         "aspect": 0.835,
         "iconTheme": "brasileirao-criciuma-1948"
+      },
+      {
+        "id": "1968",
+        "label": "1968–1978",
+        "fullLabel": "1968–1978",
+        "atual": false,
+        "file": "retro-1968-3fc8d731.svg",
+        "aspect": 0.744,
+        "iconTheme": "brasileirao-criciuma-1968"
+      },
+      {
+        "id": "1978a",
+        "label": "1978",
+        "fullLabel": "1978",
+        "atual": false,
+        "file": "retro-1978a-aceb1216.svg",
+        "aspect": 0.835,
+        "iconTheme": "brasileirao-criciuma-1978a"
+      },
+      {
+        "id": "1978b",
+        "label": "1978–1991",
+        "fullLabel": "1978–1991",
+        "atual": false,
+        "file": "retro-1978b-f4e309d4.svg",
+        "aspect": 0.838,
+        "iconTheme": "brasileirao-criciuma-1978b"
+      },
+      {
+        "id": "1991",
+        "label": "1991–1992",
+        "fullLabel": "1991–1992",
+        "atual": false,
+        "file": "retro-1991-b95cd8ce.svg",
+        "aspect": 1.324,
+        "iconTheme": "brasileirao-criciuma-1991"
+      },
+      {
+        "id": "1992",
+        "label": "1992–2002",
+        "fullLabel": "1992–2002",
+        "atual": false,
+        "file": "retro-1992-01d1cdda.svg",
+        "aspect": 1.245,
+        "iconTheme": "brasileirao-criciuma-1992"
+      },
+      {
+        "id": "2002",
+        "label": "2002–2005",
+        "fullLabel": "2002–2005",
+        "atual": false,
+        "file": "retro-2002-145550fa.svg",
+        "aspect": 1.179,
+        "iconTheme": "brasileirao-criciuma-2002"
+      },
+      {
+        "id": "2005",
+        "label": "2005–2007",
+        "fullLabel": "2005–2007",
+        "atual": false,
+        "file": "retro-2005-2807bb08.svg",
+        "aspect": 1.286,
+        "iconTheme": "brasileirao-criciuma-2005"
+      },
+      {
+        "id": "2007",
+        "label": "2007–2025",
+        "fullLabel": "2007–2025",
+        "atual": false,
+        "file": "retro-2007-d86b1e66.svg",
+        "aspect": 1.292,
+        "iconTheme": "brasileirao-criciuma-2007"
       }
     ],
     "alternates": [],
     "swatch": "🟨⬛",
     "primary": "#f2c200",
-    "background": "fundo-3cee33ba.svg",
+    "background": "fundo-63121427.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
