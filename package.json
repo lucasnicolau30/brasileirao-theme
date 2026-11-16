@@ -3532,6 +3532,21 @@
         "path": "./icons/ji-parana/icon-theme.json"
       },
       {
+        "id": "brasileirao-ji-parana-1991",
+        "label": "Brasileirão: Ji-Paraná (retrô 1991–2000)",
+        "path": "./icons/ji-parana/icon-theme-1991.json"
+      },
+      {
+        "id": "brasileirao-ji-parana-2001",
+        "label": "Brasileirão: Ji-Paraná (retrô 2001–2011)",
+        "path": "./icons/ji-parana/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-ji-parana-2012",
+        "label": "Brasileirão: Ji-Paraná (retrô 2012)",
+        "path": "./icons/ji-parana/icon-theme-2012.json"
+      },
+      {
         "id": "brasileirao-vilhena",
         "label": "Brasileirão: Vilhena",
         "path": "./icons/vilhena/icon-theme.json"
