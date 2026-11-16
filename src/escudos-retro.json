@@ -2846,9 +2846,14 @@
       "label": "1923",
       "local": "Avai-1923-1.png",
       "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
       "vetorizarPaleta": [
-        "#003380",
-        "#ffffff"
+        "#3068a8",
+        "#f8f8f8"
       ]
     },
     {
@@ -2856,15 +2861,166 @@
       "label": "1923–1940",
       "local": "Avai-1923-2.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
       "nitido": true,
       "sobrepor": 1,
-      "escala": 4,
+      "escala": 6,
       "suavidade": 1.2,
-      "minimo": 60,
+      "minimo": 30,
       "vetorizarPaleta": [
-        "#044897",
-        "#ffffff"
+        "#3068a8",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1940",
+      "label": "1940–1952",
+      "local": "Avai-1940.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#3068a8",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1952",
+      "label": "1952–1963",
+      "local": "Avai-1952.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#3068a8",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1963",
+      "label": "1963–1967",
+      "local": "Avai-1963.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#3068a8",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1967",
+      "label": "1967–1970",
+      "local": "Avai-1967.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#2a5f9a",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1973",
+      "local": "Avai-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#3068a8",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1973",
+      "label": "1973–1988",
+      "local": "Avai-1973.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#3068a8"
+      ]
+    },
+    {
+      "id": "1988",
+      "label": "1988–1998",
+      "local": "Avai-1988.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#205890"
+      ]
+    },
+    {
+      "id": "1998",
+      "label": "1998–2000",
+      "local": "Avai-1998.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#0068b8",
+        "#e8f8f8"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2012",
+      "local": "Avai-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#0068b8",
+        "#e8f8f8",
+        "#fdbf55"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2021",
+      "local": "Avai-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#3878b0",
+        "#f8f8f8",
+        "#fdbf55"
       ]
     }
   ],
