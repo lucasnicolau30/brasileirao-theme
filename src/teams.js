@@ -385,6 +385,7 @@ const times = [
     uf: "MG",
     crestLabel: "Cruzeiro (desde 2021)",
     bgColored: true,
+    titleOrder: ["copaDoBrasil", "brasileirao", "libertadores", "estadual"],
     titles: {
       brasileirao: [1966, 2003, 2013, 2014],
       copaDoBrasil: [1993, 1996, 2000, 2003, 2017, 2018],
@@ -1352,7 +1353,7 @@ const times = [
     uf: "SC",
     crestLabel: "Criciúma (desde 2025)",
     bgColored: true,
-    titleOrder: ["serieB", "copaDoBrasil", "serieC", "estadual"],
+    titleOrder: ["serieC", "serieB", "copaDoBrasil", "estadual"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [1991],
