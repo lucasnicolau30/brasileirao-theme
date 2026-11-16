@@ -16233,10 +16233,10 @@
   "Brasileirão: Ji-Paraná": {
     "slug": "ji-parana",
     "uf": "RO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-f3f9cdcc.svg",
-    "listIcon": "escudo-f3f9cdcc.svg",
-    "backgroundAspect": 0.7,
+    "crestLabel": "Atual · desde 2013",
+    "crestIcon": "escudo-5bae0f37.svg",
+    "listIcon": "escudo-5bae0f37.svg",
+    "backgroundAspect": 0.685,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -16260,11 +16260,39 @@
         2012
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1991",
+        "label": "1991–2000",
+        "fullLabel": "1991–2000",
+        "atual": false,
+        "file": "retro-1991-05bfb98e.svg",
+        "aspect": 0.756,
+        "iconTheme": "brasileirao-ji-parana-1991"
+      },
+      {
+        "id": "2001",
+        "label": "2001–2011",
+        "fullLabel": "2001–2011",
+        "atual": false,
+        "file": "retro-2001-e66cd12b.svg",
+        "aspect": 0.738,
+        "iconTheme": "brasileirao-ji-parana-2001"
+      },
+      {
+        "id": "2012",
+        "label": "2012",
+        "fullLabel": "2012",
+        "atual": false,
+        "file": "retro-2012-9ee84628.svg",
+        "aspect": 0.716,
+        "iconTheme": "brasileirao-ji-parana-2012"
+      }
+    ],
     "alternates": [],
     "swatch": "🟦⬜",
     "primary": "#2a8fd8",
-    "background": "fundo-fb5ffff0.png",
+    "background": "fundo-a36773b3.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
