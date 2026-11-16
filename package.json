@@ -2463,8 +2463,18 @@
       },
       {
         "id": "brasileirao-barra-sc-2013",
-        "label": "Brasileirão: Barra-SC (retrô 2013–2019)",
+        "label": "Brasileirão: Barra-SC (retrô 2013–2015)",
         "path": "./icons/barra-sc/icon-theme-2013.json"
+      },
+      {
+        "id": "brasileirao-barra-sc-2015",
+        "label": "Brasileirão: Barra-SC (retrô 2015–2020)",
+        "path": "./icons/barra-sc/icon-theme-2015.json"
+      },
+      {
+        "id": "brasileirao-barra-sc-2020",
+        "label": "Brasileirão: Barra-SC (retrô 2020–2021)",
+        "path": "./icons/barra-sc/icon-theme-2020.json"
       },
       {
         "id": "brasileirao-figueirense",
