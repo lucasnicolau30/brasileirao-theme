@@ -2437,6 +2437,21 @@
         "path": "./icons/brusque/icon-theme.json"
       },
       {
+        "id": "brasileirao-brusque-1987",
+        "label": "Brasileirão: Brusque (retrô 1987–1991)",
+        "path": "./icons/brusque/icon-theme-1987.json"
+      },
+      {
+        "id": "brasileirao-brusque-1991",
+        "label": "Brasileirão: Brusque (retrô 1991–2001/2002–2003)",
+        "path": "./icons/brusque/icon-theme-1991.json"
+      },
+      {
+        "id": "brasileirao-brusque-2001",
+        "label": "Brasileirão: Brusque (retrô 2001–2002)",
+        "path": "./icons/brusque/icon-theme-2001.json"
+      },
+      {
         "id": "brasileirao-brusque-2003",
         "label": "Brasileirão: Brusque (retrô 2003–2022)",
         "path": "./icons/brusque/icon-theme-2003.json"
