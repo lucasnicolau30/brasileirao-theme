@@ -3332,14 +3332,74 @@
         "path": "./icons/bare/icon-theme.json"
       },
       {
+        "id": "brasileirao-bare-1946",
+        "label": "Brasileirão: Baré (retrô 1946–1951)",
+        "path": "./icons/bare/icon-theme-1946.json"
+      },
+      {
+        "id": "brasileirao-bare-1951",
+        "label": "Brasileirão: Baré (retrô 1951–1957)",
+        "path": "./icons/bare/icon-theme-1951.json"
+      },
+      {
+        "id": "brasileirao-bare-1957",
+        "label": "Brasileirão: Baré (retrô 1957–1970)",
+        "path": "./icons/bare/icon-theme-1957.json"
+      },
+      {
+        "id": "brasileirao-bare-1970",
+        "label": "Brasileirão: Baré (retrô 1970–1993)",
+        "path": "./icons/bare/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-bare-1993",
+        "label": "Brasileirão: Baré (retrô 1993–2001)",
+        "path": "./icons/bare/icon-theme-1993.json"
+      },
+      {
+        "id": "brasileirao-bare-2001",
+        "label": "Brasileirão: Baré (retrô 2001–2018)",
+        "path": "./icons/bare/icon-theme-2001.json"
+      },
+      {
         "id": "brasileirao-sao-raimundo-rr",
         "label": "Brasileirão: São Raimundo-RR",
         "path": "./icons/sao-raimundo-rr/icon-theme.json"
       },
       {
+        "id": "brasileirao-sao-raimundo-rr-1963",
+        "label": "Brasileirão: São Raimundo-RR (retrô 1963–1983/1989–2005)",
+        "path": "./icons/sao-raimundo-rr/icon-theme-1963.json"
+      },
+      {
+        "id": "brasileirao-sao-raimundo-rr-1983",
+        "label": "Brasileirão: São Raimundo-RR (retrô 1983–1989)",
+        "path": "./icons/sao-raimundo-rr/icon-theme-1983.json"
+      },
+      {
+        "id": "brasileirao-sao-raimundo-rr-2013",
+        "label": "Brasileirão: São Raimundo-RR (retrô 2013–2017)",
+        "path": "./icons/sao-raimundo-rr/icon-theme-2013.json"
+      },
+      {
         "id": "brasileirao-gas",
         "label": "Brasileirão: GAS",
         "path": "./icons/gas/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-gas-1965",
+        "label": "Brasileirão: GAS (retrô 1965–1996)",
+        "path": "./icons/gas/icon-theme-1965.json"
+      },
+      {
+        "id": "brasileirao-gas-1996",
+        "label": "Brasileirão: GAS (retrô 1996–2011)",
+        "path": "./icons/gas/icon-theme-1996.json"
+      },
+      {
+        "id": "brasileirao-gas-2011",
+        "label": "Brasileirão: GAS (retrô 2011–2015)",
+        "path": "./icons/gas/icon-theme-2011.json"
       },
       {
         "id": "brasileirao-sergipe",
