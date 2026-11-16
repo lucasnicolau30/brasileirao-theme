@@ -135,6 +135,11 @@
         "path": "./themes/uniao-sao-joao-color-theme.json"
       },
       {
+        "label": "Brasileirão: Novorizontino",
+        "uiTheme": "vs-dark",
+        "path": "./themes/novorizontino-color-theme.json"
+      },
+      {
         "label": "Brasileirão: Portuguesa",
         "uiTheme": "vs-dark",
         "path": "./themes/portuguesa-color-theme.json"
@@ -158,11 +163,6 @@
         "label": "Brasileirão: Mirassol",
         "uiTheme": "vs-dark",
         "path": "./themes/mirassol-color-theme.json"
-      },
-      {
-        "label": "Brasileirão: Novorizontino",
-        "uiTheme": "vs-dark",
-        "path": "./themes/novorizontino-color-theme.json"
       },
       {
         "label": "Brasileirão: XV de Piracicaba",
@@ -972,6 +972,16 @@
         "path": "./icons/uniao-sao-joao/icon-theme-1988.json"
       },
       {
+        "id": "brasileirao-novorizontino",
+        "label": "Brasileirão: Novorizontino",
+        "path": "./icons/novorizontino/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-novorizontino-1973",
+        "label": "Brasileirão: Novorizontino (retrô 1973–1999)",
+        "path": "./icons/novorizontino/icon-theme-1973.json"
+      },
+      {
         "id": "brasileirao-portuguesa",
         "label": "Brasileirão: Portuguesa",
         "path": "./icons/portuguesa/icon-theme.json"
@@ -1035,16 +1045,6 @@
         "id": "brasileirao-mirassol-1964",
         "label": "Brasileirão: Mirassol (retrô 1964–1981)",
         "path": "./icons/mirassol/icon-theme-1964.json"
-      },
-      {
-        "id": "brasileirao-novorizontino",
-        "label": "Brasileirão: Novorizontino",
-        "path": "./icons/novorizontino/icon-theme.json"
-      },
-      {
-        "id": "brasileirao-novorizontino-1973",
-        "label": "Brasileirão: Novorizontino (retrô 1973–1999)",
-        "path": "./icons/novorizontino/icon-theme-1973.json"
       },
       {
         "id": "brasileirao-xv-de-piracicaba",
