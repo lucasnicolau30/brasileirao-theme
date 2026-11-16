@@ -4274,9 +4274,64 @@
   ],
   "brusque": [
     {
+      "id": "1987",
+      "label": "1987–1991",
+      "local": "Brusque-1987.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 2,
+      "suavidade": 3.0,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#ffffff",
+        "#f6e21c",
+        "#10961e",
+        "#e0181e",
+        "#bfc4c4"
+      ]
+    },
+    {
+      "id": "1991",
+      "label": "1991–2001/2002–2003",
+      "local": "Brusque-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#fee800",
+        "#0a5a22",
+        "#d6001c"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2002",
+      "local": "Brusque-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#c9a030",
+        "#025a3c",
+        "#a8061c",
+        "#ffffff"
+      ],
+      "fundoExterno": true,
+      "limiarFundo": 190
+    },
+    {
       "id": "2003",
       "label": "2003–2022",
-      "commons": "Brusque Futebol Clube logo (2003–2022).svg"
+      "local": "Brusque-2003.svg"
     }
   ],
   "boa-esporte": [

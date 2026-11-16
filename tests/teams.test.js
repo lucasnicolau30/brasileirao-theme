@@ -532,7 +532,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Ferroviário-CE'), ['Estadual', 'Série D']);
     assert.deepEqual(itens('Aparecidense'), ['Série D']);
     assert.deepEqual(itens('Retrô'), ['Série D']);
-    assert.deepEqual(itens('Brusque'), ['Série D', 'Estadual']);
+    assert.deepEqual(itens('Brusque'), ['Estadual', 'Série D']);
     assert.deepEqual(itens('Barra-SC'), ['Série D', 'Estadual']);
     for (const [time, foto] of [['Londrina', 'pr'], ['Operário-PR', 'pr'], ['Athletico-PR', 'pr'], ['Tuna Luso', 'pa'], ['Remo', 'pa'], ['Ferroviário-CE', 'ce'], ['Fortaleza', 'ce']]) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64(`estadual-${foto}.png`)), `${time}: deve usar o troféu do estado (${foto})`);
     for (const time of ['Brusque', 'Barra-SC']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-sc.png')), `${time}: deve usar o troféu do Catarinense`);

@@ -3741,6 +3741,7 @@ const times = [
     uf: "SC",
     crestLabel: "Brusque (desde 2022)",
     bgColored: true,
+    titleOrder: ["estadual", "serieD"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],
