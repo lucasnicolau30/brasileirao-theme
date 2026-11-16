@@ -6963,5 +6963,156 @@
         "#f4f4f4"
       ]
     }
+  ],
+  "joinville": [
+    {
+      "id": "1976",
+      "label": "1976–1977",
+      "local": "Joinville-1976.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#e4202a",
+        "#ffffff",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1977",
+      "label": "1977–1981",
+      "local": "Joinville-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#e4202a",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1981",
+      "label": "1981–1982",
+      "local": "Joinville-1981.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#ffffff",
+        "#d8141c"
+      ]
+    },
+    {
+      "id": "1982",
+      "label": "1982–1996",
+      "local": "Joinville-1982.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#ffffff",
+        "#d8141c"
+      ]
+    },
+    {
+      "id": "1996",
+      "label": "1996–1997",
+      "local": "Joinville-1996.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#ffffff",
+        "#d8141c"
+      ]
+    },
+    {
+      "id": "1997",
+      "label": "1997–2000",
+      "local": "Joinville-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#ffffff",
+        "#e4140c"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2002",
+      "local": "Joinville-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#2e2e30",
+        "#e8301f"
+      ]
+    },
+    {
+      "id": "2002a",
+      "label": "2002",
+      "local": "Joinville-2002a.svg"
+    },
+    {
+      "id": "2002b",
+      "label": "2002–2005",
+      "local": "Joinville-2002b.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#2e2e30",
+        "#e8301f"
+      ]
+    },
+    {
+      "id": "2005",
+      "label": "2005–2014",
+      "local": "Joinville-2005.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#ffffff",
+        "#cc0a0c"
+      ]
+    }
   ]
 }
