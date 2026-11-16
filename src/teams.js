@@ -4695,7 +4695,7 @@ const times = [
     slug: "bare",
     swatch: "🟥⬜",
     uf: "RR",
-    crestLabel: "Baré",
+    crestLabel: "Baré (desde 2018)",
     bgColored: true,
     titles: {
       mundial: [],

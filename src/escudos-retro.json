@@ -5060,7 +5060,7 @@
         "#303030",
         "#fcfcfc"
       ]
-    },
+    },
     {
       "id": "1952",
       "label": "1952–1964",
@@ -6581,6 +6581,102 @@
         "#e42424",
         "#fcfcfc",
         "#1a62b0"
+      ]
+    }
+  ],
+  "bare": [
+    {
+      "id": "1946",
+      "label": "1946–1951",
+      "local": "Bare-1946.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#e00000"
+      ]
+    },
+    {
+      "id": "1951",
+      "label": "1951–1957",
+      "local": "Bare-1951.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#180606",
+        "#cc0000",
+        "#ffffff"
+      ]
+    },
+    {
+      "id": "1957",
+      "label": "1957–1970",
+      "local": "Bare-1957.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#c20000",
+        "#ffffff",
+        "#f5c800"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1993",
+      "local": "Bare-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#e00000"
+      ]
+    },
+    {
+      "id": "1993",
+      "label": "1993–2001",
+      "local": "Bare-1993.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#e00000",
+        "#d4b800"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2018",
+      "local": "Bare-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#111111",
+        "#e00000",
+        "#ffffff"
       ]
     }
   ]
