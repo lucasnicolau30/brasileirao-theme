@@ -3537,6 +3537,41 @@
         "path": "./icons/vilhena/icon-theme.json"
       },
       {
+        "id": "brasileirao-vilhena-1991",
+        "label": "Brasileirão: Vilhena (retrô 1991–2005)",
+        "path": "./icons/vilhena/icon-theme-1991.json"
+      },
+      {
+        "id": "brasileirao-vilhena-2005",
+        "label": "Brasileirão: Vilhena (retrô 2005–2010)",
+        "path": "./icons/vilhena/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-vilhena-2010",
+        "label": "Brasileirão: Vilhena (retrô 2010–2011)",
+        "path": "./icons/vilhena/icon-theme-2010.json"
+      },
+      {
+        "id": "brasileirao-vilhena-2011",
+        "label": "Brasileirão: Vilhena (retrô 2011–2013)",
+        "path": "./icons/vilhena/icon-theme-2011.json"
+      },
+      {
+        "id": "brasileirao-vilhena-2013",
+        "label": "Brasileirão: Vilhena (retrô 2013–2014)",
+        "path": "./icons/vilhena/icon-theme-2013.json"
+      },
+      {
+        "id": "brasileirao-vilhena-2014",
+        "label": "Brasileirão: Vilhena (retrô 2014–2018)",
+        "path": "./icons/vilhena/icon-theme-2014.json"
+      },
+      {
+        "id": "brasileirao-vilhena-2018",
+        "label": "Brasileirão: Vilhena (retrô 2018–2023)",
+        "path": "./icons/vilhena/icon-theme-2018.json"
+      },
+      {
         "id": "brasileirao-porto-velho",
         "label": "Brasileirão: Porto Velho",
         "path": "./icons/porto-velho/icon-theme.json"
