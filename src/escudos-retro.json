@@ -6679,5 +6679,53 @@
         "#ffffff"
       ]
     }
+  ],
+  "sao-raimundo-rr": [
+    {
+      "id": "1963",
+      "label": "1963–1983/1989–2005",
+      "local": "Sao-Raimundo-RR-1963.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#0070c0"
+      ]
+    },
+    {
+      "id": "1983",
+      "label": "1983–1989",
+      "local": "Sao-Raimundo-RR-1983.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#c4c4c4",
+        "#0c0c0c",
+        "#d8d8d8"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013–2017",
+      "local": "Sao-Raimundo-RR-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#330d73"
+      ]
+    }
   ]
 }

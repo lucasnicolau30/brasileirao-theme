@@ -4737,7 +4737,7 @@ const times = [
     slug: "sao-raimundo-rr",
     swatch: "🟦⬜🟨",
     uf: "RR",
-    crestLabel: "São Raimundo-RR",
+    crestLabel: "São Raimundo-RR (2005–2013/desde 2017)",
     bgColored: true,
     titles: {
       mundial: [],
