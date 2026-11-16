@@ -195,7 +195,7 @@ const EXPECTED_OTHER = {
   mixto: [0, 0, 0, 0, 0],
   treze: [0, 0, 0, 0, 0],
   'uniao-sao-joao': [0, 0, 1, 1, 0],
-  novorizontino: [0, 0, 0, 1, 0],
+  novorizontino: [0, 0, 1, 1, 0],
   'xv-de-piracicaba': [0, 0, 0, 1, 0],
   'uniao-barbarense': [0, 0, 0, 1, 0],
   'tuna-luso': [0, 0, 1, 1, 0],
@@ -276,6 +276,7 @@ const LAST_YEAR = 2025; // última temporada incluída
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
 const LAST_YEAR_VERDE = 2026; // a Copa Verde de 2026 já foi decidida (Paysandu)
 const LAST_YEAR_ESTADUAL = 2026; // os estaduais de 2026 já foram decididos
+const LAST_YEAR_SERIEB = 2026; // a Série B de 2026 já foi decidida (Novorizontino)
 const LAST_YEAR_SERIEC = 2026; // a Série C de 2026 já foi decidida (Maringá)
 const LAST_YEAR_SERIED = 2026; // a Série D de 2026 já foi decidida (Uberlândia)
 // Copa do Nordeste (só times do Nordeste), conferida à mão na Wikipédia: número de títulos por time.
@@ -329,7 +330,7 @@ for (const team of teams) {
       assert.ok(Array.isArray(years), `${key} deve ser uma lista de anos`);
       years.forEach((y) => {
         assert.ok(Number.isInteger(y), `${key}: ${y} não é inteiro`);
-        const ultimo = key === 'copaDoNordeste' ? LAST_YEAR_NORDESTE : key === 'copaVerde' ? LAST_YEAR_VERDE : key === 'estadual' ? LAST_YEAR_ESTADUAL : key === 'serieD' ? LAST_YEAR_SERIED : key === 'serieC' ? LAST_YEAR_SERIEC : LAST_YEAR;
+        const ultimo = key === 'copaDoNordeste' ? LAST_YEAR_NORDESTE : key === 'copaVerde' ? LAST_YEAR_VERDE : key === 'estadual' ? LAST_YEAR_ESTADUAL : key === 'serieD' ? LAST_YEAR_SERIED : key === 'serieC' ? LAST_YEAR_SERIEC : key === 'serieB' ? LAST_YEAR_SERIEB : LAST_YEAR;
         assert.ok(y >= FIRST_YEAR[key] && y <= ultimo, `${key}: ${y} fora de ${FIRST_YEAR[key]}-${ultimo}`);
       });
       assert.deepEqual(years, [...years].sort((a, b) => a - b), `${key}: anos fora de ordem`);
@@ -682,5 +683,5 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
       assert.ok(dAno <= 0, `${a.slug} deveria vir depois de ${b.slug}: ${b.slug} ganhou antes o título mais importante`);
     }
   }
-  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'campo-grande', 'volta-redonda', 'olaria', 'macae', 'america-rj', 'bangu', 'sao-paulo', 'santos', 'corinthians', 'palmeiras', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'uniao-sao-joao', 'portuguesa', 'juventus-sp', 'inter-de-limeira', 'ituano', 'mirassol', 'novorizontino', 'xv-de-piracicaba', 'uniao-barbarense', 'oeste', 'ponte-preta', 'botafogo-sp', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'villa-nova', 'boa-esporte', 'tupi', 'tombense', 'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'ypiranga-ba', 'fortaleza', 'ceara', 'ferroviario-ce', 'guarany-de-sobral', 'athletico-pr', 'coritiba', 'parana', 'londrina', 'operario-pr', 'maringa', 'sport', 'santa-cruz', 'nautico', 'retro-pe', 'paysandu', 'remo', 'tuna-luso', 'sao-raimundo-pa', 'amazonas', 'nacional-am', 'rio-negro-am', 'sao-raimundo-am', 'manaus', 'goias', 'atletico-go', 'vila-nova', 'aparecidense', 'criciuma', 'chapecoense', 'joinville', 'avai', 'brusque', 'barra-sc', 'figueirense', 'sampaio-correa', 'moto-club', 'maranhao-ac', 'cuiaba', 'luverdense', 'mixto', 'brasiliense', 'gama', 'brasilia', 'america-rn', 'abc', 'campinense', 'botafogo-pb', 'treze', 'csa', 'crb', 'asa', 'operario-ms', 'comercial-ms', 'rio-branco-ac', 'juventus-ac', 'independencia', 'atletico-ac', 'macapa', 'trem', 'ypiranga-ap', 'santos-ap', 'rio-branco-es', 'desportiva', 'vitoria-es', 'serra', 'flamengo-pi', 'parnahyba', 'botafogo-pi', 'piaui', 'altos', 'ji-parana', 'vilhena', 'porto-velho', 'bare', 'sao-raimundo-rr', 'gas', 'sergipe', 'confianca', 'itabaiana', 'palmas', 'tocantinopolis', 'gurupi']);
+  assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'campo-grande', 'volta-redonda', 'olaria', 'macae', 'america-rj', 'bangu', 'sao-paulo', 'santos', 'corinthians', 'palmeiras', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'uniao-sao-joao', 'novorizontino', 'portuguesa', 'juventus-sp', 'inter-de-limeira', 'ituano', 'mirassol', 'xv-de-piracicaba', 'uniao-barbarense', 'oeste', 'ponte-preta', 'botafogo-sp', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'villa-nova', 'boa-esporte', 'tupi', 'tombense', 'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'ypiranga-ba', 'fortaleza', 'ceara', 'ferroviario-ce', 'guarany-de-sobral', 'athletico-pr', 'coritiba', 'parana', 'londrina', 'operario-pr', 'maringa', 'sport', 'santa-cruz', 'nautico', 'retro-pe', 'paysandu', 'remo', 'tuna-luso', 'sao-raimundo-pa', 'amazonas', 'nacional-am', 'rio-negro-am', 'sao-raimundo-am', 'manaus', 'goias', 'atletico-go', 'vila-nova', 'aparecidense', 'criciuma', 'chapecoense', 'joinville', 'avai', 'brusque', 'barra-sc', 'figueirense', 'sampaio-correa', 'moto-club', 'maranhao-ac', 'cuiaba', 'luverdense', 'mixto', 'brasiliense', 'gama', 'brasilia', 'america-rn', 'abc', 'campinense', 'botafogo-pb', 'treze', 'csa', 'crb', 'asa', 'operario-ms', 'comercial-ms', 'rio-branco-ac', 'juventus-ac', 'independencia', 'atletico-ac', 'macapa', 'trem', 'ypiranga-ap', 'santos-ap', 'rio-branco-es', 'desportiva', 'vitoria-es', 'serra', 'flamengo-pi', 'parnahyba', 'botafogo-pi', 'piaui', 'altos', 'ji-parana', 'vilhena', 'porto-velho', 'bare', 'sao-raimundo-rr', 'gas', 'sergipe', 'confianca', 'itabaiana', 'palmas', 'tocantinopolis', 'gurupi']);
 });

@@ -2078,7 +2078,7 @@ const times = [
       libertadores: [],
       mundial: [],
       sulAmericana: [],
-      serieB: [],
+      serieB: [2026],
       serieC: [1994],
       serieD: [],
       copaDoNordeste: [],
