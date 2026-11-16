@@ -10178,9 +10178,9 @@
     "slug": "joinville",
     "uf": "SC",
     "crestLabel": "Atual · desde 2014",
-    "crestIcon": "escudo-22937dc5.svg",
-    "listIcon": "escudo-22937dc5.svg",
-    "backgroundAspect": 0.73,
+    "crestIcon": "escudo-ccddb120.svg",
+    "listIcon": "escudo-ccddb120.svg",
+    "backgroundAspect": 0.886,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -10216,11 +10216,102 @@
       "serieB",
       "estadual"
     ],
-    "retro": [],
+    "retro": [
+      {
+        "id": "1976",
+        "label": "1976–1977",
+        "fullLabel": "1976–1977",
+        "atual": false,
+        "file": "retro-1976-df1854e3.svg",
+        "aspect": 0.999,
+        "iconTheme": "brasileirao-joinville-1976"
+      },
+      {
+        "id": "1977",
+        "label": "1977–1981",
+        "fullLabel": "1977–1981",
+        "atual": false,
+        "file": "retro-1977-3ac8c7a3.svg",
+        "aspect": 0.999,
+        "iconTheme": "brasileirao-joinville-1977"
+      },
+      {
+        "id": "1981",
+        "label": "1981–1982",
+        "fullLabel": "1981–1982",
+        "atual": false,
+        "file": "retro-1981-f9c617de.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-joinville-1981"
+      },
+      {
+        "id": "1982",
+        "label": "1982–1996",
+        "fullLabel": "1982–1996",
+        "atual": false,
+        "file": "retro-1982-c333916e.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-joinville-1982"
+      },
+      {
+        "id": "1996",
+        "label": "1996–1997",
+        "fullLabel": "1996–1997",
+        "atual": false,
+        "file": "retro-1996-29a010e0.svg",
+        "aspect": 0.998,
+        "iconTheme": "brasileirao-joinville-1996"
+      },
+      {
+        "id": "1997",
+        "label": "1997–2000",
+        "fullLabel": "1997–2000",
+        "atual": false,
+        "file": "retro-1997-f7255175.svg",
+        "aspect": 0.852,
+        "iconTheme": "brasileirao-joinville-1997"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2002",
+        "fullLabel": "2000–2002",
+        "atual": false,
+        "file": "retro-2000-67b2aad3.svg",
+        "aspect": 0.831,
+        "iconTheme": "brasileirao-joinville-2000"
+      },
+      {
+        "id": "2002a",
+        "label": "2002",
+        "fullLabel": "2002",
+        "atual": false,
+        "file": "retro-2002a-59d47a6c.svg",
+        "aspect": 0.886,
+        "iconTheme": "brasileirao-joinville-2002a"
+      },
+      {
+        "id": "2002b",
+        "label": "2002–2005",
+        "fullLabel": "2002–2005",
+        "atual": false,
+        "file": "retro-2002b-8c84681c.svg",
+        "aspect": 0.831,
+        "iconTheme": "brasileirao-joinville-2002b"
+      },
+      {
+        "id": "2005",
+        "label": "2005–2014",
+        "fullLabel": "2005–2014",
+        "atual": false,
+        "file": "retro-2005-c5d03987.svg",
+        "aspect": 0.848,
+        "iconTheme": "brasileirao-joinville-2005"
+      }
+    ],
     "alternates": [],
     "swatch": "⬛🟥⬜",
     "primary": "#d9131f",
-    "background": "fundo-8aa7d327.svg",
+    "background": "fundo-d78fe7bc.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
