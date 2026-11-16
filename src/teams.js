@@ -1313,7 +1313,6 @@ const times = [
     swatch: "🟩⬜",
     uf: "SC",
     crestLabel: "Chapecoense (desde 2016)",
-    // Retrôs 1948–1973 e 1961–1973: as datas se sobrepõem, pois são os escudos dos dois clubes que se fundiram em 1973 para formar a Chapecoense.
     bgColored: true,
     titles: {
       brasileirao: [],
