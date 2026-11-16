@@ -3619,6 +3619,12 @@
         2026
       ]
     },
+    "titleOrder": [
+      "copaDoBrasil",
+      "brasileirao",
+      "libertadores",
+      "estadual"
+    ],
     "retro": [
       {
         "id": "1927",
@@ -16100,7 +16106,7 @@
   "Brasileirão: Baré": {
     "slug": "bare",
     "uf": "RR",
-    "crestLabel": "Atual",
+    "crestLabel": "Atual · desde 2018",
     "crestIcon": "escudo-254bc2b4.svg",
     "listIcon": "escudo-254bc2b4.svg",
     "backgroundAspect": 2.091,
@@ -16146,7 +16152,62 @@
         2010
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1946",
+        "label": "1946–1951",
+        "fullLabel": "1946–1951",
+        "atual": false,
+        "file": "retro-1946-bae5c6ed.svg",
+        "aspect": 1.478,
+        "iconTheme": "brasileirao-bare-1946"
+      },
+      {
+        "id": "1951",
+        "label": "1951–1957",
+        "fullLabel": "1951–1957",
+        "atual": false,
+        "file": "retro-1951-a0b96039.svg",
+        "aspect": 1.505,
+        "iconTheme": "brasileirao-bare-1951"
+      },
+      {
+        "id": "1957",
+        "label": "1957–1970",
+        "fullLabel": "1957–1970",
+        "atual": false,
+        "file": "retro-1957-edbf9791.svg",
+        "aspect": 1.529,
+        "iconTheme": "brasileirao-bare-1957"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1993",
+        "fullLabel": "1970–1993",
+        "atual": false,
+        "file": "retro-1970-f6aae822.svg",
+        "aspect": 1.889,
+        "iconTheme": "brasileirao-bare-1970"
+      },
+      {
+        "id": "1993",
+        "label": "1993–2001",
+        "fullLabel": "1993–2001",
+        "atual": false,
+        "file": "retro-1993-3a26fc06.svg",
+        "aspect": 1.628,
+        "iconTheme": "brasileirao-bare-1993"
+      },
+      {
+        "id": "2001",
+        "label": "2001–2018",
+        "fullLabel": "2001–2018",
+        "atual": false,
+        "file": "retro-2001-2873f301.svg",
+        "aspect": 1.232,
+        "iconTheme": "brasileirao-bare-2001"
+      }
+    ],
     "alternates": [],
     "swatch": "🟥⬜",
     "primary": "#d3202c",
@@ -16212,10 +16273,10 @@
   "Brasileirão: São Raimundo-RR": {
     "slug": "sao-raimundo-rr",
     "uf": "RR",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-3a2f6d1c.svg",
-    "listIcon": "escudo-3a2f6d1c.svg",
-    "backgroundAspect": 0.778,
+    "crestLabel": "Atual · 2005–2013/desde 2017",
+    "crestIcon": "escudo-61538e35.svg",
+    "listIcon": "escudo-61538e35.svg",
+    "backgroundAspect": 0.842,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -16244,11 +16305,39 @@
         2023
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1963",
+        "label": "1963–1983/1989–2005",
+        "fullLabel": "1963–1983/1989–2005",
+        "atual": false,
+        "file": "retro-1963-89d9808c.svg",
+        "aspect": 0.897,
+        "iconTheme": "brasileirao-sao-raimundo-rr-1963"
+      },
+      {
+        "id": "1983",
+        "label": "1983–1989",
+        "fullLabel": "1983–1989",
+        "atual": false,
+        "file": "retro-1983-7bacb289.svg",
+        "aspect": 0.959,
+        "iconTheme": "brasileirao-sao-raimundo-rr-1983"
+      },
+      {
+        "id": "2013",
+        "label": "2013–2017",
+        "fullLabel": "2013–2017",
+        "atual": false,
+        "file": "retro-2013-8ed3b6c0.svg",
+        "aspect": 0.831,
+        "iconTheme": "brasileirao-sao-raimundo-rr-2013"
+      }
+    ],
     "alternates": [],
     "swatch": "🟦⬜🟨",
     "primary": "#2a5ad0",
-    "background": "fundo-be104f23.png",
+    "background": "fundo-08267552.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -16310,10 +16399,10 @@
   "Brasileirão: GAS": {
     "slug": "gas",
     "uf": "RR",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-6a85c81e.svg",
-    "listIcon": "escudo-6a85c81e.svg",
-    "backgroundAspect": 1,
+    "crestLabel": "Atual · desde 2015",
+    "crestIcon": "escudo-1a110490.svg",
+    "listIcon": "escudo-1a110490.svg",
+    "backgroundAspect": 0.941,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -16331,11 +16420,39 @@
         2026
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1965",
+        "label": "1965–1996",
+        "fullLabel": "1965–1996",
+        "atual": false,
+        "file": "retro-1965-0b7f8d2b.svg",
+        "aspect": 0.839,
+        "iconTheme": "brasileirao-gas-1965"
+      },
+      {
+        "id": "1996",
+        "label": "1996–2011",
+        "fullLabel": "1996–2011",
+        "atual": false,
+        "file": "retro-1996-8484b60d.svg",
+        "aspect": 0.886,
+        "iconTheme": "brasileirao-gas-1996"
+      },
+      {
+        "id": "2011",
+        "label": "2011–2015",
+        "fullLabel": "2011–2015",
+        "atual": false,
+        "file": "retro-2011-79501d33.svg",
+        "aspect": 0.88,
+        "iconTheme": "brasileirao-gas-2011"
+      }
+    ],
     "alternates": [],
     "swatch": "🟥🟦🟨",
     "primary": "#d52b1e",
-    "background": "fundo-9bd90dae.png",
+    "background": "fundo-9243ba2f.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
