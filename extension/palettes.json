@@ -2411,6 +2411,103 @@
       }
     ]
   },
+  "Brasileirão: Novorizontino": {
+    "slug": "novorizontino",
+    "uf": "SP",
+    "crestLabel": "Atual · desde 2010",
+    "crestIcon": "escudo-316c6bf8.svg",
+    "listIcon": "escudo-316c6bf8.svg",
+    "backgroundAspect": 1.021,
+    "titles": {
+      "brasileirao": [],
+      "copaDoBrasil": [],
+      "libertadores": [],
+      "mundial": [],
+      "sulAmericana": [],
+      "serieB": [
+        2026
+      ],
+      "serieC": [
+        1994
+      ],
+      "serieD": [],
+      "copaDoNordeste": [],
+      "copaVerde": [],
+      "estadual": []
+    },
+    "retro": [
+      {
+        "id": "1973",
+        "label": "1973–1999",
+        "fullLabel": "1973–1999",
+        "atual": false,
+        "file": "retro-1973-c93a78b8.svg",
+        "aspect": 1.099,
+        "iconTheme": "brasileirao-novorizontino-1973"
+      }
+    ],
+    "alternates": [],
+    "swatch": "⬛🟨",
+    "primary": "#fbe51f",
+    "background": "fundo-c37f2b7e.svg",
+    "backgroundColored": true,
+    "backgroundSize": null,
+    "backgroundPosition": "calc(50% - 50px) 50%",
+    "iconTheme": "brasileirao-novorizontino",
+    "colors": [
+      "rgba(255,238,102,0.08)",
+      "rgba(255,255,255,0.08)",
+      "rgba(255,243,166,0.08)",
+      "rgba(251,229,31,0.08)"
+    ],
+    "commentTags": [
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "#fbe51f33",
+        "bold": true,
+        "italic": false,
+        "tag": "!",
+        "color": "#ffee66"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": true,
+        "tag": "?",
+        "color": "#fff3a6"
+      },
+      {
+        "strikethrough": false,
+        "underline": true,
+        "backgroundColor": "transparent",
+        "bold": true,
+        "italic": false,
+        "tag": "todo",
+        "color": "#ffffff"
+      },
+      {
+        "strikethrough": false,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "*",
+        "color": "#ffee66"
+      },
+      {
+        "strikethrough": true,
+        "underline": false,
+        "backgroundColor": "transparent",
+        "bold": false,
+        "italic": false,
+        "tag": "//",
+        "color": "#808080"
+      }
+    ]
+  },
   "Brasileirão: Portuguesa": {
     "slug": "portuguesa",
     "uf": "SP",
@@ -2935,101 +3032,6 @@
         "italic": false,
         "tag": "*",
         "color": "#ffe45c"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
-  "Brasileirão: Novorizontino": {
-    "slug": "novorizontino",
-    "uf": "SP",
-    "crestLabel": "Atual · desde 2010",
-    "crestIcon": "escudo-316c6bf8.svg",
-    "listIcon": "escudo-316c6bf8.svg",
-    "backgroundAspect": 1.021,
-    "titles": {
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "libertadores": [],
-      "mundial": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [
-        1994
-      ],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": []
-    },
-    "retro": [
-      {
-        "id": "1973",
-        "label": "1973–1999",
-        "fullLabel": "1973–1999",
-        "atual": false,
-        "file": "retro-1973-c93a78b8.svg",
-        "aspect": 1.099,
-        "iconTheme": "brasileirao-novorizontino-1973"
-      }
-    ],
-    "alternates": [],
-    "swatch": "⬛🟨",
-    "primary": "#fbe51f",
-    "background": "fundo-c37f2b7e.svg",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-novorizontino",
-    "colors": [
-      "rgba(255,238,102,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(255,243,166,0.08)",
-      "rgba(251,229,31,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#fbe51f33",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#ffee66"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#fff3a6"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#ffee66"
       },
       {
         "strikethrough": true,
