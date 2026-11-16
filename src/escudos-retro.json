@@ -1457,6 +1457,59 @@
   ],
   "chapecoense": [
     {
+      "id": "1948",
+      "label": "1948–1973",
+      "local": "Chapecoense-1948.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#fdfdfd",
+        "#180060"
+      ],
+      "fundoExterno": true,
+      "limiarFundo": 160
+    },
+    {
+      "id": "1961",
+      "label": "1961–1973",
+      "local": "Chapecoense-1961.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f80000"
+      ]
+    },
+    {
+      "id": "1973",
+      "label": "1973",
+      "local": "Chapecoense-1973.svg"
+    },
+    {
+      "id": "1974",
+      "label": "1974",
+      "local": "Chapecoense-1974.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#107058"
+      ]
+    },
+    {
       "id": "1975",
       "label": "1975–1984",
       "local": "Chapecoense-1975.png",
@@ -1470,6 +1523,11 @@
         "#f4f4f0",
         "#1fa046"
       ]
+    },
+    {
+      "id": "1984",
+      "label": "1984–2016",
+      "local": "Chapecoense-1984.svg"
     }
   ],
   "criciuma": [
