@@ -3577,6 +3577,16 @@
         "path": "./icons/porto-velho/icon-theme.json"
       },
       {
+        "id": "brasileirao-porto-velho-2014",
+        "label": "Brasileirão: Porto Velho (retrô 2014–2018)",
+        "path": "./icons/porto-velho/icon-theme-2014.json"
+      },
+      {
+        "id": "brasileirao-porto-velho-2018",
+        "label": "Brasileirão: Porto Velho (retrô 2018–2024)",
+        "path": "./icons/porto-velho/icon-theme-2018.json"
+      },
+      {
         "id": "brasileirao-bare",
         "label": "Brasileirão: Baré",
         "path": "./icons/bare/icon-theme.json"
