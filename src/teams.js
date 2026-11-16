@@ -4663,7 +4663,7 @@ const times = [
     slug: "porto-velho",
     swatch: "🟦⬜🟥",
     uf: "RO",
-    crestLabel: "Porto Velho",
+    crestLabel: "Porto Velho (desde 2024)",
     bgColored: true,
     titles: {
       mundial: [],

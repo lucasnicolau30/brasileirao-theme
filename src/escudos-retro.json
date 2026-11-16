@@ -7572,5 +7572,40 @@
         "#101010"
       ]
     }
+  ],
+  "porto-velho": [
+    {
+      "id": "2014",
+      "label": "2014–2018",
+      "local": "Porto-Velho-2014.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#f8d000",
+        "#0000c8",
+        "#f80000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "2018",
+      "label": "2018–2024",
+      "local": "Porto-Velho-2018.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#0a2068",
+        "#ffffff",
+        "#c01018"
+      ]
+    }
   ]
 }
