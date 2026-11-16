@@ -10502,9 +10502,9 @@
     "slug": "brusque",
     "uf": "SC",
     "crestLabel": "Atual · desde 2022",
-    "crestIcon": "escudo-fa5539ac.svg",
-    "listIcon": "escudo-fa5539ac.svg",
-    "backgroundAspect": 0.689,
+    "crestIcon": "escudo-5ab6d33f.svg",
+    "listIcon": "escudo-5ab6d33f.svg",
+    "backgroundAspect": 0.88,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -10523,21 +10523,52 @@
         2022
       ]
     },
+    "titleOrder": [
+      "estadual",
+      "serieD"
+    ],
     "retro": [
+      {
+        "id": "1987",
+        "label": "1987–1991",
+        "fullLabel": "1987–1991",
+        "atual": false,
+        "file": "retro-1987-e0e58da3.svg",
+        "aspect": 0.744,
+        "iconTheme": "brasileirao-brusque-1987"
+      },
+      {
+        "id": "1991",
+        "label": "1991–2001/2002–2003",
+        "fullLabel": "1991–2001/2002–2003",
+        "atual": false,
+        "file": "retro-1991-1e4c1e4a.svg",
+        "aspect": 0.81,
+        "iconTheme": "brasileirao-brusque-1991"
+      },
+      {
+        "id": "2001",
+        "label": "2001–2002",
+        "fullLabel": "2001–2002",
+        "atual": false,
+        "file": "retro-2001-287b08cb.svg",
+        "aspect": 0.679,
+        "iconTheme": "brasileirao-brusque-2001"
+      },
       {
         "id": "2003",
         "label": "2003–2022",
         "fullLabel": "2003–2022",
         "atual": false,
-        "file": "retro-2003-5e8cf4c7.svg",
-        "aspect": 0.72,
+        "file": "retro-2003-f40784b0.svg",
+        "aspect": 0.869,
         "iconTheme": "brasileirao-brusque-2003"
       }
     ],
     "alternates": [],
     "swatch": "🟨🟥🟩",
     "primary": "#f2cb14",
-    "background": "fundo-d203753e.svg",
+    "background": "fundo-c9eca8af.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -10620,6 +10651,10 @@
         2026
       ]
     },
+    "titleOrder": [
+      "estadual",
+      "serieD"
+    ],
     "retro": [
       {
         "id": "2013",
@@ -10632,7 +10667,7 @@
       }
     ],
     "alternates": [],
-    "swatch": "🟦⬜🟨",
+    "swatch": "🟦⬜",
     "primary": "#2f7fe0",
     "background": "fundo-762042bc.svg",
     "backgroundColored": true,
