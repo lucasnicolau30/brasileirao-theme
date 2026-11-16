@@ -7446,5 +7446,131 @@
         "#cc0a0c"
       ]
     }
+  ],
+  "vilhena": [
+    {
+      "id": "1991",
+      "label": "1991–2005",
+      "local": "Vilhena-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#1840a0",
+        "#ffffff",
+        "#e81820"
+      ]
+    },
+    {
+      "id": "2005",
+      "label": "2005–2010",
+      "local": "Vilhena-2005.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#d83038",
+        "#204070",
+        "#f8d058",
+        "#f8f8f8",
+        "#101010"
+      ]
+    },
+    {
+      "id": "2010",
+      "label": "2010–2011",
+      "local": "Vilhena-2010.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#0840a8",
+        "#f8d058",
+        "#d83038",
+        "#f8f8f8",
+        "#101010"
+      ]
+    },
+    {
+      "id": "2011",
+      "label": "2011–2013",
+      "local": "Vilhena-2011.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#0840a8",
+        "#f8d058",
+        "#d83038",
+        "#f8f8f8",
+        "#101010"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013–2014",
+      "local": "Vilhena-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#102860",
+        "#f8d048",
+        "#d82820",
+        "#101010"
+      ]
+    },
+    {
+      "id": "2014",
+      "label": "2014–2018",
+      "local": "Vilhena-2014.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#e03028",
+        "#402870",
+        "#f8c028",
+        "#f8f8f8",
+        "#101010"
+      ]
+    },
+    {
+      "id": "2018",
+      "label": "2018–2023",
+      "local": "Vilhena-2018.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#402068",
+        "#f8b818",
+        "#e02828",
+        "#f8f8f8",
+        "#101010"
+      ]
+    }
   ]
 }

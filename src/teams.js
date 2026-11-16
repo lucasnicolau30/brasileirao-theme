@@ -4625,7 +4625,7 @@ const times = [
     slug: "vilhena",
     swatch: "🟦🟥🟨",
     uf: "RO",
-    crestLabel: "Vilhena",
+    crestLabel: "Vilhena (desde 2023)",
     bgColored: true,
     titles: {
       mundial: [],
