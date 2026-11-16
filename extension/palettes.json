@@ -10751,9 +10751,9 @@
   "Brasileirão: Figueirense": {
     "slug": "figueirense",
     "uf": "SC",
-    "crestLabel": "Atual · desde 1999",
-    "crestIcon": "escudo-2d19584f.svg",
-    "listIcon": "escudo-2d19584f.svg",
+    "crestLabel": "Atual · desde 2000",
+    "crestIcon": "escudo-96d66cba.svg",
+    "listIcon": "escudo-96d66cba.svg",
     "backgroundAspect": 0.874,
     "titles": {
       "brasileirao": [],
@@ -10790,27 +10790,72 @@
     "retro": [
       {
         "id": "1921",
-        "label": "1921–1930",
-        "fullLabel": "1921–1930",
+        "label": "1921–1924",
+        "fullLabel": "1921–1924",
         "atual": false,
-        "file": "retro-1921-bb143866.svg",
-        "aspect": 1.002,
+        "file": "retro-1921-d6a545ec.svg",
+        "aspect": 0.938,
         "iconTheme": "brasileirao-figueirense-1921"
       },
       {
-        "id": "1980",
-        "label": "1980–1999",
-        "fullLabel": "1980–1999",
+        "id": "1924",
+        "label": "1924–1950",
+        "fullLabel": "1924–1950",
         "atual": false,
-        "file": "retro-1980-1d6020f4.svg",
+        "file": "retro-1924-f322978e.svg",
+        "aspect": 0.953,
+        "iconTheme": "brasileirao-figueirense-1924"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1960",
+        "fullLabel": "1950–1960",
+        "atual": false,
+        "file": "retro-1950-f6b786b4.svg",
+        "aspect": 0.994,
+        "iconTheme": "brasileirao-figueirense-1950"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1970",
+        "fullLabel": "1960–1970",
+        "atual": false,
+        "file": "retro-1960-c933a6b6.svg",
+        "aspect": 0.932,
+        "iconTheme": "brasileirao-figueirense-1960"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1979",
+        "fullLabel": "1970–1979",
+        "atual": false,
+        "file": "retro-1970-0dad6e6b.svg",
+        "aspect": 0.873,
+        "iconTheme": "brasileirao-figueirense-1970"
+      },
+      {
+        "id": "1979",
+        "label": "1979–1995",
+        "fullLabel": "1979–1995",
+        "atual": false,
+        "file": "retro-1979-a45c2a42.svg",
         "aspect": 1,
-        "iconTheme": "brasileirao-figueirense-1980"
+        "iconTheme": "brasileirao-figueirense-1979"
+      },
+      {
+        "id": "1995",
+        "label": "1995–2000",
+        "fullLabel": "1995–2000",
+        "atual": false,
+        "file": "retro-1995-c4c5f6ff.svg",
+        "aspect": 0.876,
+        "iconTheme": "brasileirao-figueirense-1995"
       }
     ],
     "alternates": [],
     "swatch": "⬛⬜🟩",
     "primary": "#d4d4d4",
-    "background": "fundo-1752aa4b.svg",
+    "background": "fundo-92d6d410.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
