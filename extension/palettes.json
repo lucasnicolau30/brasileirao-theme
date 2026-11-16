@@ -10630,10 +10630,10 @@
   "Brasileirão: Barra-SC": {
     "slug": "barra-sc",
     "uf": "SC",
-    "crestLabel": "Atual · desde 2020",
-    "crestIcon": "escudo-36877a9a.svg",
-    "listIcon": "escudo-36877a9a.svg",
-    "backgroundAspect": 0.7,
+    "crestLabel": "Atual · desde 2021",
+    "crestIcon": "escudo-d05f2271.svg",
+    "listIcon": "escudo-d05f2271.svg",
+    "backgroundAspect": 0.701,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -10658,18 +10658,36 @@
     "retro": [
       {
         "id": "2013",
-        "label": "2013–2019",
-        "fullLabel": "2013–2019",
+        "label": "2013–2015",
+        "fullLabel": "2013–2015",
         "atual": false,
-        "file": "retro-2013-96aed185.svg",
-        "aspect": 0.861,
+        "file": "retro-2013-b9011b45.svg",
+        "aspect": 0.86,
         "iconTheme": "brasileirao-barra-sc-2013"
+      },
+      {
+        "id": "2015",
+        "label": "2015–2020",
+        "fullLabel": "2015–2020",
+        "atual": false,
+        "file": "retro-2015-45407657.svg",
+        "aspect": 0.698,
+        "iconTheme": "brasileirao-barra-sc-2015"
+      },
+      {
+        "id": "2020",
+        "label": "2020–2021",
+        "fullLabel": "2020–2021",
+        "atual": false,
+        "file": "retro-2020-f3aacb97.svg",
+        "aspect": 0.697,
+        "iconTheme": "brasileirao-barra-sc-2020"
       }
     ],
     "alternates": [],
     "swatch": "🟦⬜",
     "primary": "#2f7fe0",
-    "background": "fundo-762042bc.svg",
+    "background": "fundo-0b273dab.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
