@@ -4587,7 +4587,8 @@ const times = [
     slug: "ji-parana",
     swatch: "🟦⬜",
     uf: "RO",
-    crestLabel: "Ji-Paraná",
+    crestLabel: "Ji-Paraná (desde 2013)",
+    // Retrôs: datas aproximadas, sem fonte concreta que as confirme.
     bgColored: true,
     titles: {
       mundial: [],

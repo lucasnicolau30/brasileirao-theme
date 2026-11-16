@@ -7607,5 +7607,56 @@
         "#c01018"
       ]
     }
+  ],
+  "ji-parana": [
+    {
+      "id": "1991",
+      "label": "1991–2000",
+      "local": "Ji-Parana-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#48a8c8",
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2011",
+      "local": "Ji-Parana-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#0040a8",
+        "#f00000"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012",
+      "local": "Ji-Parana-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#0058a8",
+        "#f8f8f8",
+        "#d80010",
+        "#f8b800"
+      ]
+    }
   ]
 }
