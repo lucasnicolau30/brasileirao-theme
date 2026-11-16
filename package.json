@@ -2367,6 +2367,56 @@
         "path": "./icons/joinville/icon-theme.json"
       },
       {
+        "id": "brasileirao-joinville-1976",
+        "label": "Brasileirão: Joinville (retrô 1976–1977)",
+        "path": "./icons/joinville/icon-theme-1976.json"
+      },
+      {
+        "id": "brasileirao-joinville-1977",
+        "label": "Brasileirão: Joinville (retrô 1977–1981)",
+        "path": "./icons/joinville/icon-theme-1977.json"
+      },
+      {
+        "id": "brasileirao-joinville-1981",
+        "label": "Brasileirão: Joinville (retrô 1981–1982)",
+        "path": "./icons/joinville/icon-theme-1981.json"
+      },
+      {
+        "id": "brasileirao-joinville-1982",
+        "label": "Brasileirão: Joinville (retrô 1982–1996)",
+        "path": "./icons/joinville/icon-theme-1982.json"
+      },
+      {
+        "id": "brasileirao-joinville-1996",
+        "label": "Brasileirão: Joinville (retrô 1996–1997)",
+        "path": "./icons/joinville/icon-theme-1996.json"
+      },
+      {
+        "id": "brasileirao-joinville-1997",
+        "label": "Brasileirão: Joinville (retrô 1997–2000)",
+        "path": "./icons/joinville/icon-theme-1997.json"
+      },
+      {
+        "id": "brasileirao-joinville-2000",
+        "label": "Brasileirão: Joinville (retrô 2000–2002)",
+        "path": "./icons/joinville/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-joinville-2002a",
+        "label": "Brasileirão: Joinville (retrô 2002)",
+        "path": "./icons/joinville/icon-theme-2002a.json"
+      },
+      {
+        "id": "brasileirao-joinville-2002b",
+        "label": "Brasileirão: Joinville (retrô 2002–2005)",
+        "path": "./icons/joinville/icon-theme-2002b.json"
+      },
+      {
+        "id": "brasileirao-joinville-2005",
+        "label": "Brasileirão: Joinville (retrô 2005–2014)",
+        "path": "./icons/joinville/icon-theme-2005.json"
+      },
+      {
         "id": "brasileirao-avai",
         "label": "Brasileirão: Avaí",
         "path": "./icons/avai/icon-theme.json"
