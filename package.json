@@ -2283,8 +2283,48 @@
       },
       {
         "id": "brasileirao-criciuma-1948",
-        "label": "Brasileirão: Criciúma (retrô 1948–1978)",
+        "label": "Brasileirão: Criciúma (retrô 1948–1968)",
         "path": "./icons/criciuma/icon-theme-1948.json"
+      },
+      {
+        "id": "brasileirao-criciuma-1968",
+        "label": "Brasileirão: Criciúma (retrô 1968–1978)",
+        "path": "./icons/criciuma/icon-theme-1968.json"
+      },
+      {
+        "id": "brasileirao-criciuma-1978a",
+        "label": "Brasileirão: Criciúma (retrô 1978)",
+        "path": "./icons/criciuma/icon-theme-1978a.json"
+      },
+      {
+        "id": "brasileirao-criciuma-1978b",
+        "label": "Brasileirão: Criciúma (retrô 1978–1991)",
+        "path": "./icons/criciuma/icon-theme-1978b.json"
+      },
+      {
+        "id": "brasileirao-criciuma-1991",
+        "label": "Brasileirão: Criciúma (retrô 1991–1992)",
+        "path": "./icons/criciuma/icon-theme-1991.json"
+      },
+      {
+        "id": "brasileirao-criciuma-1992",
+        "label": "Brasileirão: Criciúma (retrô 1992–2002)",
+        "path": "./icons/criciuma/icon-theme-1992.json"
+      },
+      {
+        "id": "brasileirao-criciuma-2002",
+        "label": "Brasileirão: Criciúma (retrô 2002–2005)",
+        "path": "./icons/criciuma/icon-theme-2002.json"
+      },
+      {
+        "id": "brasileirao-criciuma-2005",
+        "label": "Brasileirão: Criciúma (retrô 2005–2007)",
+        "path": "./icons/criciuma/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-criciuma-2007",
+        "label": "Brasileirão: Criciúma (retrô 2007–2025)",
+        "path": "./icons/criciuma/icon-theme-2007.json"
       },
       {
         "id": "brasileirao-chapecoense",
