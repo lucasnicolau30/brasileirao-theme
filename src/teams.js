@@ -4778,7 +4778,7 @@ const times = [
     slug: "gas",
     swatch: "🟥🟦🟨",
     uf: "RR",
-    crestLabel: "GAS",
+    crestLabel: "GAS (desde 2015)",
     bgColored: true,
     titles: {
       mundial: [],
