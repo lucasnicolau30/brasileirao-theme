@@ -16326,10 +16326,10 @@
   "Brasileirão: Vilhena": {
     "slug": "vilhena",
     "uf": "RO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-45548cf5.svg",
-    "listIcon": "escudo-45548cf5.svg",
-    "backgroundAspect": 0.86,
+    "crestLabel": "Atual · desde 2023",
+    "crestIcon": "escudo-e4ac7729.svg",
+    "listIcon": "escudo-e4ac7729.svg",
+    "backgroundAspect": 0.864,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -16349,11 +16349,75 @@
         2014
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "1991",
+        "label": "1991–2005",
+        "fullLabel": "1991–2005",
+        "atual": false,
+        "file": "retro-1991-1442303d.svg",
+        "aspect": 1.051,
+        "iconTheme": "brasileirao-vilhena-1991"
+      },
+      {
+        "id": "2005",
+        "label": "2005–2010",
+        "fullLabel": "2005–2010",
+        "atual": false,
+        "file": "retro-2005-c5db7df0.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-vilhena-2005"
+      },
+      {
+        "id": "2010",
+        "label": "2010–2011",
+        "fullLabel": "2010–2011",
+        "atual": false,
+        "file": "retro-2010-2ec2e757.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-vilhena-2010"
+      },
+      {
+        "id": "2011",
+        "label": "2011–2013",
+        "fullLabel": "2011–2013",
+        "atual": false,
+        "file": "retro-2011-27e96a0b.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-vilhena-2011"
+      },
+      {
+        "id": "2013",
+        "label": "2013–2014",
+        "fullLabel": "2013–2014",
+        "atual": false,
+        "file": "retro-2013-6b74630b.svg",
+        "aspect": 0.792,
+        "iconTheme": "brasileirao-vilhena-2013"
+      },
+      {
+        "id": "2014",
+        "label": "2014–2018",
+        "fullLabel": "2014–2018",
+        "atual": false,
+        "file": "retro-2014-712b3c29.svg",
+        "aspect": 0.843,
+        "iconTheme": "brasileirao-vilhena-2014"
+      },
+      {
+        "id": "2018",
+        "label": "2018–2023",
+        "fullLabel": "2018–2023",
+        "atual": false,
+        "file": "retro-2018-13478dba.svg",
+        "aspect": 0.794,
+        "iconTheme": "brasileirao-vilhena-2018"
+      }
+    ],
     "alternates": [],
     "swatch": "🟦🟥🟨",
     "primary": "#2a5ab8",
-    "background": "fundo-01a1351b.png",
+    "background": "fundo-e9404a33.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
