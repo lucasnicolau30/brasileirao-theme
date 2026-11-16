@@ -2332,9 +2332,34 @@
         "path": "./icons/chapecoense/icon-theme.json"
       },
       {
+        "id": "brasileirao-chapecoense-1948",
+        "label": "Brasileirão: Chapecoense (retrô 1948–1973)",
+        "path": "./icons/chapecoense/icon-theme-1948.json"
+      },
+      {
+        "id": "brasileirao-chapecoense-1961",
+        "label": "Brasileirão: Chapecoense (retrô 1961–1973)",
+        "path": "./icons/chapecoense/icon-theme-1961.json"
+      },
+      {
+        "id": "brasileirao-chapecoense-1973",
+        "label": "Brasileirão: Chapecoense (retrô 1973)",
+        "path": "./icons/chapecoense/icon-theme-1973.json"
+      },
+      {
+        "id": "brasileirao-chapecoense-1974",
+        "label": "Brasileirão: Chapecoense (retrô 1974)",
+        "path": "./icons/chapecoense/icon-theme-1974.json"
+      },
+      {
         "id": "brasileirao-chapecoense-1975",
         "label": "Brasileirão: Chapecoense (retrô 1975–1984)",
         "path": "./icons/chapecoense/icon-theme-1975.json"
+      },
+      {
+        "id": "brasileirao-chapecoense-1984",
+        "label": "Brasileirão: Chapecoense (retrô 1984–2016)",
+        "path": "./icons/chapecoense/icon-theme-1984.json"
       },
       {
         "id": "brasileirao-joinville",
