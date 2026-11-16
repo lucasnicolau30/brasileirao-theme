@@ -10376,9 +10376,9 @@
     "slug": "avai",
     "uf": "SC",
     "crestLabel": "Atual · desde 2021",
-    "crestIcon": "escudo-ed03e398.svg",
-    "listIcon": "escudo-ed03e398.svg",
-    "backgroundAspect": 0.788,
+    "crestIcon": "escudo-f10046f3.svg",
+    "listIcon": "escudo-f10046f3.svg",
+    "backgroundAspect": 0.784,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -10424,8 +10424,8 @@
         "label": "1923",
         "fullLabel": "1923",
         "atual": false,
-        "file": "retro-1923-1-db92b135.svg",
-        "aspect": 0.987,
+        "file": "retro-1923-1-b506657a.svg",
+        "aspect": 1,
         "iconTheme": "brasileirao-avai-1923-1"
       },
       {
@@ -10433,15 +10433,105 @@
         "label": "1923–1940",
         "fullLabel": "1923–1940",
         "atual": false,
-        "file": "retro-1923-2-2e8bbc93.svg",
-        "aspect": 0.767,
+        "file": "retro-1923-2-9b8e4327.svg",
+        "aspect": 0.978,
         "iconTheme": "brasileirao-avai-1923-2"
+      },
+      {
+        "id": "1940",
+        "label": "1940–1952",
+        "fullLabel": "1940–1952",
+        "atual": false,
+        "file": "retro-1940-0c5d1a1d.svg",
+        "aspect": 0.853,
+        "iconTheme": "brasileirao-avai-1940"
+      },
+      {
+        "id": "1952",
+        "label": "1952–1963",
+        "fullLabel": "1952–1963",
+        "atual": false,
+        "file": "retro-1952-6e7e4c5b.svg",
+        "aspect": 0.92,
+        "iconTheme": "brasileirao-avai-1952"
+      },
+      {
+        "id": "1963",
+        "label": "1963–1967",
+        "fullLabel": "1963–1967",
+        "atual": false,
+        "file": "retro-1963-8ce4c356.svg",
+        "aspect": 0.919,
+        "iconTheme": "brasileirao-avai-1963"
+      },
+      {
+        "id": "1967",
+        "label": "1967–1970",
+        "fullLabel": "1967–1970",
+        "atual": false,
+        "file": "retro-1967-112c9386.svg",
+        "aspect": 0.919,
+        "iconTheme": "brasileirao-avai-1967"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1973",
+        "fullLabel": "1970–1973",
+        "atual": false,
+        "file": "retro-1970-e0eb14d4.svg",
+        "aspect": 0.919,
+        "iconTheme": "brasileirao-avai-1970"
+      },
+      {
+        "id": "1973",
+        "label": "1973–1988",
+        "fullLabel": "1973–1988",
+        "atual": false,
+        "file": "retro-1973-1ab048b1.svg",
+        "aspect": 0.846,
+        "iconTheme": "brasileirao-avai-1973"
+      },
+      {
+        "id": "1988",
+        "label": "1988–1998",
+        "fullLabel": "1988–1998",
+        "atual": false,
+        "file": "retro-1988-c690c514.svg",
+        "aspect": 0.95,
+        "iconTheme": "brasileirao-avai-1988"
+      },
+      {
+        "id": "1998",
+        "label": "1998–2000",
+        "fullLabel": "1998–2000",
+        "atual": false,
+        "file": "retro-1998-87f058ec.svg",
+        "aspect": 0.94,
+        "iconTheme": "brasileirao-avai-1998"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2012",
+        "fullLabel": "2000–2012",
+        "atual": false,
+        "file": "retro-2000-068213ce.svg",
+        "aspect": 0.794,
+        "iconTheme": "brasileirao-avai-2000"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2021",
+        "fullLabel": "2012–2021",
+        "atual": false,
+        "file": "retro-2012-1dd2ca0a.svg",
+        "aspect": 0.762,
+        "iconTheme": "brasileirao-avai-2012"
       }
     ],
     "alternates": [],
     "swatch": "🟦⬜",
     "primary": "#1a7db5",
-    "background": "fundo-eb24ea6d.svg",
+    "background": "fundo-653f15b4.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
