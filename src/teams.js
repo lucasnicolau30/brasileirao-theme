@@ -3776,10 +3776,11 @@ const times = [
   },
   {
     slug: "barra-sc",
-    swatch: "🟦⬜🟨",
+    swatch: "🟦⬜",
     uf: "SC",
     crestLabel: "Barra-SC (desde 2020)",
     bgColored: true,
+    titleOrder: ["estadual", "serieD"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],
