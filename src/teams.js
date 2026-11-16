@@ -4144,11 +4144,11 @@ const times = [
     ],
   },
   {
-    // Retrôs: datas aproximadas, sem fonte concreta que as confirme.
     slug: "macapa",
     swatch: "🟦⬜",
     uf: "AP",
     crestLabel: "Macapá (desde 2013)",
+    // Retrôs: datas aproximadas, sem fonte concreta que as confirme.
     bgColored: true,
     titles: {
       mundial: [],
