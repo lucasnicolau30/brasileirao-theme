@@ -1490,7 +1490,7 @@
     },
     {
       "id": "1948",
-      "label": "1948–1978",
+      "label": "1948–1968",
       "local": "Criciuma-1948.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -1502,6 +1502,137 @@
         "#f4f4f0",
         "#3b7ccc"
       ]
+    },
+    {
+      "id": "1968",
+      "label": "1968–1978",
+      "local": "Criciuma-1968.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#2a62a6",
+        "#fbbf5a"
+      ]
+    },
+    {
+      "id": "1978a",
+      "label": "1978",
+      "local": "Criciuma-1978a.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#2a62a6"
+      ]
+    },
+    {
+      "id": "1978b",
+      "label": "1978–1991",
+      "local": "Criciuma-1978b.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#ffffff",
+        "#2a62a6"
+      ]
+    },
+    {
+      "id": "1991",
+      "label": "1991–1992",
+      "local": "Criciuma-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#fdc566"
+      ],
+      "contornoClaro": true,
+      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
+    },
+    {
+      "id": "1992",
+      "label": "1992–2002",
+      "local": "Criciuma-1992.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#fdc566"
+      ],
+      "contornoClaro": true,
+      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
+    },
+    {
+      "id": "2002",
+      "label": "2002–2005",
+      "local": "Criciuma-2002.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#fdd35c"
+      ],
+      "contornoClaro": true,
+      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
+    },
+    {
+      "id": "2005",
+      "label": "2005–2007",
+      "local": "Criciuma-2005.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#fdc566"
+      ],
+      "contornoClaro": true,
+      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
+    },
+    {
+      "id": "2007",
+      "label": "2007–2025",
+      "local": "Criciuma-2007.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#000000",
+        "#fdc566"
+      ],
+      "contornoClaro": true,
+      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
     }
   ],
   "juventude": [
@@ -2488,7 +2619,8 @@
       "vetorizarPaleta": [
         "#000000"
       ],
-      "contornoClaro": true
+      "contornoClaro": true,
+      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
     },
     {
       "id": "1974",
@@ -4188,7 +4320,8 @@
       "escala": 6,
       "suavidade": 1.2,
       "minimo": 30,
-      "credito": "Treze Futebol Clube | domínio público | https://commons.wikimedia.org/wiki/File:Escudo_antigo_treze.PNG"
+      "credito": "Treze Futebol Clube | domínio público | https://commons.wikimedia.org/wiki/File:Escudo_antigo_treze.PNG",
+      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
     }
   ],
   "oeste": [

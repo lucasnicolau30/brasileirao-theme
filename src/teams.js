@@ -1350,7 +1350,7 @@ const times = [
     slug: "criciuma",
     swatch: "🟨⬛",
     uf: "SC",
-    crestLabel: "Criciúma (desde 1984)",
+    crestLabel: "Criciúma (desde 2025)",
     bgColored: true,
     titleOrder: ["serieB", "copaDoBrasil", "serieC", "estadual"],
     titles: {
