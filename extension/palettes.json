@@ -16479,10 +16479,10 @@
   "Brasileirão: Porto Velho": {
     "slug": "porto-velho",
     "uf": "RO",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-c0cc7f9b.svg",
-    "listIcon": "escudo-c0cc7f9b.svg",
-    "backgroundAspect": 0.826,
+    "crestLabel": "Atual · desde 2024",
+    "crestIcon": "escudo-96102aa5.svg",
+    "listIcon": "escudo-96102aa5.svg",
+    "backgroundAspect": 0.828,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -16502,11 +16502,30 @@
         2025
       ]
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "2014",
+        "label": "2014–2018",
+        "fullLabel": "2014–2018",
+        "atual": false,
+        "file": "retro-2014-71d192fa.svg",
+        "aspect": 0.773,
+        "iconTheme": "brasileirao-porto-velho-2014"
+      },
+      {
+        "id": "2018",
+        "label": "2018–2024",
+        "fullLabel": "2018–2024",
+        "atual": false,
+        "file": "retro-2018-9723b659.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-porto-velho-2018"
+      }
+    ],
     "alternates": [],
     "swatch": "🟦⬜🟥",
     "primary": "#2a5ab8",
-    "background": "fundo-dd2630d4.png",
+    "background": "fundo-9b1e7afa.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
