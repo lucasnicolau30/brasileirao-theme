@@ -3817,7 +3817,7 @@ const times = [
     slug: "figueirense",
     swatch: "⬛⬜🟩",
     uf: "SC",
-    crestLabel: "Figueirense (desde 1999)",
+    crestLabel: "Figueirense (desde 2000)",
     bgColored: true,
     titles: {
       brasileirao: [],
