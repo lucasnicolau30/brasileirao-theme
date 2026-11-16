@@ -2432,6 +2432,56 @@
         "path": "./icons/avai/icon-theme-1923-2.json"
       },
       {
+        "id": "brasileirao-avai-1940",
+        "label": "Brasileirão: Avaí (retrô 1940–1952)",
+        "path": "./icons/avai/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-avai-1952",
+        "label": "Brasileirão: Avaí (retrô 1952–1963)",
+        "path": "./icons/avai/icon-theme-1952.json"
+      },
+      {
+        "id": "brasileirao-avai-1963",
+        "label": "Brasileirão: Avaí (retrô 1963–1967)",
+        "path": "./icons/avai/icon-theme-1963.json"
+      },
+      {
+        "id": "brasileirao-avai-1967",
+        "label": "Brasileirão: Avaí (retrô 1967–1970)",
+        "path": "./icons/avai/icon-theme-1967.json"
+      },
+      {
+        "id": "brasileirao-avai-1970",
+        "label": "Brasileirão: Avaí (retrô 1970–1973)",
+        "path": "./icons/avai/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-avai-1973",
+        "label": "Brasileirão: Avaí (retrô 1973–1988)",
+        "path": "./icons/avai/icon-theme-1973.json"
+      },
+      {
+        "id": "brasileirao-avai-1988",
+        "label": "Brasileirão: Avaí (retrô 1988–1998)",
+        "path": "./icons/avai/icon-theme-1988.json"
+      },
+      {
+        "id": "brasileirao-avai-1998",
+        "label": "Brasileirão: Avaí (retrô 1998–2000)",
+        "path": "./icons/avai/icon-theme-1998.json"
+      },
+      {
+        "id": "brasileirao-avai-2000",
+        "label": "Brasileirão: Avaí (retrô 2000–2012)",
+        "path": "./icons/avai/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-avai-2012",
+        "label": "Brasileirão: Avaí (retrô 2012–2021)",
+        "path": "./icons/avai/icon-theme-2012.json"
+      },
+      {
         "id": "brasileirao-brusque",
         "label": "Brasileirão: Brusque",
         "path": "./icons/brusque/icon-theme.json"
