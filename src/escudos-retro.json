@@ -1563,8 +1563,7 @@
         "#000000",
         "#fdc566"
       ],
-      "contornoClaro": true,
-      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
+      "contornoClaro": true
     },
     {
       "id": "1992",
@@ -1580,8 +1579,7 @@
         "#000000",
         "#fdc566"
       ],
-      "contornoClaro": true,
-      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
+      "contornoClaro": true
     },
     {
       "id": "2002",
@@ -1597,8 +1595,7 @@
         "#000000",
         "#fdd35c"
       ],
-      "contornoClaro": true,
-      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
+      "contornoClaro": true
     },
     {
       "id": "2005",
@@ -1614,8 +1611,7 @@
         "#000000",
         "#fdc566"
       ],
-      "contornoClaro": true,
-      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
+      "contornoClaro": true
     },
     {
       "id": "2007",
@@ -1631,8 +1627,7 @@
         "#000000",
         "#fdc566"
       ],
-      "contornoClaro": true,
-      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
+      "contornoClaro": true
     }
   ],
   "juventude": [
@@ -2619,8 +2614,7 @@
       "vetorizarPaleta": [
         "#000000"
       ],
-      "contornoClaro": true,
-      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
+      "contornoClaro": true
     },
     {
       "id": "1974",
@@ -4320,8 +4314,7 @@
       "escala": 6,
       "suavidade": 1.2,
       "minimo": 30,
-      "credito": "Treze Futebol Clube | domínio público | https://commons.wikimedia.org/wiki/File:Escudo_antigo_treze.PNG",
-      "nota": "Borda clara por fora: o escudo original é escuro e não aparece no fundo escuro do editor."
+      "credito": "Treze Futebol Clube | domínio público | https://commons.wikimedia.org/wiki/File:Escudo_antigo_treze.PNG"
     }
   ],
   "oeste": [

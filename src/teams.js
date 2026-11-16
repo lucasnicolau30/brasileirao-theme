@@ -1352,6 +1352,7 @@ const times = [
     swatch: "🟨⬛",
     uf: "SC",
     crestLabel: "Criciúma (desde 2025)",
+    // Retrôs 1991–1992, 1992–2002, 2002–2005, 2005–2007 e 2007–2025: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     bgColored: true,
     titleOrder: ["serieC", "serieB", "copaDoBrasil", "estadual"],
     titles: {
@@ -2885,6 +2886,7 @@ const times = [
     swatch: "⬛🟥⬜",
     uf: "PB",
     crestLabel: "Botafogo-PB (desde 2019)",
+    // Retrô 1931–1952: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     bgColored: true,
     titles: {
       brasileirao: [],
@@ -3058,6 +3060,7 @@ const times = [
     swatch: "⬛⬜🟨",
     uf: "PB",
     crestLabel: "Treze (desde 1999)",
+    // Retrô 1925–1930: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     bgColored: true,
     titles: {
       brasileirao: [],
