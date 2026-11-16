@@ -4641,20 +4641,51 @@
   "barra-sc": [
     {
       "id": "2013",
-      "label": "2013–2019",
+      "label": "2013–2015",
       "local": "Barra-SC-2013.png",
       "vetorizar": "alfa",
       "nitido": true,
       "sobrepor": 1,
-      "escala": 3,
+      "escala": 6,
       "suavidade": 1.2,
-      "minimo": 60,
+      "minimo": 30,
       "vetorizarPaleta": [
+        "#03b0f8",
         "#fff210",
-        "#05b2f7",
         "#ffffff"
-      ],
-      "credito": "EdcarlosBR | CC0 | https://commons.wikimedia.org/wiki/File:Barra_FC_2013_-_2019.png"
+      ]
+    },
+    {
+      "id": "2015",
+      "label": "2015–2020",
+      "local": "Barra-SC-2015.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#04a0e0",
+        "#fff200",
+        "#ffffff",
+        "#d2b078"
+      ]
+    },
+    {
+      "id": "2020",
+      "label": "2020–2021",
+      "local": "Barra-SC-2020.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#2754a6",
+        "#ffffff"
+      ]
     }
   ],
   "retro-pe": [

@@ -3778,7 +3778,7 @@ const times = [
     slug: "barra-sc",
     swatch: "🟦⬜",
     uf: "SC",
-    crestLabel: "Barra-SC (desde 2020)",
+    crestLabel: "Barra-SC (desde 2021)",
     bgColored: true,
     titleOrder: ["estadual", "serieD"],
     titles: {
