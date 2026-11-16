@@ -2483,13 +2483,38 @@
       },
       {
         "id": "brasileirao-figueirense-1921",
-        "label": "Brasileirão: Figueirense (retrô 1921–1930)",
+        "label": "Brasileirão: Figueirense (retrô 1921–1924)",
         "path": "./icons/figueirense/icon-theme-1921.json"
       },
       {
-        "id": "brasileirao-figueirense-1980",
-        "label": "Brasileirão: Figueirense (retrô 1980–1999)",
-        "path": "./icons/figueirense/icon-theme-1980.json"
+        "id": "brasileirao-figueirense-1924",
+        "label": "Brasileirão: Figueirense (retrô 1924–1950)",
+        "path": "./icons/figueirense/icon-theme-1924.json"
+      },
+      {
+        "id": "brasileirao-figueirense-1950",
+        "label": "Brasileirão: Figueirense (retrô 1950–1960)",
+        "path": "./icons/figueirense/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-figueirense-1960",
+        "label": "Brasileirão: Figueirense (retrô 1960–1970)",
+        "path": "./icons/figueirense/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-figueirense-1970",
+        "label": "Brasileirão: Figueirense (retrô 1970–1979)",
+        "path": "./icons/figueirense/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-figueirense-1979",
+        "label": "Brasileirão: Figueirense (retrô 1979–1995)",
+        "path": "./icons/figueirense/icon-theme-1979.json"
+      },
+      {
+        "id": "brasileirao-figueirense-1995",
+        "label": "Brasileirão: Figueirense (retrô 1995–2000)",
+        "path": "./icons/figueirense/icon-theme-1995.json"
       },
       {
         "id": "brasileirao-sampaio-correa",
