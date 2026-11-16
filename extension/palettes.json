@@ -10022,7 +10022,7 @@
   "Brasileirão: Chapecoense": {
     "slug": "chapecoense",
     "uf": "SC",
-    "crestLabel": "Atual · desde 2017",
+    "crestLabel": "Atual · desde 2016",
     "crestIcon": "escudo-56fef9e8.svg",
     "listIcon": "escudo-56fef9e8.svg",
     "backgroundAspect": 0.828,
@@ -10058,6 +10058,42 @@
     ],
     "retro": [
       {
+        "id": "1948",
+        "label": "1948–1973",
+        "fullLabel": "1948–1973",
+        "atual": false,
+        "file": "retro-1948-2bc7c750.svg",
+        "aspect": 1.01,
+        "iconTheme": "brasileirao-chapecoense-1948"
+      },
+      {
+        "id": "1961",
+        "label": "1961–1973",
+        "fullLabel": "1961–1973",
+        "atual": false,
+        "file": "retro-1961-cddd2214.svg",
+        "aspect": 0.824,
+        "iconTheme": "brasileirao-chapecoense-1961"
+      },
+      {
+        "id": "1973",
+        "label": "1973",
+        "fullLabel": "1973",
+        "atual": false,
+        "file": "retro-1973-904504a5.svg",
+        "aspect": 1.081,
+        "iconTheme": "brasileirao-chapecoense-1973"
+      },
+      {
+        "id": "1974",
+        "label": "1974",
+        "fullLabel": "1974",
+        "atual": false,
+        "file": "retro-1974-30ea29d6.svg",
+        "aspect": 1.068,
+        "iconTheme": "brasileirao-chapecoense-1974"
+      },
+      {
         "id": "1975",
         "label": "1975–1984",
         "fullLabel": "1975–1984",
@@ -10065,6 +10101,15 @@
         "file": "retro-1975-e30fe6f6.svg",
         "aspect": 1.077,
         "iconTheme": "brasileirao-chapecoense-1975"
+      },
+      {
+        "id": "1984",
+        "label": "1984–2016",
+        "fullLabel": "1984–2016",
+        "atual": false,
+        "file": "retro-1984-5c2d2bb2.svg",
+        "aspect": 1.082,
+        "iconTheme": "brasileirao-chapecoense-1984"
       }
     ],
     "alternates": [],
