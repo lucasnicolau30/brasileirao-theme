@@ -1142,19 +1142,94 @@
         "path": "./icons/atletico-mg/icon-theme.json"
       },
       {
-        "id": "brasileirao-atletico-mg-1910",
-        "label": "Brasileirão: Atlético-MG (retrô 1910–1922)",
-        "path": "./icons/atletico-mg/icon-theme-1910.json"
+        "id": "brasileirao-atletico-mg-1908",
+        "label": "Brasileirão: Atlético-MG (retrô 1908–1915)",
+        "path": "./icons/atletico-mg/icon-theme-1908.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1915",
+        "label": "Brasileirão: Atlético-MG (retrô 1915–1927)",
+        "path": "./icons/atletico-mg/icon-theme-1915.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1927",
+        "label": "Brasileirão: Atlético-MG (retrô 1927–1937)",
+        "path": "./icons/atletico-mg/icon-theme-1927.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1937",
+        "label": "Brasileirão: Atlético-MG (retrô 1937–1940)",
+        "path": "./icons/atletico-mg/icon-theme-1937.json"
       },
       {
         "id": "brasileirao-atletico-mg-1940",
-        "label": "Brasileirão: Atlético-MG (retrô 1940–1949)",
+        "label": "Brasileirão: Atlético-MG (retrô 1940–1950)",
         "path": "./icons/atletico-mg/icon-theme-1940.json"
       },
       {
-        "id": "brasileirao-atletico-mg-1971",
-        "label": "Brasileirão: Atlético-MG (retrô 1971–1979)",
-        "path": "./icons/atletico-mg/icon-theme-1971.json"
+        "id": "brasileirao-atletico-mg-1950",
+        "label": "Brasileirão: Atlético-MG (retrô 1950–1960)",
+        "path": "./icons/atletico-mg/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1960",
+        "label": "Brasileirão: Atlético-MG (retrô 1960–1970)",
+        "path": "./icons/atletico-mg/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1970",
+        "label": "Brasileirão: Atlético-MG (retrô 1970–1972)",
+        "path": "./icons/atletico-mg/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1972",
+        "label": "Brasileirão: Atlético-MG (retrô 1972–1980)",
+        "path": "./icons/atletico-mg/icon-theme-1972.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1980",
+        "label": "Brasileirão: Atlético-MG (retrô 1980–1982)",
+        "path": "./icons/atletico-mg/icon-theme-1980.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1982",
+        "label": "Brasileirão: Atlético-MG (retrô 1982–1983)",
+        "path": "./icons/atletico-mg/icon-theme-1982.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1983",
+        "label": "Brasileirão: Atlético-MG (retrô 1983–1987)",
+        "path": "./icons/atletico-mg/icon-theme-1983.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1987",
+        "label": "Brasileirão: Atlético-MG (retrô 1987–1992)",
+        "path": "./icons/atletico-mg/icon-theme-1987.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1992",
+        "label": "Brasileirão: Atlético-MG (retrô 1992–1997)",
+        "path": "./icons/atletico-mg/icon-theme-1992.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1997",
+        "label": "Brasileirão: Atlético-MG (retrô 1997–1998)",
+        "path": "./icons/atletico-mg/icon-theme-1997.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-1998",
+        "label": "Brasileirão: Atlético-MG (retrô 1998–2006)",
+        "path": "./icons/atletico-mg/icon-theme-1998.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-2006",
+        "label": "Brasileirão: Atlético-MG (retrô 2006–2016)",
+        "path": "./icons/atletico-mg/icon-theme-2006.json"
+      },
+      {
+        "id": "brasileirao-atletico-mg-2008",
+        "label": "Brasileirão: Atlético-MG (retrô 2008)",
+        "path": "./icons/atletico-mg/icon-theme-2008.json"
       },
       {
         "id": "brasileirao-america-mg",
