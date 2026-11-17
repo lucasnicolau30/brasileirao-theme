@@ -2818,10 +2818,11 @@ const times = [
   },
   {
     slug: "abc",
-    swatch: "⬛⬜🟨",
+    swatch: "⬛⬜",
     uf: "RN",
     crestLabel: "ABC (desde 2011)",
     bgColored: true,
+    titleOrder: ["estadual", "serieC"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],
