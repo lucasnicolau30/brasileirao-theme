@@ -12845,8 +12845,8 @@
     "slug": "america-rn",
     "uf": "RN",
     "crestLabel": "Atual · desde 2023",
-    "crestIcon": "escudo-2269304f.svg",
-    "listIcon": "escudo-2269304f.svg",
+    "crestIcon": "escudo-e37c11d8.svg",
+    "listIcon": "escudo-e37c11d8.svg",
     "backgroundAspect": 0.85,
     "titles": {
       "brasileirao": [],
@@ -12905,8 +12905,8 @@
       ]
     },
     "titleOrder": [
-      "serieD",
       "copaDoNordeste",
+      "serieD",
       "estadual"
     ],
     "retro": [
@@ -12915,33 +12915,114 @@
         "label": "1915–1918",
         "fullLabel": "1915–1918",
         "atual": false,
-        "file": "retro-1915-762bfaae.svg",
-        "aspect": 0.999,
+        "file": "retro-1915-b31fe4e5.svg",
+        "aspect": 0.996,
         "iconTheme": "brasileirao-america-rn-1915"
+      },
+      {
+        "id": "1918",
+        "label": "1918–1940",
+        "fullLabel": "1918–1940",
+        "atual": false,
+        "file": "retro-1918-c7581489.svg",
+        "aspect": 0.959,
+        "iconTheme": "brasileirao-america-rn-1918"
+      },
+      {
+        "id": "1940",
+        "label": "1940–1957",
+        "fullLabel": "1940–1957",
+        "atual": false,
+        "file": "retro-1940-c961631f.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-america-rn-1940"
+      },
+      {
+        "id": "1957",
+        "label": "1957–1973",
+        "fullLabel": "1957–1973",
+        "atual": false,
+        "file": "retro-1957-105e9b60.svg",
+        "aspect": 0.985,
+        "iconTheme": "brasileirao-america-rn-1957"
       },
       {
         "id": "1973",
         "label": "1973–1979",
         "fullLabel": "1973–1979",
         "atual": false,
-        "file": "retro-1973-229a1093.svg",
-        "aspect": 0.863,
+        "file": "retro-1973-78c718ac.svg",
+        "aspect": 0.848,
         "iconTheme": "brasileirao-america-rn-1973"
+      },
+      {
+        "id": "1979",
+        "label": "1979–1988",
+        "fullLabel": "1979–1988",
+        "atual": false,
+        "file": "retro-1979-2fc743e7.svg",
+        "aspect": 0.996,
+        "iconTheme": "brasileirao-america-rn-1979"
+      },
+      {
+        "id": "1988",
+        "label": "1988–1999",
+        "fullLabel": "1988–1999",
+        "atual": false,
+        "file": "retro-1988-38c0326b.svg",
+        "aspect": 0.854,
+        "iconTheme": "brasileirao-america-rn-1988"
+      },
+      {
+        "id": "1999",
+        "label": "1999–2005",
+        "fullLabel": "1999–2005",
+        "atual": false,
+        "file": "retro-1999-1f5760cd.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-america-rn-1999"
+      },
+      {
+        "id": "2005",
+        "label": "2005–2012",
+        "fullLabel": "2005–2012",
+        "atual": false,
+        "file": "retro-2005-2d1c0d59.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-america-rn-2005"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2016",
+        "fullLabel": "2012–2016",
+        "atual": false,
+        "file": "retro-2012-a3654ad3.svg",
+        "aspect": 0.745,
+        "iconTheme": "brasileirao-america-rn-2012"
+      },
+      {
+        "id": "2016",
+        "label": "2016–2022",
+        "fullLabel": "2016–2022",
+        "atual": false,
+        "file": "retro-2016-02edb864.svg",
+        "aspect": 0.746,
+        "iconTheme": "brasileirao-america-rn-2016"
       },
       {
         "id": "2022",
         "label": "2022–2023",
         "fullLabel": "2022–2023",
         "atual": false,
-        "file": "retro-2022-77524750.svg",
-        "aspect": 0.739,
+        "file": "retro-2022-4b924d5a.svg",
+        "aspect": 0.75,
         "iconTheme": "brasileirao-america-rn-2022"
       }
     ],
     "alternates": [],
     "swatch": "🟥⬜",
     "primary": "#e41920",
-    "background": "fundo-34bf7c60.svg",
+    "background": "fundo-5dace6e9.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -13004,9 +13085,9 @@
     "slug": "abc",
     "uf": "RN",
     "crestLabel": "Atual · desde 2011",
-    "crestIcon": "escudo-6dddd0dd.svg",
-    "listIcon": "escudo-6dddd0dd.svg",
-    "backgroundAspect": 0.731,
+    "crestIcon": "escudo-42247421.svg",
+    "listIcon": "escudo-42247421.svg",
+    "backgroundAspect": 0.74,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -13079,30 +13160,106 @@
         2022
       ]
     },
+    "titleOrder": [
+      "estadual",
+      "serieC"
+    ],
     "retro": [
       {
         "id": "1915",
         "label": "1915–1926",
         "fullLabel": "1915–1926",
         "atual": false,
-        "file": "retro-1915-00fb88b8.svg",
+        "file": "retro-1915-cd919ff6.svg",
         "aspect": 1,
         "iconTheme": "brasileirao-abc-1915"
+      },
+      {
+        "id": "1926",
+        "label": "1926–1928",
+        "fullLabel": "1926–1928",
+        "atual": false,
+        "file": "retro-1926-c390af52.svg",
+        "aspect": 1.058,
+        "iconTheme": "brasileirao-abc-1926"
+      },
+      {
+        "id": "1928",
+        "label": "1928–1930",
+        "fullLabel": "1928–1930",
+        "atual": false,
+        "file": "retro-1928-64b3b08c.svg",
+        "aspect": 0.78,
+        "iconTheme": "brasileirao-abc-1928"
+      },
+      {
+        "id": "1930",
+        "label": "1930–1953",
+        "fullLabel": "1930–1953",
+        "atual": false,
+        "file": "retro-1930-9b52f8c7.svg",
+        "aspect": 1.059,
+        "iconTheme": "brasileirao-abc-1930"
+      },
+      {
+        "id": "1953",
+        "label": "1953–1956",
+        "fullLabel": "1953–1956",
+        "atual": false,
+        "file": "retro-1953-c21e2670.svg",
+        "aspect": 0.848,
+        "iconTheme": "brasileirao-abc-1953"
+      },
+      {
+        "id": "1956",
+        "label": "1956–1970",
+        "fullLabel": "1956–1970",
+        "atual": false,
+        "file": "retro-1956-2c16e1c9.svg",
+        "aspect": 0.855,
+        "iconTheme": "brasileirao-abc-1956"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1976",
+        "fullLabel": "1970–1976",
+        "atual": false,
+        "file": "retro-1970-539b42fe.svg",
+        "aspect": 0.855,
+        "iconTheme": "brasileirao-abc-1970"
+      },
+      {
+        "id": "1976",
+        "label": "1976–1996",
+        "fullLabel": "1976–1996",
+        "atual": false,
+        "file": "retro-1976-4d74c7f0.svg",
+        "aspect": 0.832,
+        "iconTheme": "brasileirao-abc-1976"
       },
       {
         "id": "1996",
         "label": "1996–2010",
         "fullLabel": "1996–2010",
         "atual": false,
-        "file": "retro-1996-906dba03.svg",
-        "aspect": 0.854,
+        "file": "retro-1996-dc6ef1b5.svg",
+        "aspect": 0.863,
         "iconTheme": "brasileirao-abc-1996"
+      },
+      {
+        "id": "2010",
+        "label": "2010–2011",
+        "fullLabel": "2010–2011",
+        "atual": false,
+        "file": "retro-2010-1fdfd9d2.svg",
+        "aspect": 0.856,
+        "iconTheme": "brasileirao-abc-2010"
       }
     ],
     "alternates": [],
-    "swatch": "⬛⬜🟨",
+    "swatch": "⬛⬜",
     "primary": "#d4d4d4",
-    "background": "fundo-cffc2b98.svg",
+    "background": "fundo-5e0caca2.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
