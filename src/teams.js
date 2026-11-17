@@ -3046,7 +3046,9 @@ const times = [
     swatch: "🟥⬛⬜",
     uf: "PB",
     crestLabel: "Campinense (desde 2020)",
+    // Retrôs 1915–1950 e 1950–1960: datas aproximadas, sem fonte concreta que as confirme.
     bgColored: true,
+    titleOrder: ["estadual", "copaDoNordeste"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],

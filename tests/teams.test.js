@@ -486,7 +486,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Gama'), ['Estadual', 'Série B']);
     assert.deepEqual(itens('Brasília'), ['Estadual', 'Copa Verde']);
     assert.deepEqual(itens('ABC'), ['Estadual', 'Série C']);
-    assert.deepEqual(itens('Campinense'), ['Copa do Nordeste', 'Estadual']);
+    assert.deepEqual(itens('Campinense'), ['Estadual', 'Copa do Nordeste']);
     assert.deepEqual(itens('América-RN'), ['Copa do Nordeste', 'Série D', 'Estadual'], 'América-RN: a Copa do Nordeste vem primeiro (titleOrder em teams.js)');
     assert.deepEqual(itens('Botafogo-PB'), ['Série D', 'Estadual']);
     assert.deepEqual(itens('Nacional-AM'), ['Estadual']);
