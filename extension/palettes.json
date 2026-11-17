@@ -3564,8 +3564,8 @@
     "slug": "cruzeiro",
     "uf": "MG",
     "crestLabel": "Atual · desde 2021",
-    "crestIcon": "escudo-3b8a22de.svg",
-    "listIcon": "escudo-3b8a22de.svg",
+    "crestIcon": "escudo-68f01d01.svg",
+    "listIcon": "escudo-68f01d01.svg",
     "backgroundAspect": 1,
     "titles": {
       "brasileirao": [
@@ -3643,40 +3643,166 @@
     ],
     "retro": [
       {
-        "id": "1927",
-        "label": "1927–1942",
-        "fullLabel": "1927–1942",
+        "id": "1921",
+        "label": "1921–1922",
+        "fullLabel": "1921–1922",
         "atual": false,
-        "file": "retro-1927-4e0470f6.svg",
+        "file": "retro-1921-113a87a2.svg",
         "aspect": 1,
-        "iconTheme": "brasileirao-cruzeiro-1927"
+        "iconTheme": "brasileirao-cruzeiro-1921"
       },
       {
-        "id": "1942",
-        "label": "1942–1959",
-        "fullLabel": "1942–1959",
+        "id": "1922",
+        "label": "1922–1923",
+        "fullLabel": "1922–1923",
         "atual": false,
-        "file": "retro-1942-66c5b45a.svg",
-        "aspect": 1.005,
-        "iconTheme": "brasileirao-cruzeiro-1942"
+        "file": "retro-1922-487cc8b2.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-cruzeiro-1922"
       },
       {
-        "id": "1959",
-        "label": "1959–1961",
-        "fullLabel": "1959–1961",
+        "id": "1923",
+        "label": "1923–1928",
+        "fullLabel": "1923–1928",
         "atual": false,
-        "file": "retro-1959-d2d57ffe.svg",
+        "file": "retro-1923-956a1e89.svg",
+        "aspect": 0.625,
+        "iconTheme": "brasileirao-cruzeiro-1923"
+      },
+      {
+        "id": "1928",
+        "label": "1928–1935",
+        "fullLabel": "1928–1935",
+        "atual": false,
+        "file": "retro-1928-a5e1fb7e.svg",
         "aspect": 1,
-        "iconTheme": "brasileirao-cruzeiro-1959"
+        "iconTheme": "brasileirao-cruzeiro-1928"
+      },
+      {
+        "id": "1935",
+        "label": "1935–1942",
+        "fullLabel": "1935–1942",
+        "atual": false,
+        "file": "retro-1935-24f19c4a.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-cruzeiro-1935"
+      },
+      {
+        "id": "1942a",
+        "label": "1942",
+        "fullLabel": "1942",
+        "atual": false,
+        "file": "retro-1942a-2132f044.svg",
+        "aspect": 0.999,
+        "iconTheme": "brasileirao-cruzeiro-1942a"
+      },
+      {
+        "id": "1942b",
+        "label": "1942–1944",
+        "fullLabel": "1942–1944",
+        "atual": false,
+        "file": "retro-1942b-d38b5965.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-cruzeiro-1942b"
+      },
+      {
+        "id": "1944",
+        "label": "1944–1945",
+        "fullLabel": "1944–1945",
+        "atual": false,
+        "file": "retro-1944-b2d8f5ec.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-cruzeiro-1944"
+      },
+      {
+        "id": "1945",
+        "label": "1945–1950",
+        "fullLabel": "1945–1950",
+        "atual": false,
+        "file": "retro-1945-e9df1a4b.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-cruzeiro-1945"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1966",
+        "fullLabel": "1950–1966",
+        "atual": false,
+        "file": "retro-1950-bafc7f4a.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-cruzeiro-1950"
+      },
+      {
+        "id": "1966",
+        "label": "1966–1970",
+        "fullLabel": "1966–1970",
+        "atual": false,
+        "file": "retro-1966-27b3c6a3.svg",
+        "aspect": 0.939,
+        "iconTheme": "brasileirao-cruzeiro-1966"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1975",
+        "fullLabel": "1970–1975",
+        "atual": false,
+        "file": "retro-1970-0e004387.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-cruzeiro-1970"
+      },
+      {
+        "id": "1975",
+        "label": "1975–1984",
+        "fullLabel": "1975–1984",
+        "atual": false,
+        "file": "retro-1975-39e44c50.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-cruzeiro-1975"
+      },
+      {
+        "id": "1984",
+        "label": "1984–1996",
+        "fullLabel": "1984–1996",
+        "atual": false,
+        "file": "retro-1984-126433d3.svg",
+        "aspect": 0.925,
+        "iconTheme": "brasileirao-cruzeiro-1984"
+      },
+      {
+        "id": "1996",
+        "label": "1996–2003",
+        "fullLabel": "1996–2003",
+        "atual": false,
+        "file": "retro-1996-c0339bf5.svg",
+        "aspect": 1.001,
+        "iconTheme": "brasileirao-cruzeiro-1996"
+      },
+      {
+        "id": "2003",
+        "label": "2003–2004",
+        "fullLabel": "2003–2004",
+        "atual": false,
+        "file": "retro-2003-d7b76bad.svg",
+        "aspect": 0.701,
+        "iconTheme": "brasileirao-cruzeiro-2003"
       },
       {
         "id": "2004",
-        "label": "2004–2015",
-        "fullLabel": "2004–2015",
+        "label": "2004–2016",
+        "fullLabel": "2004–2016",
         "atual": false,
-        "file": "retro-2004-be39d270.svg",
-        "aspect": 0.799,
+        "file": "retro-2004-ca268fa2.svg",
+        "aspect": 0.787,
         "iconTheme": "brasileirao-cruzeiro-2004"
+      },
+      {
+        "id": "2016",
+        "label": "2016–2021",
+        "fullLabel": "2016–2021",
+        "atual": false,
+        "file": "retro-2016-d84d6600.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-cruzeiro-2016"
       }
     ],
     "alternates": [],
