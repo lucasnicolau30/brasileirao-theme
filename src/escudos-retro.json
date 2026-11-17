@@ -3318,41 +3318,216 @@
       "local": "America-RN-1915.png",
       "vetorizar": "alfa",
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
-      "escala": 6,
-      "suavidade": 1.2,
+      "escala": 4,
+      "suavidade": 6.0,
       "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#302878",
-        "#ffffff"
+        "#100878",
+        "#f8f8f8"
+      ],
+      "fundoExterno": true,
+      "limiarFundo": 170
+    },
+    {
+      "id": "1918",
+      "label": "1918–1940",
+      "local": "America-RN-1918.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#e00000",
+        "#f8f8f8"
+      ],
+      "fundoExterno": true,
+      "limiarFundo": 170
+    },
+    {
+      "id": "1940",
+      "label": "1940–1957",
+      "local": "America-RN-1940.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d00000",
+        "#f8f8f8"
       ]
+    },
+    {
+      "id": "1957",
+      "label": "1957–1973",
+      "local": "America-RN-1957.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#e00000",
+        "#f8f8f8"
+      ],
+      "fundoExterno": true,
+      "limiarFundo": 170
     },
     {
       "id": "1973",
       "label": "1973–1979",
       "local": "America-RN-1973.png",
       "vetorizar": "alfa",
-      "sobrepor": 0,
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#d80810",
-        "#ffffff"
+        "#d80000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1979",
+      "label": "1979–1988",
+      "local": "America-RN-1979.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d80000",
+        "#f8f8f8"
+      ],
+      "fundoExterno": true,
+      "limiarFundo": 170
+    },
+    {
+      "id": "1988",
+      "label": "1988–1999",
+      "local": "America-RN-1988.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#c80000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1999",
+      "label": "1999–2005",
+      "local": "America-RN-1999.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d00000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "2005",
+      "label": "2005–2012",
+      "local": "America-RN-2005.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d82820",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2016",
+      "local": "America-RN-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83038",
+        "#f8f8f8",
+        "#f8c058",
+        "#c0c0c0"
+      ]
+    },
+    {
+      "id": "2016",
+      "label": "2016–2022",
+      "local": "America-RN-2016.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83038",
+        "#f8f8f8",
+        "#f8c058",
+        "#c0c0c0"
       ]
     },
     {
       "id": "2022",
       "label": "2022–2023",
       "local": "America-RN-2022.png",
-      "vetorizar": "suave",
-      "silhueta": "borda",
-      "refinar": true,
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#d83038",
+        "#d82820",
+        "#f8f8f8",
         "#f8c058",
-        "#c8c8c8"
-      ],
-      "estrelasRegulares": [
-        "#f8c058",
-        "#c8c8c8"
+        "#c0c0c0"
       ]
     }
   ],

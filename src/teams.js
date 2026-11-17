@@ -2868,6 +2868,7 @@ const times = [
     uf: "RN",
     crestLabel: "América-RN (desde 2023)",
     bgColored: true,
+    titleOrder: ["copaDoNordeste", "serieD", "estadual"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],
@@ -2886,7 +2887,6 @@ const times = [
         2025, 2026,
       ],
     },
-    titleOrder: ["serieD", "copaDoNordeste", "estadual"],
     label: "América-RN",
     side: "#1c0d0e",
     bg: "#0f0809",
