@@ -1192,14 +1192,34 @@
         "path": "./icons/villa-nova/icon-theme.json"
       },
       {
-        "id": "brasileirao-villa-nova-1908",
-        "label": "Brasileirão: Villa Nova-MG (retrô 1908–2008)",
-        "path": "./icons/villa-nova/icon-theme-1908.json"
+        "id": "brasileirao-villa-nova-1951",
+        "label": "Brasileirão: Villa Nova-MG (retrô 1951–1971)",
+        "path": "./icons/villa-nova/icon-theme-1951.json"
       },
       {
-        "id": "brasileirao-villa-nova-2008",
+        "id": "brasileirao-villa-nova-1971",
+        "label": "Brasileirão: Villa Nova-MG (retrô 1971–1980)",
+        "path": "./icons/villa-nova/icon-theme-1971.json"
+      },
+      {
+        "id": "brasileirao-villa-nova-1980",
+        "label": "Brasileirão: Villa Nova-MG (retrô 1980–1990)",
+        "path": "./icons/villa-nova/icon-theme-1980.json"
+      },
+      {
+        "id": "brasileirao-villa-nova-1990",
+        "label": "Brasileirão: Villa Nova-MG (retrô 1990–2008)",
+        "path": "./icons/villa-nova/icon-theme-1990.json"
+      },
+      {
+        "id": "brasileirao-villa-nova-2008a",
+        "label": "Brasileirão: Villa Nova-MG (retrô 2008)",
+        "path": "./icons/villa-nova/icon-theme-2008a.json"
+      },
+      {
+        "id": "brasileirao-villa-nova-2008b",
         "label": "Brasileirão: Villa Nova-MG (retrô 2008–2012)",
-        "path": "./icons/villa-nova/icon-theme-2008.json"
+        "path": "./icons/villa-nova/icon-theme-2008b.json"
       },
       {
         "id": "brasileirao-boa-esporte",
@@ -1207,9 +1227,34 @@
         "path": "./icons/boa-esporte/icon-theme.json"
       },
       {
-        "id": "brasileirao-boa-esporte-1998",
-        "label": "Brasileirão: Boa Esporte-MG (retrô 1998–2011)",
-        "path": "./icons/boa-esporte/icon-theme-1998.json"
+        "id": "brasileirao-boa-esporte-1947",
+        "label": "Brasileirão: Boa Esporte-MG (retrô 1947–1950)",
+        "path": "./icons/boa-esporte/icon-theme-1947.json"
+      },
+      {
+        "id": "brasileirao-boa-esporte-1988",
+        "label": "Brasileirão: Boa Esporte-MG (retrô 1988–1996)",
+        "path": "./icons/boa-esporte/icon-theme-1988.json"
+      },
+      {
+        "id": "brasileirao-boa-esporte-1996",
+        "label": "Brasileirão: Boa Esporte-MG (retrô 1996–2005)",
+        "path": "./icons/boa-esporte/icon-theme-1996.json"
+      },
+      {
+        "id": "brasileirao-boa-esporte-2005",
+        "label": "Brasileirão: Boa Esporte-MG (retrô 2005–2007)",
+        "path": "./icons/boa-esporte/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-boa-esporte-2008",
+        "label": "Brasileirão: Boa Esporte-MG (retrô 2008–2011)",
+        "path": "./icons/boa-esporte/icon-theme-2008.json"
+      },
+      {
+        "id": "brasileirao-boa-esporte-2011",
+        "label": "Brasileirão: Boa Esporte-MG (retrô 2011–2016)",
+        "path": "./icons/boa-esporte/icon-theme-2011.json"
       },
       {
         "id": "brasileirao-tupi",
