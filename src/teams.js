@@ -2293,7 +2293,8 @@ const times = [
     slug: "boa-esporte",
     swatch: "🟩🟥⬜",
     uf: "MG",
-    crestLabel: "Boa Esporte-MG (desde 2011)",
+    crestLabel: "Boa Esporte-MG (desde 2016)",
+    // Retrôs 1950–1988: período vazio, pois a Logopedia não fornece escudos com qualidade mínima para serem melhorados com IA.
     bgColored: true,
     titles: {
       brasileirao: [],

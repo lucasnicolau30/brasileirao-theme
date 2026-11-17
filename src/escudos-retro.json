@@ -5600,9 +5600,113 @@
   ],
   "boa-esporte": [
     {
-      "id": "1998",
-      "label": "1998–2011",
-      "local": "Ituiutaba-1998.svg"
+      "id": "1947",
+      "label": "1947–1950",
+      "local": "Boa-Esporte-1947.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#007830",
+        "#f8f8f8",
+        "#e00000"
+      ]
+    },
+    {
+      "id": "1988",
+      "label": "1988–1996",
+      "local": "Boa-Esporte-1988.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#007840",
+        "#d83028",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1996",
+      "label": "1996–2005",
+      "local": "Boa-Esporte-1996.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#008028",
+        "#f8f8f8",
+        "#e00000"
+      ]
+    },
+    {
+      "id": "2005",
+      "label": "2005–2007",
+      "local": "Boa-Esporte-2005.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#008028",
+        "#f8f8f8",
+        "#e80000",
+        "#d8a840"
+      ]
+    },
+    {
+      "id": "2008",
+      "label": "2008–2011",
+      "local": "Boa-Esporte-2008.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#007840",
+        "#d83028",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "2011",
+      "label": "2011–2016",
+      "local": "Boa-Esporte-2011.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#008040",
+        "#e03030",
+        "#f8f8f8"
+      ]
     }
   ],
   "villa-nova": [
