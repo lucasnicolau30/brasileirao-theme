@@ -2216,7 +2216,8 @@ const times = [
     slug: "uberlandia",
     swatch: "🟩⬜",
     uf: "MG",
-    crestLabel: "Uberlândia (desde 2023)",
+    crestLabel: "Uberlândia (desde 2026)",
+    // Escudo atual: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     bgColored: true,
     titleOrder: ["serieD", "serieB"],
     titles: {
