@@ -3092,9 +3092,54 @@
         "path": "./icons/america-rn/icon-theme-1915.json"
       },
       {
+        "id": "brasileirao-america-rn-1918",
+        "label": "Brasileirão: América-RN (retrô 1918–1940)",
+        "path": "./icons/america-rn/icon-theme-1918.json"
+      },
+      {
+        "id": "brasileirao-america-rn-1940",
+        "label": "Brasileirão: América-RN (retrô 1940–1957)",
+        "path": "./icons/america-rn/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-america-rn-1957",
+        "label": "Brasileirão: América-RN (retrô 1957–1973)",
+        "path": "./icons/america-rn/icon-theme-1957.json"
+      },
+      {
         "id": "brasileirao-america-rn-1973",
         "label": "Brasileirão: América-RN (retrô 1973–1979)",
         "path": "./icons/america-rn/icon-theme-1973.json"
+      },
+      {
+        "id": "brasileirao-america-rn-1979",
+        "label": "Brasileirão: América-RN (retrô 1979–1988)",
+        "path": "./icons/america-rn/icon-theme-1979.json"
+      },
+      {
+        "id": "brasileirao-america-rn-1988",
+        "label": "Brasileirão: América-RN (retrô 1988–1999)",
+        "path": "./icons/america-rn/icon-theme-1988.json"
+      },
+      {
+        "id": "brasileirao-america-rn-1999",
+        "label": "Brasileirão: América-RN (retrô 1999–2005)",
+        "path": "./icons/america-rn/icon-theme-1999.json"
+      },
+      {
+        "id": "brasileirao-america-rn-2005",
+        "label": "Brasileirão: América-RN (retrô 2005–2012)",
+        "path": "./icons/america-rn/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-america-rn-2012",
+        "label": "Brasileirão: América-RN (retrô 2012–2016)",
+        "path": "./icons/america-rn/icon-theme-2012.json"
+      },
+      {
+        "id": "brasileirao-america-rn-2016",
+        "label": "Brasileirão: América-RN (retrô 2016–2022)",
+        "path": "./icons/america-rn/icon-theme-2016.json"
       },
       {
         "id": "brasileirao-america-rn-2022",
@@ -3112,9 +3157,49 @@
         "path": "./icons/abc/icon-theme-1915.json"
       },
       {
+        "id": "brasileirao-abc-1926",
+        "label": "Brasileirão: ABC (retrô 1926–1928)",
+        "path": "./icons/abc/icon-theme-1926.json"
+      },
+      {
+        "id": "brasileirao-abc-1928",
+        "label": "Brasileirão: ABC (retrô 1928–1930)",
+        "path": "./icons/abc/icon-theme-1928.json"
+      },
+      {
+        "id": "brasileirao-abc-1930",
+        "label": "Brasileirão: ABC (retrô 1930–1953)",
+        "path": "./icons/abc/icon-theme-1930.json"
+      },
+      {
+        "id": "brasileirao-abc-1953",
+        "label": "Brasileirão: ABC (retrô 1953–1956)",
+        "path": "./icons/abc/icon-theme-1953.json"
+      },
+      {
+        "id": "brasileirao-abc-1956",
+        "label": "Brasileirão: ABC (retrô 1956–1970)",
+        "path": "./icons/abc/icon-theme-1956.json"
+      },
+      {
+        "id": "brasileirao-abc-1970",
+        "label": "Brasileirão: ABC (retrô 1970–1976)",
+        "path": "./icons/abc/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-abc-1976",
+        "label": "Brasileirão: ABC (retrô 1976–1996)",
+        "path": "./icons/abc/icon-theme-1976.json"
+      },
+      {
         "id": "brasileirao-abc-1996",
         "label": "Brasileirão: ABC (retrô 1996–2010)",
         "path": "./icons/abc/icon-theme-1996.json"
+      },
+      {
+        "id": "brasileirao-abc-2010",
+        "label": "Brasileirão: ABC (retrô 2010–2011)",
+        "path": "./icons/abc/icon-theme-2010.json"
       },
       {
         "id": "brasileirao-campinense",
