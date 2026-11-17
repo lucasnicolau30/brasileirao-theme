@@ -3744,10 +3744,10 @@
   "Brasileirão: Atlético-MG": {
     "slug": "atletico-mg",
     "uf": "MG",
-    "crestLabel": "Atual · desde 1999",
-    "crestIcon": "escudo-be6b4004.svg",
-    "listIcon": "escudo-be6b4004.svg",
-    "backgroundAspect": 0.672,
+    "crestLabel": "Atual · desde 2016",
+    "crestIcon": "escudo-2aa5df3b.svg",
+    "listIcon": "escudo-2aa5df3b.svg",
+    "backgroundAspect": 0.664,
     "titles": {
       "brasileirao": [
         1937,
@@ -3821,39 +3821,180 @@
         2025
       ]
     },
+    "titleOrder": [
+      "copaDoBrasil",
+      "brasileirao",
+      "libertadores",
+      "estadual"
+    ],
     "retro": [
       {
-        "id": "1910",
-        "label": "1910–1922",
-        "fullLabel": "1910–1922",
+        "id": "1908",
+        "label": "1908–1915",
+        "fullLabel": "1908–1915",
         "atual": false,
-        "file": "retro-1910-30362587.svg",
-        "aspect": 1.4,
-        "iconTheme": "brasileirao-atletico-mg-1910"
+        "file": "retro-1908-be6f6fe2.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-atletico-mg-1908"
+      },
+      {
+        "id": "1915",
+        "label": "1915–1927",
+        "fullLabel": "1915–1927",
+        "atual": false,
+        "file": "retro-1915-18e763f5.svg",
+        "aspect": 1.34,
+        "iconTheme": "brasileirao-atletico-mg-1915"
+      },
+      {
+        "id": "1927",
+        "label": "1927–1937",
+        "fullLabel": "1927–1937",
+        "atual": false,
+        "file": "retro-1927-aef6b133.svg",
+        "aspect": 0.871,
+        "iconTheme": "brasileirao-atletico-mg-1927"
+      },
+      {
+        "id": "1937",
+        "label": "1937–1940",
+        "fullLabel": "1937–1940",
+        "atual": false,
+        "file": "retro-1937-21edb70a.svg",
+        "aspect": 0.784,
+        "iconTheme": "brasileirao-atletico-mg-1937"
       },
       {
         "id": "1940",
-        "label": "1940–1949",
-        "fullLabel": "1940–1949",
+        "label": "1940–1950",
+        "fullLabel": "1940–1950",
         "atual": false,
-        "file": "retro-1940-26c0e2be.svg",
-        "aspect": 0.778,
+        "file": "retro-1940-9dc5e9f0.svg",
+        "aspect": 0.779,
         "iconTheme": "brasileirao-atletico-mg-1940"
       },
       {
-        "id": "1971",
-        "label": "1971–1979",
-        "fullLabel": "1971–1979",
+        "id": "1950",
+        "label": "1950–1960",
+        "fullLabel": "1950–1960",
         "atual": false,
-        "file": "retro-1971-69dd7486.svg",
-        "aspect": 0.668,
-        "iconTheme": "brasileirao-atletico-mg-1971"
+        "file": "retro-1950-f08f74a5.svg",
+        "aspect": 0.777,
+        "iconTheme": "brasileirao-atletico-mg-1950"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1970",
+        "fullLabel": "1960–1970",
+        "atual": false,
+        "file": "retro-1960-cab097b2.svg",
+        "aspect": 0.835,
+        "iconTheme": "brasileirao-atletico-mg-1960"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1972",
+        "fullLabel": "1970–1972",
+        "atual": false,
+        "file": "retro-1970-ed1e4078.svg",
+        "aspect": 0.834,
+        "iconTheme": "brasileirao-atletico-mg-1970"
+      },
+      {
+        "id": "1972",
+        "label": "1972–1980",
+        "fullLabel": "1972–1980",
+        "atual": false,
+        "file": "retro-1972-b04b27cc.svg",
+        "aspect": 0.664,
+        "iconTheme": "brasileirao-atletico-mg-1972"
+      },
+      {
+        "id": "1980",
+        "label": "1980–1982",
+        "fullLabel": "1980–1982",
+        "atual": false,
+        "file": "retro-1980-3534cb9b.svg",
+        "aspect": 0.611,
+        "iconTheme": "brasileirao-atletico-mg-1980"
+      },
+      {
+        "id": "1982",
+        "label": "1982–1983",
+        "fullLabel": "1982–1983",
+        "atual": false,
+        "file": "retro-1982-6a014189.svg",
+        "aspect": 0.645,
+        "iconTheme": "brasileirao-atletico-mg-1982"
+      },
+      {
+        "id": "1983",
+        "label": "1983–1987",
+        "fullLabel": "1983–1987",
+        "atual": false,
+        "file": "retro-1983-38881a93.svg",
+        "aspect": 0.677,
+        "iconTheme": "brasileirao-atletico-mg-1983"
+      },
+      {
+        "id": "1987",
+        "label": "1987–1992",
+        "fullLabel": "1987–1992",
+        "atual": false,
+        "file": "retro-1987-040b4b50.svg",
+        "aspect": 0.634,
+        "iconTheme": "brasileirao-atletico-mg-1987"
+      },
+      {
+        "id": "1992",
+        "label": "1992–1997",
+        "fullLabel": "1992–1997",
+        "atual": false,
+        "file": "retro-1992-24789a80.svg",
+        "aspect": 0.666,
+        "iconTheme": "brasileirao-atletico-mg-1992"
+      },
+      {
+        "id": "1997",
+        "label": "1997–1998",
+        "fullLabel": "1997–1998",
+        "atual": false,
+        "file": "retro-1997-ef33fe4e.svg",
+        "aspect": 0.721,
+        "iconTheme": "brasileirao-atletico-mg-1997"
+      },
+      {
+        "id": "1998",
+        "label": "1998–2006",
+        "fullLabel": "1998–2006",
+        "atual": false,
+        "file": "retro-1998-4a83b45b.svg",
+        "aspect": 0.681,
+        "iconTheme": "brasileirao-atletico-mg-1998"
+      },
+      {
+        "id": "2006",
+        "label": "2006–2016",
+        "fullLabel": "2006–2016",
+        "atual": false,
+        "file": "retro-2006-7e87e0f6.svg",
+        "aspect": 0.661,
+        "iconTheme": "brasileirao-atletico-mg-2006"
+      },
+      {
+        "id": "2008",
+        "label": "2008",
+        "fullLabel": "2008",
+        "atual": false,
+        "file": "retro-2008-c350468d.svg",
+        "aspect": 0.609,
+        "iconTheme": "brasileirao-atletico-mg-2008"
       }
     ],
     "alternates": [],
     "swatch": "⬛⬜",
     "primary": "#d0d0d0",
-    "background": "fundo-59d2692d.svg",
+    "background": "fundo-9dde6734.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
