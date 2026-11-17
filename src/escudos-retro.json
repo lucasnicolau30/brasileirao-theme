@@ -1690,6 +1690,81 @@
   ],
   "juventude": [
     {
+      "id": "1913",
+      "label": "1913",
+      "local": "Juventude-1913.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#009060",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1914",
+      "label": "1914–1920",
+      "local": "Juventude-1914.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#089050",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1920",
+      "label": "1920–1935",
+      "local": "Juventude-1920.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#089050",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1937",
+      "label": "1937–1947",
+      "local": "Juventude-1937.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#089050",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1948",
+      "label": "1948–1954",
+      "local": "Juventude-1948.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#089050",
+        "#f8f8f8"
+      ]
+    },
+    {
       "id": "1949",
       "label": "1949–1957",
       "local": "Juventude-1949.png",
@@ -1697,11 +1772,41 @@
       "nitido": true,
       "sobrepor": 1,
       "escala": 6,
-      "suavidade": 1.5,
-      "minimo": 150,
+      "suavidade": 1.2,
+      "minimo": 30,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#00a038"
+        "#009028",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1950",
+      "label": "1950–1954",
+      "local": "Juventude-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#089050",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1950b",
+      "label": "1950–1968",
+      "local": "Juventude-1950b.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#007028",
+        "#f8f8f8"
       ]
     },
     {
@@ -1711,13 +1816,80 @@
       "vetorizar": "alfa",
       "nitido": true,
       "sobrepor": 1,
-      "escala": 3,
+      "escala": 6,
       "suavidade": 1.2,
-      "minimo": 150,
+      "minimo": 30,
       "vetorizarPaleta": [
-        "#ffffff",
+        "#f8f8f8",
         "#089050"
       ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1971/1975–1997",
+      "local": "Juventude-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#089050",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1975",
+      "label": "1975",
+      "local": "Juventude-1975.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 1.2,
+      "minimo": 30,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#2e8c18"
+      ]
+    },
+    {
+      "id": "1998",
+      "label": "1998",
+      "local": "Juventude-1998.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#089050",
+        "#f8f8f8",
+        "#c0c0c0"
+      ],
+      "macio": true,
+      "nitidez": 30.0
+    },
+    {
+      "id": "2025",
+      "label": "2025",
+      "local": "Juventude-2025.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "vetorizarPaleta": [
+        "#206020",
+        "#f8f8f8",
+        "#c0c0c0",
+        "#f0b820"
+      ],
+      "macio": true,
+      "nitidez": 30.0
     }
   ],
   "parana": [
