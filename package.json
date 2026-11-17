@@ -1327,14 +1327,69 @@
         "path": "./icons/juventude/icon-theme.json"
       },
       {
+        "id": "brasileirao-juventude-1913",
+        "label": "Brasileirão: Juventude (retrô 1913)",
+        "path": "./icons/juventude/icon-theme-1913.json"
+      },
+      {
+        "id": "brasileirao-juventude-1914",
+        "label": "Brasileirão: Juventude (retrô 1914–1920)",
+        "path": "./icons/juventude/icon-theme-1914.json"
+      },
+      {
+        "id": "brasileirao-juventude-1920",
+        "label": "Brasileirão: Juventude (retrô 1920–1935)",
+        "path": "./icons/juventude/icon-theme-1920.json"
+      },
+      {
+        "id": "brasileirao-juventude-1937",
+        "label": "Brasileirão: Juventude (retrô 1937–1947)",
+        "path": "./icons/juventude/icon-theme-1937.json"
+      },
+      {
+        "id": "brasileirao-juventude-1948",
+        "label": "Brasileirão: Juventude (retrô 1948–1954)",
+        "path": "./icons/juventude/icon-theme-1948.json"
+      },
+      {
         "id": "brasileirao-juventude-1949",
         "label": "Brasileirão: Juventude (retrô 1949–1957)",
         "path": "./icons/juventude/icon-theme-1949.json"
       },
       {
+        "id": "brasileirao-juventude-1950",
+        "label": "Brasileirão: Juventude (retrô 1950–1954)",
+        "path": "./icons/juventude/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-juventude-1950b",
+        "label": "Brasileirão: Juventude (retrô 1950–1968)",
+        "path": "./icons/juventude/icon-theme-1950b.json"
+      },
+      {
         "id": "brasileirao-juventude-1963",
         "label": "Brasileirão: Juventude (retrô 1963–1974)",
         "path": "./icons/juventude/icon-theme-1963.json"
+      },
+      {
+        "id": "brasileirao-juventude-1970",
+        "label": "Brasileirão: Juventude (retrô 1970–1971/1975–1997)",
+        "path": "./icons/juventude/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-juventude-1975",
+        "label": "Brasileirão: Juventude (retrô 1975)",
+        "path": "./icons/juventude/icon-theme-1975.json"
+      },
+      {
+        "id": "brasileirao-juventude-1998",
+        "label": "Brasileirão: Juventude (retrô 1998)",
+        "path": "./icons/juventude/icon-theme-1998.json"
+      },
+      {
+        "id": "brasileirao-juventude-2025",
+        "label": "Brasileirão: Juventude (retrô 2025)",
+        "path": "./icons/juventude/icon-theme-2025.json"
       },
       {
         "id": "brasileirao-bahia",
