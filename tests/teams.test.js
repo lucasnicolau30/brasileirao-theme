@@ -569,7 +569,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     for (const time of ['Guarani', 'Santo André', 'Mirassol', 'Ponte Preta']) assert.ok(!itens(time).includes('Estadual'), `${time}: sem Estadual`);
     // Goiano (Goiás, Atlético-GO e Vila Nova): taça do estado.
     for (const time of ['Goiás', 'Atlético-GO', 'Vila Nova']) assert.ok(itens(time).includes('Estadual') && m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-go.png')), `${time}: deve usar o troféu do Goiano`);
-    for (const time of ['Sport']) assert.ok(itens(time).includes('Estadual') && m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-generico.png')), `${time}: estado sem a foto do troféu usa o troféu genérico`);
+    for (const time of ['Sport', 'Santa Cruz', 'Náutico']) assert.ok(itens(time).includes('Estadual') && m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-pe.png')), `${time}: deve usar o troféu do Pernambucano`);
     // Os 12 grandes também mostram o Estadual (quando o estado tem a foto do troféu).
     for (const time of ['Flamengo', 'São Paulo', 'Cruzeiro']) assert.ok(itens(time).includes('Estadual'), `${time}: grande mostra o Estadual`);
     assert.deepEqual(itens('Remo'), ['Copa Verde', 'Série C', 'Estadual']);
