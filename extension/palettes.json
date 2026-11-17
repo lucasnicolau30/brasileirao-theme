@@ -13900,15 +13900,82 @@
         2022
       ]
     },
+    "titleOrder": [
+      "estadual",
+      "copaDoNordeste"
+    ],
     "retro": [
       {
-        "id": "1960",
-        "label": "1960–1969",
-        "fullLabel": "1960–1969",
+        "id": "1915",
+        "label": "1915–1950",
+        "fullLabel": "1915–1950",
         "atual": false,
-        "file": "retro-1960-5919e47e.svg",
-        "aspect": 0.83,
+        "file": "retro-1915-e13cf074.svg",
+        "aspect": 0.831,
+        "iconTheme": "brasileirao-campinense-1915"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1960",
+        "fullLabel": "1950–1960",
+        "atual": false,
+        "file": "retro-1950-2dbad6ea.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-campinense-1950"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1991",
+        "fullLabel": "1960–1991",
+        "atual": false,
+        "file": "retro-1960-051e5c1e.svg",
+        "aspect": 0.999,
         "iconTheme": "brasileirao-campinense-1960"
+      },
+      {
+        "id": "1991",
+        "label": "1991–1992",
+        "fullLabel": "1991–1992",
+        "atual": false,
+        "file": "retro-1991-623e6e1a.svg",
+        "aspect": 1.009,
+        "iconTheme": "brasileirao-campinense-1991"
+      },
+      {
+        "id": "1993",
+        "label": "1993–2002",
+        "fullLabel": "1993–2002",
+        "atual": false,
+        "file": "retro-1993-2ca1102d.svg",
+        "aspect": 1.012,
+        "iconTheme": "brasileirao-campinense-1993"
+      },
+      {
+        "id": "2003",
+        "label": "2003–2010",
+        "fullLabel": "2003–2010",
+        "atual": false,
+        "file": "retro-2003-393f91c8.svg",
+        "aspect": 0.883,
+        "iconTheme": "brasileirao-campinense-2003"
+      },
+      {
+        "id": "2011",
+        "label": "2011–2014",
+        "fullLabel": "2011–2014",
+        "atual": false,
+        "file": "retro-2011-80ad787c.svg",
+        "aspect": 0.836,
+        "iconTheme": "brasileirao-campinense-2011"
+      },
+      {
+        "id": "2014",
+        "label": "2014–2020",
+        "fullLabel": "2014–2020",
+        "atual": false,
+        "file": "retro-2014-3c2e8516.svg",
+        "aspect": 0.702,
+        "iconTheme": "brasileirao-campinense-2014"
       }
     ],
     "alternates": [],
@@ -14027,6 +14094,10 @@
         2026
       ]
     },
+    "titleOrder": [
+      "estadual",
+      "serieD"
+    ],
     "retro": [
       {
         "id": "1931",
@@ -14159,7 +14230,7 @@
       }
     ],
     "alternates": [],
-    "swatch": "⬛⬜🟨",
+    "swatch": "⬛⬜",
     "primary": "#d0d0d0",
     "background": "fundo-552bd296.svg",
     "backgroundColored": true,
