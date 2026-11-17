@@ -31,9 +31,9 @@ const times = [
     bgPosition: "42.4% 50%",
     titleOrder: [
       "copaDoBrasil",
-      "libertadores",
-      "mundial",
       "brasileirao",
+      "mundial",
+      "libertadores",
       "estadual",
     ],
     titles: {
@@ -208,6 +208,13 @@ const times = [
     uf: "SP",
     crestLabel: "Corinthians (desde 1980)",
     bgColored: true,
+    titleOrder: [
+      "copaDoBrasil",
+      "brasileirao",
+      "mundial",
+      "libertadores",
+      "estadual",
+    ],
     titles: {
       brasileirao: [1990, 1998, 1999, 2005, 2011, 2015, 2017],
       copaDoBrasil: [1995, 2002, 2009, 2025],
@@ -296,9 +303,9 @@ const times = [
     bgColored: true,
     titleOrder: [
       "copaDoBrasil",
+      "brasileirao",
       "libertadores",
       "mundial",
-      "brasileirao",
       "sulAmericana",
       "estadual",
     ],
@@ -344,6 +351,13 @@ const times = [
     uf: "SP",
     crestLabel: "Santos (desde 2023)",
     bgColored: true,
+    titleOrder: [
+      "copaDoBrasil",
+      "brasileirao",
+      "mundial",
+      "libertadores",
+      "estadual",
+    ],
     titles: {
       brasileirao: [1961, 1962, 1963, 1964, 1965, 1968, 2002, 2004],
       copaDoBrasil: [2010],
@@ -472,6 +486,13 @@ const times = [
     uf: "RS",
     crestLabel: "Grêmio (desde 1993)",
     bgColored: true,
+    titleOrder: [
+      "copaDoBrasil",
+      "brasileirao",
+      "mundial",
+      "libertadores",
+      "estadual",
+    ],
     titles: {
       brasileirao: [1981, 1996],
       copaDoBrasil: [1989, 1994, 1997, 2001, 2016],
@@ -515,9 +536,9 @@ const times = [
     bgColored: true,
     titleOrder: [
       "copaDoBrasil",
+      "brasileirao",
       "libertadores",
       "mundial",
-      "brasileirao",
       "sulAmericana",
       "estadual",
     ],

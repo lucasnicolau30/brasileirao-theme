@@ -459,10 +459,12 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     m._compile(`${fs.readFileSync(file, 'utf8')}\nmodule.exports.titlesHtml = titlesHtml;`, file);
     const itens = (team) => [...m.exports.titlesHtml(palettes[`${PREFIX}: ${team}`]).matchAll(/<div class="name">([^<]+)<\/div>/g)].map((x) => x[1]);
     assert.deepEqual(itens('Amazonas FC'), ['Estadual', 'Série C'], 'Amazonas FC: o Estadual vem antes da Série C');
-    assert.deepEqual(itens('Flamengo'), ['Copa do Brasil', 'Libertadores', 'Mundial', 'Brasileirão', 'Estadual'], 'o Mundial fica logo à direita da Libertadores');
-    assert.deepEqual(itens('São Paulo'), ['Copa do Brasil', 'Libertadores', 'Mundial', 'Brasileirão', 'Sul-Americana', 'Estadual']);
+    assert.deepEqual(itens('Flamengo'), ['Copa do Brasil', 'Brasileirão', 'Mundial', 'Libertadores', 'Estadual'], 'Flamengo: ordem do titleOrder em teams.js');
+    assert.deepEqual(itens('São Paulo'), ['Copa do Brasil', 'Brasileirão', 'Libertadores', 'Mundial', 'Sul-Americana', 'Estadual']);
+    assert.deepEqual(itens('Internacional'), ['Copa do Brasil', 'Brasileirão', 'Libertadores', 'Mundial', 'Sul-Americana', 'Estadual']);
+    for (const time of ['Santos', 'Corinthians', 'Grêmio']) assert.deepEqual(itens(time), ['Copa do Brasil', 'Brasileirão', 'Mundial', 'Libertadores', 'Estadual'], `${time}: mesma ordem do Flamengo (titleOrder em teams.js)`);
     // Com 5 competições o Mundial (o ápice) fica no centro.
-    for (const time of ['São Paulo', 'Corinthians', 'Santos', 'Grêmio', 'Internacional']) assert.equal(itens(time)[2], 'Mundial', `${time}: Mundial deve ficar no centro`);
+    for (const time of ['Corinthians', 'Santos', 'Grêmio']) assert.equal(itens(time)[2], 'Mundial', `${time}: Mundial deve ficar no centro`);
     // Criciúma: a Série B fica no centro (titleOrder em teams.js); os outros times mantêm a ordem padrão. O Estadual vai sempre por último, fora da conta do centro.
     assert.deepEqual(itens('Criciúma'), ['Série C', 'Série B', 'Copa do Brasil', 'Estadual']);
     assert.deepEqual(itens('Bragantino'), ['Série C', 'Série B', 'Estadual'], 'Bragantino: a Série B fica no centro (titleOrder em teams.js)');
