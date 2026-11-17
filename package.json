@@ -1167,9 +1167,64 @@
         "path": "./icons/america-mg/icon-theme-1912.json"
       },
       {
+        "id": "brasileirao-america-mg-1933",
+        "label": "Brasileirão: América-MG (retrô 1933–1943)",
+        "path": "./icons/america-mg/icon-theme-1933.json"
+      },
+      {
+        "id": "brasileirao-america-mg-1943",
+        "label": "Brasileirão: América-MG (retrô 1943–1971)",
+        "path": "./icons/america-mg/icon-theme-1943.json"
+      },
+      {
+        "id": "brasileirao-america-mg-1971",
+        "label": "Brasileirão: América-MG (retrô 1971–1993)",
+        "path": "./icons/america-mg/icon-theme-1971.json"
+      },
+      {
+        "id": "brasileirao-america-mg-1993",
+        "label": "Brasileirão: América-MG (retrô 1993–1997)",
+        "path": "./icons/america-mg/icon-theme-1993.json"
+      },
+      {
+        "id": "brasileirao-america-mg-1997",
+        "label": "Brasileirão: América-MG (retrô 1997–2000)",
+        "path": "./icons/america-mg/icon-theme-1997.json"
+      },
+      {
+        "id": "brasileirao-america-mg-2000",
+        "label": "Brasileirão: América-MG (retrô 2000–2009)",
+        "path": "./icons/america-mg/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-america-mg-2009",
+        "label": "Brasileirão: América-MG (retrô 2009–2011)",
+        "path": "./icons/america-mg/icon-theme-2009.json"
+      },
+      {
+        "id": "brasileirao-america-mg-2011",
+        "label": "Brasileirão: América-MG (retrô 2011–2012)",
+        "path": "./icons/america-mg/icon-theme-2011.json"
+      },
+      {
+        "id": "brasileirao-america-mg-2012",
+        "label": "Brasileirão: América-MG (retrô 2012–2017)",
+        "path": "./icons/america-mg/icon-theme-2012.json"
+      },
+      {
         "id": "brasileirao-america-mg-2017",
         "label": "Brasileirão: América-MG (retrô 2017–2018)",
         "path": "./icons/america-mg/icon-theme-2017.json"
+      },
+      {
+        "id": "brasileirao-america-mg-2018",
+        "label": "Brasileirão: América-MG (retrô 2018–2020)",
+        "path": "./icons/america-mg/icon-theme-2018.json"
+      },
+      {
+        "id": "brasileirao-america-mg-2020",
+        "label": "Brasileirão: América-MG (retrô 2020–2021)",
+        "path": "./icons/america-mg/icon-theme-2020.json"
       },
       {
         "id": "brasileirao-uberlandia",
