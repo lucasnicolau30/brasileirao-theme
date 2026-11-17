@@ -484,7 +484,8 @@ const times = [
     slug: "gremio",
     swatch: "🟦⬛⬜",
     uf: "RS",
-    crestLabel: "Grêmio (desde 1993)",
+    crestLabel: "Grêmio (desde 2017)",
+    // Retrô 1996–1997: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     bgColored: true,
     titleOrder: [
       "copaDoBrasil",

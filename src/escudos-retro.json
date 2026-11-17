@@ -1524,23 +1524,291 @@
   "gremio": [
     {
       "id": "1903",
-      "label": "1903–1910",
+      "label": "1903–1904",
       "local": "Gremio-1903.png",
-      "vetorizar": "duas-tintas",
-      "tinta": "#4f80b1"
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#4078b8",
+        "#f8f8f8"
+      ]
     },
     {
-      "id": "1922",
-      "label": "1922",
-      "local": "Gremio-1922.png",
-      "vetorizar": "suave",
+      "id": "1904",
+      "label": "1904–1918",
+      "local": "Gremio-1904.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#0089cd",
-        "#1a1b1c",
-        "#f0cc18"
+        "#4880b8",
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1918",
+      "label": "1918–1945",
+      "local": "Gremio-1918.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#58a0d8",
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1945",
+      "label": "1945–1949",
+      "local": "Gremio-1945.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#58a0d8",
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1949",
+      "label": "1949–1968",
+      "local": "Gremio-1949.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#58a0d8",
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1968",
+      "label": "1968–1970",
+      "local": "Gremio-1968.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#58a0d8",
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1981",
+      "local": "Gremio-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#88c0e8",
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1981",
+      "label": "1981–1983",
+      "local": "Gremio-1981.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#4880c0",
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1983",
+      "label": "1983–1986",
+      "local": "Gremio-1983.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#58a0d8",
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1986",
+      "label": "1986–1995",
+      "local": "Gremio-1986.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#88c0e8",
+        "#f8f8f8",
+        "#000000",
+        "#a07868",
+        "#808080",
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "1995",
+      "label": "1995–1996",
+      "local": "Gremio-1995.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#70b0e0",
+        "#f8f8f8",
+        "#000000",
+        "#a07868",
+        "#808080",
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "1996",
+      "label": "1996–1997",
+      "local": "Gremio-1996.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 3.5,
+      "minimo": 20,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#88c0e8",
+        "#f8f8f8",
+        "#000000",
+        "#a07868",
+        "#808080",
+        "#f8c058"
       ],
-      "silhueta": "borda",
-      "refinar": true
+      "contornoClaro": true
+    },
+    {
+      "id": "1997",
+      "label": "1997–2001",
+      "local": "Gremio-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#4088c0",
+        "#f8f8f8",
+        "#000000",
+        "#a07868",
+        "#808080",
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2012",
+      "local": "Gremio-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#68c0e8",
+        "#f8f8f8",
+        "#000000",
+        "#a07868",
+        "#808080",
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2017",
+      "local": "Gremio-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#58a0d8",
+        "#f8f8f8",
+        "#000000",
+        "#a07868",
+        "#808080",
+        "#f8c058"
+      ]
     }
   ],
   "amazonas": [
