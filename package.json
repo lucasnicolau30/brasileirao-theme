@@ -1293,13 +1293,78 @@
       },
       {
         "id": "brasileirao-gremio-1903",
-        "label": "Brasileirão: Grêmio (retrô 1903–1910)",
+        "label": "Brasileirão: Grêmio (retrô 1903–1904)",
         "path": "./icons/gremio/icon-theme-1903.json"
       },
       {
-        "id": "brasileirao-gremio-1922",
-        "label": "Brasileirão: Grêmio (retrô 1922)",
-        "path": "./icons/gremio/icon-theme-1922.json"
+        "id": "brasileirao-gremio-1904",
+        "label": "Brasileirão: Grêmio (retrô 1904–1918)",
+        "path": "./icons/gremio/icon-theme-1904.json"
+      },
+      {
+        "id": "brasileirao-gremio-1918",
+        "label": "Brasileirão: Grêmio (retrô 1918–1945)",
+        "path": "./icons/gremio/icon-theme-1918.json"
+      },
+      {
+        "id": "brasileirao-gremio-1945",
+        "label": "Brasileirão: Grêmio (retrô 1945–1949)",
+        "path": "./icons/gremio/icon-theme-1945.json"
+      },
+      {
+        "id": "brasileirao-gremio-1949",
+        "label": "Brasileirão: Grêmio (retrô 1949–1968)",
+        "path": "./icons/gremio/icon-theme-1949.json"
+      },
+      {
+        "id": "brasileirao-gremio-1968",
+        "label": "Brasileirão: Grêmio (retrô 1968–1970)",
+        "path": "./icons/gremio/icon-theme-1968.json"
+      },
+      {
+        "id": "brasileirao-gremio-1970",
+        "label": "Brasileirão: Grêmio (retrô 1970–1981)",
+        "path": "./icons/gremio/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-gremio-1981",
+        "label": "Brasileirão: Grêmio (retrô 1981–1983)",
+        "path": "./icons/gremio/icon-theme-1981.json"
+      },
+      {
+        "id": "brasileirao-gremio-1983",
+        "label": "Brasileirão: Grêmio (retrô 1983–1986)",
+        "path": "./icons/gremio/icon-theme-1983.json"
+      },
+      {
+        "id": "brasileirao-gremio-1986",
+        "label": "Brasileirão: Grêmio (retrô 1986–1995)",
+        "path": "./icons/gremio/icon-theme-1986.json"
+      },
+      {
+        "id": "brasileirao-gremio-1995",
+        "label": "Brasileirão: Grêmio (retrô 1995–1996)",
+        "path": "./icons/gremio/icon-theme-1995.json"
+      },
+      {
+        "id": "brasileirao-gremio-1996",
+        "label": "Brasileirão: Grêmio (retrô 1996–1997)",
+        "path": "./icons/gremio/icon-theme-1996.json"
+      },
+      {
+        "id": "brasileirao-gremio-1997",
+        "label": "Brasileirão: Grêmio (retrô 1997–2001)",
+        "path": "./icons/gremio/icon-theme-1997.json"
+      },
+      {
+        "id": "brasileirao-gremio-2001",
+        "label": "Brasileirão: Grêmio (retrô 2001–2012)",
+        "path": "./icons/gremio/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-gremio-2012",
+        "label": "Brasileirão: Grêmio (retrô 2012–2017)",
+        "path": "./icons/gremio/icon-theme-2012.json"
       },
       {
         "id": "brasileirao-internacional",
