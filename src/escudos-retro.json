@@ -228,23 +228,324 @@
   ],
   "atletico-mg": [
     {
-      "id": "1910",
-      "label": "1910–1922",
-      "local": "Atletico-1910.jpg",
-      "vetorizar": "monocromo",
-      "cor": "#dcdcdc"
+      "id": "1908",
+      "label": "1908–1915",
+      "local": "Atletico-MG-1908.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1915",
+      "label": "1915–1927",
+      "local": "Atletico-MG-1915.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1927",
+      "label": "1927–1937",
+      "local": "Atletico-MG-1927.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1937",
+      "label": "1937–1940",
+      "local": "Atletico-MG-1937.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
     },
     {
       "id": "1940",
-      "label": "1940–1949",
-      "commons": "1940 Clube Atlético Mineiro crest.jpg",
-      "vetorizarAuto": true
+      "label": "1940–1950",
+      "local": "Atletico-MG-1940.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
     },
     {
-      "id": "1971",
-      "label": "1971–1979",
-      "commons": "1970 Clube Atlético Mineiro crest.jpg",
-      "vetorizarAuto": true
+      "id": "1950",
+      "label": "1950–1960",
+      "local": "Atletico-MG-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1960",
+      "label": "1960–1970",
+      "local": "Atletico-MG-1960.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1972",
+      "local": "Atletico-MG-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "1972",
+      "label": "1972–1980",
+      "local": "Atletico-MG-1972.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "1980",
+      "label": "1980–1982",
+      "local": "Atletico-MG-1980.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "1982",
+      "label": "1982–1983",
+      "local": "Atletico-MG-1982.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "1983",
+      "label": "1983–1987",
+      "local": "Atletico-MG-1983.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f8c058",
+        "#d83040"
+      ]
+    },
+    {
+      "id": "1987",
+      "label": "1987–1992",
+      "local": "Atletico-MG-1987.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "1992",
+      "label": "1992–1997",
+      "local": "Atletico-MG-1992.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "1997",
+      "label": "1997–1998",
+      "local": "Atletico-MG-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f8c058",
+        "#d83040"
+      ]
+    },
+    {
+      "id": "1998",
+      "label": "1998–2006",
+      "local": "Atletico-MG-1998.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f8c058",
+        "#d83040"
+      ]
+    },
+    {
+      "id": "2006",
+      "label": "2006–2016",
+      "local": "Atletico-MG-2006.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f8c058"
+      ]
+    },
+    {
+      "id": "2008",
+      "label": "2008",
+      "local": "Atletico-MG-2008.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f8c058"
+      ]
     }
   ],
   "internacional": [

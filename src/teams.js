@@ -439,8 +439,9 @@ const times = [
     slug: "atletico-mg",
     swatch: "⬛⬜",
     uf: "MG",
-    crestLabel: "Atlético Mineiro (desde 1999)",
+    crestLabel: "Atlético Mineiro (desde 2016)",
     bgColored: true,
+    titleOrder: ["copaDoBrasil", "brasileirao", "libertadores", "estadual"],
     titles: {
       brasileirao: [1937, 1971, 2021],
       copaDoBrasil: [2014, 2021],
