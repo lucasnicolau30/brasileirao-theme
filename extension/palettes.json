@@ -4652,9 +4652,9 @@
   "Brasileirão: Grêmio": {
     "slug": "gremio",
     "uf": "RS",
-    "crestLabel": "Atual · desde 1993",
-    "crestIcon": "escudo-d07d493d.svg",
-    "listIcon": "escudo-d07d493d.svg",
+    "crestLabel": "Atual · desde 2017",
+    "crestIcon": "escudo-05173c70.svg",
+    "listIcon": "escudo-05173c70.svg",
     "backgroundAspect": 0.839,
     "titles": {
       "brasileirao": [
@@ -4739,27 +4739,144 @@
     "retro": [
       {
         "id": "1903",
-        "label": "1903–1910",
-        "fullLabel": "1903–1910",
+        "label": "1903–1904",
+        "fullLabel": "1903–1904",
         "atual": false,
-        "file": "retro-1903-bd3bcd46.svg",
+        "file": "retro-1903-0e4ddd5c.svg",
         "aspect": 1,
         "iconTheme": "brasileirao-gremio-1903"
       },
       {
-        "id": "1922",
-        "label": "1922",
-        "fullLabel": "1922",
+        "id": "1904",
+        "label": "1904–1918",
+        "fullLabel": "1904–1918",
         "atual": false,
-        "file": "retro-1922-0bc2ed99.svg",
+        "file": "retro-1904-f364a830.svg",
         "aspect": 1,
-        "iconTheme": "brasileirao-gremio-1922"
+        "iconTheme": "brasileirao-gremio-1904"
+      },
+      {
+        "id": "1918",
+        "label": "1918–1945",
+        "fullLabel": "1918–1945",
+        "atual": false,
+        "file": "retro-1918-340ad8e7.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-gremio-1918"
+      },
+      {
+        "id": "1945",
+        "label": "1945–1949",
+        "fullLabel": "1945–1949",
+        "atual": false,
+        "file": "retro-1945-9b372798.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-gremio-1945"
+      },
+      {
+        "id": "1949",
+        "label": "1949–1968",
+        "fullLabel": "1949–1968",
+        "atual": false,
+        "file": "retro-1949-f1985924.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-gremio-1949"
+      },
+      {
+        "id": "1968",
+        "label": "1968–1970",
+        "fullLabel": "1968–1970",
+        "atual": false,
+        "file": "retro-1968-7374039d.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-gremio-1968"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1981",
+        "fullLabel": "1970–1981",
+        "atual": false,
+        "file": "retro-1970-24293b5e.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-gremio-1970"
+      },
+      {
+        "id": "1981",
+        "label": "1981–1983",
+        "fullLabel": "1981–1983",
+        "atual": false,
+        "file": "retro-1981-dfed69c7.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-gremio-1981"
+      },
+      {
+        "id": "1983",
+        "label": "1983–1986",
+        "fullLabel": "1983–1986",
+        "atual": false,
+        "file": "retro-1983-23261bf7.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-gremio-1983"
+      },
+      {
+        "id": "1986",
+        "label": "1986–1995",
+        "fullLabel": "1986–1995",
+        "atual": false,
+        "file": "retro-1986-ec6e1178.svg",
+        "aspect": 0.769,
+        "iconTheme": "brasileirao-gremio-1986"
+      },
+      {
+        "id": "1995",
+        "label": "1995–1996",
+        "fullLabel": "1995–1996",
+        "atual": false,
+        "file": "retro-1995-ddb4262d.svg",
+        "aspect": 0.832,
+        "iconTheme": "brasileirao-gremio-1995"
+      },
+      {
+        "id": "1996",
+        "label": "1996–1997",
+        "fullLabel": "1996–1997",
+        "atual": false,
+        "file": "retro-1996-c59f0736.svg",
+        "aspect": 1.791,
+        "iconTheme": "brasileirao-gremio-1996"
+      },
+      {
+        "id": "1997",
+        "label": "1997–2001",
+        "fullLabel": "1997–2001",
+        "atual": false,
+        "file": "retro-1997-36b39b11.svg",
+        "aspect": 0.839,
+        "iconTheme": "brasileirao-gremio-1997"
+      },
+      {
+        "id": "2001",
+        "label": "2001–2012",
+        "fullLabel": "2001–2012",
+        "atual": false,
+        "file": "retro-2001-bac2cc42.svg",
+        "aspect": 0.825,
+        "iconTheme": "brasileirao-gremio-2001"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2017",
+        "fullLabel": "2012–2017",
+        "atual": false,
+        "file": "retro-2012-04f80b69.svg",
+        "aspect": 0.807,
+        "iconTheme": "brasileirao-gremio-2012"
       }
     ],
     "alternates": [],
     "swatch": "🟦⬛⬜",
     "primary": "#0b76b0",
-    "background": "fundo-cf89fec5.svg",
+    "background": "fundo-453276fe.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
