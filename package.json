@@ -1178,13 +1178,63 @@
       },
       {
         "id": "brasileirao-uberlandia-1922",
-        "label": "Brasileirão: Uberlândia (retrô 1922–1923)",
+        "label": "Brasileirão: Uberlândia (retrô 1922)",
         "path": "./icons/uberlandia/icon-theme-1922.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-1923",
+        "label": "Brasileirão: Uberlândia (retrô 1923–1941)",
+        "path": "./icons/uberlandia/icon-theme-1923.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-1942",
+        "label": "Brasileirão: Uberlândia (retrô 1942)",
+        "path": "./icons/uberlandia/icon-theme-1942.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-1943",
+        "label": "Brasileirão: Uberlândia (retrô 1943–1947)",
+        "path": "./icons/uberlandia/icon-theme-1943.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-1948",
+        "label": "Brasileirão: Uberlândia (retrô 1948–1952)",
+        "path": "./icons/uberlandia/icon-theme-1948.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-1953",
+        "label": "Brasileirão: Uberlândia (retrô 1953–1957)",
+        "path": "./icons/uberlandia/icon-theme-1953.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-1958",
+        "label": "Brasileirão: Uberlândia (retrô 1958–1961)",
+        "path": "./icons/uberlandia/icon-theme-1958.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-1962",
+        "label": "Brasileirão: Uberlândia (retrô 1962–1965)",
+        "path": "./icons/uberlandia/icon-theme-1962.json"
       },
       {
         "id": "brasileirao-uberlandia-1966",
         "label": "Brasileirão: Uberlândia (retrô 1966–1968)",
         "path": "./icons/uberlandia/icon-theme-1966.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-1969",
+        "label": "Brasileirão: Uberlândia (retrô 1969–1983)",
+        "path": "./icons/uberlandia/icon-theme-1969.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-1984",
+        "label": "Brasileirão: Uberlândia (retrô 1984–2022)",
+        "path": "./icons/uberlandia/icon-theme-1984.json"
+      },
+      {
+        "id": "brasileirao-uberlandia-2023",
+        "label": "Brasileirão: Uberlândia (retrô 2023–2026)",
+        "path": "./icons/uberlandia/icon-theme-2023.json"
       },
       {
         "id": "brasileirao-villa-nova",
