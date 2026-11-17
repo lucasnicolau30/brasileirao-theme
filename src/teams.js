@@ -2174,7 +2174,7 @@ const times = [
     slug: "america-mg",
     swatch: "🟩⬜⬛",
     uf: "MG",
-    crestLabel: "América-MG (desde 2018)",
+    crestLabel: "América-MG (desde 2021)",
     bgColored: true,
     titles: {
       brasileirao: [],

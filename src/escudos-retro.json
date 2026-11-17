@@ -2727,16 +2727,217 @@
       ]
     },
     {
+      "id": "1933",
+      "label": "1933–1943",
+      "local": "America-MG-1933.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83040",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1943",
+      "label": "1943–1971",
+      "local": "America-MG-1943.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1971",
+      "label": "1971–1993",
+      "local": "America-MG-1971.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#289060",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1993",
+      "label": "1993–1997",
+      "local": "America-MG-1993.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#287878"
+      ]
+    },
+    {
+      "id": "1997",
+      "label": "1997–2000",
+      "local": "America-MG-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#289060",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2009",
+      "local": "America-MG-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#207050",
+        "#f8f8f8",
+        "#f8c850"
+      ]
+    },
+    {
+      "id": "2009",
+      "label": "2009–2011",
+      "local": "America-MG-2009.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#209058",
+        "#f8f8f8",
+        "#f8c850",
+        "#d83038"
+      ]
+    },
+    {
+      "id": "2011",
+      "label": "2011–2012",
+      "local": "America-MG-2011.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#207050",
+        "#f8f8f8",
+        "#f8c850",
+        "#d83038"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2017",
+      "local": "America-MG-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#005838",
+        "#f8f8f8",
+        "#f8c850",
+        "#c82820"
+      ]
+    },
+    {
       "id": "2017",
       "label": "2017–2018",
       "local": "America-MG-2017.png",
-      "vetorizar": "suave",
-      "silhueta": "borda",
-      "refinar": true,
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#006038",
-        "#f8c000",
-        "#b82820"
+        "#006030",
+        "#f8f8f8",
+        "#f8c850",
+        "#c83028"
+      ]
+    },
+    {
+      "id": "2018",
+      "label": "2018–2020",
+      "local": "America-MG-2018.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#006030",
+        "#f8f8f8",
+        "#f8c850"
+      ]
+    },
+    {
+      "id": "2020",
+      "label": "2020–2021",
+      "local": "America-MG-2020.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#005040",
+        "#d0b078",
+        "#f8f8f8"
       ]
     }
   ],
