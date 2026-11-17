@@ -533,6 +533,8 @@ const times = [
     swatch: "🟥⬜",
     uf: "RS",
     crestLabel: "Internacional (desde 2009)",
+    // Retrôs 1982–2009, 1982–1983, 1983–1992, 1992–1993, 1993–2006, 2006–2007, 2006/2026, 2007–2009 e 2008: as datas se sobrepõem, pois segundo o Logopedia o escudo de 1982–2009 reúne o período inteiro e os demais são as versões dele, com estrelas, ramo e coroa.
+    // Retrôs 1957–1978 e 1975–1978/2025: as datas se sobrepõem, pois segundo o Logopedia o escudo de 1975–1978/2025 é secundário e voltou na camisa de 2025/26.
     bgColored: true,
     titleOrder: [
       "copaDoBrasil",
