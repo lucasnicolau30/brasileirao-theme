@@ -3915,10 +3915,10 @@
   "Brasileirão: América-MG": {
     "slug": "america-mg",
     "uf": "MG",
-    "crestLabel": "Atual · desde 2018",
-    "crestIcon": "escudo-0ccf6f54.svg",
-    "listIcon": "escudo-0ccf6f54.svg",
-    "backgroundAspect": 0.588,
+    "crestLabel": "Atual · desde 2021",
+    "crestIcon": "escudo-e5eb573b.svg",
+    "listIcon": "escudo-e5eb573b.svg",
+    "backgroundAspect": 0.581,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -3970,19 +3970,118 @@
         "iconTheme": "brasileirao-america-mg-1912"
       },
       {
+        "id": "1933",
+        "label": "1933–1943",
+        "fullLabel": "1933–1943",
+        "atual": false,
+        "file": "retro-1933-00005770.svg",
+        "aspect": 0.794,
+        "iconTheme": "brasileirao-america-mg-1933"
+      },
+      {
+        "id": "1943",
+        "label": "1943–1971",
+        "fullLabel": "1943–1971",
+        "atual": false,
+        "file": "retro-1943-c5e9d2ac.svg",
+        "aspect": 0.799,
+        "iconTheme": "brasileirao-america-mg-1943"
+      },
+      {
+        "id": "1971",
+        "label": "1971–1993",
+        "fullLabel": "1971–1993",
+        "atual": false,
+        "file": "retro-1971-2a73ae95.svg",
+        "aspect": 0.897,
+        "iconTheme": "brasileirao-america-mg-1971"
+      },
+      {
+        "id": "1993",
+        "label": "1993–1997",
+        "fullLabel": "1993–1997",
+        "atual": false,
+        "file": "retro-1993-631d1086.svg",
+        "aspect": 0.868,
+        "iconTheme": "brasileirao-america-mg-1993"
+      },
+      {
+        "id": "1997",
+        "label": "1997–2000",
+        "fullLabel": "1997–2000",
+        "atual": false,
+        "file": "retro-1997-59f87f4d.svg",
+        "aspect": 0.9,
+        "iconTheme": "brasileirao-america-mg-1997"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2009",
+        "fullLabel": "2000–2009",
+        "atual": false,
+        "file": "retro-2000-4c1ea6b3.svg",
+        "aspect": 0.72,
+        "iconTheme": "brasileirao-america-mg-2000"
+      },
+      {
+        "id": "2009",
+        "label": "2009–2011",
+        "fullLabel": "2009–2011",
+        "atual": false,
+        "file": "retro-2009-1f82a7d1.svg",
+        "aspect": 0.731,
+        "iconTheme": "brasileirao-america-mg-2009"
+      },
+      {
+        "id": "2011",
+        "label": "2011–2012",
+        "fullLabel": "2011–2012",
+        "atual": false,
+        "file": "retro-2011-9614db0f.svg",
+        "aspect": 0.941,
+        "iconTheme": "brasileirao-america-mg-2011"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2017",
+        "fullLabel": "2012–2017",
+        "atual": false,
+        "file": "retro-2012-46dddba9.svg",
+        "aspect": 0.593,
+        "iconTheme": "brasileirao-america-mg-2012"
+      },
+      {
         "id": "2017",
         "label": "2017–2018",
         "fullLabel": "2017–2018",
         "atual": false,
-        "file": "retro-2017-54757ccd.svg",
-        "aspect": 0.583,
+        "file": "retro-2017-79b84136.svg",
+        "aspect": 0.589,
         "iconTheme": "brasileirao-america-mg-2017"
+      },
+      {
+        "id": "2018",
+        "label": "2018–2020",
+        "fullLabel": "2018–2020",
+        "atual": false,
+        "file": "retro-2018-278f100b.svg",
+        "aspect": 0.581,
+        "iconTheme": "brasileirao-america-mg-2018"
+      },
+      {
+        "id": "2020",
+        "label": "2020–2021",
+        "fullLabel": "2020–2021",
+        "atual": false,
+        "file": "retro-2020-a559737d.svg",
+        "aspect": 0.581,
+        "iconTheme": "brasileirao-america-mg-2020"
       }
     ],
     "alternates": [],
     "swatch": "🟩⬜⬛",
     "primary": "#12935a",
-    "background": "fundo-b31d2ca3.svg",
+    "background": "fundo-c16d57a9.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
