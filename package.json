@@ -3502,9 +3502,44 @@
         "path": "./icons/campinense/icon-theme.json"
       },
       {
+        "id": "brasileirao-campinense-1915",
+        "label": "Brasileirão: Campinense (retrô 1915–1950)",
+        "path": "./icons/campinense/icon-theme-1915.json"
+      },
+      {
+        "id": "brasileirao-campinense-1950",
+        "label": "Brasileirão: Campinense (retrô 1950–1960)",
+        "path": "./icons/campinense/icon-theme-1950.json"
+      },
+      {
         "id": "brasileirao-campinense-1960",
-        "label": "Brasileirão: Campinense (retrô 1960–1969)",
+        "label": "Brasileirão: Campinense (retrô 1960–1991)",
         "path": "./icons/campinense/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-campinense-1991",
+        "label": "Brasileirão: Campinense (retrô 1991–1992)",
+        "path": "./icons/campinense/icon-theme-1991.json"
+      },
+      {
+        "id": "brasileirao-campinense-1993",
+        "label": "Brasileirão: Campinense (retrô 1993–2002)",
+        "path": "./icons/campinense/icon-theme-1993.json"
+      },
+      {
+        "id": "brasileirao-campinense-2003",
+        "label": "Brasileirão: Campinense (retrô 2003–2010)",
+        "path": "./icons/campinense/icon-theme-2003.json"
+      },
+      {
+        "id": "brasileirao-campinense-2011",
+        "label": "Brasileirão: Campinense (retrô 2011–2014)",
+        "path": "./icons/campinense/icon-theme-2011.json"
+      },
+      {
+        "id": "brasileirao-campinense-2014",
+        "label": "Brasileirão: Campinense (retrô 2014–2020)",
+        "path": "./icons/campinense/icon-theme-2014.json"
       },
       {
         "id": "brasileirao-botafogo-pb",
