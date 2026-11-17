@@ -1117,24 +1117,94 @@
         "path": "./icons/cruzeiro/icon-theme.json"
       },
       {
-        "id": "brasileirao-cruzeiro-1927",
-        "label": "Brasileirão: Cruzeiro (retrô 1927–1942)",
-        "path": "./icons/cruzeiro/icon-theme-1927.json"
+        "id": "brasileirao-cruzeiro-1921",
+        "label": "Brasileirão: Cruzeiro (retrô 1921–1922)",
+        "path": "./icons/cruzeiro/icon-theme-1921.json"
       },
       {
-        "id": "brasileirao-cruzeiro-1942",
-        "label": "Brasileirão: Cruzeiro (retrô 1942–1959)",
-        "path": "./icons/cruzeiro/icon-theme-1942.json"
+        "id": "brasileirao-cruzeiro-1922",
+        "label": "Brasileirão: Cruzeiro (retrô 1922–1923)",
+        "path": "./icons/cruzeiro/icon-theme-1922.json"
       },
       {
-        "id": "brasileirao-cruzeiro-1959",
-        "label": "Brasileirão: Cruzeiro (retrô 1959–1961)",
-        "path": "./icons/cruzeiro/icon-theme-1959.json"
+        "id": "brasileirao-cruzeiro-1923",
+        "label": "Brasileirão: Cruzeiro (retrô 1923–1928)",
+        "path": "./icons/cruzeiro/icon-theme-1923.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1928",
+        "label": "Brasileirão: Cruzeiro (retrô 1928–1935)",
+        "path": "./icons/cruzeiro/icon-theme-1928.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1935",
+        "label": "Brasileirão: Cruzeiro (retrô 1935–1942)",
+        "path": "./icons/cruzeiro/icon-theme-1935.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1942a",
+        "label": "Brasileirão: Cruzeiro (retrô 1942)",
+        "path": "./icons/cruzeiro/icon-theme-1942a.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1942b",
+        "label": "Brasileirão: Cruzeiro (retrô 1942–1944)",
+        "path": "./icons/cruzeiro/icon-theme-1942b.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1944",
+        "label": "Brasileirão: Cruzeiro (retrô 1944–1945)",
+        "path": "./icons/cruzeiro/icon-theme-1944.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1945",
+        "label": "Brasileirão: Cruzeiro (retrô 1945–1950)",
+        "path": "./icons/cruzeiro/icon-theme-1945.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1950",
+        "label": "Brasileirão: Cruzeiro (retrô 1950–1966)",
+        "path": "./icons/cruzeiro/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1966",
+        "label": "Brasileirão: Cruzeiro (retrô 1966–1970)",
+        "path": "./icons/cruzeiro/icon-theme-1966.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1970",
+        "label": "Brasileirão: Cruzeiro (retrô 1970–1975)",
+        "path": "./icons/cruzeiro/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1975",
+        "label": "Brasileirão: Cruzeiro (retrô 1975–1984)",
+        "path": "./icons/cruzeiro/icon-theme-1975.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1984",
+        "label": "Brasileirão: Cruzeiro (retrô 1984–1996)",
+        "path": "./icons/cruzeiro/icon-theme-1984.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-1996",
+        "label": "Brasileirão: Cruzeiro (retrô 1996–2003)",
+        "path": "./icons/cruzeiro/icon-theme-1996.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-2003",
+        "label": "Brasileirão: Cruzeiro (retrô 2003–2004)",
+        "path": "./icons/cruzeiro/icon-theme-2003.json"
       },
       {
         "id": "brasileirao-cruzeiro-2004",
-        "label": "Brasileirão: Cruzeiro (retrô 2004–2015)",
+        "label": "Brasileirão: Cruzeiro (retrô 2004–2016)",
         "path": "./icons/cruzeiro/icon-theme-2004.json"
+      },
+      {
+        "id": "brasileirao-cruzeiro-2016",
+        "label": "Brasileirão: Cruzeiro (retrô 2016–2021)",
+        "path": "./icons/cruzeiro/icon-theme-2016.json"
       },
       {
         "id": "brasileirao-atletico-mg",
