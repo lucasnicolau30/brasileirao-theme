@@ -4044,10 +4044,10 @@
   "Brasileirão: Uberlândia": {
     "slug": "uberlandia",
     "uf": "MG",
-    "crestLabel": "Atual · desde 2023",
-    "crestIcon": "escudo-7c54d3ae.svg",
-    "listIcon": "escudo-7c54d3ae.svg",
-    "backgroundAspect": 0.758,
+    "crestLabel": "Atual · desde 2026",
+    "crestIcon": "escudo-5b112e03.svg",
+    "listIcon": "escudo-5b112e03.svg",
+    "backgroundAspect": 0.712,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -4072,27 +4072,117 @@
     "retro": [
       {
         "id": "1922",
-        "label": "1922–1923",
-        "fullLabel": "1922–1923",
+        "label": "1922",
+        "fullLabel": "1922",
         "atual": false,
-        "file": "retro-1922-6257281f.svg",
+        "file": "retro-1922-c2e5089b.svg",
         "aspect": 1.808,
         "iconTheme": "brasileirao-uberlandia-1922"
+      },
+      {
+        "id": "1923",
+        "label": "1923–1941",
+        "fullLabel": "1923–1941",
+        "atual": false,
+        "file": "retro-1923-351a60d3.svg",
+        "aspect": 1.063,
+        "iconTheme": "brasileirao-uberlandia-1923"
+      },
+      {
+        "id": "1942",
+        "label": "1942",
+        "fullLabel": "1942",
+        "atual": false,
+        "file": "retro-1942-a412281f.svg",
+        "aspect": 1.065,
+        "iconTheme": "brasileirao-uberlandia-1942"
+      },
+      {
+        "id": "1943",
+        "label": "1943–1947",
+        "fullLabel": "1943–1947",
+        "atual": false,
+        "file": "retro-1943-19752aab.svg",
+        "aspect": 0.941,
+        "iconTheme": "brasileirao-uberlandia-1943"
+      },
+      {
+        "id": "1948",
+        "label": "1948–1952",
+        "fullLabel": "1948–1952",
+        "atual": false,
+        "file": "retro-1948-145cdd57.svg",
+        "aspect": 0.912,
+        "iconTheme": "brasileirao-uberlandia-1948"
+      },
+      {
+        "id": "1953",
+        "label": "1953–1957",
+        "fullLabel": "1953–1957",
+        "atual": false,
+        "file": "retro-1953-58b46ab4.svg",
+        "aspect": 0.932,
+        "iconTheme": "brasileirao-uberlandia-1953"
+      },
+      {
+        "id": "1958",
+        "label": "1958–1961",
+        "fullLabel": "1958–1961",
+        "atual": false,
+        "file": "retro-1958-84d588ba.svg",
+        "aspect": 0.875,
+        "iconTheme": "brasileirao-uberlandia-1958"
+      },
+      {
+        "id": "1962",
+        "label": "1962–1965",
+        "fullLabel": "1962–1965",
+        "atual": false,
+        "file": "retro-1962-c4bcdcdb.svg",
+        "aspect": 0.875,
+        "iconTheme": "brasileirao-uberlandia-1962"
       },
       {
         "id": "1966",
         "label": "1966–1968",
         "fullLabel": "1966–1968",
         "atual": false,
-        "file": "retro-1966-85476ad8.svg",
+        "file": "retro-1966-eb192007.svg",
         "aspect": 0.823,
         "iconTheme": "brasileirao-uberlandia-1966"
+      },
+      {
+        "id": "1969",
+        "label": "1969–1983",
+        "fullLabel": "1969–1983",
+        "atual": false,
+        "file": "retro-1969-a4d1b7ff.svg",
+        "aspect": 0.842,
+        "iconTheme": "brasileirao-uberlandia-1969"
+      },
+      {
+        "id": "1984",
+        "label": "1984–2022",
+        "fullLabel": "1984–2022",
+        "atual": false,
+        "file": "retro-1984-d961a1b2.svg",
+        "aspect": 0.912,
+        "iconTheme": "brasileirao-uberlandia-1984"
+      },
+      {
+        "id": "2023",
+        "label": "2023–2026",
+        "fullLabel": "2023–2026",
+        "atual": false,
+        "file": "retro-2023-025bbf1e.svg",
+        "aspect": 0.761,
+        "iconTheme": "brasileirao-uberlandia-2023"
       }
     ],
     "alternates": [],
     "swatch": "🟩⬜",
     "primary": "#12a05a",
-    "background": "fundo-8bc218f8.svg",
+    "background": "fundo-ea9a3263.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
