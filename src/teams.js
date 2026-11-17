@@ -2917,6 +2917,7 @@ const times = [
     crestLabel: "Botafogo-PB (desde 2019)",
     // Retrô 1931–1952: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     bgColored: true,
+    titleOrder: ["estadual", "serieD"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],
@@ -3088,7 +3089,7 @@ const times = [
   },
   {
     slug: "treze",
-    swatch: "⬛⬜🟨",
+    swatch: "⬛⬜",
     uf: "PB",
     crestLabel: "Treze (desde 1999)",
     // Retrô 1925–1930: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
