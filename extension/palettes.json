@@ -4979,10 +4979,10 @@
   "Brasileirão: Juventude": {
     "slug": "juventude",
     "uf": "RS",
-    "crestLabel": "Atual · desde 1998",
-    "crestIcon": "escudo-f956c1d4.svg",
-    "listIcon": "escudo-f956c1d4.svg",
-    "backgroundAspect": 0.839,
+    "crestLabel": "Atual · desde 1999",
+    "crestIcon": "escudo-a556fd10.svg",
+    "listIcon": "escudo-a556fd10.svg",
+    "backgroundAspect": 0.846,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [
@@ -5008,28 +5008,127 @@
     ],
     "retro": [
       {
+        "id": "1913",
+        "label": "1913",
+        "fullLabel": "1913",
+        "atual": false,
+        "file": "retro-1913-4af1fe7e.svg",
+        "aspect": 0.777,
+        "iconTheme": "brasileirao-juventude-1913"
+      },
+      {
+        "id": "1914",
+        "label": "1914–1920",
+        "fullLabel": "1914–1920",
+        "atual": false,
+        "file": "retro-1914-19ac6a48.svg",
+        "aspect": 0.787,
+        "iconTheme": "brasileirao-juventude-1914"
+      },
+      {
+        "id": "1920",
+        "label": "1920–1935",
+        "fullLabel": "1920–1935",
+        "atual": false,
+        "file": "retro-1920-ad77308a.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-juventude-1920"
+      },
+      {
+        "id": "1937",
+        "label": "1937–1947",
+        "fullLabel": "1937–1947",
+        "atual": false,
+        "file": "retro-1937-06966f2f.svg",
+        "aspect": 0.943,
+        "iconTheme": "brasileirao-juventude-1937"
+      },
+      {
+        "id": "1948",
+        "label": "1948–1954",
+        "fullLabel": "1948–1954",
+        "atual": false,
+        "file": "retro-1948-6563e0a0.svg",
+        "aspect": 0.975,
+        "iconTheme": "brasileirao-juventude-1948"
+      },
+      {
         "id": "1949",
         "label": "1949–1957",
         "fullLabel": "1949–1957",
         "atual": false,
-        "file": "retro-1949-94da2730.svg",
-        "aspect": 0.997,
+        "file": "retro-1949-fa10c14d.svg",
+        "aspect": 0.99,
         "iconTheme": "brasileirao-juventude-1949"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1954",
+        "fullLabel": "1950–1954",
+        "atual": false,
+        "file": "retro-1950-7866d889.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-juventude-1950"
+      },
+      {
+        "id": "1950b",
+        "label": "1950–1968",
+        "fullLabel": "1950–1968",
+        "atual": false,
+        "file": "retro-1950b-0346a7b3.svg",
+        "aspect": 0.994,
+        "iconTheme": "brasileirao-juventude-1950b"
       },
       {
         "id": "1963",
         "label": "1963–1974",
         "fullLabel": "1963–1974",
         "atual": false,
-        "file": "retro-1963-a8bb1c4d.svg",
+        "file": "retro-1963-3e7bfadf.svg",
         "aspect": 0.991,
         "iconTheme": "brasileirao-juventude-1963"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1971/1975–1997",
+        "fullLabel": "1970–1971/1975–1997",
+        "atual": false,
+        "file": "retro-1970-731dbd36.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-juventude-1970"
+      },
+      {
+        "id": "1975",
+        "label": "1975",
+        "fullLabel": "1975",
+        "atual": false,
+        "file": "retro-1975-d8b1d967.svg",
+        "aspect": 1.05,
+        "iconTheme": "brasileirao-juventude-1975"
+      },
+      {
+        "id": "1998",
+        "label": "1998",
+        "fullLabel": "1998",
+        "atual": false,
+        "file": "retro-1998-a23c59c6.svg",
+        "aspect": 0.868,
+        "iconTheme": "brasileirao-juventude-1998"
+      },
+      {
+        "id": "2025",
+        "label": "2025",
+        "fullLabel": "2025",
+        "atual": false,
+        "file": "retro-2025-d7a3e326.svg",
+        "aspect": 0.599,
+        "iconTheme": "brasileirao-juventude-2025"
       }
     ],
     "alternates": [],
     "swatch": "🟩⬜",
     "primary": "#0b9a3c",
-    "background": "fundo-9c71e056.svg",
+    "background": "fundo-ea7a4c07.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
