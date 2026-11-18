@@ -7593,7 +7593,7 @@
   "Brasileirão: Coritiba": {
     "slug": "coritiba",
     "uf": "PR",
-    "crestLabel": "Atual · desde 1990",
+    "crestLabel": "Atual · desde 2001",
     "crestIcon": "escudo-ed166703.svg",
     "listIcon": "escudo-ed166703.svg",
     "backgroundAspect": 0.791,
@@ -7656,15 +7656,74 @@
         2022
       ]
     },
+    "titleOrder": [
+      "serieB",
+      "brasileirao",
+      "estadual"
+    ],
     "retro": [
       {
         "id": "1909",
-        "label": "1909–1915",
-        "fullLabel": "1909–1915",
+        "label": "1909",
+        "fullLabel": "1909",
         "atual": false,
         "file": "retro-1909-e5473b18.svg",
         "aspect": 0.711,
         "iconTheme": "brasileirao-coritiba-1909"
+      },
+      {
+        "id": "1909b",
+        "label": "1909–1916",
+        "fullLabel": "1909–1916",
+        "atual": false,
+        "file": "retro-1909b-81331f6d.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-coritiba-1909b"
+      },
+      {
+        "id": "1916",
+        "label": "1916–1930",
+        "fullLabel": "1916–1930",
+        "atual": false,
+        "file": "retro-1916-9465055c.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-coritiba-1916"
+      },
+      {
+        "id": "1930",
+        "label": "1930–1960",
+        "fullLabel": "1930–1960",
+        "atual": false,
+        "file": "retro-1930-53d7f6fe.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-coritiba-1930"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1970",
+        "fullLabel": "1960–1970",
+        "atual": false,
+        "file": "retro-1960-99b6ed18.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-coritiba-1960"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1985",
+        "fullLabel": "1970–1985",
+        "atual": false,
+        "file": "retro-1970-4ecaedb1.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-coritiba-1970"
+      },
+      {
+        "id": "1985",
+        "label": "1985–2001",
+        "fullLabel": "1985–2001",
+        "atual": false,
+        "file": "retro-1985-93e404da.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-coritiba-1985"
       }
     ],
     "alternates": [],
