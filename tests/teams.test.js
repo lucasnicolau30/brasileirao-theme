@@ -521,7 +521,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Botafogo-SP'), ['Série D']);
     assert.deepEqual(itens('Juventus-SP'), ['Estadual', 'Série B']);
     assert.deepEqual(itens('Inter de Limeira'), ['Estadual', 'Série B']);
-    assert.deepEqual(itens('Londrina'), ['Série B', 'Estadual']);
+    assert.deepEqual(itens('Londrina'), ['Estadual', 'Série B']);
     assert.deepEqual(itens('Joinville'), ['Série C', 'Série B', 'Estadual']);
     assert.deepEqual(itens('Mixto'), ['Estadual']);
     assert.deepEqual(itens('Treze'), ['Estadual']);

@@ -7859,8 +7859,26 @@
   ],
   "londrina": [
     {
-      "id": "1956",
+      "id": "1956b",
       "label": "1956–1962",
+      "local": "Londrina-1956b.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#f80000"
+      ]
+    },
+    {
+      "id": "1956",
+      "label": "1962–1970",
       "local": "Londrina-1956.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -7875,26 +7893,8 @@
       "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688785/londrina-esporte-clube"
     },
     {
-      "id": "1962",
-      "label": "1962–1970",
-      "local": "Londrina-1962.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 6,
-      "suavidade": 1.2,
-      "minimo": 30,
-      "vetorizarPaleta": [
-        "#ffffff",
-        "#003a8e",
-        "#0a7133",
-        "#e40800"
-      ],
-      "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688784/londrina-esporte-clube"
-    },
-    {
       "id": "1970",
-      "label": "1970–1977",
+      "label": "1970–1973",
       "local": "Londrina-1970.png",
       "vetorizar": "alfa",
       "nitido": true,
@@ -7911,9 +7911,9 @@
       "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688783/londrina-esporte-clube"
     },
     {
-      "id": "1977",
-      "label": "1977–1981",
-      "local": "Londrina-1977.png",
+      "id": "1962",
+      "label": "1973–1977",
+      "local": "Londrina-1962.png",
       "vetorizar": "alfa",
       "nitido": true,
       "sobrepor": 1,
@@ -7922,11 +7922,30 @@
       "minimo": 30,
       "vetorizarPaleta": [
         "#ffffff",
-        "#0069d2",
-        "#0c6927",
-        "#e20204"
+        "#003a8e",
+        "#0a7133",
+        "#e40800"
       ],
-      "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688782/londrina-esporte-clube"
+      "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688784/londrina-esporte-clube"
+    },
+    {
+      "id": "1977",
+      "label": "1977–1981",
+      "local": "Londrina-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#0080d8",
+        "#f8f8f8",
+        "#007038",
+        "#dc2818"
+      ]
     },
     {
       "id": "1981",
@@ -7934,17 +7953,18 @@
       "local": "Londrina-1981.png",
       "vetorizar": "alfa",
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
-      "escala": 6,
-      "suavidade": 1.2,
-      "minimo": 30,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#049eed",
-        "#017a33",
-        "#dc0c18"
-      ],
-      "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688781/londrina-esporte-clube"
+        "#0088e0",
+        "#f8f8f8",
+        "#007038",
+        "#dc2818"
+      ]
     },
     {
       "id": "1992",
@@ -7952,17 +7972,18 @@
       "local": "Londrina-1992.png",
       "vetorizar": "alfa",
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
-      "escala": 6,
-      "suavidade": 1.2,
-      "minimo": 30,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#00148f",
-        "#008f3d",
-        "#ff1415"
-      ],
-      "credito": "SeekLogo, autor e licença não informados | https://seeklogo.com/vector-logo/688780/londrina-esporte-clube"
+        "#0088e0",
+        "#f8f8f8",
+        "#007038",
+        "#dc2818"
+      ]
     }
   ],
   "comercial-ms": [

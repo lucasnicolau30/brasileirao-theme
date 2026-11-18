@@ -1509,6 +1509,7 @@ const times = [
     uf: "PR",
     crestLabel: "Londrina (desde 1995)",
     bgColored: true,
+    titleOrder: ["estadual", "serieB"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],
