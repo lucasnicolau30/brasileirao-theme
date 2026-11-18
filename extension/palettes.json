@@ -7366,33 +7366,166 @@
         2024
       ]
     },
+    "titleOrder": [
+      "serieB",
+      "sulAmericana",
+      "copaDoBrasil",
+      "brasileirao",
+      "estadual"
+    ],
     "retro": [
+      {
+        "id": "1912i",
+        "label": "1912–1924",
+        "fullLabel": "1912–1924",
+        "atual": false,
+        "file": "retro-1912i-f36795fd.svg",
+        "aspect": 0.987,
+        "iconTheme": "brasileirao-athletico-pr-1912i"
+      },
+      {
+        "id": "1914a",
+        "label": "1914–1920",
+        "fullLabel": "1914–1920",
+        "atual": false,
+        "file": "retro-1914a-cd2c27f0.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-athletico-pr-1914a"
+      },
+      {
+        "id": "1920a",
+        "label": "1920–1924",
+        "fullLabel": "1920–1924",
+        "atual": false,
+        "file": "retro-1920a-01df6f5d.svg",
+        "aspect": 1,
+        "iconTheme": "brasileirao-athletico-pr-1920a"
+      },
       {
         "id": "1924",
         "label": "1924–1936",
         "fullLabel": "1924–1936",
         "atual": false,
-        "file": "retro-1924-fcab9a3c.svg",
-        "aspect": 0.909,
+        "file": "retro-1924-515792b8.svg",
+        "aspect": 0.805,
         "iconTheme": "brasileirao-athletico-pr-1924"
       },
       {
         "id": "1936",
-        "label": "1936–1944",
-        "fullLabel": "1936–1944",
+        "label": "1936–1937",
+        "fullLabel": "1936–1937",
         "atual": false,
-        "file": "retro-1936-1e58b09a.svg",
-        "aspect": 0.804,
+        "file": "retro-1936-629e33ed.svg",
+        "aspect": 0.921,
         "iconTheme": "brasileirao-athletico-pr-1936"
       },
       {
-        "id": "1997",
-        "label": "1997–2018",
-        "fullLabel": "1997–2018",
+        "id": "1937",
+        "label": "1937–1938",
+        "fullLabel": "1937–1938",
         "atual": false,
-        "file": "retro-1997-fe88c720.svg",
-        "aspect": 1.001,
+        "file": "retro-1937-1b9d4701.svg",
+        "aspect": 0.803,
+        "iconTheme": "brasileirao-athletico-pr-1937"
+      },
+      {
+        "id": "1938",
+        "label": "1938–1945",
+        "fullLabel": "1938–1945",
+        "atual": false,
+        "file": "retro-1938-1dd155b6.svg",
+        "aspect": 0.939,
+        "iconTheme": "brasileirao-athletico-pr-1938"
+      },
+      {
+        "id": "1945",
+        "label": "1945–1948",
+        "fullLabel": "1945–1948",
+        "atual": false,
+        "file": "retro-1945-7585a3b0.svg",
+        "aspect": 0.93,
+        "iconTheme": "brasileirao-athletico-pr-1945"
+      },
+      {
+        "id": "1948",
+        "label": "1948–1950",
+        "fullLabel": "1948–1950",
+        "atual": false,
+        "file": "retro-1948-5e17a97a.svg",
+        "aspect": 0.931,
+        "iconTheme": "brasileirao-athletico-pr-1948"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1970",
+        "fullLabel": "1950–1970",
+        "atual": false,
+        "file": "retro-1950-95d7e89a.svg",
+        "aspect": 0.796,
+        "iconTheme": "brasileirao-athletico-pr-1950"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1989",
+        "fullLabel": "1970–1989",
+        "atual": false,
+        "file": "retro-1970-1fe5f2d5.svg",
+        "aspect": 0.775,
+        "iconTheme": "brasileirao-athletico-pr-1970"
+      },
+      {
+        "id": "1990",
+        "label": "1990–1997",
+        "fullLabel": "1990–1997",
+        "atual": false,
+        "file": "retro-1990-021bc9fc.svg",
+        "aspect": 0.787,
+        "iconTheme": "brasileirao-athletico-pr-1990"
+      },
+      {
+        "id": "1997",
+        "label": "1997–2001",
+        "fullLabel": "1997–2001",
+        "atual": false,
+        "file": "retro-1997-4a30f621.svg",
+        "aspect": 1,
         "iconTheme": "brasileirao-athletico-pr-1997"
+      },
+      {
+        "id": "2001",
+        "label": "2001–2002",
+        "fullLabel": "2001–2002",
+        "atual": false,
+        "file": "retro-2001-53da427e.svg",
+        "aspect": 0.808,
+        "iconTheme": "brasileirao-athletico-pr-2001"
+      },
+      {
+        "id": "2003",
+        "label": "2003–2012",
+        "fullLabel": "2003–2012",
+        "atual": false,
+        "file": "retro-2003-aaf1e6cb.svg",
+        "aspect": 0.778,
+        "iconTheme": "brasileirao-athletico-pr-2003"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2018",
+        "fullLabel": "2012–2018",
+        "atual": false,
+        "file": "retro-2012-a0e7c4a9.svg",
+        "aspect": 0.778,
+        "iconTheme": "brasileirao-athletico-pr-2012"
+      },
+      {
+        "id": "2024",
+        "label": "2024",
+        "fullLabel": "2024",
+        "atual": false,
+        "file": "retro-2024-e5dbcbb0.svg",
+        "aspect": 1.448,
+        "iconTheme": "brasileirao-athletico-pr-2024"
       }
     ],
     "alternates": [],
