@@ -3443,6 +3443,7 @@ const times = [
     slug: "america-rj",
     swatch: "🟥⬜",
     uf: "RJ",
+    // Retrô 1904–1946: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     crestLabel: "América-RJ (desde 2016)",
     bgColored: true,
     titles: {

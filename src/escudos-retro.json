@@ -8438,35 +8438,139 @@
   ],
   "america-rj": [
     {
-      "vetorizar": "alfa",
-      "fundoExterno": true,
-      "bordaPx": 0,
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 4,
-      "suavidade": 1.2,
-      "minimo": 60,
       "id": "1904",
       "label": "1904–1946",
-      "local": "America-1904.png",
+      "local": "America-RJ-1904-1946.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#181818",
-        "#ffffff"
+        "#151719",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1946",
+      "label": "1946–1951",
+      "local": "America-RJ-1946.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#b01830",
+        "#f4f4f4"
       ]
     },
     {
+      "id": "1951",
+      "label": "1951–1960",
+      "local": "America-RJ-1951-1960.png",
       "vetorizar": "alfa",
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
       "escala": 4,
-      "suavidade": 1.2,
+      "suavidade": 6.0,
       "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#b01830"
+      ]
+    },
+    {
       "id": "1960",
       "label": "1960–1968",
-      "local": "America-1960.png",
+      "local": "America-RJ-1960-1968.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#d83838"
+        "#c0c0c0"
+      ]
+    },
+    {
+      "id": "1968",
+      "label": "1968–1974",
+      "local": "America-RJ-1968-1974.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#b01830"
+      ]
+    },
+    {
+      "id": "1974",
+      "label": "1974–1982",
+      "local": "America-RJ-1974-1982.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#b01830",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1982",
+      "label": "1982–2011",
+      "local": "America-RJ-1982-2011.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#b01830",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2011",
+      "label": "2011–2016",
+      "local": "America-RJ-2011-2016.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#a81818",
+        "#f4f4f4"
       ]
     }
   ],
