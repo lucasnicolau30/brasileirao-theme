@@ -1965,7 +1965,8 @@ const times = [
     slug: "oeste",
     swatch: "🟥⬛⬜",
     uf: "SP",
-    crestLabel: "Osasco Sporting (desde 2026)",
+    // Retrôs 1921–1968 e 1968–1981: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    crestLabel: "Osasco Sporting (desde 2025)",
     bgColored: true,
     titles: {
       brasileirao: [],

@@ -9797,14 +9797,96 @@
   "oeste": [
     {
       "id": "1921",
-      "label": "1921–2001",
-      "local": "Oeste-triangulo.svg"
+      "label": "1921–1968",
+      "local": "Oeste-1921-1968.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101610",
+        "#f4f4f4",
+        "#e32320"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1968",
+      "label": "1968–1981",
+      "local": "Oeste-1968-1981.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101610",
+        "#f4f4f4",
+        "#e02018"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1981",
+      "label": "1981–2001",
+      "local": "Oeste-1981-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101610",
+        "#f4f4f4",
+        "#ff0000"
+      ]
     },
     {
       "id": "2001",
-      "label": "2001–2025",
-      "local": "Oeste-2001.svg",
-      "credito": "Oeste Futebol Clube | marca registrada | https://fr.wikipedia.org/wiki/Fichier:Oeste_Futebol_Club_(logo).svg"
+      "label": "2001–2013",
+      "local": "Oeste-2001-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101610",
+        "#f4f4f4",
+        "#dc0016"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013–2025",
+      "local": "Oeste-2013-2025.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101610",
+        "#f4f4f4",
+        "#dc0016",
+        "#ffd30f"
+      ]
     }
   ],
   "botafogo-sp": [
