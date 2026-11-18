@@ -3547,14 +3547,49 @@
         "path": "./icons/botafogo-pb/icon-theme.json"
       },
       {
-        "id": "brasileirao-botafogo-pb-1931",
+        "id": "brasileirao-botafogo-pb-1931b",
         "label": "Brasileirão: Botafogo-PB (retrô 1931–1952)",
+        "path": "./icons/botafogo-pb/icon-theme-1931b.json"
+      },
+      {
+        "id": "brasileirao-botafogo-pb-1931",
+        "label": "Brasileirão: Botafogo-PB (retrô 1952–1956)",
         "path": "./icons/botafogo-pb/icon-theme-1931.json"
       },
       {
+        "id": "brasileirao-botafogo-pb-1956",
+        "label": "Brasileirão: Botafogo-PB (retrô 1956–1970)",
+        "path": "./icons/botafogo-pb/icon-theme-1956.json"
+      },
+      {
         "id": "brasileirao-botafogo-pb-1974",
-        "label": "Brasileirão: Botafogo-PB (retrô 1974–1978)",
+        "label": "Brasileirão: Botafogo-PB (retrô 1970–1976)",
         "path": "./icons/botafogo-pb/icon-theme-1974.json"
+      },
+      {
+        "id": "brasileirao-botafogo-pb-1977",
+        "label": "Brasileirão: Botafogo-PB (retrô 1977–1978)",
+        "path": "./icons/botafogo-pb/icon-theme-1977.json"
+      },
+      {
+        "id": "brasileirao-botafogo-pb-1978",
+        "label": "Brasileirão: Botafogo-PB (retrô 1978–1998)",
+        "path": "./icons/botafogo-pb/icon-theme-1978.json"
+      },
+      {
+        "id": "brasileirao-botafogo-pb-1998",
+        "label": "Brasileirão: Botafogo-PB (retrô 1998–2003)",
+        "path": "./icons/botafogo-pb/icon-theme-1998.json"
+      },
+      {
+        "id": "brasileirao-botafogo-pb-2003",
+        "label": "Brasileirão: Botafogo-PB (retrô 2003–2013)",
+        "path": "./icons/botafogo-pb/icon-theme-2003.json"
+      },
+      {
+        "id": "brasileirao-botafogo-pb-2013",
+        "label": "Brasileirão: Botafogo-PB (retrô 2013–2019)",
+        "path": "./icons/botafogo-pb/icon-theme-2013.json"
       },
       {
         "id": "brasileirao-treze",
@@ -3565,6 +3600,36 @@
         "id": "brasileirao-treze-1925",
         "label": "Brasileirão: Treze (retrô 1925–1930)",
         "path": "./icons/treze/icon-theme-1925.json"
+      },
+      {
+        "id": "brasileirao-treze-1930",
+        "label": "Brasileirão: Treze (retrô 1930–1940)",
+        "path": "./icons/treze/icon-theme-1930.json"
+      },
+      {
+        "id": "brasileirao-treze-1940",
+        "label": "Brasileirão: Treze (retrô 1940–1950)",
+        "path": "./icons/treze/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-treze-1950",
+        "label": "Brasileirão: Treze (retrô 1950–1960)",
+        "path": "./icons/treze/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-treze-1960",
+        "label": "Brasileirão: Treze (retrô 1960–1978)",
+        "path": "./icons/treze/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-treze-1978",
+        "label": "Brasileirão: Treze (retrô 1978–1981)",
+        "path": "./icons/treze/icon-theme-1978.json"
+      },
+      {
+        "id": "brasileirao-treze-1981",
+        "label": "Brasileirão: Treze (retrô 1981–1999)",
+        "path": "./icons/treze/icon-theme-1981.json"
       },
       {
         "id": "brasileirao-csa",
