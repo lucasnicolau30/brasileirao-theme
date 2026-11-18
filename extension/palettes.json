@@ -4347,6 +4347,66 @@
     },
     "retro": [
       {
+        "id": "1918",
+        "label": "1918–1919",
+        "fullLabel": "1918–1919",
+        "atual": false,
+        "file": "retro-1918-4f7637b9.svg",
+        "aspect": 0.752,
+        "icon": "escudo-1918-5e8bcf31.svg",
+        "iconTheme": "brasileirao-botafogo-sp-1918"
+      },
+      {
+        "id": "1919",
+        "label": "1919–1920",
+        "fullLabel": "1919–1920",
+        "atual": false,
+        "file": "retro-1919-97328357.svg",
+        "aspect": 1.303,
+        "icon": "escudo-1919-b74da3b4.svg",
+        "iconTheme": "brasileirao-botafogo-sp-1919"
+      },
+      {
+        "id": "1920",
+        "label": "1920–1940",
+        "fullLabel": "1920–1940",
+        "atual": false,
+        "file": "retro-1920-b5515885.svg",
+        "aspect": 1,
+        "icon": "escudo-1920-520da1a9.svg",
+        "iconTheme": "brasileirao-botafogo-sp-1920"
+      },
+      {
+        "id": "1940",
+        "label": "1940–1956",
+        "fullLabel": "1940–1956",
+        "atual": false,
+        "file": "retro-1940-58d92b57.svg",
+        "aspect": 0.783,
+        "icon": "escudo-1940-92662990.svg",
+        "iconTheme": "brasileirao-botafogo-sp-1940"
+      },
+      {
+        "id": "1956",
+        "label": "1956–1976",
+        "fullLabel": "1956–1976",
+        "atual": false,
+        "file": "retro-1956-5f6fd214.svg",
+        "aspect": 0.744,
+        "icon": "escudo-1956-7876933f.svg",
+        "iconTheme": "brasileirao-botafogo-sp-1956"
+      },
+      {
+        "id": "1976",
+        "label": "1976–1990",
+        "fullLabel": "1976–1990",
+        "atual": false,
+        "file": "retro-1976-d8e7ba18.svg",
+        "aspect": 0.732,
+        "icon": "escudo-1976-73b3ec71.svg",
+        "iconTheme": "brasileirao-botafogo-sp-1976"
+      },
+      {
         "id": "1990",
         "label": "1990–2021",
         "fullLabel": "1990–2021",
