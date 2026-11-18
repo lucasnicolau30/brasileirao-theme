@@ -239,7 +239,7 @@ function tooltipText(label, years) {
 // no centro. (A ordem da lista COMPETITIONS já põe o Mundial depois da Libertadores; aqui só se garante o centro nos casos de 5.)
 function presentTitles(palette) {
   const all = COMPETITIONS.filter((c) => (palette.titles[c.key] || []).length).map((c) => (c.key === 'estadual' ? { ...c, file: stateTrophy(palette) } : c)).filter((c) => c.file);
-  // O Estadual fica sempre por último, fora da conta do centro (o Mundial com 5 itens, o `titleCenter` com número ímpar).
+  // Sem `titleOrder`, o Estadual fica sempre por último, fora da conta do centro (o Mundial com 5 itens, o `titleCenter` com número ímpar).
   const estadual = all.filter((c) => c.key === 'estadual');
   const present = all.filter((c) => c.key !== 'estadual');
   // `titleOrder` (opcional, em teams.js): chaves das competições na ordem de exibição; as que ficarem fora da lista seguem depois, na ordem padrão.
