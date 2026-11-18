@@ -8257,37 +8257,107 @@
   ],
   "olaria": [
     {
-      "vetorizar": "alfa",
-      "fundoExterno": true,
-      "bordaPx": 0,
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 4,
-      "suavidade": 1.2,
-      "minimo": 60,
       "id": "1915",
       "label": "1915–1920",
-      "local": "Olaria-1915.jpg",
+      "local": "Olaria-1915-1920.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#000000"
+        "#181818",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1920",
+      "label": "1920–1950",
+      "local": "Olaria-1920-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#386090",
+        "#f4f4f4"
       ]
     },
     {
+      "id": "1950",
+      "label": "1950–1983",
+      "local": "Olaria-1950-1983.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
-      "bordaPx": 0,
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
       "escala": 4,
-      "suavidade": 1.2,
+      "suavidade": 6.0,
       "minimo": 60,
-      "id": "1920",
-      "label": "1920–1997",
-      "local": "Olaria-1920.png",
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#081868"
+        "#300060",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1983",
+      "label": "1983–1994",
+      "local": "Olaria-1983-1994.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000070",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1994",
+      "label": "1994–1997",
+      "local": "Olaria-1994-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#001878",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2015",
+      "label": "2015",
+      "local": "Olaria-2015.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#a8c0d8",
+        "#789078"
       ]
     }
   ],

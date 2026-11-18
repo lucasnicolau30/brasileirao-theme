@@ -3363,6 +3363,8 @@ const times = [
     slug: "olaria",
     swatch: "🟦⬜",
     uf: "RJ",
+    // Retrôs 1920–1950 e 1950–1983: datas aproximadas, sem fonte concreta que as confirme.
+    // Retrô 1915–1920: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     crestLabel: "Olaria (desde 1997)",
     bgColored: true,
     titles: {
