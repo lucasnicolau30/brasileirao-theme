@@ -9651,9 +9651,86 @@
   ],
   "uniao-barbarense": [
     {
-      "id": "1914",
-      "label": "1914–2001",
+      "id": "1920",
+      "label": "1920–1993",
       "local": "UniaoBarbarense-retro.svg"
+    },
+    {
+      "id": "1997",
+      "label": "1997–2001",
+      "local": "UniaoBarbarense-1997-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2004",
+      "local": "UniaoBarbarense-2001.svg"
+    },
+    {
+      "id": "2004",
+      "label": "2004–2017",
+      "local": "UniaoBarbarense-2004-2017.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#c09000"
+      ]
+    },
+    {
+      "id": "2014",
+      "label": "2014",
+      "local": "UniaoBarbarense-2014.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#c0a868"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "2017",
+      "label": "2017–2026",
+      "local": "UniaoBarbarense-2017-2026.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#d8b830"
+      ]
     }
   ],
   "novorizontino": [

@@ -2045,7 +2045,10 @@ const times = [
     slug: "uniao-barbarense",
     swatch: "⬛⬜",
     uf: "SP",
-    crestLabel: "União Barbarense (desde 2001)",
+    // Retrôs 1914–1920: período vazio, pois a Logopedia não fornece escudos para esse período.
+    // Retrôs 1993–1997: período vazio, pois a Logopedia não fornece escudos com qualidade mínima para serem melhorados com IA.
+    // Retrô 2014: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    crestLabel: "União Barbarense (desde 2026)",
     bgColored: true,
     titles: {
       brasileirao: [],
