@@ -2083,6 +2083,7 @@ const times = [
     slug: "botafogo-sp",
     swatch: "⬛🟥⬜",
     uf: "SP",
+    // Retrô 1919–1920: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     crestLabel: "Botafogo-SP (desde 2021)",
     bgColored: true,
     titles: {

@@ -9641,6 +9641,100 @@
   ],
   "botafogo-sp": [
     {
+      "id": "1918",
+      "label": "1918–1919",
+      "local": "Botafogo-SP-1918-1919.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#d80000",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1919",
+      "label": "1919–1920",
+      "local": "Botafogo-SP-1919-1920.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 3.0,
+      "minimo": 30,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#303030",
+        "#e81830"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1920",
+      "label": "1920–1940",
+      "local": "Botafogo-SP-1920-1940.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#d80000"
+      ]
+    },
+    {
+      "id": "1940",
+      "label": "1940–1956",
+      "local": "Botafogo-SP-1940-1956.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#d80000"
+      ]
+    },
+    {
+      "id": "1956",
+      "label": "1956–1976",
+      "local": "Botafogo-SP-1956-1976.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f00000"
+      ]
+    },
+    {
+      "id": "1976",
+      "label": "1976–1990",
+      "local": "Botafogo-SP-1976-1990.svg"
+    },
+    {
       "id": "1990",
       "label": "1990–2021",
       "local": "Botafogo-SP-1990.png",
