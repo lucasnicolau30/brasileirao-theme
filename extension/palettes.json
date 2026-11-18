@@ -9151,7 +9151,7 @@
   "Brasileirão: Náutico": {
     "slug": "nautico",
     "uf": "PE",
-    "crestLabel": "Atual · desde 2010",
+    "crestLabel": "Atual · desde 2008",
     "crestIcon": "escudo-6508012f.svg",
     "listIcon": "escudo-6508012f.svg",
     "backgroundAspect": 1,
@@ -9195,6 +9195,10 @@
         2022
       ]
     },
+    "titleOrder": [
+      "estadual",
+      "serieC"
+    ],
     "retro": [
       {
         "id": "1901",
@@ -9207,14 +9211,74 @@
         "iconTheme": "brasileirao-nautico-1901"
       },
       {
+        "id": "1931b",
+        "label": "1931–1942",
+        "fullLabel": "1931–1942",
+        "atual": false,
+        "file": "retro-1931b-4176bd80.svg",
+        "aspect": 1.044,
+        "icon": "escudo-1931b-20769d0a.svg",
+        "iconTheme": "brasileirao-nautico-1931b"
+      },
+      {
         "id": "1931",
-        "label": "1931–1969",
-        "fullLabel": "1931–1969",
+        "label": "1942–1969",
+        "fullLabel": "1942–1969",
         "atual": false,
         "file": "retro-1931-8940af9f.svg",
         "aspect": 1.056,
         "icon": "escudo-1931-b5236ae9.svg",
         "iconTheme": "brasileirao-nautico-1931"
+      },
+      {
+        "id": "1969",
+        "label": "1969–1972",
+        "fullLabel": "1969–1972",
+        "atual": false,
+        "file": "retro-1969-781f914b.svg",
+        "aspect": 1,
+        "icon": "escudo-1969-5a8524cd.svg",
+        "iconTheme": "brasileirao-nautico-1969"
+      },
+      {
+        "id": "1972",
+        "label": "1972–1973",
+        "fullLabel": "1972–1973",
+        "atual": false,
+        "file": "retro-1972-b831cc3d.svg",
+        "aspect": 1.026,
+        "icon": "escudo-1972-869980db.svg",
+        "iconTheme": "brasileirao-nautico-1972"
+      },
+      {
+        "id": "1973",
+        "label": "1973–1995",
+        "fullLabel": "1973–1995",
+        "atual": false,
+        "file": "retro-1973-69dd261e.svg",
+        "aspect": 0.999,
+        "icon": "escudo-1973-8e8cced9.svg",
+        "iconTheme": "brasileirao-nautico-1973"
+      },
+      {
+        "id": "1995",
+        "label": "1995–2002",
+        "fullLabel": "1995–2002",
+        "atual": false,
+        "file": "retro-1995-1ff2fdd2.svg",
+        "aspect": 0.999,
+        "icon": "escudo-1995-034bee17.svg",
+        "iconTheme": "brasileirao-nautico-1995"
+      },
+      {
+        "id": "2002",
+        "label": "2002–2008",
+        "fullLabel": "2002–2008",
+        "atual": false,
+        "file": "retro-2002-7ad4cdc0.svg",
+        "aspect": 1,
+        "icon": "escudo-2002-fcf2e29b.svg",
+        "iconTheme": "brasileirao-nautico-2002"
       }
     ],
     "alternates": [],
