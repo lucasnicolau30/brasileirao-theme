@@ -1924,6 +1924,8 @@ const times = [
     slug: "ponte-preta",
     swatch: "⬛⬜",
     uf: "SP",
+    // Retrôs 1908–1928, 1929–1956, 1956–1972, 1972–1977, 1977–1980 e 1995: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    // Escudo atual: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     crestLabel: "Ponte Preta (desde 2004)",
     bgColored: true,
     titles: {
