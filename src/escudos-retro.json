@@ -10772,5 +10772,80 @@
         "#f8b800"
       ]
     }
+  ],
+  "maringa": [
+    {
+      "id": "2010",
+      "label": "2010",
+      "local": "Maringa-2010.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#00b800",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "2010b",
+      "label": "2010–2013",
+      "local": "Maringa-2010b.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#080808",
+        "#008830"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013",
+      "local": "Maringa-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#008020",
+        "#f8f8f8",
+        "#000000",
+        "#d8b040"
+      ]
+    },
+    {
+      "id": "2013b",
+      "label": "2013–2019",
+      "local": "Maringa-2013b.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#00a050",
+        "#f8f8f8",
+        "#181818",
+        "#f8c820"
+      ]
+    }
   ]
 }
