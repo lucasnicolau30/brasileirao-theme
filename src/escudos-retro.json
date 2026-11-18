@@ -2079,12 +2079,114 @@
   "coritiba": [
     {
       "id": "1909",
-      "label": "1909–1915",
+      "label": "1909",
       "local": "Coritiba-1909.png",
       "vetorizar": "alfa",
       "vetorizarPaleta": [
         "#67915f",
         "#ffffff"
+      ]
+    },
+    {
+      "id": "1909b",
+      "label": "1909–1916",
+      "local": "Coritiba-1909b.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#609058",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1916",
+      "label": "1916–1930",
+      "local": "Coritiba-1916.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#289060",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1930",
+      "label": "1930–1960",
+      "local": "Coritiba-1930.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#289060"
+      ]
+    },
+    {
+      "id": "1960",
+      "label": "1960–1970",
+      "local": "Coritiba-1960.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#289060"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1985",
+      "local": "Coritiba-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#289060"
+      ]
+    },
+    {
+      "id": "1985",
+      "label": "1985–2001",
+      "local": "Coritiba-1985.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#188058"
       ]
     }
   ],

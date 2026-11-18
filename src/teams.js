@@ -1260,8 +1260,9 @@ const times = [
     slug: "coritiba",
     swatch: "🟩⬜",
     uf: "PR",
-    crestLabel: "Coritiba (desde 1990)",
+    crestLabel: "Coritiba (desde 2001)",
     bgColored: true,
+    titleOrder: ["serieB", "brasileirao", "estadual"],
     titles: {
       brasileirao: [1985],
       copaDoBrasil: [],
