@@ -4526,9 +4526,8 @@ const times = [
     slug: "parnahyba",
     swatch: "🟦⬜",
     uf: "PI",
-    // Sem retrôs: o clube não tem escudos antigos.
-    crestLabel: "Parnahyba",
-    crestUnchanged: true,
+    // Retrôs 1948–1960 e 1965–1972: borda clara por fora das letras, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    crestLabel: "Parnahyba (desde 2013)",
     bgColored: true,
     titles: {
       mundial: [],

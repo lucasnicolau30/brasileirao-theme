@@ -11213,5 +11213,165 @@
         "#f8c820"
       ]
     }
+  ],
+  "parnahyba": [
+    {
+      "id": "1913",
+      "label": "1913–1920",
+      "local": "Parnahyba-1913-1920.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#00009a",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1920",
+      "label": "1920–1935",
+      "local": "Parnahyba-1920-1935.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#40a0e0",
+        "#0070c0",
+        "#004090"
+      ]
+    },
+    {
+      "id": "1935",
+      "label": "1935–1948",
+      "local": "Parnahyba-1935-1948.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#00009a",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1948",
+      "label": "1948–1960",
+      "local": "Parnahyba-1948-1960.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#301070",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1960",
+      "label": "1960–1965",
+      "local": "Parnahyba-1960-1965.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#301070",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1965",
+      "label": "1965–1972",
+      "local": "Parnahyba-1965-1972.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#301070",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1972",
+      "label": "1972–1985",
+      "local": "Parnahyba-1972-1985.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#0098d0",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1985",
+      "label": "1985–2004",
+      "local": "Parnahyba-1985-2004.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#0058a8",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2004",
+      "label": "2004–2013",
+      "local": "Parnahyba-2004-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#0048a0",
+        "#f4f4f4"
+      ]
+    }
   ]
 }
