@@ -4417,9 +4417,114 @@
         "path": "./icons/parnahyba/icon-theme.json"
       },
       {
+        "id": "brasileirao-parnahyba-1913",
+        "label": "Brasileirão: Parnahyba (retrô 1913–1920)",
+        "path": "./icons/parnahyba/icon-theme-1913.json"
+      },
+      {
+        "id": "brasileirao-parnahyba-1920",
+        "label": "Brasileirão: Parnahyba (retrô 1920–1935)",
+        "path": "./icons/parnahyba/icon-theme-1920.json"
+      },
+      {
+        "id": "brasileirao-parnahyba-1935",
+        "label": "Brasileirão: Parnahyba (retrô 1935–1948)",
+        "path": "./icons/parnahyba/icon-theme-1935.json"
+      },
+      {
+        "id": "brasileirao-parnahyba-1948",
+        "label": "Brasileirão: Parnahyba (retrô 1948–1960)",
+        "path": "./icons/parnahyba/icon-theme-1948.json"
+      },
+      {
+        "id": "brasileirao-parnahyba-1960",
+        "label": "Brasileirão: Parnahyba (retrô 1960–1965)",
+        "path": "./icons/parnahyba/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-parnahyba-1965",
+        "label": "Brasileirão: Parnahyba (retrô 1965–1972)",
+        "path": "./icons/parnahyba/icon-theme-1965.json"
+      },
+      {
+        "id": "brasileirao-parnahyba-1972",
+        "label": "Brasileirão: Parnahyba (retrô 1972–1985)",
+        "path": "./icons/parnahyba/icon-theme-1972.json"
+      },
+      {
+        "id": "brasileirao-parnahyba-1985",
+        "label": "Brasileirão: Parnahyba (retrô 1985–2004)",
+        "path": "./icons/parnahyba/icon-theme-1985.json"
+      },
+      {
+        "id": "brasileirao-parnahyba-2004",
+        "label": "Brasileirão: Parnahyba (retrô 2004–2013)",
+        "path": "./icons/parnahyba/icon-theme-2004.json"
+      },
+      {
         "id": "brasileirao-piaui",
         "label": "Brasileirão: Piauí",
         "path": "./icons/piaui/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-piaui-1948",
+        "label": "Brasileirão: Piauí (retrô 1948–1959)",
+        "path": "./icons/piaui/icon-theme-1948.json"
+      },
+      {
+        "id": "brasileirao-piaui-1960a",
+        "label": "Brasileirão: Piauí (retrô 1960)",
+        "path": "./icons/piaui/icon-theme-1960a.json"
+      },
+      {
+        "id": "brasileirao-piaui-1960b",
+        "label": "Brasileirão: Piauí (retrô 1960–1969)",
+        "path": "./icons/piaui/icon-theme-1960b.json"
+      },
+      {
+        "id": "brasileirao-piaui-1970",
+        "label": "Brasileirão: Piauí (retrô 1970–1979)",
+        "path": "./icons/piaui/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-piaui-1980",
+        "label": "Brasileirão: Piauí (retrô 1980–1989)",
+        "path": "./icons/piaui/icon-theme-1980.json"
+      },
+      {
+        "id": "brasileirao-piaui-1990",
+        "label": "Brasileirão: Piauí (retrô 1990–1999)",
+        "path": "./icons/piaui/icon-theme-1990.json"
+      },
+      {
+        "id": "brasileirao-piaui-2000",
+        "label": "Brasileirão: Piauí (retrô 2000–2009)",
+        "path": "./icons/piaui/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-piaui-2010a",
+        "label": "Brasileirão: Piauí (retrô 2010)",
+        "path": "./icons/piaui/icon-theme-2010a.json"
+      },
+      {
+        "id": "brasileirao-piaui-2010b",
+        "label": "Brasileirão: Piauí (retrô 2010–2013)",
+        "path": "./icons/piaui/icon-theme-2010b.json"
+      },
+      {
+        "id": "brasileirao-piaui-2013",
+        "label": "Brasileirão: Piauí (retrô 2013–2018)",
+        "path": "./icons/piaui/icon-theme-2013.json"
+      },
+      {
+        "id": "brasileirao-piaui-2015",
+        "label": "Brasileirão: Piauí (retrô 2015–2026)",
+        "path": "./icons/piaui/icon-theme-2015.json"
+      },
+      {
+        "id": "brasileirao-piaui-2018",
+        "label": "Brasileirão: Piauí (retrô 2018–2026)",
+        "path": "./icons/piaui/icon-theme-2018.json"
       },
       {
         "id": "brasileirao-altos",
