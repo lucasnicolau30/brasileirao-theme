@@ -1546,8 +1546,9 @@ const times = [
     slug: "operario-pr",
     swatch: "⬛⬜",
     uf: "PR",
-    crestLabel: "Operário-PR (desde 2013)",
+    crestLabel: "Operário-PR (desde 2025)",
     bgColored: true,
+    titleOrder: ["serieD", "serieC", "estadual"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],

@@ -6810,56 +6810,245 @@
     {
       "id": "1912",
       "label": "1912–1941",
-      "local": "Escudo operário 1912 - atualizado.svg",
-      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operário_1912_-_atualizado.svg (fundo cinza tirado)"
+      "local": "Operario-PR-1912.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
     },
     {
       "id": "1941",
       "label": "1941–1947",
-      "local": "Escudo operario-pr 1941.svg",
-      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operario-pr_1941.svg (fundo cinza tirado)"
+      "local": "Operario-PR-1941.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
     },
     {
       "id": "1947",
       "label": "1947–1957",
-      "local": "Escudo operário-pr 1947.svg",
-      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operário-pr_1947.svg (fundo cinza tirado)"
+      "local": "Operario-PR-1947.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
     },
     {
       "id": "1957",
       "label": "1957–1961",
-      "local": "Escudo operario-pr 1957.svg",
-      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operario-pr_1957.svg (fundo cinza tirado)"
+      "local": "Operario-PR-1957.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1961",
+      "label": "1961–1976",
+      "local": "Operario-PR-1961.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
     },
     {
       "id": "1976",
       "label": "1976–1979",
-      "local": "Escudo operário-pr 1976.svg",
-      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operário-pr_1976.svg (fundo cinza tirado)"
+      "local": "Operario-PR-1976.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
     },
     {
       "id": "1979",
       "label": "1979–1981",
-      "local": "Escudo operario-pr1979.svg",
-      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operario-pr1979.svg (fundo cinza tirado)"
+      "local": "Operario-PR-1979.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
     },
     {
       "id": "1981",
       "label": "1981–1987",
-      "local": "Escudo operário-pr 1981.svg",
-      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operário-pr_1981.svg (fundo cinza tirado)"
+      "local": "Operario-PR-1981.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
     },
     {
       "id": "1987",
       "label": "1987–2008",
-      "local": "Escudo operario-pr 1987.svg",
-      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operario-pr_1987.svg (fundo cinza tirado)"
+      "local": "Operario-PR-1987.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
     },
     {
       "id": "2008",
       "label": "2008–2013",
-      "local": "Escudo operario-pr 2008.svg",
-      "credito": "Pgeographo | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Escudo_operario-pr_2008.svg (fundo cinza tirado)"
+      "local": "Operario-PR-2008.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013–2015",
+      "local": "Operario-PR-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#101010"
+      ]
+    },
+    {
+      "id": "2015",
+      "label": "2015–2016",
+      "local": "Operario-PR-2015.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#b0b0b0"
+      ]
+    },
+    {
+      "id": "2017",
+      "label": "2017",
+      "local": "Operario-PR-2017.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#b0b0b0",
+        "#e0b050"
+      ]
+    },
+    {
+      "id": "2018",
+      "label": "2018–2025",
+      "local": "Operario-PR-2018.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#b0b0b0",
+        "#e0b050"
+      ]
     }
   ],
   "juventus-sp": [

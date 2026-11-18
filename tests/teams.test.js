@@ -535,7 +535,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('XV de Piracicaba'), ['Série C']);
     assert.deepEqual(itens('União Barbarense'), ['Série C']);
     assert.deepEqual(itens('Boa Esporte-MG'), ['Série C']);
-    assert.deepEqual(itens('Operário-PR'), ['Série C', 'Série D', 'Estadual']);
+    assert.deepEqual(itens('Operário-PR'), ['Série D', 'Série C', 'Estadual']);
     assert.deepEqual(itens('Maringá'), ['Série C']);
     assert.deepEqual(itens('São Raimundo-PA'), ['Série D']);
     assert.deepEqual(itens('Guarany de Sobral'), ['Série D']);
