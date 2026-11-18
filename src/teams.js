@@ -164,7 +164,9 @@ const times = [
     slug: "vasco",
     swatch: "⬛⬜",
     uf: "RJ",
-    crestLabel: "Vasco (desde 1921)",
+    // Retrôs 1920–1943, 1923–1934, 1934–1940, 1940–1950, 1943–1971, 1950–1974, 1971–1982, 1974–1987, 1982–1996, 1987–1997, 1996–2009, 1997–1998, 1998–2000, 2000–2012, 2009–2015, 2012–2021, 2015–2021 e 2021–2024: as datas se sobrepõem, pois o clube tem duas versões do escudo, a completa e a da cruz.
+    crestLabel: "Vasco (desde 2025)",
+    iconFromBackground: true,
     bgColored: true,
     titleOrder: ["copaDoBrasil", "brasileirao", "libertadores", "estadual"],
     titles: {

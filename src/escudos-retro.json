@@ -153,29 +153,401 @@
   "vasco": [
     {
       "id": "1898",
-      "label": "1898–1903",
-      "commons": "Escudo Vasco 1898.png",
-      "cortarArgola": true,
-      "vetorizarAuto": {
-        "suavidade": 0.5,
-        "cores_fixas": [
-          "#f9e8ca",
-          "#000000",
-          "#c8161d"
-        ]
-      }
+      "label": "1898–1899",
+      "local": "Vasco-1898.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 3.0,
+      "minimo": 10,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#303030"
+      ]
+    },
+    {
+      "id": "1899",
+      "label": "1899–1903",
+      "local": "Vasco-1899.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 3.0,
+      "minimo": 20,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f0d8c0",
+        "#483030"
+      ]
     },
     {
       "id": "1903",
       "label": "1903–1920",
-      "commons": "Escudo Vasco 1903.png",
-      "vetorizarAuto": true
+      "local": "Vasco-1903.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#d0d0d0",
+        "#606060"
+      ]
     },
     {
       "id": "1920",
-      "label": "1920–1921",
-      "commons": "Escudo Vasco 1920.png",
-      "vetorizarAuto": true
+      "label": "1920–1943",
+      "local": "Vasco-1920.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#a89060",
+        "#f0e0b0",
+        "#c01818"
+      ]
+    },
+    {
+      "id": "1923",
+      "label": "1923–1934",
+      "local": "Vasco-1923.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83030",
+        "#a83030"
+      ]
+    },
+    {
+      "id": "1934",
+      "label": "1934–1940",
+      "local": "Vasco-1934.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#d83030"
+      ]
+    },
+    {
+      "id": "1940",
+      "label": "1940–1950",
+      "local": "Vasco-1940.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83030"
+      ]
+    },
+    {
+      "id": "1943",
+      "label": "1943–1971",
+      "local": "Vasco-1943.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#c01818",
+        "#d09040",
+        "#a0a0a0"
+      ]
+    },
+    {
+      "id": "1950",
+      "label": "1950–1974",
+      "local": "Vasco-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83030"
+      ]
+    },
+    {
+      "id": "1971",
+      "label": "1971–1982",
+      "local": "Vasco-1971.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#c01818",
+        "#d09040",
+        "#a0a0a0"
+      ]
+    },
+    {
+      "id": "1974",
+      "label": "1974–1987",
+      "local": "Vasco-1974.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#d83030"
+      ]
+    },
+    {
+      "id": "1982",
+      "label": "1982–1996",
+      "local": "Vasco-1982.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#c01818",
+        "#d09040",
+        "#a0a0a0"
+      ]
+    },
+    {
+      "id": "1987",
+      "label": "1987–1997",
+      "local": "Vasco-1987.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83030"
+      ]
+    },
+    {
+      "id": "1996",
+      "label": "1996–2009",
+      "local": "Vasco-1996.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#c01818",
+        "#d09040",
+        "#a0a0a0"
+      ]
+    },
+    {
+      "id": "1997",
+      "label": "1997–1998",
+      "local": "Vasco-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83030",
+        "#f0c048"
+      ]
+    },
+    {
+      "id": "1998",
+      "label": "1998–2000",
+      "local": "Vasco-1998.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83030",
+        "#f0c048"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2012",
+      "local": "Vasco-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83030",
+        "#f0c048"
+      ]
+    },
+    {
+      "id": "2009",
+      "label": "2009–2015",
+      "local": "Vasco-2009.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#c01818",
+        "#d09040",
+        "#a0a0a0"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2021",
+      "local": "Vasco-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#d83030",
+        "#f0c048"
+      ]
+    },
+    {
+      "id": "2015",
+      "label": "2015–2021",
+      "local": "Vasco-2015.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#c01818",
+        "#d09040",
+        "#a0a0a0"
+      ]
+    },
+    {
+      "id": "2021",
+      "label": "2021–2024",
+      "local": "Vasco-2021.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d81818"
+      ]
+    },
+    {
+      "id": "2021b",
+      "label": "Completo (desde 2021)",
+      "atual": true,
+      "local": "Vasco-2021b.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#c01818",
+        "#d09040",
+        "#a0a0a0"
+      ]
     }
   ],
   "corinthians": [
