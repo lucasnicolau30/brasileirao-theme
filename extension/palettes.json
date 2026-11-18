@@ -166,9 +166,9 @@
         "label": "2000–2009",
         "fullLabel": "2000–2009",
         "atual": false,
-        "file": "retro-2000-492a154b.svg",
-        "aspect": 0.849,
-        "icon": "escudo-2000-734b5eb6.svg",
+        "file": "retro-2000-5bf79e6c.svg",
+        "aspect": 0.85,
+        "icon": "escudo-2000-84cf9d35.svg",
         "iconTheme": "brasileirao-flamengo-2000"
       }
     ],
@@ -237,9 +237,9 @@
   "Brasileirão: Fluminense": {
     "slug": "fluminense",
     "uf": "RJ",
-    "crestLabel": "Atual · desde 2002",
-    "crestIcon": "escudo-63fe1cf9.svg",
-    "listIcon": "escudo-63fe1cf9.svg",
+    "crestLabel": "Atual · desde 2015",
+    "crestIcon": "escudo-9dda4acf.svg",
+    "listIcon": "escudo-9dda4acf.svg",
     "backgroundAspect": 0.864,
     "titles": {
       "brasileirao": [
@@ -316,13 +316,73 @@
       },
       {
         "id": "1905",
-        "label": "1905–1906",
-        "fullLabel": "1905–1906",
+        "label": "1905–1938",
+        "fullLabel": "1905–1938",
         "atual": false,
-        "file": "retro-1905-f71981b4.svg",
-        "aspect": 0.908,
-        "icon": "escudo-1905-0131cc73.svg",
+        "file": "retro-1905-448a5dac.svg",
+        "aspect": 0.904,
+        "icon": "escudo-1905-6a5b8e1e.svg",
         "iconTheme": "brasileirao-fluminense-1905"
+      },
+      {
+        "id": "1938",
+        "label": "1938–1970",
+        "fullLabel": "1938–1970",
+        "atual": false,
+        "file": "retro-1938-94dc2574.svg",
+        "aspect": 0.921,
+        "icon": "escudo-1938-4bbc6187.svg",
+        "iconTheme": "brasileirao-fluminense-1938"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1983",
+        "fullLabel": "1970–1983",
+        "atual": false,
+        "file": "retro-1970-75368cf0.svg",
+        "aspect": 0.874,
+        "icon": "escudo-1970-d16ad767.svg",
+        "iconTheme": "brasileirao-fluminense-1970"
+      },
+      {
+        "id": "1983",
+        "label": "1983–2002",
+        "fullLabel": "1983–2002",
+        "atual": false,
+        "file": "retro-1983-90b4dfe2.svg",
+        "aspect": 0.874,
+        "icon": "escudo-1983-ff54c41d.svg",
+        "iconTheme": "brasileirao-fluminense-1983"
+      },
+      {
+        "id": "2002a",
+        "label": "2002",
+        "fullLabel": "2002",
+        "atual": false,
+        "file": "retro-2002a-c2acdc69.svg",
+        "aspect": 0.82,
+        "icon": "escudo-2002a-ed0b4507.svg",
+        "iconTheme": "brasileirao-fluminense-2002a"
+      },
+      {
+        "id": "2002b",
+        "label": "2002–2010",
+        "fullLabel": "2002–2010",
+        "atual": false,
+        "file": "retro-2002b-953fc6f1.svg",
+        "aspect": 0.852,
+        "icon": "escudo-2002b-6d91389f.svg",
+        "iconTheme": "brasileirao-fluminense-2002b"
+      },
+      {
+        "id": "2010",
+        "label": "2010–2011",
+        "fullLabel": "2010–2011",
+        "atual": false,
+        "file": "retro-2010-d57da9d5.svg",
+        "aspect": 0.736,
+        "icon": "escudo-2010-330017d4.svg",
+        "iconTheme": "brasileirao-fluminense-2010"
       },
       {
         "id": "2011",
@@ -333,12 +393,22 @@
         "aspect": 0.742,
         "icon": "escudo-2011-d3e55fe5.svg",
         "iconTheme": "brasileirao-fluminense-2011"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2015",
+        "fullLabel": "2012–2015",
+        "atual": false,
+        "file": "retro-2012-6b4cc234.svg",
+        "aspect": 0.738,
+        "icon": "escudo-2012-1bca33b1.svg",
+        "iconTheme": "brasileirao-fluminense-2012"
       }
     ],
     "alternates": [],
     "swatch": "🟥🟩⬜",
     "primary": "#8f1d3d",
-    "background": "fundo-9bceace4.svg",
+    "background": "fundo-e9a3aaee.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
