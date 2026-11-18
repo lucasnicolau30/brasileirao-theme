@@ -18215,10 +18215,10 @@
   "Brasileirão: Parnahyba": {
     "slug": "parnahyba",
     "uf": "PI",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-c04ee59a.svg",
-    "listIcon": "escudo-c04ee59a.svg",
-    "backgroundAspect": 0.808,
+    "crestLabel": "Atual · desde 2013",
+    "crestIcon": "escudo-041a0acc.svg",
+    "listIcon": "escudo-041a0acc.svg",
+    "backgroundAspect": 0.802,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -18246,12 +18246,102 @@
         2013
       ]
     },
-    "crestUnchanged": true,
-    "retro": [],
+    "retro": [
+      {
+        "id": "1913",
+        "label": "1913–1920",
+        "fullLabel": "1913–1920",
+        "atual": false,
+        "file": "retro-1913-8235b1d8.svg",
+        "aspect": 1.049,
+        "icon": "escudo-1913-fe629059.svg",
+        "iconTheme": "brasileirao-parnahyba-1913"
+      },
+      {
+        "id": "1920",
+        "label": "1920–1935",
+        "fullLabel": "1920–1935",
+        "atual": false,
+        "file": "retro-1920-9eb42d4f.svg",
+        "aspect": 1.002,
+        "icon": "escudo-1920-fd87f73a.svg",
+        "iconTheme": "brasileirao-parnahyba-1920"
+      },
+      {
+        "id": "1935",
+        "label": "1935–1948",
+        "fullLabel": "1935–1948",
+        "atual": false,
+        "file": "retro-1935-ce628999.svg",
+        "aspect": 0.876,
+        "icon": "escudo-1935-88512bf1.svg",
+        "iconTheme": "brasileirao-parnahyba-1935"
+      },
+      {
+        "id": "1948",
+        "label": "1948–1960",
+        "fullLabel": "1948–1960",
+        "atual": false,
+        "file": "retro-1948-64a96105.svg",
+        "aspect": 0.841,
+        "icon": "escudo-1948-fbea8276.svg",
+        "iconTheme": "brasileirao-parnahyba-1948"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1965",
+        "fullLabel": "1960–1965",
+        "atual": false,
+        "file": "retro-1960-6847c08b.svg",
+        "aspect": 1,
+        "icon": "escudo-1960-5d2e4008.svg",
+        "iconTheme": "brasileirao-parnahyba-1960"
+      },
+      {
+        "id": "1965",
+        "label": "1965–1972",
+        "fullLabel": "1965–1972",
+        "atual": false,
+        "file": "retro-1965-8915c114.svg",
+        "aspect": 1.102,
+        "icon": "escudo-1965-d7fd899d.svg",
+        "iconTheme": "brasileirao-parnahyba-1965"
+      },
+      {
+        "id": "1972",
+        "label": "1972–1985",
+        "fullLabel": "1972–1985",
+        "atual": false,
+        "file": "retro-1972-7859098d.svg",
+        "aspect": 1,
+        "icon": "escudo-1972-90b919a7.svg",
+        "iconTheme": "brasileirao-parnahyba-1972"
+      },
+      {
+        "id": "1985",
+        "label": "1985–2004",
+        "fullLabel": "1985–2004",
+        "atual": false,
+        "file": "retro-1985-18ca0a2e.svg",
+        "aspect": 1,
+        "icon": "escudo-1985-faba4eaa.svg",
+        "iconTheme": "brasileirao-parnahyba-1985"
+      },
+      {
+        "id": "2004",
+        "label": "2004–2013",
+        "fullLabel": "2004–2013",
+        "atual": false,
+        "file": "retro-2004-06102b82.svg",
+        "aspect": 1,
+        "icon": "escudo-2004-80c025c1.svg",
+        "iconTheme": "brasileirao-parnahyba-2004"
+      }
+    ],
     "alternates": [],
     "swatch": "🟦⬜",
     "primary": "#2a4a8a",
-    "background": "fundo-59c9b100.png",
+    "background": "fundo-2f5cd1c0.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -18313,10 +18403,10 @@
   "Brasileirão: Piauí": {
     "slug": "piaui",
     "uf": "PI",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-040c75b7.svg",
-    "listIcon": "escudo-040c75b7.svg",
-    "backgroundAspect": 1.509,
+    "crestLabel": "Atual · desde 2026",
+    "crestIcon": "escudo-10e279be.svg",
+    "listIcon": "escudo-10e279be.svg",
+    "backgroundAspect": 1.809,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -18338,12 +18428,132 @@
         2026
       ]
     },
-    "crestUnchanged": true,
-    "retro": [],
+    "retro": [
+      {
+        "id": "1948",
+        "label": "1948–1959",
+        "fullLabel": "1948–1959",
+        "atual": false,
+        "file": "retro-1948-137803e9.svg",
+        "aspect": 1,
+        "icon": "escudo-1948-80df3384.svg",
+        "iconTheme": "brasileirao-piaui-1948"
+      },
+      {
+        "id": "1960a",
+        "label": "1960",
+        "fullLabel": "1960",
+        "atual": false,
+        "file": "retro-1960a-4d1221ea.svg",
+        "aspect": 0.87,
+        "icon": "escudo-1960a-f99f9caf.svg",
+        "iconTheme": "brasileirao-piaui-1960a"
+      },
+      {
+        "id": "1960b",
+        "label": "1960–1969",
+        "fullLabel": "1960–1969",
+        "atual": false,
+        "file": "retro-1960b-961a3f0e.svg",
+        "aspect": 0.876,
+        "icon": "escudo-1960b-3d4c1682.svg",
+        "iconTheme": "brasileirao-piaui-1960b"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1979",
+        "fullLabel": "1970–1979",
+        "atual": false,
+        "file": "retro-1970-f61137f8.svg",
+        "aspect": 2.158,
+        "icon": "escudo-1970-93c82ada.svg",
+        "iconTheme": "brasileirao-piaui-1970"
+      },
+      {
+        "id": "1980",
+        "label": "1980–1989",
+        "fullLabel": "1980–1989",
+        "atual": false,
+        "file": "retro-1980-82266b62.svg",
+        "aspect": 1,
+        "icon": "escudo-1980-f72e86c8.svg",
+        "iconTheme": "brasileirao-piaui-1980"
+      },
+      {
+        "id": "1990",
+        "label": "1990–1999",
+        "fullLabel": "1990–1999",
+        "atual": false,
+        "file": "retro-1990-ec919e69.svg",
+        "aspect": 1,
+        "icon": "escudo-1990-8bc33a21.svg",
+        "iconTheme": "brasileirao-piaui-1990"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2009",
+        "fullLabel": "2000–2009",
+        "atual": false,
+        "file": "retro-2000-283c6e42.svg",
+        "aspect": 1.767,
+        "icon": "escudo-2000-0eea404a.svg",
+        "iconTheme": "brasileirao-piaui-2000"
+      },
+      {
+        "id": "2010a",
+        "label": "2010",
+        "fullLabel": "2010",
+        "atual": false,
+        "file": "retro-2010a-bb890f7f.svg",
+        "aspect": 1.399,
+        "icon": "escudo-2010a-7a277e17.svg",
+        "iconTheme": "brasileirao-piaui-2010a"
+      },
+      {
+        "id": "2010b",
+        "label": "2010–2013",
+        "fullLabel": "2010–2013",
+        "atual": false,
+        "file": "retro-2010b-1431e52f.svg",
+        "aspect": 1.397,
+        "icon": "escudo-2010b-ce3103b4.svg",
+        "iconTheme": "brasileirao-piaui-2010b"
+      },
+      {
+        "id": "2013",
+        "label": "2013–2018",
+        "fullLabel": "2013–2018",
+        "atual": false,
+        "file": "retro-2013-319730db.svg",
+        "aspect": 1.514,
+        "icon": "escudo-2013-1968d548.svg",
+        "iconTheme": "brasileirao-piaui-2013"
+      },
+      {
+        "id": "2015",
+        "label": "2015–2026",
+        "fullLabel": "2015–2026",
+        "atual": false,
+        "file": "retro-2015-cd036a59.svg",
+        "aspect": 1,
+        "icon": "escudo-2015-611680ec.svg",
+        "iconTheme": "brasileirao-piaui-2015"
+      },
+      {
+        "id": "2018",
+        "label": "2018–2026",
+        "fullLabel": "2018–2026",
+        "atual": false,
+        "file": "retro-2018-29c9bbed.svg",
+        "aspect": 1.509,
+        "icon": "escudo-2018-e883725c.svg",
+        "iconTheme": "brasileirao-piaui-2018"
+      }
+    ],
     "alternates": [],
     "swatch": "🟦🟥⬜",
     "primary": "#2a4ab0",
-    "background": "fundo-2ef1b308.png",
+    "background": "fundo-de4497ad.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
