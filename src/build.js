@@ -256,7 +256,12 @@ write(pkgFile, JSON.stringify(pkg, null, 2) + '\n');
 
 // Os créditos dos escudos antigos (autor e licença de cada arquivo) vão junto no pacote.
 const retroCredits = path.join(root, 'assets', 'escudos', 'retro', 'CREDITS.txt');
-if (fs.existsSync(retroCredits)) fs.copyFileSync(retroCredits, path.join(root, 'icons', 'retro-CREDITS.txt'));
+if (fs.existsSync(retroCredits)) {
+  // O primeiro parágrafo do arquivo de créditos é trocado por este, que diz de onde vêm os escudos.
+  const header = 'Escudos antigos: a qualidade depende da imagem achada na Logopedia e, em casos raros, de pesquisas independentes (clubes que não estão na Logopedia). Os escudos são marcas dos clubes; as licenças abaixo são as do arquivo no Commons, quando houver.';
+  const body = fs.readFileSync(retroCredits, 'utf8').replace(/^[\s\S]*?\r?\n\r?\n/, '');
+  fs.writeFileSync(path.join(root, 'icons', 'retro-CREDITS.txt'), `${header}\n\n${body}`);
+}
 const totalRetro = Object.values(escudosRetro).filter(Array.isArray).reduce((n, list) => n + list.length, 0);
 console.log(`Escudos antigos: ${totalRetro - missingRetro.length} de ${totalRetro}${missingRetro.length ? ` (faltam: rode python baixar_escudos_retro.py)` : ''}`);
 console.log(`${teams.length} temas de cores, ${teams.length} temas de ícones, ${crests} escudo(s)${material ? `, ícones de arquivo do Material (${materialFiles.size} SVGs)` : ''}`);

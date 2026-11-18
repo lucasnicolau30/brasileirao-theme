@@ -1,0 +1,9 @@
+Escudos: a qualidade depende da imagem achada na Logopedia e, em casos raros, de pesquisas independentes (clubes que não estão na Logopedia).
+
+- Escudos de baixa resolução foram melhorados com IA, sempre usando o escudo original como base.
+- Outros escudos são iguais aos da Logopedia.
+- Alguns escudos são iguais aos da pesquisa independente.
+
+As datas dos escudos antigos também vêm da Logopedia e, nos clubes que não estão nela, de pesquisas independentes. Quando nenhuma fonte concreta as confirma, a data é aproximada e isso está dito em src/teams.js.
+
+Os escudos são marcas dos clubes. O autor e a licença de cada arquivo do Wikimedia Commons estão em icons/retro-CREDITS.txt, no pacote da extensão.

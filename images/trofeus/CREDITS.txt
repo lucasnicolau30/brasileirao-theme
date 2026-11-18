@@ -1,112 +1,112 @@
-Fotos dos troféus, recortadas do fundo e redimensionadas.
+Troféus: de todos foram pegas as fotos originais e colocadas na IA para melhorar a qualidade, mantendo o troféu original como base. Depois, o fundo foi recortado e a imagem redimensionada.
 
 - mundial.png
-  Taça do Mundial de Clubes da FIFA: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Mundial de Clubes da FIFA: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - copa-do-brasil.png
-  Taça da Copa do Brasil: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça da Copa do Brasil: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - libertadores.png
-  Taça da Libertadores: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça da Libertadores: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - sul-americana.png
-  Taça da Copa Sul-Americana: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça da Copa Sul-Americana: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - brasileirao.png
-  Taça do Campeonato Brasileiro: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Brasileiro: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - serie-b.png
-  Taça do Brasileirão Série B: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Brasileirão Série B: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - serie-c.png
-  Taça do Brasileirão Série C: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Brasileirão Série C: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - serie-d.png
-  Taça do Brasileirão Série D: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Brasileirão Série D: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - copa-do-nordeste.png
-  Taça da Copa do Nordeste: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça da Copa do Nordeste: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - copa-verde.png
-  Taça da Copa Verde: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça da Copa Verde: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-ac.png
-  Taça do Campeonato Acreano: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Acreano: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-al.png
-  Taça do Campeonato Alagoano: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Alagoano: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-am.png
-  Taça do Campeonato Amazonense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Amazonense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-ap.png
-  Taça do Campeonato Amapaense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Amapaense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-ba.png
-  Taça do Campeonato Baiano: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Baiano: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-ce.png
-  Taça do Campeonato Cearense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Cearense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-df.png
-  Taça do Campeonato Brasiliense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Brasiliense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-es.png
-  Taça do Campeonato Capixaba: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Capixaba: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-go.png
-  Taça do Campeonato Goiano: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Goiano: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-ma.png
-  Taça do Campeonato Maranhense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Maranhense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-mg.png
-  Taça do Campeonato Mineiro: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Mineiro: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-ms.png
-  Taça do Campeonato Sul-Mato-Grossense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Sul-Mato-Grossense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-mt.png
-  Taça do Campeonato Mato-Grossense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Mato-Grossense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-pa.png
-  Taça do Campeonato Paraense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Paraense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-pb.png
-  Taça do Campeonato Paraibano: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Paraibano: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-pe.png
-  Taça do Campeonato Pernambucano: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Pernambucano: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-pi.png
-  Taça do Campeonato Piauiense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Piauiense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-pr.png
-  Taça do Campeonato Paranaense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Paranaense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-rj.png
-  Taça do Campeonato Carioca: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Carioca: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-rn.png
-  Taça do Campeonato Potiguar: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Potiguar: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-ro.png
-  Taça do Campeonato Rondoniense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Rondoniense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-rr.png
-  Taça do Campeonato Roraimense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Roraimense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-rs.png
-  Taça do Campeonato Gaúcho: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Gaúcho: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-sc.png
-  Taça do Campeonato Catarinense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Catarinense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-se.png
-  Taça do Campeonato Sergipano: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Sergipano: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-sp.png
-  Taça do Campeonato Paulista: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Paulista: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
 
 - estadual-to.png
-  Taça do Campeonato Tocantinense: imagem fornecida pelo usuário, recortada do fundo, sem autor nem licença conhecidos.
+  Taça do Campeonato Tocantinense: foto original fornecida pelo usuário e melhorada com IA; autor e licença da foto original desconhecidos.
