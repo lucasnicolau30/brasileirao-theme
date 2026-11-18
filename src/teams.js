@@ -676,7 +676,15 @@ const times = [
     swatch: "🟥⬛",
     uf: "PR",
     crestLabel: "Athletico Paranaense (desde 2018)",
+    // Escudo atual: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     bgColored: true,
+    titleOrder: [
+      "serieB",
+      "sulAmericana",
+      "copaDoBrasil",
+      "brasileirao",
+      "estadual",
+    ],
     titles: {
       brasileirao: [2001],
       copaDoBrasil: [2019],

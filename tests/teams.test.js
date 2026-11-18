@@ -464,6 +464,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Internacional'), ['Copa do Brasil', 'Brasileirão', 'Libertadores', 'Mundial', 'Sul-Americana', 'Estadual']);
     for (const time of ['Fluminense', 'Vasco']) assert.deepEqual(itens(time), ['Copa do Brasil', 'Brasileirão', 'Libertadores', 'Estadual'], `${time}: ordem do titleOrder em teams.js`);
     assert.deepEqual(itens('Juventude'), ['Série B', 'Copa do Brasil', 'Estadual'], 'Juventude: ordem do titleOrder em teams.js');
+    assert.deepEqual(itens('Athletico-PR'), ['Série B', 'Sul-Americana', 'Copa do Brasil', 'Brasileirão', 'Estadual'], 'Athletico-PR: ordem do titleOrder em teams.js');
     for (const time of ['Santos', 'Corinthians', 'Grêmio']) assert.deepEqual(itens(time), ['Copa do Brasil', 'Brasileirão', 'Mundial', 'Libertadores', 'Estadual'], `${time}: mesma ordem do Flamengo (titleOrder em teams.js)`);
     // Com 5 competições o Mundial (o ápice) fica no centro.
     for (const time of ['Corinthians', 'Santos', 'Grêmio']) assert.equal(itens(time)[2], 'Mundial', `${time}: Mundial deve ficar no centro`);

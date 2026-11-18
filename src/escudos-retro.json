@@ -1330,22 +1330,316 @@
   ],
   "athletico-pr": [
     {
+      "id": "1912i",
+      "label": "1912–1924",
+      "local": "Athletico-PR-1912i.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1914a",
+      "label": "1914–1920",
+      "local": "Athletico-PR-1914a.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#d83040"
+      ]
+    },
+    {
+      "id": "1920a",
+      "label": "1920–1924",
+      "local": "Athletico-PR-1920a.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#181818",
+        "#d00000",
+        "#f8f8f8"
+      ]
+    },
+    {
       "id": "1924",
       "label": "1924–1936",
-      "commons": "Símbolo 1934.png",
-      "vetorizarAuto": true
+      "local": "Athletico-PR-1924.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#d83040",
+        "#f8f8f8"
+      ]
     },
     {
       "id": "1936",
-      "label": "1936–1944",
-      "commons": "Símbolo 1924.png",
-      "vetorizarAuto": true
+      "label": "1936–1937",
+      "local": "Athletico-PR-1936.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f00000",
+        "#000000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1937",
+      "label": "1937–1938",
+      "local": "Athletico-PR-1937.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#e00000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1938",
+      "label": "1938–1945",
+      "local": "Athletico-PR-1938.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#e00010",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1945",
+      "label": "1945–1948",
+      "local": "Athletico-PR-1945.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f80000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1948",
+      "label": "1948–1950",
+      "local": "Athletico-PR-1948.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f80000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1950",
+      "label": "1950–1970",
+      "local": "Athletico-PR-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#d83040",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1989",
+      "local": "Athletico-PR-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f80000",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1990",
+      "label": "1990–1997",
+      "local": "Athletico-PR-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#c81010",
+        "#f8f8f8"
+      ]
     },
     {
       "id": "1997",
-      "label": "1997–2018",
-      "commons": "Simbolo 2002.png",
-      "vetorizarAuto": true
+      "label": "1997–2001",
+      "local": "Athletico-PR-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101010",
+        "#c02028",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "2001",
+      "label": "2001–2002",
+      "local": "Athletico-PR-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101010",
+        "#c02028",
+        "#f8f8f8",
+        "#b8b8b8",
+        "#f0d048"
+      ]
+    },
+    {
+      "id": "2003",
+      "label": "2003–2012",
+      "local": "Athletico-PR-2003.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#d83040",
+        "#f8f8f8",
+        "#b8b8b8",
+        "#f0d048"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2018",
+      "local": "Athletico-PR-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#d83040",
+        "#f8f8f8",
+        "#b8b8b8",
+        "#f0d048"
+      ]
+    },
+    {
+      "id": "2024",
+      "label": "2024",
+      "local": "Athletico-PR-2024.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#e0b868",
+        "#8a6a28",
+        "#000000",
+        "#d83038"
+      ]
     }
   ],
   "vitoria": [
