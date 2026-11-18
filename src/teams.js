@@ -3243,6 +3243,7 @@ const times = [
     slug: "manaus",
     swatch: "🟩⬛⬜",
     uf: "AM",
+    // Sem retrôs: o clube não tem escudos antigos.
     crestLabel: "Manaus FC (desde 2013)",
     crestUnchanged: true,
     bgColored: true,
@@ -4281,6 +4282,7 @@ const times = [
     slug: "ypiranga-ap",
     swatch: "🟦⬜⬛",
     uf: "AP",
+    // Sem retrôs: o clube não tem escudos antigos.
     crestLabel: "Ypiranga-AP (desde 1963)",
     crestUnchanged: true,
     bgColored: true,
