@@ -92,6 +92,16 @@
     ],
     "retro": [
       {
+        "id": "1895b",
+        "label": "1895–1896",
+        "fullLabel": "1895–1896",
+        "atual": false,
+        "file": "retro-1895b-83d07cea.svg",
+        "aspect": 0.92,
+        "icon": "escudo-1895b-e96333c9.svg",
+        "iconTheme": "brasileirao-flamengo-1895b"
+      },
+      {
         "id": "1895",
         "label": "1895/2018",
         "fullLabel": "1895/2018",
@@ -102,34 +112,64 @@
         "iconTheme": "brasileirao-flamengo-1895"
       },
       {
-        "id": "1897",
-        "label": "1897–1911",
-        "fullLabel": "1897–1911",
+        "id": "1896",
+        "label": "1896–1912",
+        "fullLabel": "1896–1912",
         "atual": false,
-        "file": "retro-1897-d5ff3ca1.svg",
-        "aspect": 0.832,
-        "icon": "escudo-1897-dd97dd04.svg",
-        "iconTheme": "brasileirao-flamengo-1897"
+        "file": "retro-1896-de5dc44a.svg",
+        "aspect": 0.845,
+        "icon": "escudo-1896-5846357c.svg",
+        "iconTheme": "brasileirao-flamengo-1896"
+      },
+      {
+        "id": "1912",
+        "label": "1912–1944",
+        "fullLabel": "1912–1944",
+        "atual": false,
+        "file": "retro-1912-7a60c2a4.svg",
+        "aspect": 0.853,
+        "icon": "escudo-1912-440f33fd.svg",
+        "iconTheme": "brasileirao-flamengo-1912"
+      },
+      {
+        "id": "1944",
+        "label": "1944–1980",
+        "fullLabel": "1944–1980",
+        "atual": false,
+        "file": "retro-1944-66e388a2.svg",
+        "aspect": 0.891,
+        "icon": "escudo-1944-560f31ca.svg",
+        "iconTheme": "brasileirao-flamengo-1944"
       },
       {
         "id": "1980",
         "label": "1980–1981",
         "fullLabel": "1980–1981",
         "atual": false,
-        "file": "retro-1980-88364d13.svg",
-        "aspect": 1.372,
-        "icon": "escudo-1980-5b95ca01.svg",
+        "file": "retro-1980-cc5366e6.svg",
+        "aspect": 0.915,
+        "icon": "escudo-1980-fbbd293d.svg",
         "iconTheme": "brasileirao-flamengo-1980"
       },
       {
         "id": "1981",
-        "label": "1981–2018",
-        "fullLabel": "1981–2018",
+        "label": "1981–2000/2010–2018",
+        "fullLabel": "1981–2000/2010–2018",
         "atual": false,
-        "file": "retro-1981-c0ac5d1d.svg",
+        "file": "retro-1981-dabeb98e.svg",
         "aspect": 0.841,
-        "icon": "escudo-1981-be9110fe.svg",
+        "icon": "escudo-1981-38e1fe9f.svg",
         "iconTheme": "brasileirao-flamengo-1981"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2009",
+        "fullLabel": "2000–2009",
+        "atual": false,
+        "file": "retro-2000-492a154b.svg",
+        "aspect": 0.849,
+        "icon": "escudo-2000-734b5eb6.svg",
+        "iconTheme": "brasileirao-flamengo-2000"
       }
     ],
     "alternates": [],
