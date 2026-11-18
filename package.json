@@ -2387,6 +2387,26 @@
         "path": "./icons/maringa/icon-theme.json"
       },
       {
+        "id": "brasileirao-maringa-2010",
+        "label": "Brasileirão: Maringá (retrô 2010)",
+        "path": "./icons/maringa/icon-theme-2010.json"
+      },
+      {
+        "id": "brasileirao-maringa-2010b",
+        "label": "Brasileirão: Maringá (retrô 2010–2013)",
+        "path": "./icons/maringa/icon-theme-2010b.json"
+      },
+      {
+        "id": "brasileirao-maringa-2013",
+        "label": "Brasileirão: Maringá (retrô 2013)",
+        "path": "./icons/maringa/icon-theme-2013.json"
+      },
+      {
+        "id": "brasileirao-maringa-2013b",
+        "label": "Brasileirão: Maringá (retrô 2013–2019)",
+        "path": "./icons/maringa/icon-theme-2013b.json"
+      },
+      {
         "id": "brasileirao-sport",
         "label": "Brasileirão: Sport",
         "path": "./icons/sport/icon-theme.json"
