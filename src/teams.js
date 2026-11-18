@@ -26,6 +26,7 @@ const times = [
     slug: "flamengo",
     swatch: "🟥⬛⬜",
     uf: "RJ",
+    // Retrô 2000–2009: borda clara por fora, pois o contorno preto do escudo original some no fundo escuro do editor.
     crestLabel: "CRF (desde 2018)",
     iconFromBackground: true,
     bgPosition: "42.4% 50%",

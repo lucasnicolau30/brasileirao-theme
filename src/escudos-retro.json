@@ -131,7 +131,8 @@
         "#000000",
         "#d83040",
         "#f4f4f4"
-      ]
+      ],
+      "contornoClaro": true
     }
   ],
   "botafogo": [
