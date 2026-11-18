@@ -2272,19 +2272,24 @@
         "path": "./icons/londrina/icon-theme.json"
       },
       {
-        "id": "brasileirao-londrina-1956",
+        "id": "brasileirao-londrina-1956b",
         "label": "Brasileirão: Londrina (retrô 1956–1962)",
+        "path": "./icons/londrina/icon-theme-1956b.json"
+      },
+      {
+        "id": "brasileirao-londrina-1956",
+        "label": "Brasileirão: Londrina (retrô 1962–1970)",
         "path": "./icons/londrina/icon-theme-1956.json"
       },
       {
-        "id": "brasileirao-londrina-1962",
-        "label": "Brasileirão: Londrina (retrô 1962–1970)",
-        "path": "./icons/londrina/icon-theme-1962.json"
+        "id": "brasileirao-londrina-1970",
+        "label": "Brasileirão: Londrina (retrô 1970–1973)",
+        "path": "./icons/londrina/icon-theme-1970.json"
       },
       {
-        "id": "brasileirao-londrina-1970",
-        "label": "Brasileirão: Londrina (retrô 1970–1977)",
-        "path": "./icons/londrina/icon-theme-1970.json"
+        "id": "brasileirao-londrina-1962",
+        "label": "Brasileirão: Londrina (retrô 1973–1977)",
+        "path": "./icons/londrina/icon-theme-1962.json"
       },
       {
         "id": "brasileirao-londrina-1977",
