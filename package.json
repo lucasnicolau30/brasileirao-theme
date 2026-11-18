@@ -2218,8 +2218,38 @@
       },
       {
         "id": "brasileirao-coritiba-1909",
-        "label": "Brasileirão: Coritiba (retrô 1909–1915)",
+        "label": "Brasileirão: Coritiba (retrô 1909)",
         "path": "./icons/coritiba/icon-theme-1909.json"
+      },
+      {
+        "id": "brasileirao-coritiba-1909b",
+        "label": "Brasileirão: Coritiba (retrô 1909–1916)",
+        "path": "./icons/coritiba/icon-theme-1909b.json"
+      },
+      {
+        "id": "brasileirao-coritiba-1916",
+        "label": "Brasileirão: Coritiba (retrô 1916–1930)",
+        "path": "./icons/coritiba/icon-theme-1916.json"
+      },
+      {
+        "id": "brasileirao-coritiba-1930",
+        "label": "Brasileirão: Coritiba (retrô 1930–1960)",
+        "path": "./icons/coritiba/icon-theme-1930.json"
+      },
+      {
+        "id": "brasileirao-coritiba-1960",
+        "label": "Brasileirão: Coritiba (retrô 1960–1970)",
+        "path": "./icons/coritiba/icon-theme-1960.json"
+      },
+      {
+        "id": "brasileirao-coritiba-1970",
+        "label": "Brasileirão: Coritiba (retrô 1970–1985)",
+        "path": "./icons/coritiba/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-coritiba-1985",
+        "label": "Brasileirão: Coritiba (retrô 1985–2001)",
+        "path": "./icons/coritiba/icon-theme-1985.json"
       },
       {
         "id": "brasileirao-parana",
