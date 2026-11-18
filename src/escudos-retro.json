@@ -3373,27 +3373,41 @@
   ],
   "parana": [
     {
-      "id": "1971-colorado",
-      "label": "Colorado · 1971–1989",
-      "local": "Colorado-1971.png",
+      "id": "1989",
+      "label": "1989–1992",
+      "local": "Parana-1989.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
       "escala": 4,
-      "suavidade": 1.2,
-      "minimo": 100,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#ff0000",
-        "#000000"
-      ],
-      "bordaPx": 0
+        "#f8f8f8",
+        "#d83040",
+        "#206098"
+      ]
     },
     {
-      "id": "1971-pinheiros",
-      "label": "Pinheiros · 1971–1989",
-      "local": "Pinheiros-1971.svg"
+      "id": "1992",
+      "label": "1992–1997",
+      "local": "Parana-1992.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83040",
+        "#f8f8f8",
+        "#206098",
+        "#f8c058"
+      ]
     }
   ],
   "santo-andre": [

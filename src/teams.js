@@ -1468,8 +1468,9 @@ const times = [
     slug: "parana",
     swatch: "🟦🟥⬜",
     uf: "PR",
-    crestLabel: "Paraná Clube (desde 1989)",
+    crestLabel: "Paraná Clube (desde 1997)",
     bgColored: true,
+    titleOrder: ["estadual", "serieB"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],

@@ -2257,14 +2257,14 @@
         "path": "./icons/parana/icon-theme.json"
       },
       {
-        "id": "brasileirao-parana-1971-colorado",
-        "label": "Brasileirão: Paraná (retrô Colorado · 1971–1989)",
-        "path": "./icons/parana/icon-theme-1971-colorado.json"
+        "id": "brasileirao-parana-1989",
+        "label": "Brasileirão: Paraná (retrô 1989–1992)",
+        "path": "./icons/parana/icon-theme-1989.json"
       },
       {
-        "id": "brasileirao-parana-1971-pinheiros",
-        "label": "Brasileirão: Paraná (retrô Pinheiros · 1971–1989)",
-        "path": "./icons/parana/icon-theme-1971-pinheiros.json"
+        "id": "brasileirao-parana-1992",
+        "label": "Brasileirão: Paraná (retrô 1992–1997)",
+        "path": "./icons/parana/icon-theme-1992.json"
       },
       {
         "id": "brasileirao-londrina",
