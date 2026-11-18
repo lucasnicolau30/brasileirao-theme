@@ -8121,19 +8121,7 @@
     {
       "id": "2016",
       "label": "2016–2022",
-      "local": "Retro-2016.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "sobrepor": 1,
-      "escala": 4,
-      "suavidade": 1.2,
-      "minimo": 60,
-      "vetorizarPaleta": [
-        "#232350",
-        "#ffffff",
-        "#deaa24"
-      ],
-      "credito": "Retrô Futebol Clube Brasil | uso justo (marca) | https://en.wikipedia.org/wiki/File:Retr%C3%B4_FC_Brasil.png"
+      "local": "Retro-2016.svg"
     }
   ],
   "londrina": [
