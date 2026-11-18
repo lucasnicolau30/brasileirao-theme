@@ -681,8 +681,8 @@ const times = [
     titleOrder: [
       "serieB",
       "sulAmericana",
-      "copaDoBrasil",
       "brasileirao",
+      "copaDoBrasil",
       "estadual",
     ],
     titles: {
