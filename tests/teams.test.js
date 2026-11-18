@@ -462,10 +462,12 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Flamengo'), ['Copa do Brasil', 'Brasileirão', 'Mundial', 'Libertadores', 'Estadual'], 'Flamengo: ordem do titleOrder em teams.js');
     assert.deepEqual(itens('São Paulo'), ['Copa do Brasil', 'Brasileirão', 'Libertadores', 'Mundial', 'Sul-Americana', 'Estadual']);
     assert.deepEqual(itens('Internacional'), ['Copa do Brasil', 'Brasileirão', 'Libertadores', 'Mundial', 'Sul-Americana', 'Estadual']);
+    for (const time of ['Fluminense', 'Vasco']) assert.deepEqual(itens(time), ['Copa do Brasil', 'Brasileirão', 'Libertadores', 'Estadual'], `${time}: ordem do titleOrder em teams.js`);
+    assert.deepEqual(itens('Juventude'), ['Série B', 'Copa do Brasil', 'Estadual'], 'Juventude: ordem do titleOrder em teams.js');
     for (const time of ['Santos', 'Corinthians', 'Grêmio']) assert.deepEqual(itens(time), ['Copa do Brasil', 'Brasileirão', 'Mundial', 'Libertadores', 'Estadual'], `${time}: mesma ordem do Flamengo (titleOrder em teams.js)`);
     // Com 5 competições o Mundial (o ápice) fica no centro.
     for (const time of ['Corinthians', 'Santos', 'Grêmio']) assert.equal(itens(time)[2], 'Mundial', `${time}: Mundial deve ficar no centro`);
-    // Criciúma: a Série B fica no centro (titleOrder em teams.js); os outros times mantêm a ordem padrão. O Estadual vai sempre por último, fora da conta do centro.
+    // Criciúma: a Série B fica no centro (titleOrder em teams.js); os outros times mantêm a ordem padrão. Sem titleOrder, o Estadual vai sempre por último, fora da conta do centro.
     assert.deepEqual(itens('Criciúma'), ['Série C', 'Série B', 'Copa do Brasil', 'Estadual']);
     assert.deepEqual(itens('Bragantino'), ['Série C', 'Série B', 'Estadual'], 'Bragantino: a Série B fica no centro (titleOrder em teams.js)');
     // Sampaio Corrêa: a ordem vem de titleOrder em teams.js (Copa do Nordeste, Série D, Série B, Série C), não da lista padrão.
@@ -687,3 +689,67 @@ test('os times estão agrupados por estado e, em cada estado, em ordem de títul
   }
   assert.deepEqual(teams.map((x) => x.slug), ['flamengo', 'fluminense', 'vasco', 'botafogo', 'campo-grande', 'volta-redonda', 'olaria', 'macae', 'america-rj', 'bangu', 'sao-paulo', 'santos', 'corinthians', 'palmeiras', 'guarani', 'paulista', 'santo-andre', 'bragantino', 'uniao-sao-joao', 'novorizontino', 'portuguesa', 'juventus-sp', 'inter-de-limeira', 'ituano', 'mirassol', 'xv-de-piracicaba', 'uniao-barbarense', 'oeste', 'ponte-preta', 'botafogo-sp', 'cruzeiro', 'atletico-mg', 'america-mg', 'uberlandia', 'villa-nova', 'boa-esporte', 'tupi', 'tombense', 'gremio', 'internacional', 'juventude', 'bahia', 'vitoria', 'ypiranga-ba', 'fortaleza', 'ceara', 'ferroviario-ce', 'guarany-de-sobral', 'athletico-pr', 'coritiba', 'parana', 'londrina', 'operario-pr', 'maringa', 'sport', 'santa-cruz', 'nautico', 'retro-pe', 'paysandu', 'remo', 'tuna-luso', 'sao-raimundo-pa', 'amazonas', 'nacional-am', 'rio-negro-am', 'sao-raimundo-am', 'manaus', 'goias', 'atletico-go', 'vila-nova', 'aparecidense', 'criciuma', 'chapecoense', 'joinville', 'avai', 'brusque', 'barra-sc', 'figueirense', 'sampaio-correa', 'moto-club', 'maranhao-ac', 'cuiaba', 'luverdense', 'mixto', 'brasiliense', 'gama', 'brasilia', 'america-rn', 'abc', 'campinense', 'botafogo-pb', 'treze', 'csa', 'crb', 'asa', 'operario-ms', 'comercial-ms', 'rio-branco-ac', 'juventus-ac', 'independencia', 'atletico-ac', 'macapa', 'trem', 'ypiranga-ap', 'santos-ap', 'rio-branco-es', 'desportiva', 'vitoria-es', 'serra', 'flamengo-pi', 'parnahyba', 'botafogo-pi', 'piaui', 'altos', 'ji-parana', 'vilhena', 'porto-velho', 'bare', 'sao-raimundo-rr', 'gas', 'sergipe', 'confianca', 'itabaiana', 'palmas', 'tocantinopolis', 'gurupi']);
 });
+
+test('nenhum time repete uma chave em src/teams.js (a última sobrescreveria a primeira sem aviso)', () => {
+  const fonte = fs.readFileSync(path.join(root, 'src', 'teams.js'), 'utf8');
+  const blocos = fonte.split(/\r?\n  \{\r?\n    slug: /).slice(1);
+  assert.ok(blocos.length >= 100, 'não achei os blocos de times em src/teams.js');
+  for (const bloco of blocos) {
+    const slug = bloco.match(/^"([^"]+)"/)[1];
+    const corpo = bloco.split(/\r?\n  \},/)[0];
+    const chaves = [...corpo.matchAll(/^    ([A-Za-z]+):/gm)].map((x) => x[1]);
+    const repetidas = [...new Set(chaves.filter((k, i) => chaves.indexOf(k) !== i))];
+    assert.deepEqual(repetidas, [], `${slug}: chave repetida em teams.js (${repetidas.join(', ')})`);
+  }
+});
+
+// Lê um PNG RGBA de 8 bits sem entrelaçamento e devolve as caixas de conteúdo (alfa > 0 e alfa > 40).
+function caixasDoPng(arquivo) {
+  const zlib = require('zlib');
+  const buf = fs.readFileSync(arquivo);
+  assert.equal(buf.subarray(1, 4).toString(), 'PNG', `${arquivo}: não é PNG`);
+  const w = buf.readUInt32BE(16), h = buf.readUInt32BE(20);
+  assert.deepEqual([buf[24], buf[25], buf[28]], [8, 6, 0], `${arquivo}: precisa ser RGBA de 8 bits sem entrelaçamento`);
+  const idat = [];
+  for (let p = 8; p < buf.length;) {
+    const len = buf.readUInt32BE(p), tipo = buf.subarray(p + 4, p + 8).toString();
+    if (tipo === 'IDAT') idat.push(buf.subarray(p + 8, p + 8 + len));
+    p += 12 + len;
+  }
+  const raw = zlib.inflateSync(Buffer.concat(idat));
+  const stride = w * 4;
+  const img = Buffer.alloc(h * stride);
+  for (let y = 0; y < h; y++) {
+    const filtro = raw[y * (stride + 1)];
+    for (let i = 0; i < stride; i++) {
+      const x = raw[y * (stride + 1) + 1 + i];
+      const a = i >= 4 ? img[y * stride + i - 4] : 0, b = y > 0 ? img[(y - 1) * stride + i] : 0, c = i >= 4 && y > 0 ? img[(y - 1) * stride + i - 4] : 0;
+      let v;
+      if (filtro === 0) v = x;
+      else if (filtro === 1) v = x + a;
+      else if (filtro === 2) v = x + b;
+      else if (filtro === 3) v = x + ((a + b) >> 1);
+      else { const pp = a + b - c, pa = Math.abs(pp - a), pb = Math.abs(pp - b), pc = Math.abs(pp - c); v = x + (pa <= pb && pa <= pc ? a : pb <= pc ? b : c); }
+      img[y * stride + i] = v & 255;
+    }
+  }
+  const caixa = (limiar) => {
+    let x0 = w, y0 = h, x1 = -1, y1 = -1;
+    for (let y = 0; y < h; y++) for (let x = 0; x < w; x++) if (img[y * stride + x * 4 + 3] > limiar) { if (x < x0) x0 = x; if (x > x1) x1 = x; if (y < y0) y0 = y; if (y > y1) y1 = y; }
+    return { w, h, largura: x1 - x0 + 1, altura: y1 - y0 + 1 };
+  };
+  return { qualquer: caixa(0), solido: caixa(40) };
+}
+
+test('todo troféu tem boa resolução e recorte rente (sem pixels quase transparentes alargando a imagem)', () => {
+  const pasta = path.join(root, 'images', 'trofeus');
+  const arquivos = fs.readdirSync(pasta).filter((f) => f.endsWith('.png'));
+  assert.ok(arquivos.length >= 37, 'faltam troféus em images/trofeus');
+  for (const f of arquivos) {
+    const { qualquer, solido } = caixasDoPng(path.join(pasta, f));
+    assert.ok(qualquer.h >= 800, `${f}: altura ${qualquer.h} px é baixa demais (mínimo 800)`);
+    // O tamanho do arquivo é o que a extensão usa para a proporção: o troféu sólido deve ocupar quase toda a imagem.
+    assert.ok(solido.largura / qualquer.w >= 0.97 && solido.altura / qualquer.h >= 0.97, `${f}: há pixels quase transparentes fora do troféu (sólido ${solido.largura}x${solido.altura} em ${qualquer.w}x${qualquer.h})`);
+  }
+});
+
