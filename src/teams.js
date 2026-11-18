@@ -3092,7 +3092,7 @@ const times = [
     swatch: "⬛⬜",
     uf: "PB",
     crestLabel: "Treze (desde 1999)",
-    // Retrô 1925–1930: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    // Retrôs 1940–1950: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     bgColored: true,
     titles: {
       brasileirao: [],
