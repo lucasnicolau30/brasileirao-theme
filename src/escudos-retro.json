@@ -7160,9 +7160,9 @@
       "nitido": true,
       "macio": true,
       "sobrepor": 1,
-      "escala": 4,
-      "suavidade": 6.0,
-      "minimo": 60,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
       "nitidez": 30.0,
       "vetorizarPaleta": [
         "#000000",
