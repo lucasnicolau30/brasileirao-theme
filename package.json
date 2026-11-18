@@ -1502,6 +1502,36 @@
         "path": "./icons/botafogo-sp/icon-theme.json"
       },
       {
+        "id": "brasileirao-botafogo-sp-1918",
+        "label": "Brasileirão: Botafogo-SP (retrô 1918–1919)",
+        "path": "./icons/botafogo-sp/icon-theme-1918.json"
+      },
+      {
+        "id": "brasileirao-botafogo-sp-1919",
+        "label": "Brasileirão: Botafogo-SP (retrô 1919–1920)",
+        "path": "./icons/botafogo-sp/icon-theme-1919.json"
+      },
+      {
+        "id": "brasileirao-botafogo-sp-1920",
+        "label": "Brasileirão: Botafogo-SP (retrô 1920–1940)",
+        "path": "./icons/botafogo-sp/icon-theme-1920.json"
+      },
+      {
+        "id": "brasileirao-botafogo-sp-1940",
+        "label": "Brasileirão: Botafogo-SP (retrô 1940–1956)",
+        "path": "./icons/botafogo-sp/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-botafogo-sp-1956",
+        "label": "Brasileirão: Botafogo-SP (retrô 1956–1976)",
+        "path": "./icons/botafogo-sp/icon-theme-1956.json"
+      },
+      {
+        "id": "brasileirao-botafogo-sp-1976",
+        "label": "Brasileirão: Botafogo-SP (retrô 1976–1990)",
+        "path": "./icons/botafogo-sp/icon-theme-1976.json"
+      },
+      {
         "id": "brasileirao-botafogo-sp-1990",
         "label": "Brasileirão: Botafogo-SP (retrô 1990–2021)",
         "path": "./icons/botafogo-sp/icon-theme-1990.json"
