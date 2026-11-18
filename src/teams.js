@@ -4568,9 +4568,8 @@ const times = [
     slug: "piaui",
     swatch: "🟦🟥⬜",
     uf: "PI",
-    // Sem retrôs: o clube não tem escudos antigos.
-    crestLabel: "Piauí",
-    crestUnchanged: true,
+    // Retrôs 1960, 2010, 2010–2013 e 2013–2018: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    crestLabel: "Piauí (desde 2026)",
     bgColored: true,
     titles: {
       mundial: [],
