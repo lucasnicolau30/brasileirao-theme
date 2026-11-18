@@ -672,14 +672,29 @@
         "path": "./icons/flamengo/icon-theme.json"
       },
       {
+        "id": "brasileirao-flamengo-1895b",
+        "label": "Brasileirão: Flamengo (retrô 1895–1896)",
+        "path": "./icons/flamengo/icon-theme-1895b.json"
+      },
+      {
         "id": "brasileirao-flamengo-1895",
         "label": "Brasileirão: Flamengo (retrô 1895/2018)",
         "path": "./icons/flamengo/icon-theme-1895.json"
       },
       {
-        "id": "brasileirao-flamengo-1897",
-        "label": "Brasileirão: Flamengo (retrô 1897–1911)",
-        "path": "./icons/flamengo/icon-theme-1897.json"
+        "id": "brasileirao-flamengo-1896",
+        "label": "Brasileirão: Flamengo (retrô 1896–1912)",
+        "path": "./icons/flamengo/icon-theme-1896.json"
+      },
+      {
+        "id": "brasileirao-flamengo-1912",
+        "label": "Brasileirão: Flamengo (retrô 1912–1944)",
+        "path": "./icons/flamengo/icon-theme-1912.json"
+      },
+      {
+        "id": "brasileirao-flamengo-1944",
+        "label": "Brasileirão: Flamengo (retrô 1944–1980)",
+        "path": "./icons/flamengo/icon-theme-1944.json"
       },
       {
         "id": "brasileirao-flamengo-1980",
@@ -688,8 +703,13 @@
       },
       {
         "id": "brasileirao-flamengo-1981",
-        "label": "Brasileirão: Flamengo (retrô 1981–2018)",
+        "label": "Brasileirão: Flamengo (retrô 1981–2000/2010–2018)",
         "path": "./icons/flamengo/icon-theme-1981.json"
+      },
+      {
+        "id": "brasileirao-flamengo-2000",
+        "label": "Brasileirão: Flamengo (retrô 2000–2009)",
+        "path": "./icons/flamengo/icon-theme-2000.json"
       },
       {
         "id": "brasileirao-fluminense",
