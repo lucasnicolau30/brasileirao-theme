@@ -7856,34 +7856,90 @@
   ],
   "campo-grande": [
     {
+      "id": "1908",
+      "label": "1908–1920/1925–1935",
+      "local": "Campo-Grande-1908-1920_1920s-mid-1930s.png",
       "vetorizar": "alfa",
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
       "escala": 4,
-      "suavidade": 1.2,
+      "suavidade": 6.0,
       "minimo": 60,
-      "id": "1950",
-      "label": "1950–1982",
-      "local": "Campo-Grande-1950.png",
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#000000"
+        "#000000",
+        "#f4f4f4"
       ]
     },
     {
+      "id": "1920",
+      "label": "1920–1925",
+      "local": "Campo-Grande-1920-1920s.png",
       "vetorizar": "alfa",
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
       "escala": 4,
-      "suavidade": 1.2,
+      "suavidade": 6.0,
       "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1950",
+      "label": "1950–1982",
+      "local": "Campo-Grande-1950-1982.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1982",
+      "label": "1982–1984",
+      "local": "Campo-Grande-1982-1984.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#303030",
+        "#f4f4f4"
+      ]
+    },
+    {
       "id": "1984",
       "label": "1984–2025",
-      "local": "Campo-Grande-1984.png",
+      "local": "Campo-Grande-1984-2025.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#ffffff",
         "#000000",
-        "#ffd400"
+        "#f4f4f4",
+        "#f0c000"
       ]
     }
   ],

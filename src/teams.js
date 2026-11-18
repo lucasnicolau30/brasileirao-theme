@@ -3515,6 +3515,8 @@ const times = [
     slug: "campo-grande",
     swatch: "⬛⬜",
     uf: "RJ",
+    // Retrôs 1908–1920/1925–1935 e 1920–1925: datas aproximadas, sem fonte concreta que as confirme.
+    // Retrôs 1935–1950: período vazio, pois a Logopedia não fornece escudos para esse período.
     crestLabel: "Campo Grande (desde 2025)",
     bgColored: true,
     titles: {
