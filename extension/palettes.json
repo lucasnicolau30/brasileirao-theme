@@ -14100,22 +14100,85 @@
     ],
     "retro": [
       {
-        "id": "1931",
+        "id": "1931b",
         "label": "1931–1952",
         "fullLabel": "1931–1952",
+        "atual": false,
+        "file": "retro-1931b-109e3f76.svg",
+        "aspect": 0.816,
+        "iconTheme": "brasileirao-botafogo-pb-1931b"
+      },
+      {
+        "id": "1931",
+        "label": "1952–1956",
+        "fullLabel": "1952–1956",
         "atual": false,
         "file": "retro-1931-ebc8d186.svg",
         "aspect": 1.031,
         "iconTheme": "brasileirao-botafogo-pb-1931"
       },
       {
+        "id": "1956",
+        "label": "1956–1970",
+        "fullLabel": "1956–1970",
+        "atual": false,
+        "file": "retro-1956-ff08bbfc.svg",
+        "aspect": 1.052,
+        "iconTheme": "brasileirao-botafogo-pb-1956"
+      },
+      {
         "id": "1974",
-        "label": "1974–1978",
-        "fullLabel": "1974–1978",
+        "label": "1970–1976",
+        "fullLabel": "1970–1976",
         "atual": false,
         "file": "retro-1974-20c5885b.svg",
         "aspect": 0.87,
         "iconTheme": "brasileirao-botafogo-pb-1974"
+      },
+      {
+        "id": "1977",
+        "label": "1977–1978",
+        "fullLabel": "1977–1978",
+        "atual": false,
+        "file": "retro-1977-e5036230.svg",
+        "aspect": 0.877,
+        "iconTheme": "brasileirao-botafogo-pb-1977"
+      },
+      {
+        "id": "1978",
+        "label": "1978–1998",
+        "fullLabel": "1978–1998",
+        "atual": false,
+        "file": "retro-1978-41fa3fc2.svg",
+        "aspect": 0.871,
+        "iconTheme": "brasileirao-botafogo-pb-1978"
+      },
+      {
+        "id": "1998",
+        "label": "1998–2003",
+        "fullLabel": "1998–2003",
+        "atual": false,
+        "file": "retro-1998-b19304a7.svg",
+        "aspect": 0.871,
+        "iconTheme": "brasileirao-botafogo-pb-1998"
+      },
+      {
+        "id": "2003",
+        "label": "2003–2013",
+        "fullLabel": "2003–2013",
+        "atual": false,
+        "file": "retro-2003-6b49dc73.svg",
+        "aspect": 0.912,
+        "iconTheme": "brasileirao-botafogo-pb-2003"
+      },
+      {
+        "id": "2013",
+        "label": "2013–2019",
+        "fullLabel": "2013–2019",
+        "atual": false,
+        "file": "retro-2013-5aef150c.svg",
+        "aspect": 0.916,
+        "iconTheme": "brasileirao-botafogo-pb-2013"
       }
     ],
     "alternates": [],
@@ -14224,9 +14287,63 @@
         "label": "1925–1930",
         "fullLabel": "1925–1930",
         "atual": false,
-        "file": "retro-1925-737ceddf.png",
-        "aspect": 1.037,
+        "file": "retro-1925-1808128f.svg",
+        "aspect": 1,
         "iconTheme": "brasileirao-treze-1925"
+      },
+      {
+        "id": "1930",
+        "label": "1930–1940",
+        "fullLabel": "1930–1940",
+        "atual": false,
+        "file": "retro-1930-ac6347c5.svg",
+        "aspect": 0.824,
+        "iconTheme": "brasileirao-treze-1930"
+      },
+      {
+        "id": "1940",
+        "label": "1940–1950",
+        "fullLabel": "1940–1950",
+        "atual": false,
+        "file": "retro-1940-511f603e.svg",
+        "aspect": 0.867,
+        "iconTheme": "brasileirao-treze-1940"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1960",
+        "fullLabel": "1950–1960",
+        "atual": false,
+        "file": "retro-1950-701f81bd.svg",
+        "aspect": 0.844,
+        "iconTheme": "brasileirao-treze-1950"
+      },
+      {
+        "id": "1960",
+        "label": "1960–1978",
+        "fullLabel": "1960–1978",
+        "atual": false,
+        "file": "retro-1960-0ebe1229.svg",
+        "aspect": 0.845,
+        "iconTheme": "brasileirao-treze-1960"
+      },
+      {
+        "id": "1978",
+        "label": "1978–1981",
+        "fullLabel": "1978–1981",
+        "atual": false,
+        "file": "retro-1978-a933e9a3.svg",
+        "aspect": 0.807,
+        "iconTheme": "brasileirao-treze-1978"
+      },
+      {
+        "id": "1981",
+        "label": "1981–1999",
+        "fullLabel": "1981–1999",
+        "atual": false,
+        "file": "retro-1981-97bb9c23.svg",
+        "aspect": 0.906,
+        "iconTheme": "brasileirao-treze-1981"
       }
     ],
     "alternates": [],
