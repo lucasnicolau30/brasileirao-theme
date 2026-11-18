@@ -111,9 +111,9 @@ function collectRetro(team) {
     fs.mkdirSync(path.join(root, 'icons', team.slug), { recursive: true });
     fs.copyFileSync(source, path.join(root, 'icons', team.slug, name));
     // Retrô: o rótulo é a data de uso, com o nome e " · " antes ("Colorado · 1971–1989") só quando o escudo é de outro clube. Segundo escudo atual ("atual": true):
-    // "Completo (desde 2018)" vira "Atual · Completo · desde 2018".
+    // "Completo (desde 2018)" vira "Atual · desde 2018" (só a data; o nome do tipo fica no JSON).
     const [, nome, desde] = entry.label.match(/^(.*?)(?: \((.*)\))?$/);
-    const label = entry.atual ? ['Atual', nome, desde].filter(Boolean).join(' · ') : entry.label;
+    const label = entry.atual ? ['Atual', desde].filter(Boolean).join(' · ') : entry.label;
     found.push({ id: entry.id, label, fullLabel: label, atual: Boolean(entry.atual), file: name, aspect: Number(imageAspect(path.join(root, 'icons', team.slug, name)).toFixed(3)) });
   }
   // Ordem cronológica no seletor: pelo ano em que o escudo começa e, em empate, pelo ano em que termina (a ordem do JSON desempata).
@@ -208,7 +208,7 @@ if (material) {
 const hexToRgba = (h, a) => `rgba(${[1, 3, 5].map((i) => parseInt(h.slice(i, i + 2), 16)).join(',')},${a})`;
 const palettes = {};
 for (const team of teams) {
-  palettes[`${PREFIX}: ${team.label}`] = { slug: team.slug, uf: team.uf, crestLabel: ['Atual', retroByTeam[team.slug].some((r) => r.atual) ? 'Símbolo' : '', (team.crestLabel.match(/\((.*)\)$/) || [])[1]].filter(Boolean).join(' · '), crestIcon: crestIcons[team.slug].atual, listIcon: retroByTeam[team.slug].some((r) => r.atual) ? crestIcons[team.slug].lista : crestIcons[team.slug].atual, backgroundAspect: backgrounds[team.slug] ? Number(imageAspect(path.join(root, 'icons', team.slug, backgrounds[team.slug])).toFixed(3)) : null, titles: team.titles, ...(team.titleCenter ? { titleCenter: team.titleCenter } : {}), ...(team.crestUnchanged ? { crestUnchanged: true } : {}), ...(team.titleOrder ? { titleOrder: team.titleOrder } : {}), retro: retroByTeam[team.slug].filter((r) => !r.atual), alternates: retroByTeam[team.slug].filter((r) => r.atual), swatch: team.swatch, primary: team.primary, background: backgrounds[team.slug], backgroundColored: Boolean(team.bgColored), backgroundSize: team.bgSize || null, backgroundPosition: team.bgPosition || BG_POSITION, iconTheme: `${ID}-${team.slug}`, colors: team.brackets.slice(0, 4).map((h) => hexToRgba(h, 0.08)), commentTags: commentTags(team) };
+  palettes[`${PREFIX}: ${team.label}`] = { slug: team.slug, uf: team.uf, crestLabel: ['Atual', (team.crestLabel.match(/\((.*)\)$/) || [])[1]].filter(Boolean).join(' · '), crestIcon: crestIcons[team.slug].atual, listIcon: retroByTeam[team.slug].some((r) => r.atual) ? crestIcons[team.slug].lista : crestIcons[team.slug].atual, backgroundAspect: backgrounds[team.slug] ? Number(imageAspect(path.join(root, 'icons', team.slug, backgrounds[team.slug])).toFixed(3)) : null, titles: team.titles, ...(team.titleCenter ? { titleCenter: team.titleCenter } : {}), ...(team.crestUnchanged ? { crestUnchanged: true } : {}), ...(team.titleOrder ? { titleOrder: team.titleOrder } : {}), retro: retroByTeam[team.slug].filter((r) => !r.atual), alternates: retroByTeam[team.slug].filter((r) => r.atual), swatch: team.swatch, primary: team.primary, background: backgrounds[team.slug], backgroundColored: Boolean(team.bgColored), backgroundSize: team.bgSize || null, backgroundPosition: team.bgPosition || BG_POSITION, iconTheme: `${ID}-${team.slug}`, colors: team.brackets.slice(0, 4).map((h) => hexToRgba(h, 0.08)), commentTags: commentTags(team) };
 }
 write(path.join(root, 'extension', 'palettes.json'), JSON.stringify(palettes, null, 2) + '\n');
 

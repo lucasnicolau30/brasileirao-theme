@@ -421,7 +421,7 @@ async function setCrestVariant(context, slug, id) {
 async function pickRetro(context, palette, themeName, choices = [...(palette.alternates || []), ...(palette.retro || [])]) {
   const current = chosenRetro(context, palette);
   // "Em uso" marca o escudo que está no fundo; o primeiro item (crestLabel) é o escudo de hoje (a silhueta), não necessariamente o que está em uso.
-  // Tudo no rótulo, que sai na cor cheia (a descrição do seletor do VS Code sai esmaecida): "Atual · Símbolo · desde 2018", "1915 · União F.C." e a marca de em uso.
+  // Tudo no rótulo, que sai na cor cheia (a descrição do seletor do VS Code sai esmaecida): "Atual · desde 2018", "1915 · União F.C." e a marca de em uso.
   const line = (name, inUse) => [name, inUse ? '$(check) em uso' : ''].filter(Boolean).join(' · ');
   const items = [
     { label: line(palette.crestLabel || 'Atual', !current), inUse: !current, id: null, iconPath: iconFile(palette, palette.crestIcon || 'escudo.svg') },
