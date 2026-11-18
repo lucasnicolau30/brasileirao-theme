@@ -8779,11 +8779,18 @@
         2026
       ]
     },
+    "titleOrder": [
+      "serieB",
+      "copaDoNordeste",
+      "brasileirao",
+      "copaDoBrasil",
+      "estadual"
+    ],
     "retro": [
       {
         "id": "1905",
-        "label": "1905–1919",
-        "fullLabel": "1905–1919",
+        "label": "1905–1930",
+        "fullLabel": "1905–1930",
         "atual": false,
         "file": "retro-1905-5de048d7.svg",
         "aspect": 0.979,
@@ -8791,14 +8798,64 @@
         "iconTheme": "brasileirao-sport-1905"
       },
       {
+        "id": "1930",
+        "label": "1930–1940",
+        "fullLabel": "1930–1940",
+        "atual": false,
+        "file": "retro-1930-d12be817.svg",
+        "aspect": 0.992,
+        "icon": "escudo-1930-5f03c69f.svg",
+        "iconTheme": "brasileirao-sport-1930"
+      },
+      {
         "id": "1940",
-        "label": "1940–1949",
-        "fullLabel": "1940–1949",
+        "label": "1940–1950",
+        "fullLabel": "1940–1950",
         "atual": false,
         "file": "retro-1940-edcd707c.svg",
         "aspect": 0.921,
         "icon": "escudo-1940-855ead3b.svg",
         "iconTheme": "brasileirao-sport-1940"
+      },
+      {
+        "id": "1950",
+        "label": "1950–1987",
+        "fullLabel": "1950–1987",
+        "atual": false,
+        "file": "retro-1950-e593cc8d.svg",
+        "aspect": 0.986,
+        "icon": "escudo-1950-9f77eb3f.svg",
+        "iconTheme": "brasileirao-sport-1950"
+      },
+      {
+        "id": "1987",
+        "label": "1987–1990",
+        "fullLabel": "1987–1990",
+        "atual": false,
+        "file": "retro-1987-530ba737.svg",
+        "aspect": 0.965,
+        "icon": "escudo-1987-51270d99.svg",
+        "iconTheme": "brasileirao-sport-1987"
+      },
+      {
+        "id": "1990",
+        "label": "1990–2000",
+        "fullLabel": "1990–2000",
+        "atual": false,
+        "file": "retro-1990-00520ac8.svg",
+        "aspect": 0.794,
+        "icon": "escudo-1990-f1aab4b1.svg",
+        "iconTheme": "brasileirao-sport-1990"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2008",
+        "fullLabel": "2000–2008",
+        "atual": false,
+        "file": "retro-2000-e356a9db.svg",
+        "aspect": 0.737,
+        "icon": "escudo-2000-cae3a707.svg",
+        "iconTheme": "brasileirao-sport-2000"
       }
     ],
     "alternates": [],
@@ -8866,7 +8923,7 @@
   "Brasileirão: Santa Cruz": {
     "slug": "santa-cruz",
     "uf": "PE",
-    "crestLabel": "Atual · desde 1999",
+    "crestLabel": "Atual · desde 2014",
     "crestIcon": "escudo-d2ffbe89.svg",
     "listIcon": "escudo-d2ffbe89.svg",
     "backgroundAspect": 1.085,
@@ -8920,8 +8977,8 @@
     "retro": [
       {
         "id": "1914",
-        "label": "1914–1915",
-        "fullLabel": "1914–1915",
+        "label": "1914–1947",
+        "fullLabel": "1914–1947",
         "atual": false,
         "file": "retro-1914-df7f93cc.svg",
         "aspect": 1.044,
@@ -8930,13 +8987,103 @@
       },
       {
         "id": "1940",
-        "label": "1940–1959",
-        "fullLabel": "1940–1959",
+        "label": "1947–1967",
+        "fullLabel": "1947–1967",
         "atual": false,
         "file": "retro-1940-4a34cab2.svg",
         "aspect": 0.893,
         "icon": "escudo-1940-928b2546.svg",
         "iconTheme": "brasileirao-santa-cruz-1940"
+      },
+      {
+        "id": "1967",
+        "label": "1967–1970",
+        "fullLabel": "1967–1970",
+        "atual": false,
+        "file": "retro-1967-bb982859.svg",
+        "aspect": 1.065,
+        "icon": "escudo-1967-62e7b41d.svg",
+        "iconTheme": "brasileirao-santa-cruz-1967"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1977",
+        "fullLabel": "1970–1977",
+        "atual": false,
+        "file": "retro-1970-68387f5e.svg",
+        "aspect": 0.896,
+        "icon": "escudo-1970-37f7005a.svg",
+        "iconTheme": "brasileirao-santa-cruz-1970"
+      },
+      {
+        "id": "1977",
+        "label": "1977–1980",
+        "fullLabel": "1977–1980",
+        "atual": false,
+        "file": "retro-1977-3d65c664.svg",
+        "aspect": 0.797,
+        "icon": "escudo-1977-15a6cf8e.svg",
+        "iconTheme": "brasileirao-santa-cruz-1977"
+      },
+      {
+        "id": "1980",
+        "label": "1980–1983",
+        "fullLabel": "1980–1983",
+        "atual": false,
+        "file": "retro-1980-51ae52d8.svg",
+        "aspect": 0.882,
+        "icon": "escudo-1980-c12b23ab.svg",
+        "iconTheme": "brasileirao-santa-cruz-1980"
+      },
+      {
+        "id": "1983",
+        "label": "1983–1999",
+        "fullLabel": "1983–1999",
+        "atual": false,
+        "file": "retro-1983-bedae448.svg",
+        "aspect": 0.942,
+        "icon": "escudo-1983-78910379.svg",
+        "iconTheme": "brasileirao-santa-cruz-1983"
+      },
+      {
+        "id": "1999",
+        "label": "1999–2000",
+        "fullLabel": "1999–2000",
+        "atual": false,
+        "file": "retro-1999-02ab7a96.svg",
+        "aspect": 0.663,
+        "icon": "escudo-1999-fa6a37e5.svg",
+        "iconTheme": "brasileirao-santa-cruz-1999"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2012",
+        "fullLabel": "2000–2012",
+        "atual": false,
+        "file": "retro-2000-f60e4e8c.svg",
+        "aspect": 0.677,
+        "icon": "escudo-2000-771d512e.svg",
+        "iconTheme": "brasileirao-santa-cruz-2000"
+      },
+      {
+        "id": "2004",
+        "label": "2004",
+        "fullLabel": "2004",
+        "atual": false,
+        "file": "retro-2004-b2a394c6.svg",
+        "aspect": 0.983,
+        "icon": "escudo-2004-3e0137b2.svg",
+        "iconTheme": "brasileirao-santa-cruz-2004"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2014",
+        "fullLabel": "2012–2014",
+        "atual": false,
+        "file": "retro-2012-cc36f267.svg",
+        "aspect": 1.087,
+        "icon": "escudo-2012-bb7bc3ee.svg",
+        "iconTheme": "brasileirao-santa-cruz-2012"
       }
     ],
     "alternates": [],
@@ -9160,9 +9307,9 @@
         "label": "2016–2022",
         "fullLabel": "2016–2022",
         "atual": false,
-        "file": "retro-2016-bfbb3645.svg",
-        "aspect": 0.819,
-        "icon": "escudo-2016-66581bbf.svg",
+        "file": "retro-2016-7f66d5ab.svg",
+        "aspect": 0.788,
+        "icon": "escudo-2016-f5a0e4f7.svg",
         "iconTheme": "brasileirao-retro-pe-2016"
       }
     ],
