@@ -2517,9 +2517,39 @@
         "path": "./icons/nautico/icon-theme-1901.json"
       },
       {
+        "id": "brasileirao-nautico-1931b",
+        "label": "Brasileirão: Náutico (retrô 1931–1942)",
+        "path": "./icons/nautico/icon-theme-1931b.json"
+      },
+      {
         "id": "brasileirao-nautico-1931",
-        "label": "Brasileirão: Náutico (retrô 1931–1969)",
+        "label": "Brasileirão: Náutico (retrô 1942–1969)",
         "path": "./icons/nautico/icon-theme-1931.json"
+      },
+      {
+        "id": "brasileirao-nautico-1969",
+        "label": "Brasileirão: Náutico (retrô 1969–1972)",
+        "path": "./icons/nautico/icon-theme-1969.json"
+      },
+      {
+        "id": "brasileirao-nautico-1972",
+        "label": "Brasileirão: Náutico (retrô 1972–1973)",
+        "path": "./icons/nautico/icon-theme-1972.json"
+      },
+      {
+        "id": "brasileirao-nautico-1973",
+        "label": "Brasileirão: Náutico (retrô 1973–1995)",
+        "path": "./icons/nautico/icon-theme-1973.json"
+      },
+      {
+        "id": "brasileirao-nautico-1995",
+        "label": "Brasileirão: Náutico (retrô 1995–2002)",
+        "path": "./icons/nautico/icon-theme-1995.json"
+      },
+      {
+        "id": "brasileirao-nautico-2002",
+        "label": "Brasileirão: Náutico (retrô 2002–2008)",
+        "path": "./icons/nautico/icon-theme-2002.json"
       },
       {
         "id": "brasileirao-retro-pe",
