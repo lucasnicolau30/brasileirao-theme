@@ -3403,6 +3403,8 @@ const times = [
     slug: "macae",
     swatch: "🟦🟨⬜",
     uf: "RJ",
+    // Retrôs 1999–2004, 2004–2009 e 2009–2014: datas aproximadas, sem fonte concreta que as confirme.
+    // Retrô 1990–1999: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     crestLabel: "Macaé (desde 2014)",
     bgColored: true,
     titles: {
