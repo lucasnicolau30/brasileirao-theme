@@ -653,11 +653,11 @@ test('todo time tem o nome do escudo atual, com "desde" só quando a data é fir
   for (const t of teams) assert.match(t.crestLabel || '', /^[^()]+( \([^()]+\))?$/, `${t.slug}: crestLabel deve ser Nome ou Nome (período)`);
 });
 
-test('o Fluminense tem um só escudo atual (o completo, desde 2002) e três retrôs com período', () => {
+test('o Fluminense tem um só escudo atual (o completo, desde 2015) e dez retrôs com período', () => {
   const p = palettes[`${PREFIX}: Fluminense`];
-  assert.equal(p.crestLabel, 'Atual · desde 2002');
+  assert.equal(p.crestLabel, 'Atual · desde 2015');
   assert.deepEqual(p.alternates, []);
-  assert.deepEqual(p.retro.map((r) => r.label), ['1902–1905', '1905–1906', '2011–2012']);
+  assert.deepEqual(p.retro.map((r) => r.label), ['1902–1905', '1905–1938', '1938–1970', '1970–1983', '1983–2002', '2002', '2002–2010', '2010–2011', '2011–2012', '2012–2015']);
 });
 
 test('os escudos antigos de todo time estão em ordem cronológica no seletor', () => {

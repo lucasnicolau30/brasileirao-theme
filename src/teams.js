@@ -79,7 +79,7 @@ const times = [
     slug: "fluminense",
     swatch: "🟥🟩⬜",
     uf: "RJ",
-    crestLabel: "Fluminense (desde 2002)",
+    crestLabel: "Fluminense (desde 2015)",
     bgColored: true,
     titleOrder: ["copaDoBrasil", "brasileirao", "libertadores", "estadual"],
     titles: {

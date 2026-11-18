@@ -2658,14 +2658,130 @@
     },
     {
       "id": "1905",
-      "label": "1905–1906",
-      "local": "Fluminense-1905.png",
-      "vetorizar": "suave",
+      "label": "1905–1938",
+      "local": "Fluminense-1905-1938.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#a43752",
-        "#007f6d"
-      ],
-      "silhueta": "linha"
+        "#f4f4f4",
+        "#a03050",
+        "#007060"
+      ]
+    },
+    {
+      "id": "1938",
+      "label": "1938–1970",
+      "local": "Fluminense-1938-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#a03050",
+        "#007060"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1983",
+      "local": "Fluminense-1970-1983.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#a03050",
+        "#007060"
+      ]
+    },
+    {
+      "id": "1983",
+      "label": "1983–2002",
+      "local": "Fluminense-1983-2002.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#a03050",
+        "#007060"
+      ]
+    },
+    {
+      "id": "2002a",
+      "label": "2002",
+      "local": "Fluminense-2002.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#a03050",
+        "#b4b4b4",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2002b",
+      "label": "2002–2010",
+      "local": "Fluminense-2002-2010.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#a03050",
+        "#f4f4f4",
+        "#008060"
+      ]
+    },
+    {
+      "id": "2010",
+      "label": "2010–2011",
+      "local": "Fluminense-2010-2011.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#a03050",
+        "#f4f4f4",
+        "#007060",
+        "#f0b848"
+      ]
     },
     {
       "id": "2011",
@@ -2675,6 +2791,25 @@
       "vetorizarPaleta": [
         "#a43752",
         "#d2ae6d"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2015",
+      "local": "Fluminense-2012-2015.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#802040",
+        "#f4f4f4",
+        "#006050",
+        "#f0b848"
       ]
     }
   ],
