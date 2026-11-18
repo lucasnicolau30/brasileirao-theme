@@ -18246,6 +18246,7 @@
         2013
       ]
     },
+    "crestUnchanged": true,
     "retro": [],
     "alternates": [],
     "swatch": "🟦⬜",
@@ -18309,101 +18310,6 @@
       }
     ]
   },
-  "Brasileirão: Botafogo-PI": {
-    "slug": "botafogo-pi",
-    "uf": "PI",
-    "crestLabel": "Atual",
-    "crestIcon": "escudo-b5bee611.svg",
-    "listIcon": "escudo-b5bee611.svg",
-    "backgroundAspect": 0.921,
-    "titles": {
-      "mundial": [],
-      "libertadores": [],
-      "brasileirao": [],
-      "copaDoBrasil": [],
-      "sulAmericana": [],
-      "serieB": [],
-      "serieC": [],
-      "serieD": [],
-      "copaDoNordeste": [],
-      "copaVerde": [],
-      "estadual": [
-        1934,
-        1935,
-        1936,
-        1937,
-        1938,
-        1940,
-        1941,
-        1945,
-        1946,
-        1949,
-        1957
-      ]
-    },
-    "retro": [],
-    "alternates": [],
-    "swatch": "⬛⬜",
-    "primary": "#d0d0d0",
-    "background": "fundo-b88032ca.png",
-    "backgroundColored": true,
-    "backgroundSize": null,
-    "backgroundPosition": "calc(50% - 50px) 50%",
-    "iconTheme": "brasileirao-botafogo-pi",
-    "colors": [
-      "rgba(245,245,245,0.08)",
-      "rgba(255,255,255,0.08)",
-      "rgba(208,208,208,0.08)",
-      "rgba(157,157,157,0.08)"
-    ],
-    "commentTags": [
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "#d0d0d033",
-        "bold": true,
-        "italic": false,
-        "tag": "!",
-        "color": "#f5f5f5"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": true,
-        "tag": "?",
-        "color": "#d0d0d0"
-      },
-      {
-        "strikethrough": false,
-        "underline": true,
-        "backgroundColor": "transparent",
-        "bold": true,
-        "italic": false,
-        "tag": "todo",
-        "color": "#ffffff"
-      },
-      {
-        "strikethrough": false,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "*",
-        "color": "#f5f5f5"
-      },
-      {
-        "strikethrough": true,
-        "underline": false,
-        "backgroundColor": "transparent",
-        "bold": false,
-        "italic": false,
-        "tag": "//",
-        "color": "#808080"
-      }
-    ]
-  },
   "Brasileirão: Piauí": {
     "slug": "piaui",
     "uf": "PI",
@@ -18432,6 +18338,7 @@
         2026
       ]
     },
+    "crestUnchanged": true,
     "retro": [],
     "alternates": [],
     "swatch": "🟦🟥⬜",
@@ -18499,9 +18406,9 @@
     "slug": "altos",
     "uf": "PI",
     "crestLabel": "Atual",
-    "crestIcon": "escudo-5b28ca1d.svg",
-    "listIcon": "escudo-5b28ca1d.svg",
-    "backgroundAspect": 0.926,
+    "crestIcon": "escudo-9c908fd5.svg",
+    "listIcon": "escudo-9c908fd5.svg",
+    "backgroundAspect": 0.928,
     "titles": {
       "mundial": [],
       "libertadores": [],
@@ -18520,11 +18427,12 @@
         2024
       ]
     },
+    "crestUnchanged": true,
     "retro": [],
     "alternates": [],
     "swatch": "🟩🟨🟦",
     "primary": "#1f9d3a",
-    "background": "fundo-42f18ebd.png",
+    "background": "fundo-2c1f097b.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
