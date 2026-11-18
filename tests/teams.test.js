@@ -418,6 +418,10 @@ test('escudos antigos: lista válida, só de times existentes, e os arquivos da 
     for (const r of [...palettes[`${PREFIX}: ${team.label}`].retro, ...palettes[`${PREFIX}: ${team.label}`].alternates]) {
       assert.ok(fs.existsSync(path.join(root, 'icons', team.slug, r.file)), `${team.slug}/${r.file} está na paleta mas não foi copiado`);
       assert.ok((lista[team.slug] || []).some((e) => e.id === r.id), `${team.slug}/${r.id} não está na lista`);
+      // A miniatura do seletor de escudos precisa ser um SVG quadrado de 16 px (escudo inteiro, centralizado); o `retro-*.svg` cru, sem tamanho, aparece cortado.
+      assert.ok(r.icon && fs.existsSync(path.join(root, 'icons', team.slug, r.icon)), `${team.slug}/${r.id}: falta o ícone quadrado da miniatura (icon na paleta)`);
+      const raiz = fs.readFileSync(path.join(root, 'icons', team.slug, r.icon), 'utf8').match(/<svg\b[^>]*>/)[0];
+      assert.ok(/\swidth="16"/.test(raiz) && /\sheight="16"/.test(raiz) && (/preserveAspectRatio="xMidYMid meet"/.test(raiz) || /viewBox="0 0 16 16"/.test(raiz)), `${team.slug}/${r.id}: o ícone da miniatura precisa de width=16, height=16 e preserveAspectRatio meet (ou viewBox 0 0 16 16)`);
     }
   }
 });

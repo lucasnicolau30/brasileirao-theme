@@ -98,6 +98,7 @@
         "atual": false,
         "file": "retro-1895-8f6ac310.svg",
         "aspect": 0.799,
+        "icon": "escudo-1895-10f6821f.svg",
         "iconTheme": "brasileirao-flamengo-1895"
       },
       {
@@ -107,6 +108,7 @@
         "atual": false,
         "file": "retro-1897-d5ff3ca1.svg",
         "aspect": 0.832,
+        "icon": "escudo-1897-dd97dd04.svg",
         "iconTheme": "brasileirao-flamengo-1897"
       },
       {
@@ -116,6 +118,7 @@
         "atual": false,
         "file": "retro-1980-88364d13.svg",
         "aspect": 1.372,
+        "icon": "escudo-1980-5b95ca01.svg",
         "iconTheme": "brasileirao-flamengo-1980"
       },
       {
@@ -125,6 +128,7 @@
         "atual": false,
         "file": "retro-1981-c0ac5d1d.svg",
         "aspect": 0.841,
+        "icon": "escudo-1981-be9110fe.svg",
         "iconTheme": "brasileirao-flamengo-1981"
       }
     ],
@@ -267,6 +271,7 @@
         "atual": false,
         "file": "retro-1902-d0e7288b.svg",
         "aspect": 0.875,
+        "icon": "escudo-1902-88278b3d.svg",
         "iconTheme": "brasileirao-fluminense-1902"
       },
       {
@@ -276,6 +281,7 @@
         "atual": false,
         "file": "retro-1905-f71981b4.svg",
         "aspect": 0.908,
+        "icon": "escudo-1905-0131cc73.svg",
         "iconTheme": "brasileirao-fluminense-1905"
       },
       {
@@ -285,6 +291,7 @@
         "atual": false,
         "file": "retro-2011-2b2708c1.svg",
         "aspect": 0.742,
+        "icon": "escudo-2011-d3e55fe5.svg",
         "iconTheme": "brasileirao-fluminense-2011"
       }
     ],
@@ -418,6 +425,7 @@
         "atual": false,
         "file": "retro-1898-6cce965f.svg",
         "aspect": 0.893,
+        "icon": "escudo-1898-37887845.svg",
         "iconTheme": "brasileirao-vasco-1898"
       },
       {
@@ -427,6 +435,7 @@
         "atual": false,
         "file": "retro-1903-9629b461.svg",
         "aspect": 1.002,
+        "icon": "escudo-1903-825b5f18.svg",
         "iconTheme": "brasileirao-vasco-1903"
       },
       {
@@ -436,6 +445,7 @@
         "atual": false,
         "file": "retro-1920-014bfd53.svg",
         "aspect": 0.795,
+        "icon": "escudo-1920-d11a87f2.svg",
         "iconTheme": "brasileirao-vasco-1920"
       }
     ],
@@ -562,6 +572,7 @@
         "atual": false,
         "file": "retro-1894-a3282bef.svg",
         "aspect": 0.909,
+        "icon": "escudo-1894-22cf75d2.svg",
         "iconTheme": "brasileirao-botafogo-1894"
       },
       {
@@ -571,6 +582,7 @@
         "atual": false,
         "file": "retro-1904-5788a087.svg",
         "aspect": 0.821,
+        "icon": "escudo-1904-f882cec6.svg",
         "iconTheme": "brasileirao-botafogo-1904"
       }
     ],
@@ -666,6 +678,7 @@
         "atual": false,
         "file": "retro-1950-c7354aa1.svg",
         "aspect": 0.904,
+        "icon": "escudo-1950-292acb72.svg",
         "iconTheme": "brasileirao-campo-grande-1950"
       },
       {
@@ -675,6 +688,7 @@
         "atual": false,
         "file": "retro-1984-37269626.svg",
         "aspect": 0.891,
+        "icon": "escudo-1984-d04bf183.svg",
         "iconTheme": "brasileirao-campo-grande-1984"
       }
     ],
@@ -776,6 +790,7 @@
         "atual": false,
         "file": "retro-1976-202f030d.svg",
         "aspect": 0.734,
+        "icon": "escudo-1976-ee6fdfc4.svg",
         "iconTheme": "brasileirao-volta-redonda-1976"
       }
     ],
@@ -871,6 +886,7 @@
         "atual": false,
         "file": "retro-1915-10ca632d.svg",
         "aspect": 1.542,
+        "icon": "escudo-1915-627bd2c8.svg",
         "iconTheme": "brasileirao-olaria-1915"
       },
       {
@@ -880,6 +896,7 @@
         "atual": false,
         "file": "retro-1920-57b536f4.svg",
         "aspect": 0.789,
+        "icon": "escudo-1920-04089003.svg",
         "iconTheme": "brasileirao-olaria-1920"
       }
     ],
@@ -975,6 +992,7 @@
         "atual": false,
         "file": "retro-1990-9fdba6f6.svg",
         "aspect": 0.701,
+        "icon": "escudo-1990-6d853768.svg",
         "iconTheme": "brasileirao-macae-1990"
       }
     ],
@@ -1076,6 +1094,7 @@
         "atual": false,
         "file": "retro-1904-62106207.svg",
         "aspect": 1,
+        "icon": "escudo-1904-82abd332.svg",
         "iconTheme": "brasileirao-america-rj-1904"
       },
       {
@@ -1085,6 +1104,7 @@
         "atual": false,
         "file": "retro-1960-e47619da.svg",
         "aspect": 1,
+        "icon": "escudo-1960-9ac0f6d2.svg",
         "iconTheme": "brasileirao-america-rj-1960"
       }
     ],
@@ -1181,6 +1201,7 @@
         "atual": false,
         "file": "retro-1906-5a20600e.svg",
         "aspect": 2.077,
+        "icon": "escudo-1906-b7b1f6ad.svg",
         "iconTheme": "brasileirao-bangu-1906"
       },
       {
@@ -1190,6 +1211,7 @@
         "atual": false,
         "file": "retro-1949-2b0e8e4d.svg",
         "aspect": 1.904,
+        "icon": "escudo-1949-ca12edb6.svg",
         "iconTheme": "brasileirao-bangu-1949"
       }
     ],
@@ -1333,6 +1355,7 @@
         "atual": false,
         "file": "retro-1930-ce77c52e.svg",
         "aspect": 1.079,
+        "icon": "escudo-1930-f765bcbb.svg",
         "iconTheme": "brasileirao-sao-paulo-1930"
       },
       {
@@ -1342,6 +1365,7 @@
         "atual": false,
         "file": "retro-1935-dcd228fa.svg",
         "aspect": 0.993,
+        "icon": "escudo-1935-b6020a3a.svg",
         "iconTheme": "brasileirao-sao-paulo-1935"
       }
     ],
@@ -1483,6 +1507,7 @@
         "atual": false,
         "file": "retro-1912-5401d4e3.svg",
         "aspect": 1,
+        "icon": "escudo-1912-5364a28c.svg",
         "iconTheme": "brasileirao-santos-1912"
       },
       {
@@ -1492,6 +1517,7 @@
         "atual": false,
         "file": "retro-1925-d3da9431.svg",
         "aspect": 1.056,
+        "icon": "escudo-1925-27e48b6b.svg",
         "iconTheme": "brasileirao-santos-1925"
       },
       {
@@ -1501,6 +1527,7 @@
         "atual": false,
         "file": "retro-1942-df616314.svg",
         "aspect": 0.87,
+        "icon": "escudo-1942-2683f0c2.svg",
         "iconTheme": "brasileirao-santos-1942"
       },
       {
@@ -1510,6 +1537,7 @@
         "atual": false,
         "file": "retro-1968-92a3ffb6.svg",
         "aspect": 0.893,
+        "icon": "escudo-1968-10fa9887.svg",
         "iconTheme": "brasileirao-santos-1968"
       }
     ],
@@ -1660,6 +1688,7 @@
         "atual": false,
         "file": "retro-1910-d6df6e6e.svg",
         "aspect": 0.728,
+        "icon": "escudo-1910-97cb0004.svg",
         "iconTheme": "brasileirao-corinthians-1910"
       },
       {
@@ -1669,6 +1698,7 @@
         "atual": false,
         "file": "retro-1939-919977d4.svg",
         "aspect": 0.819,
+        "icon": "escudo-1939-dfbeb810.svg",
         "iconTheme": "brasileirao-corinthians-1939"
       }
     ],
@@ -1812,6 +1842,7 @@
         "atual": false,
         "file": "retro-1914-a1f84c1d.svg",
         "aspect": 1,
+        "icon": "escudo-1914-0718955f.svg",
         "iconTheme": "brasileirao-palmeiras-1914"
       },
       {
@@ -1821,6 +1852,7 @@
         "atual": false,
         "file": "retro-1916-b7d71e8c.svg",
         "aspect": 0.797,
+        "icon": "escudo-1916-9ffbe264.svg",
         "iconTheme": "brasileirao-palmeiras-1916"
       }
     ],
@@ -1922,6 +1954,7 @@
         "atual": false,
         "file": "retro-1916-589414b2.svg",
         "aspect": 0.822,
+        "icon": "escudo-1916-a0d09107.svg",
         "iconTheme": "brasileirao-guarani-1916"
       },
       {
@@ -1931,6 +1964,7 @@
         "atual": false,
         "file": "retro-1929-f1471793.svg",
         "aspect": 1,
+        "icon": "escudo-1929-de2a83df.svg",
         "iconTheme": "brasileirao-guarani-1929"
       },
       {
@@ -1940,6 +1974,7 @@
         "atual": false,
         "file": "retro-1949-ca52f0d5.svg",
         "aspect": 1,
+        "icon": "escudo-1949-ecdaadd0.svg",
         "iconTheme": "brasileirao-guarani-1949"
       },
       {
@@ -1949,6 +1984,7 @@
         "atual": false,
         "file": "retro-1981-b4b8f81d.svg",
         "aspect": 1,
+        "icon": "escudo-1981-ac926a5d.svg",
         "iconTheme": "brasileirao-guarani-1981"
       }
     ],
@@ -2050,6 +2086,7 @@
         "atual": false,
         "file": "retro-1909-802441d5.svg",
         "aspect": 0.837,
+        "icon": "escudo-1909-77916623.svg",
         "iconTheme": "brasileirao-paulista-1909"
       },
       {
@@ -2059,6 +2096,7 @@
         "atual": false,
         "file": "retro-1951-cf67c092.svg",
         "aspect": 0.925,
+        "icon": "escudo-1951-38b4722b.svg",
         "iconTheme": "brasileirao-paulista-1951"
       }
     ],
@@ -2154,6 +2192,7 @@
         "atual": false,
         "file": "retro-1967-cb7d082b.svg",
         "aspect": 1.03,
+        "icon": "escudo-1967-0394c90d.svg",
         "iconTheme": "brasileirao-santo-andre-1967"
       }
     ],
@@ -2259,6 +2298,7 @@
         "atual": false,
         "file": "retro-2007-725e5804.svg",
         "aspect": 0.831,
+        "icon": "escudo-2007-eb829691.svg",
         "iconTheme": "brasileirao-bragantino-2007"
       }
     ],
@@ -2360,6 +2400,7 @@
         "atual": false,
         "file": "retro-1988-b40ef52e.svg",
         "aspect": 0.806,
+        "icon": "escudo-1988-c1d8d4de.svg",
         "iconTheme": "brasileirao-uniao-sao-joao-1988"
       }
     ],
@@ -2457,6 +2498,7 @@
         "atual": false,
         "file": "retro-1973-c93a78b8.svg",
         "aspect": 1.099,
+        "icon": "escudo-1973-dd315bdb.svg",
         "iconTheme": "brasileirao-novorizontino-1973"
       }
     ],
@@ -2560,6 +2602,7 @@
         "atual": false,
         "file": "retro-1920-df9de2ef.svg",
         "aspect": 1.049,
+        "icon": "escudo-1920-2ad8c566.svg",
         "iconTheme": "brasileirao-portuguesa-1920"
       },
       {
@@ -2569,6 +2612,7 @@
         "atual": false,
         "file": "retro-2005-6cd03aa0.svg",
         "aspect": 0.788,
+        "icon": "escudo-2005-2402a32e.svg",
         "iconTheme": "brasileirao-portuguesa-2005"
       }
     ],
@@ -2670,6 +2714,7 @@
         "atual": false,
         "file": "retro-1935-664ef4a0.svg",
         "aspect": 0.999,
+        "icon": "escudo-1935-6406595e.svg",
         "iconTheme": "brasileirao-juventus-sp-1935"
       },
       {
@@ -2679,6 +2724,7 @@
         "atual": false,
         "file": "retro-1954-ebff9ca4.svg",
         "aspect": 1.004,
+        "icon": "escudo-1954-53b19733.svg",
         "iconTheme": "brasileirao-juventus-sp-1954"
       }
     ],
@@ -2780,6 +2826,7 @@
         "atual": false,
         "file": "retro-1913-fd8e227f.svg",
         "aspect": 0.951,
+        "icon": "escudo-1913-e05d765b.svg",
         "iconTheme": "brasileirao-inter-de-limeira-1913"
       }
     ],
@@ -2883,6 +2930,7 @@
         "atual": false,
         "file": "retro-1966-f00f2ca3.svg",
         "aspect": 0.996,
+        "icon": "escudo-1966-6ecfec4d.svg",
         "iconTheme": "brasileirao-ituano-1966"
       },
       {
@@ -2892,6 +2940,7 @@
         "atual": false,
         "file": "retro-1977-0ddd971a.svg",
         "aspect": 0.916,
+        "icon": "escudo-1977-c7bc5f14.svg",
         "iconTheme": "brasileirao-ituano-1977"
       }
     ],
@@ -2993,6 +3042,7 @@
         "atual": false,
         "file": "retro-1964-d801df7e.svg",
         "aspect": 1,
+        "icon": "escudo-1964-4fe426cb.svg",
         "iconTheme": "brasileirao-mirassol-1964"
       }
     ],
@@ -3088,6 +3138,7 @@
         "atual": false,
         "file": "retro-1960-b6187450.svg",
         "aspect": 0.982,
+        "icon": "escudo-1960-8d4f2279.svg",
         "iconTheme": "brasileirao-xv-de-piracicaba-1960"
       },
       {
@@ -3097,6 +3148,7 @@
         "atual": false,
         "file": "retro-2013-50f20cd1.svg",
         "aspect": 1.051,
+        "icon": "escudo-2013-be616d22.svg",
         "iconTheme": "brasileirao-xv-de-piracicaba-2013"
       }
     ],
@@ -3192,6 +3244,7 @@
         "atual": false,
         "file": "retro-1914-ab0941c4.svg",
         "aspect": 0.921,
+        "icon": "escudo-1914-210f1bc6.svg",
         "iconTheme": "brasileirao-uniao-barbarense-1914"
       }
     ],
@@ -3287,6 +3340,7 @@
         "atual": false,
         "file": "retro-1921-a1edc4c0.svg",
         "aspect": 0.885,
+        "icon": "escudo-1921-df43be3b.svg",
         "iconTheme": "brasileirao-oeste-1921"
       },
       {
@@ -3296,6 +3350,7 @@
         "atual": false,
         "file": "retro-2001-e69a3d02.svg",
         "aspect": 0.995,
+        "icon": "escudo-2001-9d10ca7b.svg",
         "iconTheme": "brasileirao-oeste-2001"
       }
     ],
@@ -3391,6 +3446,7 @@
         "atual": false,
         "file": "retro-1928-5d59be28.svg",
         "aspect": 1.083,
+        "icon": "escudo-1928-03d2e689.svg",
         "iconTheme": "brasileirao-ponte-preta-1928"
       },
       {
@@ -3400,6 +3456,7 @@
         "atual": false,
         "file": "retro-1995-04c64238.svg",
         "aspect": 0.937,
+        "icon": "escudo-1995-bdc9e4dc.svg",
         "iconTheme": "brasileirao-ponte-preta-1995"
       }
     ],
@@ -3495,6 +3552,7 @@
         "atual": false,
         "file": "retro-1990-426652cd.svg",
         "aspect": 0.756,
+        "icon": "escudo-1990-eab9b0e9.svg",
         "iconTheme": "brasileirao-botafogo-sp-1990"
       }
     ],
@@ -3649,6 +3707,7 @@
         "atual": false,
         "file": "retro-1921-113a87a2.svg",
         "aspect": 1,
+        "icon": "escudo-1921-50d5105b.svg",
         "iconTheme": "brasileirao-cruzeiro-1921"
       },
       {
@@ -3658,6 +3717,7 @@
         "atual": false,
         "file": "retro-1922-487cc8b2.svg",
         "aspect": 1,
+        "icon": "escudo-1922-eebbc803.svg",
         "iconTheme": "brasileirao-cruzeiro-1922"
       },
       {
@@ -3667,6 +3727,7 @@
         "atual": false,
         "file": "retro-1923-956a1e89.svg",
         "aspect": 0.625,
+        "icon": "escudo-1923-d11a280e.svg",
         "iconTheme": "brasileirao-cruzeiro-1923"
       },
       {
@@ -3676,6 +3737,7 @@
         "atual": false,
         "file": "retro-1928-a5e1fb7e.svg",
         "aspect": 1,
+        "icon": "escudo-1928-590c6071.svg",
         "iconTheme": "brasileirao-cruzeiro-1928"
       },
       {
@@ -3685,6 +3747,7 @@
         "atual": false,
         "file": "retro-1935-24f19c4a.svg",
         "aspect": 1,
+        "icon": "escudo-1935-3fbe8e25.svg",
         "iconTheme": "brasileirao-cruzeiro-1935"
       },
       {
@@ -3694,6 +3757,7 @@
         "atual": false,
         "file": "retro-1942a-2132f044.svg",
         "aspect": 0.999,
+        "icon": "escudo-1942a-cd46f0eb.svg",
         "iconTheme": "brasileirao-cruzeiro-1942a"
       },
       {
@@ -3703,6 +3767,7 @@
         "atual": false,
         "file": "retro-1942b-d38b5965.svg",
         "aspect": 1,
+        "icon": "escudo-1942b-9a6b7ec9.svg",
         "iconTheme": "brasileirao-cruzeiro-1942b"
       },
       {
@@ -3712,6 +3777,7 @@
         "atual": false,
         "file": "retro-1944-b2d8f5ec.svg",
         "aspect": 1,
+        "icon": "escudo-1944-a6af639b.svg",
         "iconTheme": "brasileirao-cruzeiro-1944"
       },
       {
@@ -3721,6 +3787,7 @@
         "atual": false,
         "file": "retro-1945-e9df1a4b.svg",
         "aspect": 1,
+        "icon": "escudo-1945-610fc441.svg",
         "iconTheme": "brasileirao-cruzeiro-1945"
       },
       {
@@ -3730,6 +3797,7 @@
         "atual": false,
         "file": "retro-1950-bafc7f4a.svg",
         "aspect": 1,
+        "icon": "escudo-1950-ef496f62.svg",
         "iconTheme": "brasileirao-cruzeiro-1950"
       },
       {
@@ -3739,6 +3807,7 @@
         "atual": false,
         "file": "retro-1966-27b3c6a3.svg",
         "aspect": 0.939,
+        "icon": "escudo-1966-b8e830ff.svg",
         "iconTheme": "brasileirao-cruzeiro-1966"
       },
       {
@@ -3748,6 +3817,7 @@
         "atual": false,
         "file": "retro-1970-0e004387.svg",
         "aspect": 1,
+        "icon": "escudo-1970-da624dcf.svg",
         "iconTheme": "brasileirao-cruzeiro-1970"
       },
       {
@@ -3757,6 +3827,7 @@
         "atual": false,
         "file": "retro-1975-39e44c50.svg",
         "aspect": 1,
+        "icon": "escudo-1975-927beea2.svg",
         "iconTheme": "brasileirao-cruzeiro-1975"
       },
       {
@@ -3766,6 +3837,7 @@
         "atual": false,
         "file": "retro-1984-126433d3.svg",
         "aspect": 0.925,
+        "icon": "escudo-1984-f1798bff.svg",
         "iconTheme": "brasileirao-cruzeiro-1984"
       },
       {
@@ -3775,6 +3847,7 @@
         "atual": false,
         "file": "retro-1996-c0339bf5.svg",
         "aspect": 1.001,
+        "icon": "escudo-1996-10c281ab.svg",
         "iconTheme": "brasileirao-cruzeiro-1996"
       },
       {
@@ -3784,6 +3857,7 @@
         "atual": false,
         "file": "retro-2003-d7b76bad.svg",
         "aspect": 0.701,
+        "icon": "escudo-2003-8184050a.svg",
         "iconTheme": "brasileirao-cruzeiro-2003"
       },
       {
@@ -3793,6 +3867,7 @@
         "atual": false,
         "file": "retro-2004-ca268fa2.svg",
         "aspect": 0.787,
+        "icon": "escudo-2004-c22413b4.svg",
         "iconTheme": "brasileirao-cruzeiro-2004"
       },
       {
@@ -3802,6 +3877,7 @@
         "atual": false,
         "file": "retro-2016-d84d6600.svg",
         "aspect": 1,
+        "icon": "escudo-2016-6d1190fb.svg",
         "iconTheme": "brasileirao-cruzeiro-2016"
       }
     ],
@@ -3961,6 +4037,7 @@
         "atual": false,
         "file": "retro-1908-be6f6fe2.svg",
         "aspect": 1,
+        "icon": "escudo-1908-a539a056.svg",
         "iconTheme": "brasileirao-atletico-mg-1908"
       },
       {
@@ -3970,6 +4047,7 @@
         "atual": false,
         "file": "retro-1915-18e763f5.svg",
         "aspect": 1.34,
+        "icon": "escudo-1915-7f6cc153.svg",
         "iconTheme": "brasileirao-atletico-mg-1915"
       },
       {
@@ -3979,6 +4057,7 @@
         "atual": false,
         "file": "retro-1927-aef6b133.svg",
         "aspect": 0.871,
+        "icon": "escudo-1927-0a7b468c.svg",
         "iconTheme": "brasileirao-atletico-mg-1927"
       },
       {
@@ -3988,6 +4067,7 @@
         "atual": false,
         "file": "retro-1937-21edb70a.svg",
         "aspect": 0.784,
+        "icon": "escudo-1937-78366fd6.svg",
         "iconTheme": "brasileirao-atletico-mg-1937"
       },
       {
@@ -3997,6 +4077,7 @@
         "atual": false,
         "file": "retro-1940-9dc5e9f0.svg",
         "aspect": 0.779,
+        "icon": "escudo-1940-0739b290.svg",
         "iconTheme": "brasileirao-atletico-mg-1940"
       },
       {
@@ -4006,6 +4087,7 @@
         "atual": false,
         "file": "retro-1950-f08f74a5.svg",
         "aspect": 0.777,
+        "icon": "escudo-1950-eb51fb4b.svg",
         "iconTheme": "brasileirao-atletico-mg-1950"
       },
       {
@@ -4015,6 +4097,7 @@
         "atual": false,
         "file": "retro-1960-cab097b2.svg",
         "aspect": 0.835,
+        "icon": "escudo-1960-76d95005.svg",
         "iconTheme": "brasileirao-atletico-mg-1960"
       },
       {
@@ -4024,6 +4107,7 @@
         "atual": false,
         "file": "retro-1970-ed1e4078.svg",
         "aspect": 0.834,
+        "icon": "escudo-1970-7005a10f.svg",
         "iconTheme": "brasileirao-atletico-mg-1970"
       },
       {
@@ -4033,6 +4117,7 @@
         "atual": false,
         "file": "retro-1972-b04b27cc.svg",
         "aspect": 0.664,
+        "icon": "escudo-1972-4a159772.svg",
         "iconTheme": "brasileirao-atletico-mg-1972"
       },
       {
@@ -4042,6 +4127,7 @@
         "atual": false,
         "file": "retro-1980-3534cb9b.svg",
         "aspect": 0.611,
+        "icon": "escudo-1980-75397c21.svg",
         "iconTheme": "brasileirao-atletico-mg-1980"
       },
       {
@@ -4051,6 +4137,7 @@
         "atual": false,
         "file": "retro-1982-6a014189.svg",
         "aspect": 0.645,
+        "icon": "escudo-1982-b2e30d02.svg",
         "iconTheme": "brasileirao-atletico-mg-1982"
       },
       {
@@ -4060,6 +4147,7 @@
         "atual": false,
         "file": "retro-1983-38881a93.svg",
         "aspect": 0.677,
+        "icon": "escudo-1983-a7c759f2.svg",
         "iconTheme": "brasileirao-atletico-mg-1983"
       },
       {
@@ -4069,6 +4157,7 @@
         "atual": false,
         "file": "retro-1987-040b4b50.svg",
         "aspect": 0.634,
+        "icon": "escudo-1987-26a85036.svg",
         "iconTheme": "brasileirao-atletico-mg-1987"
       },
       {
@@ -4078,6 +4167,7 @@
         "atual": false,
         "file": "retro-1992-24789a80.svg",
         "aspect": 0.666,
+        "icon": "escudo-1992-989f1530.svg",
         "iconTheme": "brasileirao-atletico-mg-1992"
       },
       {
@@ -4087,6 +4177,7 @@
         "atual": false,
         "file": "retro-1997-ef33fe4e.svg",
         "aspect": 0.721,
+        "icon": "escudo-1997-a09744e4.svg",
         "iconTheme": "brasileirao-atletico-mg-1997"
       },
       {
@@ -4096,6 +4187,7 @@
         "atual": false,
         "file": "retro-1998-4a83b45b.svg",
         "aspect": 0.681,
+        "icon": "escudo-1998-c195c1d3.svg",
         "iconTheme": "brasileirao-atletico-mg-1998"
       },
       {
@@ -4105,6 +4197,7 @@
         "atual": false,
         "file": "retro-2006-7e87e0f6.svg",
         "aspect": 0.661,
+        "icon": "escudo-2006-d9441999.svg",
         "iconTheme": "brasileirao-atletico-mg-2006"
       },
       {
@@ -4114,6 +4207,7 @@
         "atual": false,
         "file": "retro-2008-c350468d.svg",
         "aspect": 0.609,
+        "icon": "escudo-2008-c9cb5aff.svg",
         "iconTheme": "brasileirao-atletico-mg-2008"
       }
     ],
@@ -4234,6 +4328,7 @@
         "atual": false,
         "file": "retro-1912-2d9de9db.svg",
         "aspect": 0.858,
+        "icon": "escudo-1912-f873aa92.svg",
         "iconTheme": "brasileirao-america-mg-1912"
       },
       {
@@ -4243,6 +4338,7 @@
         "atual": false,
         "file": "retro-1933-00005770.svg",
         "aspect": 0.794,
+        "icon": "escudo-1933-f1d8b63d.svg",
         "iconTheme": "brasileirao-america-mg-1933"
       },
       {
@@ -4252,6 +4348,7 @@
         "atual": false,
         "file": "retro-1943-c5e9d2ac.svg",
         "aspect": 0.799,
+        "icon": "escudo-1943-19f30a9c.svg",
         "iconTheme": "brasileirao-america-mg-1943"
       },
       {
@@ -4261,6 +4358,7 @@
         "atual": false,
         "file": "retro-1971-2a73ae95.svg",
         "aspect": 0.897,
+        "icon": "escudo-1971-0065bc37.svg",
         "iconTheme": "brasileirao-america-mg-1971"
       },
       {
@@ -4270,6 +4368,7 @@
         "atual": false,
         "file": "retro-1993-631d1086.svg",
         "aspect": 0.868,
+        "icon": "escudo-1993-fea4f5e5.svg",
         "iconTheme": "brasileirao-america-mg-1993"
       },
       {
@@ -4279,6 +4378,7 @@
         "atual": false,
         "file": "retro-1997-59f87f4d.svg",
         "aspect": 0.9,
+        "icon": "escudo-1997-0086165e.svg",
         "iconTheme": "brasileirao-america-mg-1997"
       },
       {
@@ -4288,6 +4388,7 @@
         "atual": false,
         "file": "retro-2000-4c1ea6b3.svg",
         "aspect": 0.72,
+        "icon": "escudo-2000-f0b46163.svg",
         "iconTheme": "brasileirao-america-mg-2000"
       },
       {
@@ -4297,6 +4398,7 @@
         "atual": false,
         "file": "retro-2009-1f82a7d1.svg",
         "aspect": 0.731,
+        "icon": "escudo-2009-d2bddfb2.svg",
         "iconTheme": "brasileirao-america-mg-2009"
       },
       {
@@ -4306,6 +4408,7 @@
         "atual": false,
         "file": "retro-2011-9614db0f.svg",
         "aspect": 0.941,
+        "icon": "escudo-2011-6021944c.svg",
         "iconTheme": "brasileirao-america-mg-2011"
       },
       {
@@ -4315,6 +4418,7 @@
         "atual": false,
         "file": "retro-2012-46dddba9.svg",
         "aspect": 0.593,
+        "icon": "escudo-2012-e14b3a42.svg",
         "iconTheme": "brasileirao-america-mg-2012"
       },
       {
@@ -4324,6 +4428,7 @@
         "atual": false,
         "file": "retro-2017-79b84136.svg",
         "aspect": 0.589,
+        "icon": "escudo-2017-0cec7cf4.svg",
         "iconTheme": "brasileirao-america-mg-2017"
       },
       {
@@ -4333,6 +4438,7 @@
         "atual": false,
         "file": "retro-2018-278f100b.svg",
         "aspect": 0.581,
+        "icon": "escudo-2018-0c2f0c76.svg",
         "iconTheme": "brasileirao-america-mg-2018"
       },
       {
@@ -4342,6 +4448,7 @@
         "atual": false,
         "file": "retro-2020-a559737d.svg",
         "aspect": 0.581,
+        "icon": "escudo-2020-86a18f8e.svg",
         "iconTheme": "brasileirao-america-mg-2020"
       }
     ],
@@ -4443,6 +4550,7 @@
         "atual": false,
         "file": "retro-1922-c2e5089b.svg",
         "aspect": 1.808,
+        "icon": "escudo-1922-b3c7468d.svg",
         "iconTheme": "brasileirao-uberlandia-1922"
       },
       {
@@ -4452,6 +4560,7 @@
         "atual": false,
         "file": "retro-1923-351a60d3.svg",
         "aspect": 1.063,
+        "icon": "escudo-1923-d7bfd91c.svg",
         "iconTheme": "brasileirao-uberlandia-1923"
       },
       {
@@ -4461,6 +4570,7 @@
         "atual": false,
         "file": "retro-1942-a412281f.svg",
         "aspect": 1.065,
+        "icon": "escudo-1942-649b0e78.svg",
         "iconTheme": "brasileirao-uberlandia-1942"
       },
       {
@@ -4470,6 +4580,7 @@
         "atual": false,
         "file": "retro-1943-19752aab.svg",
         "aspect": 0.941,
+        "icon": "escudo-1943-ed1192b9.svg",
         "iconTheme": "brasileirao-uberlandia-1943"
       },
       {
@@ -4479,6 +4590,7 @@
         "atual": false,
         "file": "retro-1948-145cdd57.svg",
         "aspect": 0.912,
+        "icon": "escudo-1948-7617c61f.svg",
         "iconTheme": "brasileirao-uberlandia-1948"
       },
       {
@@ -4488,6 +4600,7 @@
         "atual": false,
         "file": "retro-1953-58b46ab4.svg",
         "aspect": 0.932,
+        "icon": "escudo-1953-b7534715.svg",
         "iconTheme": "brasileirao-uberlandia-1953"
       },
       {
@@ -4497,6 +4610,7 @@
         "atual": false,
         "file": "retro-1958-84d588ba.svg",
         "aspect": 0.875,
+        "icon": "escudo-1958-4f1b3d9c.svg",
         "iconTheme": "brasileirao-uberlandia-1958"
       },
       {
@@ -4506,6 +4620,7 @@
         "atual": false,
         "file": "retro-1962-c4bcdcdb.svg",
         "aspect": 0.875,
+        "icon": "escudo-1962-a57b9ad6.svg",
         "iconTheme": "brasileirao-uberlandia-1962"
       },
       {
@@ -4515,6 +4630,7 @@
         "atual": false,
         "file": "retro-1966-eb192007.svg",
         "aspect": 0.823,
+        "icon": "escudo-1966-32471648.svg",
         "iconTheme": "brasileirao-uberlandia-1966"
       },
       {
@@ -4524,6 +4640,7 @@
         "atual": false,
         "file": "retro-1969-a4d1b7ff.svg",
         "aspect": 0.842,
+        "icon": "escudo-1969-e284f7e7.svg",
         "iconTheme": "brasileirao-uberlandia-1969"
       },
       {
@@ -4533,6 +4650,7 @@
         "atual": false,
         "file": "retro-1984-d961a1b2.svg",
         "aspect": 0.912,
+        "icon": "escudo-1984-0b85cad1.svg",
         "iconTheme": "brasileirao-uberlandia-1984"
       },
       {
@@ -4542,6 +4660,7 @@
         "atual": false,
         "file": "retro-2023-025bbf1e.svg",
         "aspect": 0.761,
+        "icon": "escudo-2023-b00f3e4a.svg",
         "iconTheme": "brasileirao-uberlandia-2023"
       }
     ],
@@ -4647,6 +4766,7 @@
         "atual": false,
         "file": "retro-1951-e67029de.svg",
         "aspect": 0.877,
+        "icon": "escudo-1951-e1093df0.svg",
         "iconTheme": "brasileirao-villa-nova-1951"
       },
       {
@@ -4656,6 +4776,7 @@
         "atual": false,
         "file": "retro-1971-234a892f.svg",
         "aspect": 0.881,
+        "icon": "escudo-1971-ef662549.svg",
         "iconTheme": "brasileirao-villa-nova-1971"
       },
       {
@@ -4665,6 +4786,7 @@
         "atual": false,
         "file": "retro-1980-7c0c65de.svg",
         "aspect": 0.881,
+        "icon": "escudo-1980-40064e9b.svg",
         "iconTheme": "brasileirao-villa-nova-1980"
       },
       {
@@ -4674,6 +4796,7 @@
         "atual": false,
         "file": "retro-1990-70721ec8.svg",
         "aspect": 0.694,
+        "icon": "escudo-1990-a166ee81.svg",
         "iconTheme": "brasileirao-villa-nova-1990"
       },
       {
@@ -4683,6 +4806,7 @@
         "atual": false,
         "file": "retro-2008a-492b9a6f.svg",
         "aspect": 0.729,
+        "icon": "escudo-2008a-d5d78822.svg",
         "iconTheme": "brasileirao-villa-nova-2008a"
       },
       {
@@ -4692,6 +4816,7 @@
         "atual": false,
         "file": "retro-2008b-26c564ff.svg",
         "aspect": 0.694,
+        "icon": "escudo-2008b-929dd441.svg",
         "iconTheme": "brasileirao-villa-nova-2008b"
       }
     ],
@@ -4787,6 +4912,7 @@
         "atual": false,
         "file": "retro-1947-b1f2da63.svg",
         "aspect": 1.027,
+        "icon": "escudo-1947-eb763acd.svg",
         "iconTheme": "brasileirao-boa-esporte-1947"
       },
       {
@@ -4796,6 +4922,7 @@
         "atual": false,
         "file": "retro-1988-f3965d5d.svg",
         "aspect": 0.879,
+        "icon": "escudo-1988-e9f554f2.svg",
         "iconTheme": "brasileirao-boa-esporte-1988"
       },
       {
@@ -4805,6 +4932,7 @@
         "atual": false,
         "file": "retro-1996-eb647dd1.svg",
         "aspect": 0.984,
+        "icon": "escudo-1996-9942c978.svg",
         "iconTheme": "brasileirao-boa-esporte-1996"
       },
       {
@@ -4814,6 +4942,7 @@
         "atual": false,
         "file": "retro-2005-651019fb.svg",
         "aspect": 0.848,
+        "icon": "escudo-2005-656ce4ef.svg",
         "iconTheme": "brasileirao-boa-esporte-2005"
       },
       {
@@ -4823,6 +4952,7 @@
         "atual": false,
         "file": "retro-2008-7794aca9.svg",
         "aspect": 1.048,
+        "icon": "escudo-2008-76500fc9.svg",
         "iconTheme": "brasileirao-boa-esporte-2008"
       },
       {
@@ -4832,6 +4962,7 @@
         "atual": false,
         "file": "retro-2011-e3ced589.svg",
         "aspect": 0.96,
+        "icon": "escudo-2011-dbc002b0.svg",
         "iconTheme": "brasileirao-boa-esporte-2011"
       }
     ],
@@ -4927,6 +5058,7 @@
         "atual": false,
         "file": "retro-1912-1d03cb4b.svg",
         "aspect": 0.764,
+        "icon": "escudo-1912-05c13f36.svg",
         "iconTheme": "brasileirao-tupi-1912"
       },
       {
@@ -4936,6 +5068,7 @@
         "atual": false,
         "file": "retro-1923-27ef297e.svg",
         "aspect": 0.999,
+        "icon": "escudo-1923-768a74f7.svg",
         "iconTheme": "brasileirao-tupi-1923"
       },
       {
@@ -4945,6 +5078,7 @@
         "atual": false,
         "file": "retro-1913-fa55ad2d.svg",
         "aspect": 0.974,
+        "icon": "escudo-1913-c55e543d.svg",
         "iconTheme": "brasileirao-tupi-1913"
       },
       {
@@ -4954,6 +5088,7 @@
         "atual": false,
         "file": "retro-1920-a9bd1998.svg",
         "aspect": 0.727,
+        "icon": "escudo-1920-e24671cb.svg",
         "iconTheme": "brasileirao-tupi-1920"
       },
       {
@@ -4963,6 +5098,7 @@
         "atual": false,
         "file": "retro-1944-0c17c117.svg",
         "aspect": 0.58,
+        "icon": "escudo-1944-4f350216.svg",
         "iconTheme": "brasileirao-tupi-1944"
       },
       {
@@ -4972,6 +5108,7 @@
         "atual": false,
         "file": "retro-1950-745e74a9.svg",
         "aspect": 0.819,
+        "icon": "escudo-1950-4955ca66.svg",
         "iconTheme": "brasileirao-tupi-1950"
       },
       {
@@ -4981,6 +5118,7 @@
         "atual": false,
         "file": "retro-1990-a817afc4.svg",
         "aspect": 0.846,
+        "icon": "escudo-1990-08b6779f.svg",
         "iconTheme": "brasileirao-tupi-1990"
       },
       {
@@ -4990,6 +5128,7 @@
         "atual": false,
         "file": "retro-1998-9e55204f.svg",
         "aspect": 1.003,
+        "icon": "escudo-1998-4ee27ddb.svg",
         "iconTheme": "brasileirao-tupi-1998"
       }
     ],
@@ -5085,6 +5224,7 @@
         "atual": false,
         "file": "retro-1914-c945fdcc.svg",
         "aspect": 2.016,
+        "icon": "escudo-1914-e0fb8192.svg",
         "iconTheme": "brasileirao-tombense-1914"
       },
       {
@@ -5094,6 +5234,7 @@
         "atual": false,
         "file": "retro-1930-5345ab2f.svg",
         "aspect": 2.016,
+        "icon": "escudo-1930-784b17a7.svg",
         "iconTheme": "brasileirao-tombense-1930"
       },
       {
@@ -5103,6 +5244,7 @@
         "atual": false,
         "file": "retro-1970-0c7e2b37.svg",
         "aspect": 1.602,
+        "icon": "escudo-1970-d5fad710.svg",
         "iconTheme": "brasileirao-tombense-1970"
       },
       {
@@ -5112,6 +5254,7 @@
         "atual": false,
         "file": "retro-1999-68a04355.svg",
         "aspect": 2.041,
+        "icon": "escudo-1999-fafc21cf.svg",
         "iconTheme": "brasileirao-tombense-1999"
       },
       {
@@ -5121,6 +5264,7 @@
         "atual": false,
         "file": "retro-2015-e6ac15a7.svg",
         "aspect": 1,
+        "icon": "escudo-2015-9ffa5b2b.svg",
         "iconTheme": "brasileirao-tombense-2015"
       }
     ],
@@ -5281,6 +5425,7 @@
         "atual": false,
         "file": "retro-1903-0e4ddd5c.svg",
         "aspect": 1,
+        "icon": "escudo-1903-edc6cf2c.svg",
         "iconTheme": "brasileirao-gremio-1903"
       },
       {
@@ -5290,6 +5435,7 @@
         "atual": false,
         "file": "retro-1904-f364a830.svg",
         "aspect": 1,
+        "icon": "escudo-1904-58f83cc4.svg",
         "iconTheme": "brasileirao-gremio-1904"
       },
       {
@@ -5299,6 +5445,7 @@
         "atual": false,
         "file": "retro-1918-340ad8e7.svg",
         "aspect": 1,
+        "icon": "escudo-1918-3045b4a6.svg",
         "iconTheme": "brasileirao-gremio-1918"
       },
       {
@@ -5308,6 +5455,7 @@
         "atual": false,
         "file": "retro-1945-9b372798.svg",
         "aspect": 1,
+        "icon": "escudo-1945-d691fa5c.svg",
         "iconTheme": "brasileirao-gremio-1945"
       },
       {
@@ -5317,6 +5465,7 @@
         "atual": false,
         "file": "retro-1949-f1985924.svg",
         "aspect": 1,
+        "icon": "escudo-1949-1142c10a.svg",
         "iconTheme": "brasileirao-gremio-1949"
       },
       {
@@ -5326,6 +5475,7 @@
         "atual": false,
         "file": "retro-1968-7374039d.svg",
         "aspect": 1,
+        "icon": "escudo-1968-2cb1c7e4.svg",
         "iconTheme": "brasileirao-gremio-1968"
       },
       {
@@ -5335,6 +5485,7 @@
         "atual": false,
         "file": "retro-1970-24293b5e.svg",
         "aspect": 1,
+        "icon": "escudo-1970-c866b9fb.svg",
         "iconTheme": "brasileirao-gremio-1970"
       },
       {
@@ -5344,6 +5495,7 @@
         "atual": false,
         "file": "retro-1981-dfed69c7.svg",
         "aspect": 1,
+        "icon": "escudo-1981-ebd03709.svg",
         "iconTheme": "brasileirao-gremio-1981"
       },
       {
@@ -5353,6 +5505,7 @@
         "atual": false,
         "file": "retro-1983-23261bf7.svg",
         "aspect": 1,
+        "icon": "escudo-1983-4d27ea70.svg",
         "iconTheme": "brasileirao-gremio-1983"
       },
       {
@@ -5362,6 +5515,7 @@
         "atual": false,
         "file": "retro-1986-ec6e1178.svg",
         "aspect": 0.769,
+        "icon": "escudo-1986-e0a66dad.svg",
         "iconTheme": "brasileirao-gremio-1986"
       },
       {
@@ -5371,6 +5525,7 @@
         "atual": false,
         "file": "retro-1995-ddb4262d.svg",
         "aspect": 0.832,
+        "icon": "escudo-1995-8aca0534.svg",
         "iconTheme": "brasileirao-gremio-1995"
       },
       {
@@ -5380,6 +5535,7 @@
         "atual": false,
         "file": "retro-1996-c59f0736.svg",
         "aspect": 1.791,
+        "icon": "escudo-1996-a25a794e.svg",
         "iconTheme": "brasileirao-gremio-1996"
       },
       {
@@ -5389,6 +5545,7 @@
         "atual": false,
         "file": "retro-1997-36b39b11.svg",
         "aspect": 0.839,
+        "icon": "escudo-1997-7166c075.svg",
         "iconTheme": "brasileirao-gremio-1997"
       },
       {
@@ -5398,6 +5555,7 @@
         "atual": false,
         "file": "retro-2001-bac2cc42.svg",
         "aspect": 0.825,
+        "icon": "escudo-2001-ee2a8831.svg",
         "iconTheme": "brasileirao-gremio-2001"
       },
       {
@@ -5407,6 +5565,7 @@
         "atual": false,
         "file": "retro-2012-04f80b69.svg",
         "aspect": 0.807,
+        "icon": "escudo-2012-e31ba9f4.svg",
         "iconTheme": "brasileirao-gremio-2012"
       }
     ],
@@ -5568,6 +5727,7 @@
         "atual": false,
         "file": "retro-1909-98e5bf89.svg",
         "aspect": 1,
+        "icon": "escudo-1909-2b6f359c.svg",
         "iconTheme": "brasileirao-internacional-1909"
       },
       {
@@ -5577,6 +5737,7 @@
         "atual": false,
         "file": "retro-1957-194dc816.svg",
         "aspect": 1,
+        "icon": "escudo-1957-4cd9ce12.svg",
         "iconTheme": "brasileirao-internacional-1957"
       },
       {
@@ -5586,6 +5747,7 @@
         "atual": false,
         "file": "retro-1975-016e2727.svg",
         "aspect": 1,
+        "icon": "escudo-1975-db0c1c89.svg",
         "iconTheme": "brasileirao-internacional-1975"
       },
       {
@@ -5595,6 +5757,7 @@
         "atual": false,
         "file": "retro-1978-b92a032d.svg",
         "aspect": 0.778,
+        "icon": "escudo-1978-463d7d7a.svg",
         "iconTheme": "brasileirao-internacional-1978"
       },
       {
@@ -5604,6 +5767,7 @@
         "atual": false,
         "file": "retro-1979-401728fa.svg",
         "aspect": 0.719,
+        "icon": "escudo-1979-5baca99a.svg",
         "iconTheme": "brasileirao-internacional-1979"
       },
       {
@@ -5613,6 +5777,7 @@
         "atual": false,
         "file": "retro-1980-e27a4434.svg",
         "aspect": 0.711,
+        "icon": "escudo-1980-68d1a115.svg",
         "iconTheme": "brasileirao-internacional-1980"
       },
       {
@@ -5622,6 +5787,7 @@
         "atual": false,
         "file": "retro-1982-02eafe1e.svg",
         "aspect": 0.697,
+        "icon": "escudo-1982-eaaf3673.svg",
         "iconTheme": "brasileirao-internacional-1982"
       },
       {
@@ -5631,6 +5797,7 @@
         "atual": false,
         "file": "retro-1982b-077b75a5.svg",
         "aspect": 0.998,
+        "icon": "escudo-1982b-cae4599d.svg",
         "iconTheme": "brasileirao-internacional-1982b"
       },
       {
@@ -5640,6 +5807,7 @@
         "atual": false,
         "file": "retro-1983-8f355287.svg",
         "aspect": 0.831,
+        "icon": "escudo-1983-b184cbde.svg",
         "iconTheme": "brasileirao-internacional-1983"
       },
       {
@@ -5649,6 +5817,7 @@
         "atual": false,
         "file": "retro-1992-4e221cfb.svg",
         "aspect": 0.805,
+        "icon": "escudo-1992-cfbdfb3c.svg",
         "iconTheme": "brasileirao-internacional-1992"
       },
       {
@@ -5658,6 +5827,7 @@
         "atual": false,
         "file": "retro-1993-dc9e547e.svg",
         "aspect": 0.858,
+        "icon": "escudo-1993-e57eac12.svg",
         "iconTheme": "brasileirao-internacional-1993"
       },
       {
@@ -5667,6 +5837,7 @@
         "atual": false,
         "file": "retro-2006-54f28880.svg",
         "aspect": 0.705,
+        "icon": "escudo-2006-950f93e2.svg",
         "iconTheme": "brasileirao-internacional-2006"
       },
       {
@@ -5676,6 +5847,7 @@
         "atual": false,
         "file": "retro-2006b-54f632b3.svg",
         "aspect": 0.685,
+        "icon": "escudo-2006b-bb03614a.svg",
         "iconTheme": "brasileirao-internacional-2006b"
       },
       {
@@ -5685,6 +5857,7 @@
         "atual": false,
         "file": "retro-2007-2cacbea2.svg",
         "aspect": 0.81,
+        "icon": "escudo-2007-31f4f7b9.svg",
         "iconTheme": "brasileirao-internacional-2007"
       },
       {
@@ -5694,6 +5867,7 @@
         "atual": false,
         "file": "retro-2008-db7e0c35.svg",
         "aspect": 0.824,
+        "icon": "escudo-2008-2754608f.svg",
         "iconTheme": "brasileirao-internacional-2008"
       }
     ],
@@ -5797,6 +5971,7 @@
         "atual": false,
         "file": "retro-1913-4af1fe7e.svg",
         "aspect": 0.777,
+        "icon": "escudo-1913-cbd1907f.svg",
         "iconTheme": "brasileirao-juventude-1913"
       },
       {
@@ -5806,6 +5981,7 @@
         "atual": false,
         "file": "retro-1914-19ac6a48.svg",
         "aspect": 0.787,
+        "icon": "escudo-1914-a700850f.svg",
         "iconTheme": "brasileirao-juventude-1914"
       },
       {
@@ -5815,6 +5991,7 @@
         "atual": false,
         "file": "retro-1920-ad77308a.svg",
         "aspect": 1,
+        "icon": "escudo-1920-91848fa3.svg",
         "iconTheme": "brasileirao-juventude-1920"
       },
       {
@@ -5824,6 +6001,7 @@
         "atual": false,
         "file": "retro-1937-06966f2f.svg",
         "aspect": 0.943,
+        "icon": "escudo-1937-375d5c9f.svg",
         "iconTheme": "brasileirao-juventude-1937"
       },
       {
@@ -5833,6 +6011,7 @@
         "atual": false,
         "file": "retro-1948-6563e0a0.svg",
         "aspect": 0.975,
+        "icon": "escudo-1948-47ff239a.svg",
         "iconTheme": "brasileirao-juventude-1948"
       },
       {
@@ -5842,6 +6021,7 @@
         "atual": false,
         "file": "retro-1949-fa10c14d.svg",
         "aspect": 0.99,
+        "icon": "escudo-1949-a6f3e2f0.svg",
         "iconTheme": "brasileirao-juventude-1949"
       },
       {
@@ -5851,6 +6031,7 @@
         "atual": false,
         "file": "retro-1950-7866d889.svg",
         "aspect": 1,
+        "icon": "escudo-1950-ff9690db.svg",
         "iconTheme": "brasileirao-juventude-1950"
       },
       {
@@ -5860,6 +6041,7 @@
         "atual": false,
         "file": "retro-1950b-0346a7b3.svg",
         "aspect": 0.994,
+        "icon": "escudo-1950b-78eb5e52.svg",
         "iconTheme": "brasileirao-juventude-1950b"
       },
       {
@@ -5869,6 +6051,7 @@
         "atual": false,
         "file": "retro-1963-3e7bfadf.svg",
         "aspect": 0.991,
+        "icon": "escudo-1963-538d8918.svg",
         "iconTheme": "brasileirao-juventude-1963"
       },
       {
@@ -5878,6 +6061,7 @@
         "atual": false,
         "file": "retro-1970-731dbd36.svg",
         "aspect": 1,
+        "icon": "escudo-1970-0d11031a.svg",
         "iconTheme": "brasileirao-juventude-1970"
       },
       {
@@ -5887,6 +6071,7 @@
         "atual": false,
         "file": "retro-1975-d8b1d967.svg",
         "aspect": 1.05,
+        "icon": "escudo-1975-273250eb.svg",
         "iconTheme": "brasileirao-juventude-1975"
       },
       {
@@ -5896,6 +6081,7 @@
         "atual": false,
         "file": "retro-1998-a23c59c6.svg",
         "aspect": 0.868,
+        "icon": "escudo-1998-711877c3.svg",
         "iconTheme": "brasileirao-juventude-1998"
       },
       {
@@ -5905,6 +6091,7 @@
         "atual": false,
         "file": "retro-2025-d7a3e326.svg",
         "aspect": 0.599,
+        "icon": "escudo-2025-2d1a866b.svg",
         "iconTheme": "brasileirao-juventude-2025"
       }
     ],
@@ -6064,6 +6251,7 @@
         "atual": false,
         "file": "retro-1931-878a3326.svg",
         "aspect": 1,
+        "icon": "escudo-1931-69b9ecc6.svg",
         "iconTheme": "brasileirao-bahia-1931"
       },
       {
@@ -6073,6 +6261,7 @@
         "atual": false,
         "file": "retro-1940-02330d82.svg",
         "aspect": 0.999,
+        "icon": "escudo-1940-0928a25e.svg",
         "iconTheme": "brasileirao-bahia-1940"
       },
       {
@@ -6082,6 +6271,7 @@
         "atual": false,
         "file": "retro-1959-9a14cb2f.svg",
         "aspect": 0.994,
+        "icon": "escudo-1959-ac36b8bb.svg",
         "iconTheme": "brasileirao-bahia-1959"
       },
       {
@@ -6091,6 +6281,7 @@
         "atual": false,
         "file": "retro-1979-296be4a1.svg",
         "aspect": 0.994,
+        "icon": "escudo-1979-d02f437b.svg",
         "iconTheme": "brasileirao-bahia-1979"
       },
       {
@@ -6100,6 +6291,7 @@
         "atual": false,
         "file": "retro-1985-fe8bbdda.svg",
         "aspect": 1,
+        "icon": "escudo-1985-2bfa3108.svg",
         "iconTheme": "brasileirao-bahia-1985"
       },
       {
@@ -6109,6 +6301,7 @@
         "atual": false,
         "file": "retro-1988-3e8fdee2.svg",
         "aspect": 1,
+        "icon": "escudo-1988-b7b2c41a.svg",
         "iconTheme": "brasileirao-bahia-1988"
       },
       {
@@ -6118,6 +6311,7 @@
         "atual": false,
         "file": "retro-1990-a0877e4a.svg",
         "aspect": 0.847,
+        "icon": "escudo-1990-142fdeda.svg",
         "iconTheme": "brasileirao-bahia-1990"
       }
     ],
@@ -6255,6 +6449,7 @@
         "atual": false,
         "file": "retro-1899-88d1aee3.png",
         "aspect": 0.676,
+        "icon": "escudo-1899-6d931277.svg",
         "iconTheme": "brasileirao-vitoria-1899"
       },
       {
@@ -6264,6 +6459,7 @@
         "atual": false,
         "file": "retro-1934-61c740f0.svg",
         "aspect": 0.843,
+        "icon": "escudo-1934-5eab88ba.svg",
         "iconTheme": "brasileirao-vitoria-1934"
       },
       {
@@ -6273,6 +6469,7 @@
         "atual": false,
         "file": "retro-1939-bda49cdc.svg",
         "aspect": 0.841,
+        "icon": "escudo-1939-37f433ad.svg",
         "iconTheme": "brasileirao-vitoria-1939"
       },
       {
@@ -6282,6 +6479,7 @@
         "atual": false,
         "file": "retro-1959-592115c6.svg",
         "aspect": 0.832,
+        "icon": "escudo-1959-3cc9a3fc.svg",
         "iconTheme": "brasileirao-vitoria-1959"
       },
       {
@@ -6291,6 +6489,7 @@
         "atual": false,
         "file": "retro-1980-335cd7d6.svg",
         "aspect": 0.807,
+        "icon": "escudo-1980-34114762.svg",
         "iconTheme": "brasileirao-vitoria-1980"
       },
       {
@@ -6300,6 +6499,7 @@
         "atual": false,
         "file": "retro-1985-d511bd2f.svg",
         "aspect": 1.206,
+        "icon": "escudo-1985-d7253462.svg",
         "iconTheme": "brasileirao-vitoria-1985"
       },
       {
@@ -6309,6 +6509,7 @@
         "atual": false,
         "file": "retro-1994-477e720a.svg",
         "aspect": 0.958,
+        "icon": "escudo-1994-4a0f3981.svg",
         "iconTheme": "brasileirao-vitoria-1994"
       },
       {
@@ -6318,6 +6519,7 @@
         "atual": false,
         "file": "retro-2000-5e3fa412.svg",
         "aspect": 0.859,
+        "icon": "escudo-2000-7012a0be.svg",
         "iconTheme": "brasileirao-vitoria-2000"
       },
       {
@@ -6327,6 +6529,7 @@
         "atual": false,
         "file": "retro-2010-5b5c3f10.svg",
         "aspect": 0.858,
+        "icon": "escudo-2010-f6f5353c.svg",
         "iconTheme": "brasileirao-vitoria-2010"
       },
       {
@@ -6336,6 +6539,7 @@
         "atual": false,
         "file": "retro-2019-6f4568f6.svg",
         "aspect": 0.863,
+        "icon": "escudo-2019-147d1f24.svg",
         "iconTheme": "brasileirao-vitoria-2019"
       }
     ],
@@ -6440,6 +6644,7 @@
         "atual": false,
         "file": "retro-1914-a73b0037.svg",
         "aspect": 0.769,
+        "icon": "escudo-1914-055e710c.svg",
         "iconTheme": "brasileirao-ypiranga-ba-1914"
       },
       {
@@ -6449,6 +6654,7 @@
         "atual": false,
         "file": "retro-1931-60c7197c.svg",
         "aspect": 0.746,
+        "icon": "escudo-1931-3b21488d.svg",
         "iconTheme": "brasileirao-ypiranga-ba-1931"
       },
       {
@@ -6458,6 +6664,7 @@
         "atual": false,
         "file": "retro-1943-100581fa.svg",
         "aspect": 0.888,
+        "icon": "escudo-1943-08acee40.svg",
         "iconTheme": "brasileirao-ypiranga-ba-1943"
       },
       {
@@ -6467,6 +6674,7 @@
         "atual": false,
         "file": "retro-1962-c5f856fe.svg",
         "aspect": 0.971,
+        "icon": "escudo-1962-dd709f90.svg",
         "iconTheme": "brasileirao-ypiranga-ba-1962"
       },
       {
@@ -6476,6 +6684,7 @@
         "atual": false,
         "file": "retro-1964-bb823fe2.svg",
         "aspect": 0.803,
+        "icon": "escudo-1964-808faa35.svg",
         "iconTheme": "brasileirao-ypiranga-ba-1964"
       }
     ],
@@ -6628,6 +6837,7 @@
         "atual": false,
         "file": "retro-1918-d6e7819b.svg",
         "aspect": 0.807,
+        "icon": "escudo-1918-f3f9f060.svg",
         "iconTheme": "brasileirao-fortaleza-1918"
       },
       {
@@ -6637,6 +6847,7 @@
         "atual": false,
         "file": "retro-1927-358a4264.svg",
         "aspect": 0.916,
+        "icon": "escudo-1927-d30c3af9.svg",
         "iconTheme": "brasileirao-fortaleza-1927"
       },
       {
@@ -6646,6 +6857,7 @@
         "atual": false,
         "file": "retro-1929-1d75f4a5.svg",
         "aspect": 0.851,
+        "icon": "escudo-1929-b12916ec.svg",
         "iconTheme": "brasileirao-fortaleza-1929"
       },
       {
@@ -6655,6 +6867,7 @@
         "atual": false,
         "file": "retro-1940-1ffc809a.svg",
         "aspect": 0.857,
+        "icon": "escudo-1940-decb4b60.svg",
         "iconTheme": "brasileirao-fortaleza-1940"
       },
       {
@@ -6664,6 +6877,7 @@
         "atual": false,
         "file": "retro-1950-53f1bcbf.svg",
         "aspect": 0.85,
+        "icon": "escudo-1950-5b99ff96.svg",
         "iconTheme": "brasileirao-fortaleza-1950"
       },
       {
@@ -6673,6 +6887,7 @@
         "atual": false,
         "file": "retro-1958-80e5a429.svg",
         "aspect": 0.829,
+        "icon": "escudo-1958-c7cd9b42.svg",
         "iconTheme": "brasileirao-fortaleza-1958"
       },
       {
@@ -6682,6 +6897,7 @@
         "atual": false,
         "file": "retro-1960-c479c005.svg",
         "aspect": 0.839,
+        "icon": "escudo-1960-ea840177.svg",
         "iconTheme": "brasileirao-fortaleza-1960"
       },
       {
@@ -6691,6 +6907,7 @@
         "atual": false,
         "file": "retro-1963-912c9ac9.svg",
         "aspect": 0.844,
+        "icon": "escudo-1963-8149e410.svg",
         "iconTheme": "brasileirao-fortaleza-1963"
       },
       {
@@ -6700,6 +6917,7 @@
         "atual": false,
         "file": "retro-1980-98c8cb2b.svg",
         "aspect": 0.858,
+        "icon": "escudo-1980-f00db0a5.svg",
         "iconTheme": "brasileirao-fortaleza-1980"
       },
       {
@@ -6709,6 +6927,7 @@
         "atual": false,
         "file": "retro-1982-b63ffcaa.svg",
         "aspect": 0.977,
+        "icon": "escudo-1982-e00c9307.svg",
         "iconTheme": "brasileirao-fortaleza-1982"
       },
       {
@@ -6718,6 +6937,7 @@
         "atual": false,
         "file": "retro-2010-8b6848e2.svg",
         "aspect": 0.724,
+        "icon": "escudo-2010-442cec43.svg",
         "iconTheme": "brasileirao-fortaleza-2010"
       },
       {
@@ -6727,6 +6947,7 @@
         "atual": false,
         "file": "retro-2017-2112b2d2.svg",
         "aspect": 0.735,
+        "icon": "escudo-2017-95e739f3.svg",
         "iconTheme": "brasileirao-fortaleza-2017"
       },
       {
@@ -6736,6 +6957,7 @@
         "atual": false,
         "file": "retro-2018-02fbd88b.svg",
         "aspect": 0.734,
+        "icon": "escudo-2018-e86c10f8.svg",
         "iconTheme": "brasileirao-fortaleza-2018"
       }
     ],
@@ -6885,6 +7107,7 @@
         "atual": false,
         "file": "retro-1914-3c2994d3.svg",
         "aspect": 0.968,
+        "icon": "escudo-1914-9cad72d9.svg",
         "iconTheme": "brasileirao-ceara-1914"
       },
       {
@@ -6894,6 +7117,7 @@
         "atual": false,
         "file": "retro-1916-722115f6.svg",
         "aspect": 0.867,
+        "icon": "escudo-1916-96d896f3.svg",
         "iconTheme": "brasileirao-ceara-1916"
       },
       {
@@ -6903,6 +7127,7 @@
         "atual": false,
         "file": "retro-1955-ccdd252b.svg",
         "aspect": 0.944,
+        "icon": "escudo-1955-e745e1df.svg",
         "iconTheme": "brasileirao-ceara-1955"
       },
       {
@@ -6912,6 +7137,7 @@
         "atual": false,
         "file": "retro-1969-6dbaeff1.svg",
         "aspect": 0.941,
+        "icon": "escudo-1969-6997c229.svg",
         "iconTheme": "brasileirao-ceara-1969"
       },
       {
@@ -6921,6 +7147,7 @@
         "atual": false,
         "file": "retro-1971-d2ff6f19.svg",
         "aspect": 0.94,
+        "icon": "escudo-1971-016e6f8e.svg",
         "iconTheme": "brasileirao-ceara-1971"
       },
       {
@@ -6930,6 +7157,7 @@
         "atual": false,
         "file": "retro-2003-f7a37f11.svg",
         "aspect": 0.953,
+        "icon": "escudo-2003-6ff8abbe.svg",
         "iconTheme": "brasileirao-ceara-2003"
       }
     ],
@@ -7040,6 +7268,7 @@
         "atual": false,
         "file": "retro-1933-46492add.svg",
         "aspect": 1.874,
+        "icon": "escudo-1933-7309ea3a.svg",
         "iconTheme": "brasileirao-ferroviario-ce-1933"
       },
       {
@@ -7049,6 +7278,7 @@
         "atual": false,
         "file": "retro-1940-50278bbe.svg",
         "aspect": 1.065,
+        "icon": "escudo-1940-1f9e6e16.svg",
         "iconTheme": "brasileirao-ferroviario-ce-1940"
       },
       {
@@ -7058,6 +7288,7 @@
         "atual": false,
         "file": "retro-1950-933acf94.svg",
         "aspect": 1,
+        "icon": "escudo-1950-7c7498fe.svg",
         "iconTheme": "brasileirao-ferroviario-ce-1950"
       },
       {
@@ -7067,6 +7298,7 @@
         "atual": false,
         "file": "retro-1968-a7947f60.svg",
         "aspect": 0.903,
+        "icon": "escudo-1968-dc9788d2.svg",
         "iconTheme": "brasileirao-ferroviario-ce-1968"
       },
       {
@@ -7076,6 +7308,7 @@
         "atual": false,
         "file": "retro-1970-40296876.svg",
         "aspect": 0.981,
+        "icon": "escudo-1970-9256723f.svg",
         "iconTheme": "brasileirao-ferroviario-ce-1970"
       },
       {
@@ -7085,6 +7318,7 @@
         "atual": false,
         "file": "retro-1988-97ab15de.svg",
         "aspect": 0.992,
+        "icon": "escudo-1988-89dd6086.svg",
         "iconTheme": "brasileirao-ferroviario-ce-1988"
       },
       {
@@ -7094,6 +7328,7 @@
         "atual": false,
         "file": "retro-1990-bba202a0.svg",
         "aspect": 0.922,
+        "icon": "escudo-1990-c64dec13.svg",
         "iconTheme": "brasileirao-ferroviario-ce-1990"
       },
       {
@@ -7103,6 +7338,7 @@
         "atual": false,
         "file": "retro-2009-5e461c32.svg",
         "aspect": 1.073,
+        "icon": "escudo-2009-4aa535a3.svg",
         "iconTheme": "brasileirao-ferroviario-ce-2009"
       },
       {
@@ -7112,6 +7348,7 @@
         "atual": false,
         "file": "retro-2018-ea988b0b.svg",
         "aspect": 0.842,
+        "icon": "escudo-2018-c6f74d30.svg",
         "iconTheme": "brasileirao-ferroviario-ce-2018"
       }
     ],
@@ -7207,6 +7444,7 @@
         "atual": false,
         "file": "retro-1938-b189d4d7.svg",
         "aspect": 1.005,
+        "icon": "escudo-1938-ee5af219.svg",
         "iconTheme": "brasileirao-guarany-de-sobral-1938"
       },
       {
@@ -7216,6 +7454,7 @@
         "atual": false,
         "file": "retro-1966-2af65fcf.svg",
         "aspect": 1.009,
+        "icon": "escudo-1966-55053445.svg",
         "iconTheme": "brasileirao-guarany-de-sobral-1966"
       },
       {
@@ -7225,6 +7464,7 @@
         "atual": false,
         "file": "retro-1968-8f8c340a.svg",
         "aspect": 0.91,
+        "icon": "escudo-1968-22eb1c46.svg",
         "iconTheme": "brasileirao-guarany-de-sobral-1968"
       },
       {
@@ -7234,6 +7474,7 @@
         "atual": false,
         "file": "retro-1990-62949016.svg",
         "aspect": 0.938,
+        "icon": "escudo-1990-a884d904.svg",
         "iconTheme": "brasileirao-guarany-de-sobral-1990"
       },
       {
@@ -7243,6 +7484,7 @@
         "atual": false,
         "file": "retro-2000-844c8199.svg",
         "aspect": 0.641,
+        "icon": "escudo-2000-6d99ab7b.svg",
         "iconTheme": "brasileirao-guarany-de-sobral-2000"
       }
     ],
@@ -7381,6 +7623,7 @@
         "atual": false,
         "file": "retro-1912i-f36795fd.svg",
         "aspect": 0.987,
+        "icon": "escudo-1912i-1ac7ef00.svg",
         "iconTheme": "brasileirao-athletico-pr-1912i"
       },
       {
@@ -7390,6 +7633,7 @@
         "atual": false,
         "file": "retro-1914a-cd2c27f0.svg",
         "aspect": 1,
+        "icon": "escudo-1914a-7310aacb.svg",
         "iconTheme": "brasileirao-athletico-pr-1914a"
       },
       {
@@ -7399,6 +7643,7 @@
         "atual": false,
         "file": "retro-1920a-01df6f5d.svg",
         "aspect": 1,
+        "icon": "escudo-1920a-219993d2.svg",
         "iconTheme": "brasileirao-athletico-pr-1920a"
       },
       {
@@ -7408,6 +7653,7 @@
         "atual": false,
         "file": "retro-1924-515792b8.svg",
         "aspect": 0.805,
+        "icon": "escudo-1924-43649088.svg",
         "iconTheme": "brasileirao-athletico-pr-1924"
       },
       {
@@ -7417,6 +7663,7 @@
         "atual": false,
         "file": "retro-1936-629e33ed.svg",
         "aspect": 0.921,
+        "icon": "escudo-1936-7c86e478.svg",
         "iconTheme": "brasileirao-athletico-pr-1936"
       },
       {
@@ -7426,6 +7673,7 @@
         "atual": false,
         "file": "retro-1937-1b9d4701.svg",
         "aspect": 0.803,
+        "icon": "escudo-1937-b4162045.svg",
         "iconTheme": "brasileirao-athletico-pr-1937"
       },
       {
@@ -7435,6 +7683,7 @@
         "atual": false,
         "file": "retro-1938-1dd155b6.svg",
         "aspect": 0.939,
+        "icon": "escudo-1938-2b59a323.svg",
         "iconTheme": "brasileirao-athletico-pr-1938"
       },
       {
@@ -7444,6 +7693,7 @@
         "atual": false,
         "file": "retro-1945-7585a3b0.svg",
         "aspect": 0.93,
+        "icon": "escudo-1945-7ec7bce5.svg",
         "iconTheme": "brasileirao-athletico-pr-1945"
       },
       {
@@ -7453,6 +7703,7 @@
         "atual": false,
         "file": "retro-1948-5e17a97a.svg",
         "aspect": 0.931,
+        "icon": "escudo-1948-c54f7123.svg",
         "iconTheme": "brasileirao-athletico-pr-1948"
       },
       {
@@ -7462,6 +7713,7 @@
         "atual": false,
         "file": "retro-1950-95d7e89a.svg",
         "aspect": 0.796,
+        "icon": "escudo-1950-45a4f467.svg",
         "iconTheme": "brasileirao-athletico-pr-1950"
       },
       {
@@ -7471,6 +7723,7 @@
         "atual": false,
         "file": "retro-1970-1fe5f2d5.svg",
         "aspect": 0.775,
+        "icon": "escudo-1970-8090f8e1.svg",
         "iconTheme": "brasileirao-athletico-pr-1970"
       },
       {
@@ -7480,6 +7733,7 @@
         "atual": false,
         "file": "retro-1990-021bc9fc.svg",
         "aspect": 0.787,
+        "icon": "escudo-1990-1d41b99a.svg",
         "iconTheme": "brasileirao-athletico-pr-1990"
       },
       {
@@ -7489,6 +7743,7 @@
         "atual": false,
         "file": "retro-1997-4a30f621.svg",
         "aspect": 1,
+        "icon": "escudo-1997-74607184.svg",
         "iconTheme": "brasileirao-athletico-pr-1997"
       },
       {
@@ -7498,6 +7753,7 @@
         "atual": false,
         "file": "retro-2001-53da427e.svg",
         "aspect": 0.808,
+        "icon": "escudo-2001-abbd69ef.svg",
         "iconTheme": "brasileirao-athletico-pr-2001"
       },
       {
@@ -7507,6 +7763,7 @@
         "atual": false,
         "file": "retro-2003-aaf1e6cb.svg",
         "aspect": 0.778,
+        "icon": "escudo-2003-de1cfb10.svg",
         "iconTheme": "brasileirao-athletico-pr-2003"
       },
       {
@@ -7516,6 +7773,7 @@
         "atual": false,
         "file": "retro-2012-a0e7c4a9.svg",
         "aspect": 0.778,
+        "icon": "escudo-2012-8dc5ce46.svg",
         "iconTheme": "brasileirao-athletico-pr-2012"
       },
       {
@@ -7525,6 +7783,7 @@
         "atual": false,
         "file": "retro-2024-e5dbcbb0.svg",
         "aspect": 1.448,
+        "icon": "escudo-2024-90cc8f32.svg",
         "iconTheme": "brasileirao-athletico-pr-2024"
       }
     ],
@@ -7669,6 +7928,7 @@
         "atual": false,
         "file": "retro-1909-e5473b18.svg",
         "aspect": 0.711,
+        "icon": "escudo-1909-fca1b9d6.svg",
         "iconTheme": "brasileirao-coritiba-1909"
       },
       {
@@ -7678,6 +7938,7 @@
         "atual": false,
         "file": "retro-1909b-81331f6d.svg",
         "aspect": 1,
+        "icon": "escudo-1909b-97bc1515.svg",
         "iconTheme": "brasileirao-coritiba-1909b"
       },
       {
@@ -7687,6 +7948,7 @@
         "atual": false,
         "file": "retro-1916-9465055c.svg",
         "aspect": 1,
+        "icon": "escudo-1916-2e84f5fc.svg",
         "iconTheme": "brasileirao-coritiba-1916"
       },
       {
@@ -7696,6 +7958,7 @@
         "atual": false,
         "file": "retro-1930-53d7f6fe.svg",
         "aspect": 1,
+        "icon": "escudo-1930-02332012.svg",
         "iconTheme": "brasileirao-coritiba-1930"
       },
       {
@@ -7705,6 +7968,7 @@
         "atual": false,
         "file": "retro-1960-99b6ed18.svg",
         "aspect": 1,
+        "icon": "escudo-1960-e8747bdb.svg",
         "iconTheme": "brasileirao-coritiba-1960"
       },
       {
@@ -7714,6 +7978,7 @@
         "atual": false,
         "file": "retro-1970-4ecaedb1.svg",
         "aspect": 1,
+        "icon": "escudo-1970-d3a55272.svg",
         "iconTheme": "brasileirao-coritiba-1970"
       },
       {
@@ -7723,6 +7988,7 @@
         "atual": false,
         "file": "retro-1985-93e404da.svg",
         "aspect": 1,
+        "icon": "escudo-1985-5852d400.svg",
         "iconTheme": "brasileirao-coritiba-1985"
       }
     ],
@@ -7791,10 +8057,10 @@
   "Brasileirão: Paraná": {
     "slug": "parana",
     "uf": "PR",
-    "crestLabel": "Atual · desde 1989",
-    "crestIcon": "escudo-4ab1d11e.svg",
-    "listIcon": "escudo-4ab1d11e.svg",
-    "backgroundAspect": 0.538,
+    "crestLabel": "Atual · desde 1997",
+    "crestIcon": "escudo-9ecb6c5f.svg",
+    "listIcon": "escudo-9ecb6c5f.svg",
+    "backgroundAspect": 0.524,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -7819,30 +8085,36 @@
         2006
       ]
     },
+    "titleOrder": [
+      "estadual",
+      "serieB"
+    ],
     "retro": [
       {
-        "id": "1971-colorado",
-        "label": "Colorado · 1971–1989",
-        "fullLabel": "Colorado · 1971–1989",
+        "id": "1989",
+        "label": "1989–1992",
+        "fullLabel": "1989–1992",
         "atual": false,
-        "file": "retro-1971-colorado-0d861318.svg",
-        "aspect": 1,
-        "iconTheme": "brasileirao-parana-1971-colorado"
+        "file": "retro-1989-a3ce092c.svg",
+        "aspect": 0.643,
+        "icon": "escudo-1989-1ffe186e.svg",
+        "iconTheme": "brasileirao-parana-1989"
       },
       {
-        "id": "1971-pinheiros",
-        "label": "Pinheiros · 1971–1989",
-        "fullLabel": "Pinheiros · 1971–1989",
+        "id": "1992",
+        "label": "1992–1997",
+        "fullLabel": "1992–1997",
         "atual": false,
-        "file": "retro-1971-pinheiros-b957f3d5.svg",
-        "aspect": 1,
-        "iconTheme": "brasileirao-parana-1971-pinheiros"
+        "file": "retro-1992-65edab8e.svg",
+        "aspect": 0.519,
+        "icon": "escudo-1992-ee99141b.svg",
+        "iconTheme": "brasileirao-parana-1992"
       }
     ],
     "alternates": [],
     "swatch": "🟦🟥⬜",
     "primary": "#1b5fc0",
-    "background": "fundo-b2c7d6fc.svg",
+    "background": "fundo-375e6277.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -7937,6 +8209,7 @@
         "atual": false,
         "file": "retro-1956-cdae7f31.svg",
         "aspect": 0.998,
+        "icon": "escudo-1956-a6cb576a.svg",
         "iconTheme": "brasileirao-londrina-1956"
       },
       {
@@ -7946,6 +8219,7 @@
         "atual": false,
         "file": "retro-1962-66452c6c.svg",
         "aspect": 0.729,
+        "icon": "escudo-1962-f51df736.svg",
         "iconTheme": "brasileirao-londrina-1962"
       },
       {
@@ -7955,6 +8229,7 @@
         "atual": false,
         "file": "retro-1970-7d325516.svg",
         "aspect": 0.978,
+        "icon": "escudo-1970-d73432ab.svg",
         "iconTheme": "brasileirao-londrina-1970"
       },
       {
@@ -7964,6 +8239,7 @@
         "atual": false,
         "file": "retro-1977-237ca75e.svg",
         "aspect": 0.968,
+        "icon": "escudo-1977-46c7957c.svg",
         "iconTheme": "brasileirao-londrina-1977"
       },
       {
@@ -7973,6 +8249,7 @@
         "atual": false,
         "file": "retro-1981-6b767a22.svg",
         "aspect": 0.955,
+        "icon": "escudo-1981-1425c10f.svg",
         "iconTheme": "brasileirao-londrina-1981"
       },
       {
@@ -7982,6 +8259,7 @@
         "atual": false,
         "file": "retro-1992-44a9e691.svg",
         "aspect": 0.971,
+        "icon": "escudo-1992-7ee15e9a.svg",
         "iconTheme": "brasileirao-londrina-1992"
       }
     ],
@@ -8083,6 +8361,7 @@
         "atual": false,
         "file": "retro-1912-28a4f007.svg",
         "aspect": 1.004,
+        "icon": "escudo-1912-25a5cc3a.svg",
         "iconTheme": "brasileirao-operario-pr-1912"
       },
       {
@@ -8092,6 +8371,7 @@
         "atual": false,
         "file": "retro-1941-915b5127.svg",
         "aspect": 1.255,
+        "icon": "escudo-1941-2191a9f8.svg",
         "iconTheme": "brasileirao-operario-pr-1941"
       },
       {
@@ -8101,6 +8381,7 @@
         "atual": false,
         "file": "retro-1947-6f3ebf29.svg",
         "aspect": 0.827,
+        "icon": "escudo-1947-7dcd9738.svg",
         "iconTheme": "brasileirao-operario-pr-1947"
       },
       {
@@ -8110,6 +8391,7 @@
         "atual": false,
         "file": "retro-1957-38bf5991.svg",
         "aspect": 0.8,
+        "icon": "escudo-1957-dfc10400.svg",
         "iconTheme": "brasileirao-operario-pr-1957"
       },
       {
@@ -8119,6 +8401,7 @@
         "atual": false,
         "file": "retro-1976-8cf65e4a.svg",
         "aspect": 1.026,
+        "icon": "escudo-1976-f5f8c319.svg",
         "iconTheme": "brasileirao-operario-pr-1976"
       },
       {
@@ -8128,6 +8411,7 @@
         "atual": false,
         "file": "retro-1979-890a7e6a.svg",
         "aspect": 0.977,
+        "icon": "escudo-1979-c8878733.svg",
         "iconTheme": "brasileirao-operario-pr-1979"
       },
       {
@@ -8137,6 +8421,7 @@
         "atual": false,
         "file": "retro-1981-b10ed12f.svg",
         "aspect": 1.042,
+        "icon": "escudo-1981-452d3bef.svg",
         "iconTheme": "brasileirao-operario-pr-1981"
       },
       {
@@ -8146,6 +8431,7 @@
         "atual": false,
         "file": "retro-1987-a037999e.svg",
         "aspect": 0.912,
+        "icon": "escudo-1987-289807a8.svg",
         "iconTheme": "brasileirao-operario-pr-1987"
       },
       {
@@ -8155,6 +8441,7 @@
         "atual": false,
         "file": "retro-2008-e8c50ca1.svg",
         "aspect": 0.914,
+        "icon": "escudo-2008-54347ed9.svg",
         "iconTheme": "brasileirao-operario-pr-2008"
       }
     ],
@@ -8390,6 +8677,7 @@
         "atual": false,
         "file": "retro-1905-5de048d7.svg",
         "aspect": 0.979,
+        "icon": "escudo-1905-4eec0b18.svg",
         "iconTheme": "brasileirao-sport-1905"
       },
       {
@@ -8399,6 +8687,7 @@
         "atual": false,
         "file": "retro-1940-edcd707c.svg",
         "aspect": 0.921,
+        "icon": "escudo-1940-855ead3b.svg",
         "iconTheme": "brasileirao-sport-1940"
       }
     ],
@@ -8526,6 +8815,7 @@
         "atual": false,
         "file": "retro-1914-df7f93cc.svg",
         "aspect": 1.044,
+        "icon": "escudo-1914-e18cf32c.svg",
         "iconTheme": "brasileirao-santa-cruz-1914"
       },
       {
@@ -8535,6 +8825,7 @@
         "atual": false,
         "file": "retro-1940-4a34cab2.svg",
         "aspect": 0.893,
+        "icon": "escudo-1940-928b2546.svg",
         "iconTheme": "brasileirao-santa-cruz-1940"
       }
     ],
@@ -8655,6 +8946,7 @@
         "atual": false,
         "file": "retro-1901-77f4c0d4.svg",
         "aspect": 0.836,
+        "icon": "escudo-1901-c33d06d1.svg",
         "iconTheme": "brasileirao-nautico-1901"
       },
       {
@@ -8664,6 +8956,7 @@
         "atual": false,
         "file": "retro-1931-8940af9f.svg",
         "aspect": 1.056,
+        "icon": "escudo-1931-b5236ae9.svg",
         "iconTheme": "brasileirao-nautico-1931"
       }
     ],
@@ -8759,6 +9052,7 @@
         "atual": false,
         "file": "retro-2016-bfbb3645.svg",
         "aspect": 0.819,
+        "icon": "escudo-2016-66581bbf.svg",
         "iconTheme": "brasileirao-retro-pe-2016"
       }
     ],
@@ -8914,6 +9208,7 @@
         "atual": false,
         "file": "retro-1914-053c95a4.svg",
         "aspect": 0.9,
+        "icon": "escudo-1914-95de7965.svg",
         "iconTheme": "brasileirao-paysandu-1914"
       },
       {
@@ -8923,6 +9218,7 @@
         "atual": false,
         "file": "retro-1970-bea4b3c6.svg",
         "aspect": 0.916,
+        "icon": "escudo-1970-cd4e990e.svg",
         "iconTheme": "brasileirao-paysandu-1970"
       },
       {
@@ -8932,6 +9228,7 @@
         "atual": false,
         "file": "retro-1991-8b262151.svg",
         "aspect": 0.999,
+        "icon": "escudo-1991-9a7b3493.svg",
         "iconTheme": "brasileirao-paysandu-1991"
       },
       {
@@ -8941,6 +9238,7 @@
         "atual": false,
         "file": "retro-1992-1f958e25.svg",
         "aspect": 0.797,
+        "icon": "escudo-1992-d2966ea1.svg",
         "iconTheme": "brasileirao-paysandu-1992"
       },
       {
@@ -8950,6 +9248,7 @@
         "atual": false,
         "file": "retro-2001-98ac5ce7.svg",
         "aspect": 0.8,
+        "icon": "escudo-2001-3a039cbc.svg",
         "iconTheme": "brasileirao-paysandu-2001"
       },
       {
@@ -8959,6 +9258,7 @@
         "atual": false,
         "file": "retro-2002-df99033c.svg",
         "aspect": 0.626,
+        "icon": "escudo-2002-de22b9fa.svg",
         "iconTheme": "brasileirao-paysandu-2002"
       },
       {
@@ -8968,6 +9268,7 @@
         "atual": false,
         "file": "retro-2003-86317e79.svg",
         "aspect": 0.626,
+        "icon": "escudo-2003-186bb230.svg",
         "iconTheme": "brasileirao-paysandu-2003"
       },
       {
@@ -8977,6 +9278,7 @@
         "atual": false,
         "file": "retro-2012-08ab6b42.svg",
         "aspect": 0.621,
+        "icon": "escudo-2012-a951e3e0.svg",
         "iconTheme": "brasileirao-paysandu-2012"
       },
       {
@@ -8986,6 +9288,7 @@
         "atual": false,
         "file": "retro-2013-9a2802fa.svg",
         "aspect": 0.916,
+        "icon": "escudo-2013-b60f647d.svg",
         "iconTheme": "brasileirao-paysandu-2013"
       }
     ],
@@ -9132,6 +9435,7 @@
         "atual": false,
         "file": "retro-1905-2f594daa.svg",
         "aspect": 1.338,
+        "icon": "escudo-1905-34e2679f.svg",
         "iconTheme": "brasileirao-remo-1905"
       },
       {
@@ -9141,6 +9445,7 @@
         "atual": false,
         "file": "retro-1925-1377ff0b.svg",
         "aspect": 1.364,
+        "icon": "escudo-1925-e2a977ad.svg",
         "iconTheme": "brasileirao-remo-1925"
       },
       {
@@ -9150,6 +9455,7 @@
         "atual": false,
         "file": "retro-1950-a5c9939f.svg",
         "aspect": 0.912,
+        "icon": "escudo-1950-b038a87e.svg",
         "iconTheme": "brasileirao-remo-1950"
       },
       {
@@ -9159,6 +9465,7 @@
         "atual": false,
         "file": "retro-1960-6b9eb158.svg",
         "aspect": 0.896,
+        "icon": "escudo-1960-52d4f9fa.svg",
         "iconTheme": "brasileirao-remo-1960"
       },
       {
@@ -9168,6 +9475,7 @@
         "atual": false,
         "file": "retro-1980-7aa19235.svg",
         "aspect": 0.946,
+        "icon": "escudo-1980-a124f4a3.svg",
         "iconTheme": "brasileirao-remo-1980"
       },
       {
@@ -9177,6 +9485,7 @@
         "atual": false,
         "file": "retro-1991-ee90e471.svg",
         "aspect": 0.798,
+        "icon": "escudo-1991-ade3995f.svg",
         "iconTheme": "brasileirao-remo-1991"
       },
       {
@@ -9186,6 +9495,7 @@
         "atual": false,
         "file": "retro-2004-4bc5d8a1.svg",
         "aspect": 0.682,
+        "icon": "escudo-2004-fadafa0a.svg",
         "iconTheme": "brasileirao-remo-2004"
       },
       {
@@ -9195,6 +9505,7 @@
         "atual": false,
         "file": "retro-2005-97910ab1.svg",
         "aspect": 1.261,
+        "icon": "escudo-2005-cfd6d4b1.svg",
         "iconTheme": "brasileirao-remo-2005"
       },
       {
@@ -9204,6 +9515,7 @@
         "atual": false,
         "file": "retro-2008-4f2bd7a4.svg",
         "aspect": 0.638,
+        "icon": "escudo-2008-070a0d39.svg",
         "iconTheme": "brasileirao-remo-2008"
       },
       {
@@ -9213,6 +9525,7 @@
         "atual": false,
         "file": "retro-2012-8384b3a0.svg",
         "aspect": 0.598,
+        "icon": "escudo-2012-8977b5ca.svg",
         "iconTheme": "brasileirao-remo-2012"
       }
     ],
@@ -9326,6 +9639,7 @@
         "atual": false,
         "file": "retro-1903-1eedd6fc.svg",
         "aspect": 0.89,
+        "icon": "escudo-1903-ee9dac65.svg",
         "iconTheme": "brasileirao-tuna-luso-1903"
       },
       {
@@ -9335,6 +9649,7 @@
         "atual": false,
         "file": "retro-1910-dc9d4ca9.svg",
         "aspect": 0.687,
+        "icon": "escudo-1910-a284f426.svg",
         "iconTheme": "brasileirao-tuna-luso-1910"
       },
       {
@@ -9344,6 +9659,7 @@
         "atual": false,
         "file": "retro-1918-f98a97b3.svg",
         "aspect": 0.879,
+        "icon": "escudo-1918-885f82d6.svg",
         "iconTheme": "brasileirao-tuna-luso-1918"
       },
       {
@@ -9353,6 +9669,7 @@
         "atual": false,
         "file": "retro-1926-f03f953c.svg",
         "aspect": 1,
+        "icon": "escudo-1926-52a00e82.svg",
         "iconTheme": "brasileirao-tuna-luso-1926"
       },
       {
@@ -9362,6 +9679,7 @@
         "atual": false,
         "file": "retro-1943-480a108d.svg",
         "aspect": 1.048,
+        "icon": "escudo-1943-cf3adde3.svg",
         "iconTheme": "brasileirao-tuna-luso-1943"
       },
       {
@@ -9371,6 +9689,7 @@
         "atual": false,
         "file": "retro-1948-b5f56a07.svg",
         "aspect": 0.902,
+        "icon": "escudo-1948-41d919bd.svg",
         "iconTheme": "brasileirao-tuna-luso-1948"
       },
       {
@@ -9380,6 +9699,7 @@
         "atual": false,
         "file": "retro-1968-ebdfd98a.svg",
         "aspect": 0.901,
+        "icon": "escudo-1968-197ef047.svg",
         "iconTheme": "brasileirao-tuna-luso-1968"
       },
       {
@@ -9389,6 +9709,7 @@
         "atual": false,
         "file": "retro-1985-ec314000.svg",
         "aspect": 0.901,
+        "icon": "escudo-1985-6f067182.svg",
         "iconTheme": "brasileirao-tuna-luso-1985"
       },
       {
@@ -9398,6 +9719,7 @@
         "atual": false,
         "file": "retro-1992-12433ce6.svg",
         "aspect": 0.901,
+        "icon": "escudo-1992-b8d3861c.svg",
         "iconTheme": "brasileirao-tuna-luso-1992"
       }
     ],
@@ -9493,6 +9815,7 @@
         "atual": false,
         "file": "retro-1994-95507cd3.svg",
         "aspect": 0.981,
+        "icon": "escudo-1994-f57fd689.svg",
         "iconTheme": "brasileirao-sao-raimundo-pa-1994"
       },
       {
@@ -9502,6 +9825,7 @@
         "atual": false,
         "file": "retro-1997-f03c685b.svg",
         "aspect": 0.871,
+        "icon": "escudo-1997-1fa7d7fa.svg",
         "iconTheme": "brasileirao-sao-raimundo-pa-1997"
       },
       {
@@ -9511,6 +9835,7 @@
         "atual": false,
         "file": "retro-2000-78432ae3.svg",
         "aspect": 1.003,
+        "icon": "escudo-2000-29228c82.svg",
         "iconTheme": "brasileirao-sao-raimundo-pa-2000"
       }
     ],
@@ -9613,6 +9938,7 @@
         "atual": false,
         "file": "retro-2019-bb9a1564.svg",
         "aspect": 0.876,
+        "icon": "escudo-2019-cd7406f3.svg",
         "iconTheme": "brasileirao-amazonas-2019"
       },
       {
@@ -9622,6 +9948,7 @@
         "atual": false,
         "file": "retro-2022-0d3ce1ac.svg",
         "aspect": 0.691,
+        "icon": "escudo-2022-85647f4a.svg",
         "iconTheme": "brasileirao-amazonas-2022"
       }
     ],
@@ -9760,6 +10087,7 @@
         "atual": false,
         "file": "retro-1913-f1dab726.svg",
         "aspect": 1.053,
+        "icon": "escudo-1913-bb5815ae.svg",
         "iconTheme": "brasileirao-nacional-am-1913"
       },
       {
@@ -9769,6 +10097,7 @@
         "atual": false,
         "file": "retro-1982-8e7ae640.svg",
         "aspect": 0.956,
+        "icon": "escudo-1982-2ba8cf3d.svg",
         "iconTheme": "brasileirao-nacional-am-1982"
       },
       {
@@ -9778,6 +10107,7 @@
         "atual": false,
         "file": "retro-2011-d11fa756.svg",
         "aspect": 0.914,
+        "icon": "escudo-2011-13e460ce.svg",
         "iconTheme": "brasileirao-nacional-am-2011"
       },
       {
@@ -9787,6 +10117,7 @@
         "atual": false,
         "file": "retro-2012-1eae3c4e.svg",
         "aspect": 0.814,
+        "icon": "escudo-2012-48aebdd6.svg",
         "iconTheme": "brasileirao-nacional-am-2012"
       }
     ],
@@ -9897,6 +10228,7 @@
         "atual": false,
         "file": "retro-1913-cbc987a0.svg",
         "aspect": 0.763,
+        "icon": "escudo-1913-2958fc3b.svg",
         "iconTheme": "brasileirao-rio-negro-am-1913"
       },
       {
@@ -9906,6 +10238,7 @@
         "atual": false,
         "file": "retro-1976-5dac3da6.svg",
         "aspect": 0.984,
+        "icon": "escudo-1976-08ec5455.svg",
         "iconTheme": "brasileirao-rio-negro-am-1976"
       },
       {
@@ -9915,6 +10248,7 @@
         "atual": false,
         "file": "retro-1981-186a2e66.svg",
         "aspect": 0.964,
+        "icon": "escudo-1981-2f4bee48.svg",
         "iconTheme": "brasileirao-rio-negro-am-1981"
       },
       {
@@ -9924,6 +10258,7 @@
         "atual": false,
         "file": "retro-1991-2e47d481.svg",
         "aspect": 0.977,
+        "icon": "escudo-1991-583a5085.svg",
         "iconTheme": "brasileirao-rio-negro-am-1991"
       },
       {
@@ -9933,6 +10268,7 @@
         "atual": false,
         "file": "retro-2013-a5954a53.svg",
         "aspect": 1.286,
+        "icon": "escudo-2013-4f54b4b3.svg",
         "iconTheme": "brasileirao-rio-negro-am-2013"
       }
     ],
@@ -10034,6 +10370,7 @@
         "atual": false,
         "file": "retro-1918-998fc87a.svg",
         "aspect": 0.897,
+        "icon": "escudo-1918-0c6fa5a9.svg",
         "iconTheme": "brasileirao-sao-raimundo-am-1918"
       },
       {
@@ -10043,6 +10380,7 @@
         "atual": false,
         "file": "retro-1971-e1353789.svg",
         "aspect": 0.921,
+        "icon": "escudo-1971-0fc7d5f9.svg",
         "iconTheme": "brasileirao-sao-raimundo-am-1971"
       },
       {
@@ -10052,6 +10390,7 @@
         "atual": false,
         "file": "retro-2005-1cda283c.svg",
         "aspect": 0.905,
+        "icon": "escudo-2005-a4157244.svg",
         "iconTheme": "brasileirao-sao-raimundo-am-2005"
       },
       {
@@ -10061,6 +10400,7 @@
         "atual": false,
         "file": "retro-2009-e4a9ea99.svg",
         "aspect": 0.874,
+        "icon": "escudo-2009-7acc2f67.svg",
         "iconTheme": "brasileirao-sao-raimundo-am-2009"
       }
     ],
@@ -10280,6 +10620,7 @@
         "atual": false,
         "file": "retro-1943-0718a7c7.svg",
         "aspect": 1,
+        "icon": "escudo-1943-e8a733df.svg",
         "iconTheme": "brasileirao-goias-1943"
       },
       {
@@ -10289,6 +10630,7 @@
         "atual": false,
         "file": "retro-1944-aef79535.svg",
         "aspect": 0.942,
+        "icon": "escudo-1944-d262a6f0.svg",
         "iconTheme": "brasileirao-goias-1944"
       },
       {
@@ -10298,6 +10640,7 @@
         "atual": false,
         "file": "retro-1950-8527a6db.svg",
         "aspect": 1,
+        "icon": "escudo-1950-e269dfe4.svg",
         "iconTheme": "brasileirao-goias-1950"
       },
       {
@@ -10307,6 +10650,7 @@
         "atual": false,
         "file": "retro-1960-40bf50fc.svg",
         "aspect": 1,
+        "icon": "escudo-1960-d27b8e16.svg",
         "iconTheme": "brasileirao-goias-1960"
       },
       {
@@ -10316,6 +10660,7 @@
         "atual": false,
         "file": "retro-1983-1fe0b700.svg",
         "aspect": 1,
+        "icon": "escudo-1983-18ca79a9.svg",
         "iconTheme": "brasileirao-goias-1983"
       },
       {
@@ -10325,6 +10670,7 @@
         "atual": false,
         "file": "retro-2000-043fe72a.svg",
         "aspect": 0.762,
+        "icon": "escudo-2000-b390e23b.svg",
         "iconTheme": "brasileirao-goias-2000"
       },
       {
@@ -10334,6 +10680,7 @@
         "atual": false,
         "file": "retro-2001-cc5f8f10.svg",
         "aspect": 1,
+        "icon": "escudo-2001-63bc069c.svg",
         "iconTheme": "brasileirao-goias-2001"
       }
     ],
@@ -10456,6 +10803,7 @@
         "atual": false,
         "file": "retro-1937-b1fe31ab.svg",
         "aspect": 1,
+        "icon": "escudo-1937-a984d530.svg",
         "iconTheme": "brasileirao-atletico-go-1937"
       },
       {
@@ -10465,6 +10813,7 @@
         "atual": false,
         "file": "retro-1940-25828b4a.svg",
         "aspect": 1.261,
+        "icon": "escudo-1940-1df1311a.svg",
         "iconTheme": "brasileirao-atletico-go-1940"
       },
       {
@@ -10474,6 +10823,7 @@
         "atual": false,
         "file": "retro-1950-ad51a574.svg",
         "aspect": 0.86,
+        "icon": "escudo-1950-998d7899.svg",
         "iconTheme": "brasileirao-atletico-go-1950"
       },
       {
@@ -10483,6 +10833,7 @@
         "atual": false,
         "file": "retro-1971-134880d2.svg",
         "aspect": 0.981,
+        "icon": "escudo-1971-4494909d.svg",
         "iconTheme": "brasileirao-atletico-go-1971"
       },
       {
@@ -10492,6 +10843,7 @@
         "atual": false,
         "file": "retro-1990-74888129.svg",
         "aspect": 0.922,
+        "icon": "escudo-1990-47d8ec84.svg",
         "iconTheme": "brasileirao-atletico-go-1990"
       },
       {
@@ -10501,6 +10853,7 @@
         "atual": false,
         "file": "retro-2007-cbd0b25e.svg",
         "aspect": 0.681,
+        "icon": "escudo-2007-8e9fc9da.svg",
         "iconTheme": "brasileirao-atletico-go-2007"
       },
       {
@@ -10510,6 +10863,7 @@
         "atual": false,
         "file": "retro-2014-b06173ea.svg",
         "aspect": 0.736,
+        "icon": "escudo-2014-9bd48008.svg",
         "iconTheme": "brasileirao-atletico-go-2014"
       },
       {
@@ -10519,6 +10873,7 @@
         "atual": false,
         "file": "retro-2016-e8de5104.svg",
         "aspect": 0.638,
+        "icon": "escudo-2016-71e98999.svg",
         "iconTheme": "brasileirao-atletico-go-2016"
       },
       {
@@ -10528,6 +10883,7 @@
         "atual": false,
         "file": "retro-2018-623fa751.svg",
         "aspect": 0.918,
+        "icon": "escudo-2018-c5068cf3.svg",
         "iconTheme": "brasileirao-atletico-go-2018"
       }
     ],
@@ -10646,6 +11002,7 @@
         "atual": false,
         "file": "retro-1943-1f076526.svg",
         "aspect": 0.892,
+        "icon": "escudo-1943-4e2f1ea0.svg",
         "iconTheme": "brasileirao-vila-nova-1943"
       },
       {
@@ -10655,6 +11012,7 @@
         "atual": false,
         "file": "retro-1945-a522cfc4.svg",
         "aspect": 0.8,
+        "icon": "escudo-1945-7ef95d3c.svg",
         "iconTheme": "brasileirao-vila-nova-1945"
       },
       {
@@ -10664,6 +11022,7 @@
         "atual": false,
         "file": "retro-1961-c01cf598.svg",
         "aspect": 0.891,
+        "icon": "escudo-1961-cae5877e.svg",
         "iconTheme": "brasileirao-vila-nova-1961"
       },
       {
@@ -10673,6 +11032,7 @@
         "atual": false,
         "file": "retro-1977-e4ad73e7.svg",
         "aspect": 0.891,
+        "icon": "escudo-1977-292b4795.svg",
         "iconTheme": "brasileirao-vila-nova-1977"
       },
       {
@@ -10682,6 +11042,7 @@
         "atual": false,
         "file": "retro-1980-819b7104.svg",
         "aspect": 0.686,
+        "icon": "escudo-1980-5a76bf54.svg",
         "iconTheme": "brasileirao-vila-nova-1980"
       },
       {
@@ -10691,6 +11052,7 @@
         "atual": false,
         "file": "retro-1985-9889a427.svg",
         "aspect": 0.79,
+        "icon": "escudo-1985-c273c66d.svg",
         "iconTheme": "brasileirao-vila-nova-1985"
       },
       {
@@ -10700,6 +11062,7 @@
         "atual": false,
         "file": "retro-1990-4c5e632e.svg",
         "aspect": 0.837,
+        "icon": "escudo-1990-d1ecf1b0.svg",
         "iconTheme": "brasileirao-vila-nova-1990"
       },
       {
@@ -10709,6 +11072,7 @@
         "atual": false,
         "file": "retro-1996-4dde6845.svg",
         "aspect": 0.833,
+        "icon": "escudo-1996-94accfb0.svg",
         "iconTheme": "brasileirao-vila-nova-1996"
       },
       {
@@ -10718,6 +11082,7 @@
         "atual": false,
         "file": "retro-2012-b1e7e8c3.svg",
         "aspect": 0.683,
+        "icon": "escudo-2012-f80e24e4.svg",
         "iconTheme": "brasileirao-vila-nova-2012"
       },
       {
@@ -10727,6 +11092,7 @@
         "atual": false,
         "file": "retro-2016-0f505123.svg",
         "aspect": 0.69,
+        "icon": "escudo-2016-bb5736c5.svg",
         "iconTheme": "brasileirao-vila-nova-2016"
       }
     ],
@@ -10822,6 +11188,7 @@
         "atual": false,
         "file": "retro-1985-d0e29339.svg",
         "aspect": 0.996,
+        "icon": "escudo-1985-3af0441a.svg",
         "iconTheme": "brasileirao-aparecidense-1985"
       },
       {
@@ -10831,6 +11198,7 @@
         "atual": false,
         "file": "retro-2003-f3d48af7.svg",
         "aspect": 1.006,
+        "icon": "escudo-2003-bbfe6731.svg",
         "iconTheme": "brasileirao-aparecidense-2003"
       }
     ],
@@ -10949,6 +11317,7 @@
         "atual": false,
         "file": "retro-1947-cfe1a2bf.svg",
         "aspect": 1,
+        "icon": "escudo-1947-73516715.svg",
         "iconTheme": "brasileirao-criciuma-1947"
       },
       {
@@ -10958,6 +11327,7 @@
         "atual": false,
         "file": "retro-1948-06bec9bb.svg",
         "aspect": 0.835,
+        "icon": "escudo-1948-6b927e7a.svg",
         "iconTheme": "brasileirao-criciuma-1948"
       },
       {
@@ -10967,6 +11337,7 @@
         "atual": false,
         "file": "retro-1968-3fc8d731.svg",
         "aspect": 0.744,
+        "icon": "escudo-1968-29ae63a1.svg",
         "iconTheme": "brasileirao-criciuma-1968"
       },
       {
@@ -10976,6 +11347,7 @@
         "atual": false,
         "file": "retro-1978a-aceb1216.svg",
         "aspect": 0.835,
+        "icon": "escudo-1978a-28a2cad1.svg",
         "iconTheme": "brasileirao-criciuma-1978a"
       },
       {
@@ -10985,6 +11357,7 @@
         "atual": false,
         "file": "retro-1978b-f4e309d4.svg",
         "aspect": 0.838,
+        "icon": "escudo-1978b-f174005a.svg",
         "iconTheme": "brasileirao-criciuma-1978b"
       },
       {
@@ -10994,6 +11367,7 @@
         "atual": false,
         "file": "retro-1991-b95cd8ce.svg",
         "aspect": 1.324,
+        "icon": "escudo-1991-d6901a36.svg",
         "iconTheme": "brasileirao-criciuma-1991"
       },
       {
@@ -11003,6 +11377,7 @@
         "atual": false,
         "file": "retro-1992-01d1cdda.svg",
         "aspect": 1.245,
+        "icon": "escudo-1992-704e072a.svg",
         "iconTheme": "brasileirao-criciuma-1992"
       },
       {
@@ -11012,6 +11387,7 @@
         "atual": false,
         "file": "retro-2002-145550fa.svg",
         "aspect": 1.179,
+        "icon": "escudo-2002-dae70071.svg",
         "iconTheme": "brasileirao-criciuma-2002"
       },
       {
@@ -11021,6 +11397,7 @@
         "atual": false,
         "file": "retro-2005-2807bb08.svg",
         "aspect": 1.286,
+        "icon": "escudo-2005-eedb26ed.svg",
         "iconTheme": "brasileirao-criciuma-2005"
       },
       {
@@ -11030,6 +11407,7 @@
         "atual": false,
         "file": "retro-2007-d86b1e66.svg",
         "aspect": 1.292,
+        "icon": "escudo-2007-f1a69d5b.svg",
         "iconTheme": "brasileirao-criciuma-2007"
       }
     ],
@@ -11140,6 +11518,7 @@
         "atual": false,
         "file": "retro-1948-2bc7c750.svg",
         "aspect": 1.01,
+        "icon": "escudo-1948-4d27f12d.svg",
         "iconTheme": "brasileirao-chapecoense-1948"
       },
       {
@@ -11149,6 +11528,7 @@
         "atual": false,
         "file": "retro-1961-cddd2214.svg",
         "aspect": 0.824,
+        "icon": "escudo-1961-78175d34.svg",
         "iconTheme": "brasileirao-chapecoense-1961"
       },
       {
@@ -11158,6 +11538,7 @@
         "atual": false,
         "file": "retro-1973-904504a5.svg",
         "aspect": 1.081,
+        "icon": "escudo-1973-7b22c931.svg",
         "iconTheme": "brasileirao-chapecoense-1973"
       },
       {
@@ -11167,6 +11548,7 @@
         "atual": false,
         "file": "retro-1974-30ea29d6.svg",
         "aspect": 1.068,
+        "icon": "escudo-1974-447a7e10.svg",
         "iconTheme": "brasileirao-chapecoense-1974"
       },
       {
@@ -11176,6 +11558,7 @@
         "atual": false,
         "file": "retro-1975-e30fe6f6.svg",
         "aspect": 1.077,
+        "icon": "escudo-1975-87381289.svg",
         "iconTheme": "brasileirao-chapecoense-1975"
       },
       {
@@ -11185,6 +11568,7 @@
         "atual": false,
         "file": "retro-1984-5c2d2bb2.svg",
         "aspect": 1.082,
+        "icon": "escudo-1984-9fab0922.svg",
         "iconTheme": "brasileirao-chapecoense-1984"
       }
     ],
@@ -11300,6 +11684,7 @@
         "atual": false,
         "file": "retro-1976-df1854e3.svg",
         "aspect": 0.999,
+        "icon": "escudo-1976-7c49fb50.svg",
         "iconTheme": "brasileirao-joinville-1976"
       },
       {
@@ -11309,6 +11694,7 @@
         "atual": false,
         "file": "retro-1977-3ac8c7a3.svg",
         "aspect": 0.999,
+        "icon": "escudo-1977-146b3c05.svg",
         "iconTheme": "brasileirao-joinville-1977"
       },
       {
@@ -11318,6 +11704,7 @@
         "atual": false,
         "file": "retro-1981-f9c617de.svg",
         "aspect": 1,
+        "icon": "escudo-1981-c83b2b0d.svg",
         "iconTheme": "brasileirao-joinville-1981"
       },
       {
@@ -11327,6 +11714,7 @@
         "atual": false,
         "file": "retro-1982-c333916e.svg",
         "aspect": 1,
+        "icon": "escudo-1982-85c35623.svg",
         "iconTheme": "brasileirao-joinville-1982"
       },
       {
@@ -11336,6 +11724,7 @@
         "atual": false,
         "file": "retro-1996-29a010e0.svg",
         "aspect": 0.998,
+        "icon": "escudo-1996-68e0b134.svg",
         "iconTheme": "brasileirao-joinville-1996"
       },
       {
@@ -11345,6 +11734,7 @@
         "atual": false,
         "file": "retro-1997-f7255175.svg",
         "aspect": 0.852,
+        "icon": "escudo-1997-9d1e6999.svg",
         "iconTheme": "brasileirao-joinville-1997"
       },
       {
@@ -11354,6 +11744,7 @@
         "atual": false,
         "file": "retro-2000-67b2aad3.svg",
         "aspect": 0.831,
+        "icon": "escudo-2000-602da0a0.svg",
         "iconTheme": "brasileirao-joinville-2000"
       },
       {
@@ -11363,6 +11754,7 @@
         "atual": false,
         "file": "retro-2002a-59d47a6c.svg",
         "aspect": 0.886,
+        "icon": "escudo-2002a-a89c40f1.svg",
         "iconTheme": "brasileirao-joinville-2002a"
       },
       {
@@ -11372,6 +11764,7 @@
         "atual": false,
         "file": "retro-2002b-8c84681c.svg",
         "aspect": 0.831,
+        "icon": "escudo-2002b-350e1d5c.svg",
         "iconTheme": "brasileirao-joinville-2002b"
       },
       {
@@ -11381,6 +11774,7 @@
         "atual": false,
         "file": "retro-2005-c5d03987.svg",
         "aspect": 0.848,
+        "icon": "escudo-2005-ac088b92.svg",
         "iconTheme": "brasileirao-joinville-2005"
       }
     ],
@@ -11500,6 +11894,7 @@
         "atual": false,
         "file": "retro-1923-1-b506657a.svg",
         "aspect": 1,
+        "icon": "escudo-1923-1-2c20bc92.svg",
         "iconTheme": "brasileirao-avai-1923-1"
       },
       {
@@ -11509,6 +11904,7 @@
         "atual": false,
         "file": "retro-1923-2-9b8e4327.svg",
         "aspect": 0.978,
+        "icon": "escudo-1923-2-7cfd8827.svg",
         "iconTheme": "brasileirao-avai-1923-2"
       },
       {
@@ -11518,6 +11914,7 @@
         "atual": false,
         "file": "retro-1940-0c5d1a1d.svg",
         "aspect": 0.853,
+        "icon": "escudo-1940-c02ff482.svg",
         "iconTheme": "brasileirao-avai-1940"
       },
       {
@@ -11527,6 +11924,7 @@
         "atual": false,
         "file": "retro-1952-6e7e4c5b.svg",
         "aspect": 0.92,
+        "icon": "escudo-1952-e299957b.svg",
         "iconTheme": "brasileirao-avai-1952"
       },
       {
@@ -11536,6 +11934,7 @@
         "atual": false,
         "file": "retro-1963-8ce4c356.svg",
         "aspect": 0.919,
+        "icon": "escudo-1963-c7fdcfc9.svg",
         "iconTheme": "brasileirao-avai-1963"
       },
       {
@@ -11545,6 +11944,7 @@
         "atual": false,
         "file": "retro-1967-112c9386.svg",
         "aspect": 0.919,
+        "icon": "escudo-1967-da5c0d2c.svg",
         "iconTheme": "brasileirao-avai-1967"
       },
       {
@@ -11554,6 +11954,7 @@
         "atual": false,
         "file": "retro-1970-e0eb14d4.svg",
         "aspect": 0.919,
+        "icon": "escudo-1970-b3b25c08.svg",
         "iconTheme": "brasileirao-avai-1970"
       },
       {
@@ -11563,6 +11964,7 @@
         "atual": false,
         "file": "retro-1973-1ab048b1.svg",
         "aspect": 0.846,
+        "icon": "escudo-1973-32714004.svg",
         "iconTheme": "brasileirao-avai-1973"
       },
       {
@@ -11572,6 +11974,7 @@
         "atual": false,
         "file": "retro-1988-c690c514.svg",
         "aspect": 0.95,
+        "icon": "escudo-1988-c1057811.svg",
         "iconTheme": "brasileirao-avai-1988"
       },
       {
@@ -11581,6 +11984,7 @@
         "atual": false,
         "file": "retro-1998-87f058ec.svg",
         "aspect": 0.94,
+        "icon": "escudo-1998-e7860ebd.svg",
         "iconTheme": "brasileirao-avai-1998"
       },
       {
@@ -11590,6 +11994,7 @@
         "atual": false,
         "file": "retro-2000-068213ce.svg",
         "aspect": 0.794,
+        "icon": "escudo-2000-69835801.svg",
         "iconTheme": "brasileirao-avai-2000"
       },
       {
@@ -11599,6 +12004,7 @@
         "atual": false,
         "file": "retro-2012-1dd2ca0a.svg",
         "aspect": 0.762,
+        "icon": "escudo-2012-08ebbcfd.svg",
         "iconTheme": "brasileirao-avai-2012"
       }
     ],
@@ -11701,6 +12107,7 @@
         "atual": false,
         "file": "retro-1987-e0e58da3.svg",
         "aspect": 0.744,
+        "icon": "escudo-1987-61e1d62a.svg",
         "iconTheme": "brasileirao-brusque-1987"
       },
       {
@@ -11710,6 +12117,7 @@
         "atual": false,
         "file": "retro-1991-1e4c1e4a.svg",
         "aspect": 0.81,
+        "icon": "escudo-1991-f1a64720.svg",
         "iconTheme": "brasileirao-brusque-1991"
       },
       {
@@ -11719,6 +12127,7 @@
         "atual": false,
         "file": "retro-2001-287b08cb.svg",
         "aspect": 0.679,
+        "icon": "escudo-2001-c496a6fe.svg",
         "iconTheme": "brasileirao-brusque-2001"
       },
       {
@@ -11728,6 +12137,7 @@
         "atual": false,
         "file": "retro-2003-f40784b0.svg",
         "aspect": 0.869,
+        "icon": "escudo-2003-45064efe.svg",
         "iconTheme": "brasileirao-brusque-2003"
       }
     ],
@@ -11829,6 +12239,7 @@
         "atual": false,
         "file": "retro-2013-b9011b45.svg",
         "aspect": 0.86,
+        "icon": "escudo-2013-de6dcd5f.svg",
         "iconTheme": "brasileirao-barra-sc-2013"
       },
       {
@@ -11838,6 +12249,7 @@
         "atual": false,
         "file": "retro-2015-45407657.svg",
         "aspect": 0.698,
+        "icon": "escudo-2015-01541729.svg",
         "iconTheme": "brasileirao-barra-sc-2015"
       },
       {
@@ -11847,6 +12259,7 @@
         "atual": false,
         "file": "retro-2020-f3aacb97.svg",
         "aspect": 0.697,
+        "icon": "escudo-2020-bc602b07.svg",
         "iconTheme": "brasileirao-barra-sc-2020"
       }
     ],
@@ -11959,6 +12372,7 @@
         "atual": false,
         "file": "retro-1921-d6a545ec.svg",
         "aspect": 0.938,
+        "icon": "escudo-1921-d8249b11.svg",
         "iconTheme": "brasileirao-figueirense-1921"
       },
       {
@@ -11968,6 +12382,7 @@
         "atual": false,
         "file": "retro-1924-f322978e.svg",
         "aspect": 0.953,
+        "icon": "escudo-1924-652e543e.svg",
         "iconTheme": "brasileirao-figueirense-1924"
       },
       {
@@ -11977,6 +12392,7 @@
         "atual": false,
         "file": "retro-1950-f6b786b4.svg",
         "aspect": 0.994,
+        "icon": "escudo-1950-1c31136b.svg",
         "iconTheme": "brasileirao-figueirense-1950"
       },
       {
@@ -11986,6 +12402,7 @@
         "atual": false,
         "file": "retro-1960-c933a6b6.svg",
         "aspect": 0.932,
+        "icon": "escudo-1960-609a7737.svg",
         "iconTheme": "brasileirao-figueirense-1960"
       },
       {
@@ -11995,6 +12412,7 @@
         "atual": false,
         "file": "retro-1970-0dad6e6b.svg",
         "aspect": 0.873,
+        "icon": "escudo-1970-3a173553.svg",
         "iconTheme": "brasileirao-figueirense-1970"
       },
       {
@@ -12004,6 +12422,7 @@
         "atual": false,
         "file": "retro-1979-a45c2a42.svg",
         "aspect": 1,
+        "icon": "escudo-1979-c17677cb.svg",
         "iconTheme": "brasileirao-figueirense-1979"
       },
       {
@@ -12013,6 +12432,7 @@
         "atual": false,
         "file": "retro-1995-c4c5f6ff.svg",
         "aspect": 0.876,
+        "icon": "escudo-1995-6771efa3.svg",
         "iconTheme": "brasileirao-figueirense-1995"
       }
     ],
@@ -12159,6 +12579,7 @@
         "atual": false,
         "file": "retro-1923-3639ef3e.svg",
         "aspect": 0.732,
+        "icon": "escudo-1923-3d623218.svg",
         "iconTheme": "brasileirao-sampaio-correa-1923"
       },
       {
@@ -12168,6 +12589,7 @@
         "atual": false,
         "file": "retro-1933-f333c0e0.svg",
         "aspect": 0.718,
+        "icon": "escudo-1933-7e25ba39.svg",
         "iconTheme": "brasileirao-sampaio-correa-1933"
       },
       {
@@ -12177,6 +12599,7 @@
         "atual": false,
         "file": "retro-1972-174b43af.svg",
         "aspect": 1.245,
+        "icon": "escudo-1972-f5e948b8.svg",
         "iconTheme": "brasileirao-sampaio-correa-1972"
       },
       {
@@ -12186,6 +12609,7 @@
         "atual": false,
         "file": "retro-1988-be5412b5.svg",
         "aspect": 1.079,
+        "icon": "escudo-1988-5b0982fd.svg",
         "iconTheme": "brasileirao-sampaio-correa-1988"
       },
       {
@@ -12195,6 +12619,7 @@
         "atual": false,
         "file": "retro-1990-67fdf88f.svg",
         "aspect": 0.775,
+        "icon": "escudo-1990-7a48b846.svg",
         "iconTheme": "brasileirao-sampaio-correa-1990"
       },
       {
@@ -12204,6 +12629,7 @@
         "atual": false,
         "file": "retro-1998-2ae40476.svg",
         "aspect": 1.04,
+        "icon": "escudo-1998-5de7baa9.svg",
         "iconTheme": "brasileirao-sampaio-correa-1998"
       },
       {
@@ -12213,6 +12639,7 @@
         "atual": false,
         "file": "retro-2009-0263cfd0.svg",
         "aspect": 0.858,
+        "icon": "escudo-2009-a650f21c.svg",
         "iconTheme": "brasileirao-sampaio-correa-2009"
       },
       {
@@ -12222,6 +12649,7 @@
         "atual": false,
         "file": "retro-2012-3ae23d6d.svg",
         "aspect": 0.833,
+        "icon": "escudo-2012-25ee1e1b.svg",
         "iconTheme": "brasileirao-sampaio-correa-2012"
       },
       {
@@ -12231,6 +12659,7 @@
         "atual": false,
         "file": "retro-2013-3476e473.svg",
         "aspect": 0.752,
+        "icon": "escudo-2013-df3b41e3.svg",
         "iconTheme": "brasileirao-sampaio-correa-2013"
       },
       {
@@ -12240,6 +12669,7 @@
         "atual": false,
         "file": "retro-2017-19a01734.svg",
         "aspect": 0.762,
+        "icon": "escudo-2017-d2d09177.svg",
         "iconTheme": "brasileirao-sampaio-correa-2017"
       }
     ],
@@ -12360,6 +12790,7 @@
         "atual": false,
         "file": "retro-1937-edfcb05e.svg",
         "aspect": 0.88,
+        "icon": "escudo-1937-5c167b91.svg",
         "iconTheme": "brasileirao-moto-club-1937"
       },
       {
@@ -12369,6 +12800,7 @@
         "atual": false,
         "file": "retro-1968-123e1730.svg",
         "aspect": 0.845,
+        "icon": "escudo-1968-e3a3f3dd.svg",
         "iconTheme": "brasileirao-moto-club-1968"
       },
       {
@@ -12378,6 +12810,7 @@
         "atual": false,
         "file": "retro-1974-43a2caa1.svg",
         "aspect": 1.224,
+        "icon": "escudo-1974-e39d1a4b.svg",
         "iconTheme": "brasileirao-moto-club-1974"
       },
       {
@@ -12387,6 +12820,7 @@
         "atual": false,
         "file": "retro-1983-eb86a89c.svg",
         "aspect": 0.892,
+        "icon": "escudo-1983-30a77337.svg",
         "iconTheme": "brasileirao-moto-club-1983"
       }
     ],
@@ -12497,6 +12931,7 @@
         "atual": false,
         "file": "retro-1932-0dd4b491.svg",
         "aspect": 0.985,
+        "icon": "escudo-1932-76cf41ea.svg",
         "iconTheme": "brasileirao-maranhao-ac-1932"
       },
       {
@@ -12506,6 +12941,7 @@
         "atual": false,
         "file": "retro-1938-81d18e1c.svg",
         "aspect": 0.769,
+        "icon": "escudo-1938-09baa91d.svg",
         "iconTheme": "brasileirao-maranhao-ac-1938"
       },
       {
@@ -12515,6 +12951,7 @@
         "atual": false,
         "file": "retro-1950-420bbb54.svg",
         "aspect": 0.88,
+        "icon": "escudo-1950-b14fd2a8.svg",
         "iconTheme": "brasileirao-maranhao-ac-1950"
       },
       {
@@ -12524,6 +12961,7 @@
         "atual": false,
         "file": "retro-1969-eba3de33.svg",
         "aspect": 0.859,
+        "icon": "escudo-1969-2f58266d.svg",
         "iconTheme": "brasileirao-maranhao-ac-1969"
       },
       {
@@ -12533,6 +12971,7 @@
         "atual": false,
         "file": "retro-1971-4adc8145.svg",
         "aspect": 0.907,
+        "icon": "escudo-1971-5cf73bed.svg",
         "iconTheme": "brasileirao-maranhao-ac-1971"
       }
     ],
@@ -12647,6 +13086,7 @@
         "atual": false,
         "file": "retro-2001-4df5bd43.svg",
         "aspect": 0.979,
+        "icon": "escudo-2001-19a3b41f.svg",
         "iconTheme": "brasileirao-cuiaba-2001"
       },
       {
@@ -12656,6 +13096,7 @@
         "atual": false,
         "file": "retro-2010-8733f490.svg",
         "aspect": 0.736,
+        "icon": "escudo-2010-57ef7548.svg",
         "iconTheme": "brasileirao-cuiaba-2010"
       },
       {
@@ -12665,6 +13106,7 @@
         "atual": false,
         "file": "retro-2011-36382d91.svg",
         "aspect": 0.724,
+        "icon": "escudo-2011-a115bb32.svg",
         "iconTheme": "brasileirao-cuiaba-2011"
       },
       {
@@ -12674,6 +13116,7 @@
         "atual": false,
         "file": "retro-2013-2a755e02.svg",
         "aspect": 0.796,
+        "icon": "escudo-2013-6924a3b5.svg",
         "iconTheme": "brasileirao-cuiaba-2013"
       },
       {
@@ -12683,6 +13126,7 @@
         "atual": false,
         "file": "retro-2016-1d01b169.svg",
         "aspect": 0.73,
+        "icon": "escudo-2016-5feaf281.svg",
         "iconTheme": "brasileirao-cuiaba-2016"
       },
       {
@@ -12692,6 +13136,7 @@
         "atual": false,
         "file": "retro-2017-115f57eb.svg",
         "aspect": 0.7,
+        "icon": "escudo-2017-e4d520db.svg",
         "iconTheme": "brasileirao-cuiaba-2017"
       }
     ],
@@ -12795,6 +13240,7 @@
         "atual": false,
         "file": "retro-2004-285d0733.svg",
         "aspect": 1,
+        "icon": "escudo-2004-b9ccd84f.svg",
         "iconTheme": "brasileirao-luverdense-2004"
       },
       {
@@ -12804,6 +13250,7 @@
         "atual": false,
         "file": "retro-2007-48f3d6ef.svg",
         "aspect": 1,
+        "icon": "escudo-2007-e081bae0.svg",
         "iconTheme": "brasileirao-luverdense-2007"
       },
       {
@@ -12813,6 +13260,7 @@
         "atual": false,
         "file": "retro-2011-d51b9fe6.svg",
         "aspect": 0.695,
+        "icon": "escudo-2011-23a8909d.svg",
         "iconTheme": "brasileirao-luverdense-2011"
       }
     ],
@@ -12931,6 +13379,7 @@
         "atual": false,
         "file": "retro-1961-b0fde78f.svg",
         "aspect": 1.737,
+        "icon": "escudo-1961-5715c6d3.svg",
         "iconTheme": "brasileirao-mixto-1961"
       },
       {
@@ -12940,6 +13389,7 @@
         "atual": false,
         "file": "retro-1970-e3c6e4c3.svg",
         "aspect": 0.627,
+        "icon": "escudo-1970-43ee373a.svg",
         "iconTheme": "brasileirao-mixto-1970"
       },
       {
@@ -12949,6 +13399,7 @@
         "atual": false,
         "file": "retro-1971-fe15a4fa.svg",
         "aspect": 1.68,
+        "icon": "escudo-1971-88e79e5c.svg",
         "iconTheme": "brasileirao-mixto-1971"
       },
       {
@@ -12958,6 +13409,7 @@
         "atual": false,
         "file": "retro-1974-87313571.svg",
         "aspect": 0.907,
+        "icon": "escudo-1974-538401a4.svg",
         "iconTheme": "brasileirao-mixto-1974"
       },
       {
@@ -12967,6 +13419,7 @@
         "atual": false,
         "file": "retro-1975-10d72034.svg",
         "aspect": 1.418,
+        "icon": "escudo-1975-564bc423.svg",
         "iconTheme": "brasileirao-mixto-1975"
       },
       {
@@ -12976,6 +13429,7 @@
         "atual": false,
         "file": "retro-1976-0065a82a.svg",
         "aspect": 1.745,
+        "icon": "escudo-1976-ee4c1505.svg",
         "iconTheme": "brasileirao-mixto-1976"
       },
       {
@@ -12985,6 +13439,7 @@
         "atual": false,
         "file": "retro-1983-01d28765.svg",
         "aspect": 1.404,
+        "icon": "escudo-1983-aedb0c0f.svg",
         "iconTheme": "brasileirao-mixto-1983"
       },
       {
@@ -12994,6 +13449,7 @@
         "atual": false,
         "file": "retro-1988-221b749a.svg",
         "aspect": 1.915,
+        "icon": "escudo-1988-7fc4b888.svg",
         "iconTheme": "brasileirao-mixto-1988"
       },
       {
@@ -13003,6 +13459,7 @@
         "atual": false,
         "file": "retro-1999-b4d4c59c.svg",
         "aspect": 1.657,
+        "icon": "escudo-1999-4559fccc.svg",
         "iconTheme": "brasileirao-mixto-1999"
       },
       {
@@ -13012,6 +13469,7 @@
         "atual": false,
         "file": "retro-2001-4797bd70.svg",
         "aspect": 1.307,
+        "icon": "escudo-2001-3e039909.svg",
         "iconTheme": "brasileirao-mixto-2001"
       },
       {
@@ -13021,6 +13479,7 @@
         "atual": false,
         "file": "retro-2003-72b1026d.svg",
         "aspect": 1.148,
+        "icon": "escudo-2003-3aa2b3ec.svg",
         "iconTheme": "brasileirao-mixto-2003"
       },
       {
@@ -13030,6 +13489,7 @@
         "atual": false,
         "file": "retro-2005-46a058ae.svg",
         "aspect": 1.68,
+        "icon": "escudo-2005-b79806f8.svg",
         "iconTheme": "brasileirao-mixto-2005"
       },
       {
@@ -13039,6 +13499,7 @@
         "atual": false,
         "file": "retro-2008-3f843770.svg",
         "aspect": 1.745,
+        "icon": "escudo-2008-2948fd09.svg",
         "iconTheme": "brasileirao-mixto-2008"
       }
     ],
@@ -13156,6 +13617,7 @@
         "atual": false,
         "file": "retro-2000-3d1ffdef.svg",
         "aspect": 0.991,
+        "icon": "escudo-2000-8499902c.svg",
         "iconTheme": "brasileirao-brasiliense-2000"
       },
       {
@@ -13165,6 +13627,7 @@
         "atual": false,
         "file": "retro-2002-00696b2a.svg",
         "aspect": 1.085,
+        "icon": "escudo-2002-17986b26.svg",
         "iconTheme": "brasileirao-brasiliense-2002"
       },
       {
@@ -13174,6 +13637,7 @@
         "atual": false,
         "file": "retro-2005-d12f84bd.svg",
         "aspect": 0.924,
+        "icon": "escudo-2005-9421e0bf.svg",
         "iconTheme": "brasileirao-brasiliense-2005"
       }
     ],
@@ -13289,6 +13753,7 @@
         "atual": false,
         "file": "retro-1976-7bcbfd7b.svg",
         "aspect": 0.946,
+        "icon": "escudo-1976-481ab564.svg",
         "iconTheme": "brasileirao-gama-1976"
       },
       {
@@ -13298,6 +13763,7 @@
         "atual": false,
         "file": "retro-1978-a2f8e95e.svg",
         "aspect": 0.806,
+        "icon": "escudo-1978-cced787a.svg",
         "iconTheme": "brasileirao-gama-1978"
       },
       {
@@ -13307,6 +13773,7 @@
         "atual": false,
         "file": "retro-1996-f35f933d.svg",
         "aspect": 0.661,
+        "icon": "escudo-1996-fb4c7581.svg",
         "iconTheme": "brasileirao-gama-1996"
       },
       {
@@ -13316,6 +13783,7 @@
         "atual": false,
         "file": "retro-1998-9c5b08c9.svg",
         "aspect": 0.806,
+        "icon": "escudo-1998-fcbbc299.svg",
         "iconTheme": "brasileirao-gama-1998"
       },
       {
@@ -13325,6 +13793,7 @@
         "atual": false,
         "file": "retro-2000-3d82f234.svg",
         "aspect": 0.791,
+        "icon": "escudo-2000-9969708d.svg",
         "iconTheme": "brasileirao-gama-2000"
       },
       {
@@ -13334,6 +13803,7 @@
         "atual": false,
         "file": "retro-2002-e4d865d7.svg",
         "aspect": 0.644,
+        "icon": "escudo-2002-14286cc5.svg",
         "iconTheme": "brasileirao-gama-2002"
       }
     ],
@@ -13442,6 +13912,7 @@
         "atual": false,
         "file": "retro-1975-5abfcdce.svg",
         "aspect": 1.298,
+        "icon": "escudo-1975-57e92e9f.svg",
         "iconTheme": "brasileirao-brasilia-1975"
       },
       {
@@ -13451,6 +13922,7 @@
         "atual": false,
         "file": "retro-1978-4ec453d1.svg",
         "aspect": 0.999,
+        "icon": "escudo-1978-748bbf7c.svg",
         "iconTheme": "brasileirao-brasilia-1978"
       },
       {
@@ -13460,6 +13932,7 @@
         "atual": false,
         "file": "retro-1980-8162a13e.svg",
         "aspect": 1.002,
+        "icon": "escudo-1980-e09d746e.svg",
         "iconTheme": "brasileirao-brasilia-1980"
       },
       {
@@ -13469,6 +13942,7 @@
         "atual": false,
         "file": "retro-2000-e84f8f15.svg",
         "aspect": 1.511,
+        "icon": "escudo-2000-fb9da341.svg",
         "iconTheme": "brasileirao-brasilia-2000"
       },
       {
@@ -13478,6 +13952,7 @@
         "atual": false,
         "file": "retro-2002-36760db7.svg",
         "aspect": 0.994,
+        "icon": "escudo-2002-e0572553.svg",
         "iconTheme": "brasileirao-brasilia-2002"
       },
       {
@@ -13487,6 +13962,7 @@
         "atual": false,
         "file": "retro-2008-49046498.svg",
         "aspect": 1,
+        "icon": "escudo-2008-b2e3893b.svg",
         "iconTheme": "brasileirao-brasilia-2008"
       },
       {
@@ -13496,6 +13972,7 @@
         "atual": false,
         "file": "retro-2013-3bdf6960.svg",
         "aspect": 1.002,
+        "icon": "escudo-2013-8b39cc14.svg",
         "iconTheme": "brasileirao-brasilia-2013"
       },
       {
@@ -13505,6 +13982,7 @@
         "atual": false,
         "file": "retro-2015-8b4d796e.svg",
         "aspect": 1.025,
+        "icon": "escudo-2015-25216852.svg",
         "iconTheme": "brasileirao-brasilia-2015"
       }
     ],
@@ -13646,6 +14124,7 @@
         "atual": false,
         "file": "retro-1915-b31fe4e5.svg",
         "aspect": 0.996,
+        "icon": "escudo-1915-91d24e74.svg",
         "iconTheme": "brasileirao-america-rn-1915"
       },
       {
@@ -13655,6 +14134,7 @@
         "atual": false,
         "file": "retro-1918-c7581489.svg",
         "aspect": 0.959,
+        "icon": "escudo-1918-24c6d60e.svg",
         "iconTheme": "brasileirao-america-rn-1918"
       },
       {
@@ -13664,6 +14144,7 @@
         "atual": false,
         "file": "retro-1940-c961631f.svg",
         "aspect": 1,
+        "icon": "escudo-1940-f4cdab62.svg",
         "iconTheme": "brasileirao-america-rn-1940"
       },
       {
@@ -13673,6 +14154,7 @@
         "atual": false,
         "file": "retro-1957-105e9b60.svg",
         "aspect": 0.985,
+        "icon": "escudo-1957-afca9729.svg",
         "iconTheme": "brasileirao-america-rn-1957"
       },
       {
@@ -13682,6 +14164,7 @@
         "atual": false,
         "file": "retro-1973-78c718ac.svg",
         "aspect": 0.848,
+        "icon": "escudo-1973-22768f1b.svg",
         "iconTheme": "brasileirao-america-rn-1973"
       },
       {
@@ -13691,6 +14174,7 @@
         "atual": false,
         "file": "retro-1979-2fc743e7.svg",
         "aspect": 0.996,
+        "icon": "escudo-1979-82134620.svg",
         "iconTheme": "brasileirao-america-rn-1979"
       },
       {
@@ -13700,6 +14184,7 @@
         "atual": false,
         "file": "retro-1988-38c0326b.svg",
         "aspect": 0.854,
+        "icon": "escudo-1988-1440ef63.svg",
         "iconTheme": "brasileirao-america-rn-1988"
       },
       {
@@ -13709,6 +14194,7 @@
         "atual": false,
         "file": "retro-1999-1f5760cd.svg",
         "aspect": 1,
+        "icon": "escudo-1999-0d7fd3ba.svg",
         "iconTheme": "brasileirao-america-rn-1999"
       },
       {
@@ -13718,6 +14204,7 @@
         "atual": false,
         "file": "retro-2005-2d1c0d59.svg",
         "aspect": 1,
+        "icon": "escudo-2005-4ea1db4e.svg",
         "iconTheme": "brasileirao-america-rn-2005"
       },
       {
@@ -13727,6 +14214,7 @@
         "atual": false,
         "file": "retro-2012-a3654ad3.svg",
         "aspect": 0.745,
+        "icon": "escudo-2012-59b7e105.svg",
         "iconTheme": "brasileirao-america-rn-2012"
       },
       {
@@ -13736,6 +14224,7 @@
         "atual": false,
         "file": "retro-2016-02edb864.svg",
         "aspect": 0.746,
+        "icon": "escudo-2016-34c037c7.svg",
         "iconTheme": "brasileirao-america-rn-2016"
       },
       {
@@ -13745,6 +14234,7 @@
         "atual": false,
         "file": "retro-2022-4b924d5a.svg",
         "aspect": 0.75,
+        "icon": "escudo-2022-37bfcd89.svg",
         "iconTheme": "brasileirao-america-rn-2022"
       }
     ],
@@ -13901,6 +14391,7 @@
         "atual": false,
         "file": "retro-1915-cd919ff6.svg",
         "aspect": 1,
+        "icon": "escudo-1915-244b19f6.svg",
         "iconTheme": "brasileirao-abc-1915"
       },
       {
@@ -13910,6 +14401,7 @@
         "atual": false,
         "file": "retro-1926-c390af52.svg",
         "aspect": 1.058,
+        "icon": "escudo-1926-30bea957.svg",
         "iconTheme": "brasileirao-abc-1926"
       },
       {
@@ -13919,6 +14411,7 @@
         "atual": false,
         "file": "retro-1928-64b3b08c.svg",
         "aspect": 0.78,
+        "icon": "escudo-1928-f98c4aa5.svg",
         "iconTheme": "brasileirao-abc-1928"
       },
       {
@@ -13928,6 +14421,7 @@
         "atual": false,
         "file": "retro-1930-9b52f8c7.svg",
         "aspect": 1.059,
+        "icon": "escudo-1930-cb073df6.svg",
         "iconTheme": "brasileirao-abc-1930"
       },
       {
@@ -13937,6 +14431,7 @@
         "atual": false,
         "file": "retro-1953-c21e2670.svg",
         "aspect": 0.848,
+        "icon": "escudo-1953-2ae4da63.svg",
         "iconTheme": "brasileirao-abc-1953"
       },
       {
@@ -13946,6 +14441,7 @@
         "atual": false,
         "file": "retro-1956-2c16e1c9.svg",
         "aspect": 0.855,
+        "icon": "escudo-1956-8290f6fe.svg",
         "iconTheme": "brasileirao-abc-1956"
       },
       {
@@ -13955,6 +14451,7 @@
         "atual": false,
         "file": "retro-1970-539b42fe.svg",
         "aspect": 0.855,
+        "icon": "escudo-1970-bddfce29.svg",
         "iconTheme": "brasileirao-abc-1970"
       },
       {
@@ -13964,6 +14461,7 @@
         "atual": false,
         "file": "retro-1976-4d74c7f0.svg",
         "aspect": 0.832,
+        "icon": "escudo-1976-07bc7b74.svg",
         "iconTheme": "brasileirao-abc-1976"
       },
       {
@@ -13973,6 +14471,7 @@
         "atual": false,
         "file": "retro-1996-dc6ef1b5.svg",
         "aspect": 0.863,
+        "icon": "escudo-1996-1c60462e.svg",
         "iconTheme": "brasileirao-abc-1996"
       },
       {
@@ -13982,6 +14481,7 @@
         "atual": false,
         "file": "retro-2010-1fdfd9d2.svg",
         "aspect": 0.856,
+        "icon": "escudo-2010-d9eaae2a.svg",
         "iconTheme": "brasileirao-abc-2010"
       }
     ],
@@ -14104,6 +14604,7 @@
         "atual": false,
         "file": "retro-1915-e13cf074.svg",
         "aspect": 0.831,
+        "icon": "escudo-1915-7ba22740.svg",
         "iconTheme": "brasileirao-campinense-1915"
       },
       {
@@ -14113,6 +14614,7 @@
         "atual": false,
         "file": "retro-1950-2dbad6ea.svg",
         "aspect": 1,
+        "icon": "escudo-1950-ed09795c.svg",
         "iconTheme": "brasileirao-campinense-1950"
       },
       {
@@ -14122,6 +14624,7 @@
         "atual": false,
         "file": "retro-1960-051e5c1e.svg",
         "aspect": 0.999,
+        "icon": "escudo-1960-7be9e9f4.svg",
         "iconTheme": "brasileirao-campinense-1960"
       },
       {
@@ -14131,6 +14634,7 @@
         "atual": false,
         "file": "retro-1991-623e6e1a.svg",
         "aspect": 1.009,
+        "icon": "escudo-1991-57c4ded7.svg",
         "iconTheme": "brasileirao-campinense-1991"
       },
       {
@@ -14140,6 +14644,7 @@
         "atual": false,
         "file": "retro-1993-2ca1102d.svg",
         "aspect": 1.012,
+        "icon": "escudo-1993-79cf58fd.svg",
         "iconTheme": "brasileirao-campinense-1993"
       },
       {
@@ -14149,6 +14654,7 @@
         "atual": false,
         "file": "retro-2003-393f91c8.svg",
         "aspect": 0.883,
+        "icon": "escudo-2003-78a94df3.svg",
         "iconTheme": "brasileirao-campinense-2003"
       },
       {
@@ -14158,6 +14664,7 @@
         "atual": false,
         "file": "retro-2011-80ad787c.svg",
         "aspect": 0.836,
+        "icon": "escudo-2011-21eb5b71.svg",
         "iconTheme": "brasileirao-campinense-2011"
       },
       {
@@ -14167,6 +14674,7 @@
         "atual": false,
         "file": "retro-2014-3c2e8516.svg",
         "aspect": 0.702,
+        "icon": "escudo-2014-43b8f7da.svg",
         "iconTheme": "brasileirao-campinense-2014"
       }
     ],
@@ -14298,6 +14806,7 @@
         "atual": false,
         "file": "retro-1931b-109e3f76.svg",
         "aspect": 0.816,
+        "icon": "escudo-1931b-b3c39972.svg",
         "iconTheme": "brasileirao-botafogo-pb-1931b"
       },
       {
@@ -14307,6 +14816,7 @@
         "atual": false,
         "file": "retro-1931-ebc8d186.svg",
         "aspect": 1.031,
+        "icon": "escudo-1931-26acbf18.svg",
         "iconTheme": "brasileirao-botafogo-pb-1931"
       },
       {
@@ -14316,6 +14826,7 @@
         "atual": false,
         "file": "retro-1956-ff08bbfc.svg",
         "aspect": 1.052,
+        "icon": "escudo-1956-47f728ce.svg",
         "iconTheme": "brasileirao-botafogo-pb-1956"
       },
       {
@@ -14325,6 +14836,7 @@
         "atual": false,
         "file": "retro-1974-20c5885b.svg",
         "aspect": 0.87,
+        "icon": "escudo-1974-d35e12ca.svg",
         "iconTheme": "brasileirao-botafogo-pb-1974"
       },
       {
@@ -14334,6 +14846,7 @@
         "atual": false,
         "file": "retro-1977-e5036230.svg",
         "aspect": 0.877,
+        "icon": "escudo-1977-3381de89.svg",
         "iconTheme": "brasileirao-botafogo-pb-1977"
       },
       {
@@ -14343,6 +14856,7 @@
         "atual": false,
         "file": "retro-1978-41fa3fc2.svg",
         "aspect": 0.871,
+        "icon": "escudo-1978-7bdcb8e9.svg",
         "iconTheme": "brasileirao-botafogo-pb-1978"
       },
       {
@@ -14352,6 +14866,7 @@
         "atual": false,
         "file": "retro-1998-b19304a7.svg",
         "aspect": 0.871,
+        "icon": "escudo-1998-f2c3e738.svg",
         "iconTheme": "brasileirao-botafogo-pb-1998"
       },
       {
@@ -14361,6 +14876,7 @@
         "atual": false,
         "file": "retro-2003-6b49dc73.svg",
         "aspect": 0.912,
+        "icon": "escudo-2003-3f20935c.svg",
         "iconTheme": "brasileirao-botafogo-pb-2003"
       },
       {
@@ -14370,6 +14886,7 @@
         "atual": false,
         "file": "retro-2013-5aef150c.svg",
         "aspect": 0.916,
+        "icon": "escudo-2013-a50450e3.svg",
         "iconTheme": "brasileirao-botafogo-pb-2013"
       }
     ],
@@ -14481,6 +14998,7 @@
         "atual": false,
         "file": "retro-1925-1808128f.svg",
         "aspect": 1,
+        "icon": "escudo-1925-10011ab4.svg",
         "iconTheme": "brasileirao-treze-1925"
       },
       {
@@ -14490,6 +15008,7 @@
         "atual": false,
         "file": "retro-1930-ac6347c5.svg",
         "aspect": 0.824,
+        "icon": "escudo-1930-faf3dbf2.svg",
         "iconTheme": "brasileirao-treze-1930"
       },
       {
@@ -14499,6 +15018,7 @@
         "atual": false,
         "file": "retro-1940-511f603e.svg",
         "aspect": 0.867,
+        "icon": "escudo-1940-a91f8bad.svg",
         "iconTheme": "brasileirao-treze-1940"
       },
       {
@@ -14508,6 +15028,7 @@
         "atual": false,
         "file": "retro-1950-701f81bd.svg",
         "aspect": 0.844,
+        "icon": "escudo-1950-529ab693.svg",
         "iconTheme": "brasileirao-treze-1950"
       },
       {
@@ -14517,6 +15038,7 @@
         "atual": false,
         "file": "retro-1960-0ebe1229.svg",
         "aspect": 0.845,
+        "icon": "escudo-1960-fb976f9d.svg",
         "iconTheme": "brasileirao-treze-1960"
       },
       {
@@ -14526,6 +15048,7 @@
         "atual": false,
         "file": "retro-1978-a933e9a3.svg",
         "aspect": 0.807,
+        "icon": "escudo-1978-764d3cc2.svg",
         "iconTheme": "brasileirao-treze-1978"
       },
       {
@@ -14535,6 +15058,7 @@
         "atual": false,
         "file": "retro-1981-d3558ddd.svg",
         "aspect": 0.906,
+        "icon": "escudo-1981-1c9e52b9.svg",
         "iconTheme": "brasileirao-treze-1981"
       }
     ],
@@ -14675,6 +15199,7 @@
         "atual": false,
         "file": "retro-1915-42762d2a.svg",
         "aspect": 0.767,
+        "icon": "escudo-1915-bd81b69a.svg",
         "iconTheme": "brasileirao-csa-1915"
       },
       {
@@ -14684,6 +15209,7 @@
         "atual": false,
         "file": "retro-1918-6b76a7f6.svg",
         "aspect": 1.176,
+        "icon": "escudo-1918-623d7a21.svg",
         "iconTheme": "brasileirao-csa-1918"
       },
       {
@@ -14693,6 +15219,7 @@
         "atual": false,
         "file": "retro-1927-35c535df.svg",
         "aspect": 0.999,
+        "icon": "escudo-1927-ffb616c7.svg",
         "iconTheme": "brasileirao-csa-1927"
       },
       {
@@ -14702,6 +15229,7 @@
         "atual": false,
         "file": "retro-1929-c01a30ae.svg",
         "aspect": 1,
+        "icon": "escudo-1929-22e1a4c9.svg",
         "iconTheme": "brasileirao-csa-1929"
       },
       {
@@ -14711,6 +15239,7 @@
         "atual": false,
         "file": "retro-1933-daf820c1.svg",
         "aspect": 1.049,
+        "icon": "escudo-1933-cd6bedc2.svg",
         "iconTheme": "brasileirao-csa-1933"
       },
       {
@@ -14720,6 +15249,7 @@
         "atual": false,
         "file": "retro-1941-2e29fcbf.svg",
         "aspect": 1.043,
+        "icon": "escudo-1941-15c8dcac.svg",
         "iconTheme": "brasileirao-csa-1941"
       },
       {
@@ -14729,6 +15259,7 @@
         "atual": false,
         "file": "retro-1953-482b0d17.svg",
         "aspect": 2.038,
+        "icon": "escudo-1953-d2a31bc1.svg",
         "iconTheme": "brasileirao-csa-1953"
       },
       {
@@ -14738,6 +15269,7 @@
         "atual": false,
         "file": "retro-1958-c23dd689.svg",
         "aspect": 0.821,
+        "icon": "escudo-1958-507d8cfb.svg",
         "iconTheme": "brasileirao-csa-1958"
       },
       {
@@ -14747,6 +15279,7 @@
         "atual": false,
         "file": "retro-1960-f5044136.svg",
         "aspect": 0.774,
+        "icon": "escudo-1960-7bbf3db7.svg",
         "iconTheme": "brasileirao-csa-1960"
       },
       {
@@ -14756,6 +15289,7 @@
         "atual": false,
         "file": "retro-1969-940726f1.svg",
         "aspect": 0.839,
+        "icon": "escudo-1969-12a30310.svg",
         "iconTheme": "brasileirao-csa-1969"
       },
       {
@@ -14765,6 +15299,7 @@
         "atual": false,
         "file": "retro-1972-04c0de74.svg",
         "aspect": 0.761,
+        "icon": "escudo-1972-cb268f68.svg",
         "iconTheme": "brasileirao-csa-1972"
       },
       {
@@ -14774,6 +15309,7 @@
         "atual": false,
         "file": "retro-1999-97b10648.svg",
         "aspect": 0.833,
+        "icon": "escudo-1999-19b7c2b3.svg",
         "iconTheme": "brasileirao-csa-1999"
       },
       {
@@ -14783,6 +15319,7 @@
         "atual": false,
         "file": "retro-2012-4bf67754.svg",
         "aspect": 0.836,
+        "icon": "escudo-2012-5a24790f.svg",
         "iconTheme": "brasileirao-csa-2012"
       },
       {
@@ -14792,6 +15329,7 @@
         "atual": false,
         "file": "retro-2013-ed97f541.svg",
         "aspect": 0.979,
+        "icon": "escudo-2013-63196d06.svg",
         "iconTheme": "brasileirao-csa-2013"
       },
       {
@@ -14801,6 +15339,7 @@
         "atual": false,
         "file": "retro-2017-b020d914.svg",
         "aspect": 0.791,
+        "icon": "escudo-2017-b5c165a8.svg",
         "iconTheme": "brasileirao-csa-2017"
       }
     ],
@@ -14940,6 +15479,7 @@
         "atual": false,
         "file": "retro-1927-3b873aa9.svg",
         "aspect": 1.837,
+        "icon": "escudo-1927-963659b4.svg",
         "iconTheme": "brasileirao-crb-1927"
       },
       {
@@ -14949,6 +15489,7 @@
         "atual": false,
         "file": "retro-1940-2d99e6e2.svg",
         "aspect": 1.351,
+        "icon": "escudo-1940-cca15693.svg",
         "iconTheme": "brasileirao-crb-1940"
       },
       {
@@ -14958,6 +15499,7 @@
         "atual": false,
         "file": "retro-1979-75c24f45.svg",
         "aspect": 0.819,
+        "icon": "escudo-1979-c348d9ae.svg",
         "iconTheme": "brasileirao-crb-1979"
       },
       {
@@ -14967,6 +15509,7 @@
         "atual": false,
         "file": "retro-1995-621f58c0.svg",
         "aspect": 0.851,
+        "icon": "escudo-1995-8187050d.svg",
         "iconTheme": "brasileirao-crb-1995"
       }
     ],
@@ -15068,6 +15611,7 @@
         "atual": false,
         "file": "retro-1952-c8644728.svg",
         "aspect": 1,
+        "icon": "escudo-1952-e20d074c.svg",
         "iconTheme": "brasileirao-asa-1952"
       },
       {
@@ -15077,6 +15621,7 @@
         "atual": false,
         "file": "retro-1964-ef4a91a6.svg",
         "aspect": 1.474,
+        "icon": "escudo-1964-aafe6089.svg",
         "iconTheme": "brasileirao-asa-1964"
       },
       {
@@ -15086,6 +15631,7 @@
         "atual": false,
         "file": "retro-1953-a55a8b49.svg",
         "aspect": 0.992,
+        "icon": "escudo-1953-deff5861.svg",
         "iconTheme": "brasileirao-asa-1953"
       },
       {
@@ -15095,6 +15641,7 @@
         "atual": false,
         "file": "retro-1973-7845fd62.svg",
         "aspect": 1.004,
+        "icon": "escudo-1973-4ca41370.svg",
         "iconTheme": "brasileirao-asa-1973"
       },
       {
@@ -15104,6 +15651,7 @@
         "atual": false,
         "file": "retro-1977-f5b30b5a.svg",
         "aspect": 0.997,
+        "icon": "escudo-1977-7a426316.svg",
         "iconTheme": "brasileirao-asa-1977"
       },
       {
@@ -15113,6 +15661,7 @@
         "atual": false,
         "file": "retro-1981-9f064b3b.svg",
         "aspect": 0.82,
+        "icon": "escudo-1981-968a9613.svg",
         "iconTheme": "brasileirao-asa-1981"
       },
       {
@@ -15122,6 +15671,7 @@
         "atual": false,
         "file": "retro-2000-3ccd787e.svg",
         "aspect": 1,
+        "icon": "escudo-2000-76be4cf0.svg",
         "iconTheme": "brasileirao-asa-2000"
       }
     ],
@@ -15237,6 +15787,7 @@
         "atual": false,
         "file": "retro-1938-6ca38672.svg",
         "aspect": 1.02,
+        "icon": "escudo-1938-8c37a412.svg",
         "iconTheme": "brasileirao-operario-ms-1938"
       },
       {
@@ -15246,6 +15797,7 @@
         "atual": false,
         "file": "retro-1970-7a87f17e.svg",
         "aspect": 0.674,
+        "icon": "escudo-1970-ad7b7f5a.svg",
         "iconTheme": "brasileirao-operario-ms-1970"
       },
       {
@@ -15255,6 +15807,7 @@
         "atual": false,
         "file": "retro-1981-85d1ba34.svg",
         "aspect": 0.649,
+        "icon": "escudo-1981-babcf6c3.svg",
         "iconTheme": "brasileirao-operario-ms-1981"
       }
     ],
@@ -15358,6 +15911,7 @@
         "atual": false,
         "file": "retro-1943-6529208d.svg",
         "aspect": 0.938,
+        "icon": "escudo-1943-675936db.svg",
         "iconTheme": "brasileirao-comercial-ms-1943"
       },
       {
@@ -15367,6 +15921,7 @@
         "atual": false,
         "file": "retro-1950-18e6caef.svg",
         "aspect": 0.936,
+        "icon": "escudo-1950-de5e25d3.svg",
         "iconTheme": "brasileirao-comercial-ms-1950"
       },
       {
@@ -15376,6 +15931,7 @@
         "atual": false,
         "file": "retro-1960-d094d348.svg",
         "aspect": 0.94,
+        "icon": "escudo-1960-6675142a.svg",
         "iconTheme": "brasileirao-comercial-ms-1960"
       },
       {
@@ -15385,6 +15941,7 @@
         "atual": false,
         "file": "retro-1965-f653c582.svg",
         "aspect": 1.029,
+        "icon": "escudo-1965-eb9a8228.svg",
         "iconTheme": "brasileirao-comercial-ms-1965"
       },
       {
@@ -15394,6 +15951,7 @@
         "atual": false,
         "file": "retro-1975-26ff0387.svg",
         "aspect": 0.918,
+        "icon": "escudo-1975-f791cf1f.svg",
         "iconTheme": "brasileirao-comercial-ms-1975"
       },
       {
@@ -15403,6 +15961,7 @@
         "atual": false,
         "file": "retro-1982-10c36594.svg",
         "aspect": 0.909,
+        "icon": "escudo-1982-d3460b84.svg",
         "iconTheme": "brasileirao-comercial-ms-1982"
       },
       {
@@ -15412,6 +15971,7 @@
         "atual": false,
         "file": "retro-2010-6e57a61c.svg",
         "aspect": 0.966,
+        "icon": "escudo-2010-3b56e5b2.svg",
         "iconTheme": "brasileirao-comercial-ms-2010"
       }
     ],
@@ -15555,6 +16115,7 @@
         "atual": false,
         "file": "retro-1919-54f8a801.svg",
         "aspect": 0.996,
+        "icon": "escudo-1919-7e551ebf.svg",
         "iconTheme": "brasileirao-rio-branco-ac-1919"
       },
       {
@@ -15564,6 +16125,7 @@
         "atual": false,
         "file": "retro-1945-163e6570.svg",
         "aspect": 1,
+        "icon": "escudo-1945-57fec170.svg",
         "iconTheme": "brasileirao-rio-branco-ac-1945"
       },
       {
@@ -15573,6 +16135,7 @@
         "atual": false,
         "file": "retro-1956-da24960b.svg",
         "aspect": 0.91,
+        "icon": "escudo-1956-e41f64f8.svg",
         "iconTheme": "brasileirao-rio-branco-ac-1956"
       },
       {
@@ -15582,6 +16145,7 @@
         "atual": false,
         "file": "retro-1965-f6272362.svg",
         "aspect": 0.713,
+        "icon": "escudo-1965-658d9900.svg",
         "iconTheme": "brasileirao-rio-branco-ac-1965"
       },
       {
@@ -15591,6 +16155,7 @@
         "atual": false,
         "file": "retro-1971-8f916ed0.svg",
         "aspect": 0.861,
+        "icon": "escudo-1971-e7951011.svg",
         "iconTheme": "brasileirao-rio-branco-ac-1971"
       },
       {
@@ -15600,6 +16165,7 @@
         "atual": false,
         "file": "retro-1978-6f7be2c6.svg",
         "aspect": 0.826,
+        "icon": "escudo-1978-147b254e.svg",
         "iconTheme": "brasileirao-rio-branco-ac-1978"
       },
       {
@@ -15609,6 +16175,7 @@
         "atual": false,
         "file": "retro-1995-5c13b0e2.svg",
         "aspect": 0.718,
+        "icon": "escudo-1995-c32a2807.svg",
         "iconTheme": "brasileirao-rio-branco-ac-1995"
       }
     ],
@@ -15717,6 +16284,7 @@
         "atual": false,
         "file": "retro-1966-6776d8c5.svg",
         "aspect": 1.014,
+        "icon": "escudo-1966-b986feb0.svg",
         "iconTheme": "brasileirao-juventus-ac-1966"
       },
       {
@@ -15726,6 +16294,7 @@
         "atual": false,
         "file": "retro-1980-33f04554.svg",
         "aspect": 1.002,
+        "icon": "escudo-1980-86c5304a.svg",
         "iconTheme": "brasileirao-juventus-ac-1980"
       }
     ],
@@ -15833,6 +16402,7 @@
         "atual": false,
         "file": "retro-1946-e2dd4072.svg",
         "aspect": 0.813,
+        "icon": "escudo-1946-82734ee5.svg",
         "iconTheme": "brasileirao-independencia-1946"
       },
       {
@@ -15842,6 +16412,7 @@
         "atual": false,
         "file": "retro-1974-2dd65172.svg",
         "aspect": 0.818,
+        "icon": "escudo-1974-55d88558.svg",
         "iconTheme": "brasileirao-independencia-1974"
       },
       {
@@ -15851,6 +16422,7 @@
         "atual": false,
         "file": "retro-1983-726b2644.svg",
         "aspect": 0.824,
+        "icon": "escudo-1983-eef1b31a.svg",
         "iconTheme": "brasileirao-independencia-1983"
       }
     ],
@@ -15954,6 +16526,7 @@
         "atual": false,
         "file": "retro-1952-61cb4dff.svg",
         "aspect": 1.665,
+        "icon": "escudo-1952-74749171.svg",
         "iconTheme": "brasileirao-atletico-ac-1952"
       }
     ],
@@ -16064,6 +16637,7 @@
         "atual": false,
         "file": "retro-1944-913d1706.svg",
         "aspect": 0.77,
+        "icon": "escudo-1944-e92ed17a.svg",
         "iconTheme": "brasileirao-macapa-1944"
       },
       {
@@ -16073,6 +16647,7 @@
         "atual": false,
         "file": "retro-1946-0e95ab1a.svg",
         "aspect": 0.992,
+        "icon": "escudo-1946-088f14e9.svg",
         "iconTheme": "brasileirao-macapa-1946"
       },
       {
@@ -16082,6 +16657,7 @@
         "atual": false,
         "file": "retro-1970-883be983.svg",
         "aspect": 0.96,
+        "icon": "escudo-1970-2020b9f8.svg",
         "iconTheme": "brasileirao-macapa-1970"
       },
       {
@@ -16091,6 +16667,7 @@
         "atual": false,
         "file": "retro-2009-3bb06b99.svg",
         "aspect": 0.812,
+        "icon": "escudo-2009-78c5205d.svg",
         "iconTheme": "brasileirao-macapa-2009"
       }
     ],
@@ -16195,6 +16772,7 @@
         "atual": false,
         "file": "retro-1941-7f60db01.svg",
         "aspect": 1.002,
+        "icon": "escudo-1941-6f2d717c.svg",
         "iconTheme": "brasileirao-trem-1941"
       },
       {
@@ -16204,6 +16782,7 @@
         "atual": false,
         "file": "retro-1971-6a9a3bd7.svg",
         "aspect": 0.88,
+        "icon": "escudo-1971-b951a909.svg",
         "iconTheme": "brasileirao-trem-1971"
       },
       {
@@ -16213,6 +16792,7 @@
         "atual": false,
         "file": "retro-1984-96d74c82.svg",
         "aspect": 0.822,
+        "icon": "escudo-1984-7bd2c6a6.svg",
         "iconTheme": "brasileirao-trem-1984"
       },
       {
@@ -16222,6 +16802,7 @@
         "atual": false,
         "file": "retro-1991-0bb2f450.svg",
         "aspect": 0.815,
+        "icon": "escudo-1991-7aab72b2.svg",
         "iconTheme": "brasileirao-trem-1991"
       },
       {
@@ -16231,6 +16812,7 @@
         "atual": false,
         "file": "retro-2003-e17caf22.svg",
         "aspect": 0.844,
+        "icon": "escudo-2003-c9793597.svg",
         "iconTheme": "brasileirao-trem-2003"
       },
       {
@@ -16240,6 +16822,7 @@
         "atual": false,
         "file": "retro-2010-869266ec.svg",
         "aspect": 0.665,
+        "icon": "escudo-2010-90a769a9.svg",
         "iconTheme": "brasileirao-trem-2010"
       }
     ],
@@ -16437,6 +17020,7 @@
         "atual": false,
         "file": "retro-1973-b0a06f81.svg",
         "aspect": 1.026,
+        "icon": "escudo-1973-da38ca91.svg",
         "iconTheme": "brasileirao-santos-ap-1973"
       },
       {
@@ -16446,6 +17030,7 @@
         "atual": false,
         "file": "retro-2001-b80740ba.svg",
         "aspect": 1.013,
+        "icon": "escudo-2001-71e916ed.svg",
         "iconTheme": "brasileirao-santos-ap-2001"
       }
     ],
@@ -16579,6 +17164,7 @@
         "atual": false,
         "file": "retro-1913-31366f2c.svg",
         "aspect": 1,
+        "icon": "escudo-1913-dcb8ea88.svg",
         "iconTheme": "brasileirao-rio-branco-es-1913"
       },
       {
@@ -16588,6 +17174,7 @@
         "atual": false,
         "file": "retro-1937-af43ff84.svg",
         "aspect": 0.947,
+        "icon": "escudo-1937-6c2758e7.svg",
         "iconTheme": "brasileirao-rio-branco-es-1937"
       },
       {
@@ -16597,6 +17184,7 @@
         "atual": false,
         "file": "retro-1985-023f7b24.svg",
         "aspect": 0.824,
+        "icon": "escudo-1985-c32dba9b.svg",
         "iconTheme": "brasileirao-rio-branco-es-1985"
       },
       {
@@ -16606,6 +17194,7 @@
         "atual": false,
         "file": "retro-2012-60a80816.svg",
         "aspect": 0.804,
+        "icon": "escudo-2012-5ac71eac.svg",
         "iconTheme": "brasileirao-rio-branco-es-2012"
       },
       {
@@ -16615,6 +17204,7 @@
         "atual": false,
         "file": "retro-2013-78d3f877.svg",
         "aspect": 1.034,
+        "icon": "escudo-2013-d89e2eed.svg",
         "iconTheme": "brasileirao-rio-branco-es-2013"
       }
     ],
@@ -16727,6 +17317,7 @@
         "atual": false,
         "file": "retro-1963-aa086f32.svg",
         "aspect": 0.983,
+        "icon": "escudo-1963-7ec2b4ed.svg",
         "iconTheme": "brasileirao-desportiva-1963"
       },
       {
@@ -16736,6 +17327,7 @@
         "atual": false,
         "file": "retro-1966-016ddf3c.svg",
         "aspect": 0.988,
+        "icon": "escudo-1966-f5d91a8a.svg",
         "iconTheme": "brasileirao-desportiva-1966"
       },
       {
@@ -16745,6 +17337,7 @@
         "atual": false,
         "file": "retro-1971-13cc3bae.svg",
         "aspect": 1.024,
+        "icon": "escudo-1971-b919f95d.svg",
         "iconTheme": "brasileirao-desportiva-1971"
       },
       {
@@ -16754,6 +17347,7 @@
         "atual": false,
         "file": "retro-1978-2894ecac.svg",
         "aspect": 1.001,
+        "icon": "escudo-1978-4a1e2f01.svg",
         "iconTheme": "brasileirao-desportiva-1978"
       },
       {
@@ -16763,6 +17357,7 @@
         "atual": false,
         "file": "retro-1979-d7560056.svg",
         "aspect": 0.98,
+        "icon": "escudo-1979-1789a946.svg",
         "iconTheme": "brasileirao-desportiva-1979"
       },
       {
@@ -16772,6 +17367,7 @@
         "atual": false,
         "file": "retro-1982-1cc47a36.svg",
         "aspect": 1.024,
+        "icon": "escudo-1982-6eaf3d65.svg",
         "iconTheme": "brasileirao-desportiva-1982"
       },
       {
@@ -16781,6 +17377,7 @@
         "atual": false,
         "file": "retro-1990-70600fe4.svg",
         "aspect": 0.985,
+        "icon": "escudo-1990-6cb25f3a.svg",
         "iconTheme": "brasileirao-desportiva-1990"
       },
       {
@@ -16790,6 +17387,7 @@
         "atual": false,
         "file": "retro-1997-f997fa7b.svg",
         "aspect": 0.997,
+        "icon": "escudo-1997-0062b105.svg",
         "iconTheme": "brasileirao-desportiva-1997"
       },
       {
@@ -16799,6 +17397,7 @@
         "atual": false,
         "file": "retro-1999-66af63ba.svg",
         "aspect": 0.863,
+        "icon": "escudo-1999-f47f3434.svg",
         "iconTheme": "brasileirao-desportiva-1999"
       },
       {
@@ -16808,6 +17407,7 @@
         "atual": false,
         "file": "retro-2011-992c38b8.svg",
         "aspect": 1,
+        "icon": "escudo-2011-af55e4e7.svg",
         "iconTheme": "brasileirao-desportiva-2011"
       },
       {
@@ -16817,6 +17417,7 @@
         "atual": false,
         "file": "retro-2013-cf4b9dd2.svg",
         "aspect": 1.521,
+        "icon": "escudo-2013-a15cbbe7.svg",
         "iconTheme": "brasileirao-desportiva-2013"
       }
     ],
@@ -16921,6 +17522,7 @@
         "atual": false,
         "file": "retro-1912-23fff9cb.svg",
         "aspect": 0.748,
+        "icon": "escudo-1912-eb69be10.svg",
         "iconTheme": "brasileirao-vitoria-es-1912"
       },
       {
@@ -16930,6 +17532,7 @@
         "atual": false,
         "file": "retro-1970-198136a3.svg",
         "aspect": 0.659,
+        "icon": "escudo-1970-bd4ff584.svg",
         "iconTheme": "brasileirao-vitoria-es-1970"
       }
     ],
@@ -17030,6 +17633,7 @@
         "atual": false,
         "file": "retro-1930-2d127e6a.svg",
         "aspect": 0.837,
+        "icon": "escudo-1930-391a333d.svg",
         "iconTheme": "brasileirao-serra-1930"
       },
       {
@@ -17039,6 +17643,7 @@
         "atual": false,
         "file": "retro-1997-347021c3.svg",
         "aspect": 0.925,
+        "icon": "escudo-1997-b23a0565.svg",
         "iconTheme": "brasileirao-serra-1997"
       },
       {
@@ -17048,6 +17653,7 @@
         "atual": false,
         "file": "retro-1999-8826008e.svg",
         "aspect": 0.784,
+        "icon": "escudo-1999-c6e9907d.svg",
         "iconTheme": "brasileirao-serra-1999"
       },
       {
@@ -17057,6 +17663,7 @@
         "atual": false,
         "file": "retro-2010-6eb8ed75.svg",
         "aspect": 0.784,
+        "icon": "escudo-2010-b5f06cba.svg",
         "iconTheme": "brasileirao-serra-2010"
       }
     ],
@@ -17168,6 +17775,7 @@
         "atual": false,
         "file": "retro-1938-e0cde4f6.svg",
         "aspect": 0.826,
+        "icon": "escudo-1938-34b8e22f.svg",
         "iconTheme": "brasileirao-flamengo-pi-1938"
       },
       {
@@ -17177,6 +17785,7 @@
         "atual": false,
         "file": "retro-1941-0c6a5979.svg",
         "aspect": 0.893,
+        "icon": "escudo-1941-b6daec9c.svg",
         "iconTheme": "brasileirao-flamengo-pi-1941"
       },
       {
@@ -17186,6 +17795,7 @@
         "atual": false,
         "file": "retro-1951-a0747aa9.png",
         "aspect": 0.823,
+        "icon": "escudo-1951-d0b22d55.svg",
         "iconTheme": "brasileirao-flamengo-pi-1951"
       },
       {
@@ -17195,6 +17805,7 @@
         "atual": false,
         "file": "retro-1981-849d28f6.png",
         "aspect": 0.882,
+        "icon": "escudo-1981-77592500.svg",
         "iconTheme": "brasileirao-flamengo-pi-1981"
       },
       {
@@ -17204,6 +17815,7 @@
         "atual": false,
         "file": "retro-1991-c652dc63.png",
         "aspect": 0.84,
+        "icon": "escudo-1991-5ae7cd9a.svg",
         "iconTheme": "brasileirao-flamengo-pi-1991"
       },
       {
@@ -17213,6 +17825,7 @@
         "atual": false,
         "file": "retro-2013-832df5a1.png",
         "aspect": 0.856,
+        "icon": "escudo-2013-14d9185c.svg",
         "iconTheme": "brasileirao-flamengo-pi-2013"
       }
     ],
@@ -17687,6 +18300,7 @@
         "atual": false,
         "file": "retro-1991-05bfb98e.svg",
         "aspect": 0.756,
+        "icon": "escudo-1991-9c1d8dfe.svg",
         "iconTheme": "brasileirao-ji-parana-1991"
       },
       {
@@ -17696,6 +18310,7 @@
         "atual": false,
         "file": "retro-2001-e66cd12b.svg",
         "aspect": 0.738,
+        "icon": "escudo-2001-313ed574.svg",
         "iconTheme": "brasileirao-ji-parana-2001"
       },
       {
@@ -17705,6 +18320,7 @@
         "atual": false,
         "file": "retro-2012-9ee84628.svg",
         "aspect": 0.716,
+        "icon": "escudo-2012-a3d1a4b7.svg",
         "iconTheme": "brasileirao-ji-parana-2012"
       }
     ],
@@ -17804,6 +18420,7 @@
         "atual": false,
         "file": "retro-1991-1442303d.svg",
         "aspect": 1.051,
+        "icon": "escudo-1991-61950e19.svg",
         "iconTheme": "brasileirao-vilhena-1991"
       },
       {
@@ -17813,6 +18430,7 @@
         "atual": false,
         "file": "retro-2005-c5db7df0.svg",
         "aspect": 1,
+        "icon": "escudo-2005-bedba1d7.svg",
         "iconTheme": "brasileirao-vilhena-2005"
       },
       {
@@ -17822,6 +18440,7 @@
         "atual": false,
         "file": "retro-2010-2ec2e757.svg",
         "aspect": 1,
+        "icon": "escudo-2010-b52e97a7.svg",
         "iconTheme": "brasileirao-vilhena-2010"
       },
       {
@@ -17831,6 +18450,7 @@
         "atual": false,
         "file": "retro-2011-27e96a0b.svg",
         "aspect": 1,
+        "icon": "escudo-2011-cdf8aadd.svg",
         "iconTheme": "brasileirao-vilhena-2011"
       },
       {
@@ -17840,6 +18460,7 @@
         "atual": false,
         "file": "retro-2013-6b74630b.svg",
         "aspect": 0.792,
+        "icon": "escudo-2013-94ea869f.svg",
         "iconTheme": "brasileirao-vilhena-2013"
       },
       {
@@ -17849,6 +18470,7 @@
         "atual": false,
         "file": "retro-2014-712b3c29.svg",
         "aspect": 0.843,
+        "icon": "escudo-2014-12436e65.svg",
         "iconTheme": "brasileirao-vilhena-2014"
       },
       {
@@ -17858,6 +18480,7 @@
         "atual": false,
         "file": "retro-2018-13478dba.svg",
         "aspect": 0.794,
+        "icon": "escudo-2018-d26b31a1.svg",
         "iconTheme": "brasileirao-vilhena-2018"
       }
     ],
@@ -17957,6 +18580,7 @@
         "atual": false,
         "file": "retro-2014-71d192fa.svg",
         "aspect": 0.773,
+        "icon": "escudo-2014-e2fdd37e.svg",
         "iconTheme": "brasileirao-porto-velho-2014"
       },
       {
@@ -17966,6 +18590,7 @@
         "atual": false,
         "file": "retro-2018-9723b659.svg",
         "aspect": 1,
+        "icon": "escudo-2018-0b4d0ee2.svg",
         "iconTheme": "brasileirao-porto-velho-2018"
       }
     ],
@@ -18088,6 +18713,7 @@
         "atual": false,
         "file": "retro-1946-bae5c6ed.svg",
         "aspect": 1.478,
+        "icon": "escudo-1946-8104cdae.svg",
         "iconTheme": "brasileirao-bare-1946"
       },
       {
@@ -18097,6 +18723,7 @@
         "atual": false,
         "file": "retro-1951-a0b96039.svg",
         "aspect": 1.505,
+        "icon": "escudo-1951-a8b6edb1.svg",
         "iconTheme": "brasileirao-bare-1951"
       },
       {
@@ -18106,6 +18733,7 @@
         "atual": false,
         "file": "retro-1957-edbf9791.svg",
         "aspect": 1.529,
+        "icon": "escudo-1957-4a97ca65.svg",
         "iconTheme": "brasileirao-bare-1957"
       },
       {
@@ -18115,6 +18743,7 @@
         "atual": false,
         "file": "retro-1970-f6aae822.svg",
         "aspect": 1.889,
+        "icon": "escudo-1970-ed703ff6.svg",
         "iconTheme": "brasileirao-bare-1970"
       },
       {
@@ -18124,6 +18753,7 @@
         "atual": false,
         "file": "retro-1993-3a26fc06.svg",
         "aspect": 1.628,
+        "icon": "escudo-1993-6043cded.svg",
         "iconTheme": "brasileirao-bare-1993"
       },
       {
@@ -18133,6 +18763,7 @@
         "atual": false,
         "file": "retro-2001-2873f301.svg",
         "aspect": 1.232,
+        "icon": "escudo-2001-a3a3c3a0.svg",
         "iconTheme": "brasileirao-bare-2001"
       }
     ],
@@ -18241,6 +18872,7 @@
         "atual": false,
         "file": "retro-1963-89d9808c.svg",
         "aspect": 0.897,
+        "icon": "escudo-1963-e05a1863.svg",
         "iconTheme": "brasileirao-sao-raimundo-rr-1963"
       },
       {
@@ -18250,6 +18882,7 @@
         "atual": false,
         "file": "retro-1983-7bacb289.svg",
         "aspect": 0.959,
+        "icon": "escudo-1983-fe082827.svg",
         "iconTheme": "brasileirao-sao-raimundo-rr-1983"
       },
       {
@@ -18259,6 +18892,7 @@
         "atual": false,
         "file": "retro-2013-8ed3b6c0.svg",
         "aspect": 0.831,
+        "icon": "escudo-2013-cd5cc275.svg",
         "iconTheme": "brasileirao-sao-raimundo-rr-2013"
       }
     ],
@@ -18356,6 +18990,7 @@
         "atual": false,
         "file": "retro-1965-0b7f8d2b.svg",
         "aspect": 0.839,
+        "icon": "escudo-1965-dfebdf23.svg",
         "iconTheme": "brasileirao-gas-1965"
       },
       {
@@ -18365,6 +19000,7 @@
         "atual": false,
         "file": "retro-1996-8484b60d.svg",
         "aspect": 0.886,
+        "icon": "escudo-1996-24f94628.svg",
         "iconTheme": "brasileirao-gas-1996"
       },
       {
@@ -18374,6 +19010,7 @@
         "atual": false,
         "file": "retro-2011-79501d33.svg",
         "aspect": 0.88,
+        "icon": "escudo-2011-878a5ded.svg",
         "iconTheme": "brasileirao-gas-2011"
       }
     ],
@@ -18506,6 +19143,7 @@
         "atual": false,
         "file": "retro-1909-d5a420c4.svg",
         "aspect": 1.003,
+        "icon": "escudo-1909-9f502331.svg",
         "iconTheme": "brasileirao-sergipe-1909"
       },
       {
@@ -18515,6 +19153,7 @@
         "atual": false,
         "file": "retro-1943-ca82cb15.svg",
         "aspect": 0.879,
+        "icon": "escudo-1943-baaabb62.svg",
         "iconTheme": "brasileirao-sergipe-1943"
       },
       {
@@ -18524,6 +19163,7 @@
         "atual": false,
         "file": "retro-1974-5250fc09.svg",
         "aspect": 0.734,
+        "icon": "escudo-1974-c3717da4.svg",
         "iconTheme": "brasileirao-sergipe-1974"
       },
       {
@@ -18533,6 +19173,7 @@
         "atual": false,
         "file": "retro-1989-31e039e7.svg",
         "aspect": 0.771,
+        "icon": "escudo-1989-7e865f5c.svg",
         "iconTheme": "brasileirao-sergipe-1989"
       }
     ],
@@ -18651,6 +19292,7 @@
         "atual": false,
         "file": "retro-1936-4236b717.svg",
         "aspect": 0.999,
+        "icon": "escudo-1936-ab1921cf.svg",
         "iconTheme": "brasileirao-confianca-1936"
       },
       {
@@ -18660,6 +19302,7 @@
         "atual": false,
         "file": "retro-1960-3d8090f4.svg",
         "aspect": 1,
+        "icon": "escudo-1960-37c96616.svg",
         "iconTheme": "brasileirao-confianca-1960"
       },
       {
@@ -18669,6 +19312,7 @@
         "atual": false,
         "file": "retro-2000-42bfddc9.svg",
         "aspect": 1,
+        "icon": "escudo-2000-529a17aa.svg",
         "iconTheme": "brasileirao-confianca-2000"
       },
       {
@@ -18678,6 +19322,7 @@
         "atual": false,
         "file": "retro-2005-0f3b26de.svg",
         "aspect": 1,
+        "icon": "escudo-2005-eba12272.svg",
         "iconTheme": "brasileirao-confianca-2005"
       },
       {
@@ -18687,6 +19332,7 @@
         "atual": false,
         "file": "retro-2013-d7aa04f5.svg",
         "aspect": 0.819,
+        "icon": "escudo-2013-596d8e9b.svg",
         "iconTheme": "brasileirao-confianca-2013"
       }
     ],
@@ -18792,6 +19438,7 @@
         "atual": false,
         "file": "retro-1938-25903589.svg",
         "aspect": 0.88,
+        "icon": "escudo-1938-5f662912.svg",
         "iconTheme": "brasileirao-itabaiana-1938"
       },
       {
@@ -18801,6 +19448,7 @@
         "atual": false,
         "file": "retro-1950-2d356a2b.svg",
         "aspect": 0.923,
+        "icon": "escudo-1950-4eddf515.svg",
         "iconTheme": "brasileirao-itabaiana-1950"
       }
     ],
@@ -18903,6 +19551,7 @@
         "atual": false,
         "file": "retro-1997-4fd8508e.svg",
         "aspect": 1.006,
+        "icon": "escudo-1997-851d0f4c.svg",
         "iconTheme": "brasileirao-palmas-1997"
       },
       {
@@ -18912,6 +19561,7 @@
         "atual": false,
         "file": "retro-2003-1779c33f.svg",
         "aspect": 0.653,
+        "icon": "escudo-2003-fc6002b3.svg",
         "iconTheme": "brasileirao-palmas-2003"
       },
       {
@@ -18921,6 +19571,7 @@
         "atual": false,
         "file": "retro-2005-52a8b714.svg",
         "aspect": 0.888,
+        "icon": "escudo-2005-267f7493.svg",
         "iconTheme": "brasileirao-palmas-2005"
       },
       {
@@ -18930,6 +19581,7 @@
         "atual": false,
         "file": "retro-2006-64e2f1b4.svg",
         "aspect": 0.888,
+        "icon": "escudo-2006-a9a87782.svg",
         "iconTheme": "brasileirao-palmas-2006"
       },
       {
@@ -18939,6 +19591,7 @@
         "atual": false,
         "file": "retro-2007-b227864d.svg",
         "aspect": 0.882,
+        "icon": "escudo-2007-a2971a05.svg",
         "iconTheme": "brasileirao-palmas-2007"
       },
       {
@@ -18948,6 +19601,7 @@
         "atual": false,
         "file": "retro-2019-b94a2fc5.svg",
         "aspect": 0.888,
+        "icon": "escudo-2019-7f64594e.svg",
         "iconTheme": "brasileirao-palmas-2019"
       },
       {
@@ -18957,6 +19611,7 @@
         "atual": false,
         "file": "retro-2025-56b7800f.svg",
         "aspect": 0.849,
+        "icon": "escudo-2025-801dd163.svg",
         "iconTheme": "brasileirao-palmas-2025"
       }
     ],
@@ -19058,6 +19713,7 @@
         "atual": false,
         "file": "retro-1989-9be88fb8.svg",
         "aspect": 0.999,
+        "icon": "escudo-1989-b7c4a514.svg",
         "iconTheme": "brasileirao-tocantinopolis-1989"
       }
     ],
@@ -19158,6 +19814,7 @@
         "atual": false,
         "file": "retro-1988-e2385d99.svg",
         "aspect": 1,
+        "icon": "escudo-1988-0f005adc.svg",
         "iconTheme": "brasileirao-gurupi-1988"
       },
       {
@@ -19167,6 +19824,7 @@
         "atual": false,
         "file": "retro-1996-a5f3101f.svg",
         "aspect": 1,
+        "icon": "escudo-1996-0ddd96ce.svg",
         "iconTheme": "brasileirao-gurupi-1996"
       },
       {
@@ -19176,6 +19834,7 @@
         "atual": false,
         "file": "retro-2012-1add20c8.svg",
         "aspect": 1,
+        "icon": "escudo-2012-fb0dcadf.svg",
         "iconTheme": "brasileirao-gurupi-2012"
       }
     ],

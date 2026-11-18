@@ -425,7 +425,7 @@ async function pickRetro(context, palette, themeName, choices = [...(palette.alt
   const line = (name, inUse) => [name, inUse ? '$(check) em uso' : ''].filter(Boolean).join(' · ');
   const items = [
     { label: line(palette.crestLabel || 'Atual', !current), inUse: !current, id: null, iconPath: iconFile(palette, palette.crestIcon || 'escudo.svg') },
-    ...choices.map((r) => ({ label: line(r.label, current && current.id === r.id), inUse: Boolean(current && current.id === r.id), id: r.id, iconPath: iconFile(palette, r.file) }))
+    ...choices.map((r) => ({ label: line(r.label, current && current.id === r.id), inUse: Boolean(current && current.id === r.id), id: r.id, iconPath: iconFile(palette, r.icon || r.file) }))
   ];
   const picker = vscode.window.createQuickPick();
   picker.title = `Escudo do fundo: ${themeName}`;

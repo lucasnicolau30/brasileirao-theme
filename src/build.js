@@ -179,6 +179,8 @@ for (const team of teams) {
     const crestSvg = crestToSvg(source);
     const retroCrestFile = `escudo-${r.id}-${require('crypto').createHash('sha1').update(crestSvg).digest('hex').slice(0, 8)}.svg`;
     write(path.join(root, 'icons', team.slug, retroCrestFile), crestSvg);
+    // O seletor de escudos mostra este SVG quadrado de 16 px (com o escudo inteiro e centralizado); o `retro-*.svg` cru, sem tamanho, ficaria cortado nessa miniatura e é usado só como fundo do editor.
+    r.icon = retroCrestFile;
     let retroTheme;
     if (material) {
       const result = materialIconTheme(material.theme, retroCrestFile, '../_material');
