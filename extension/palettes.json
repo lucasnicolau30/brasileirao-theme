@@ -8201,11 +8201,25 @@
         2021
       ]
     },
+    "titleOrder": [
+      "estadual",
+      "serieB"
+    ],
     "retro": [
       {
-        "id": "1956",
+        "id": "1956b",
         "label": "1956–1962",
         "fullLabel": "1956–1962",
+        "atual": false,
+        "file": "retro-1956b-64db7b68.svg",
+        "aspect": 1,
+        "icon": "escudo-1956b-221ba959.svg",
+        "iconTheme": "brasileirao-londrina-1956b"
+      },
+      {
+        "id": "1956",
+        "label": "1962–1970",
+        "fullLabel": "1962–1970",
         "atual": false,
         "file": "retro-1956-cdae7f31.svg",
         "aspect": 0.998,
@@ -8213,19 +8227,9 @@
         "iconTheme": "brasileirao-londrina-1956"
       },
       {
-        "id": "1962",
-        "label": "1962–1970",
-        "fullLabel": "1962–1970",
-        "atual": false,
-        "file": "retro-1962-66452c6c.svg",
-        "aspect": 0.729,
-        "icon": "escudo-1962-f51df736.svg",
-        "iconTheme": "brasileirao-londrina-1962"
-      },
-      {
         "id": "1970",
-        "label": "1970–1977",
-        "fullLabel": "1970–1977",
+        "label": "1970–1973",
+        "fullLabel": "1970–1973",
         "atual": false,
         "file": "retro-1970-7d325516.svg",
         "aspect": 0.978,
@@ -8233,13 +8237,23 @@
         "iconTheme": "brasileirao-londrina-1970"
       },
       {
+        "id": "1962",
+        "label": "1973–1977",
+        "fullLabel": "1973–1977",
+        "atual": false,
+        "file": "retro-1962-66452c6c.svg",
+        "aspect": 0.729,
+        "icon": "escudo-1962-f51df736.svg",
+        "iconTheme": "brasileirao-londrina-1962"
+      },
+      {
         "id": "1977",
         "label": "1977–1981",
         "fullLabel": "1977–1981",
         "atual": false,
-        "file": "retro-1977-237ca75e.svg",
-        "aspect": 0.968,
-        "icon": "escudo-1977-46c7957c.svg",
+        "file": "retro-1977-1257613e.svg",
+        "aspect": 0.945,
+        "icon": "escudo-1977-f9b359e9.svg",
         "iconTheme": "brasileirao-londrina-1977"
       },
       {
@@ -8247,9 +8261,9 @@
         "label": "1981–1992",
         "fullLabel": "1981–1992",
         "atual": false,
-        "file": "retro-1981-6b767a22.svg",
-        "aspect": 0.955,
-        "icon": "escudo-1981-1425c10f.svg",
+        "file": "retro-1981-75783ea3.svg",
+        "aspect": 0.874,
+        "icon": "escudo-1981-a161fd67.svg",
         "iconTheme": "brasileirao-londrina-1981"
       },
       {
@@ -8257,9 +8271,9 @@
         "label": "1992–1995",
         "fullLabel": "1992–1995",
         "atual": false,
-        "file": "retro-1992-44a9e691.svg",
-        "aspect": 0.971,
-        "icon": "escudo-1992-7ee15e9a.svg",
+        "file": "retro-1992-fc81b2c1.svg",
+        "aspect": 0.932,
+        "icon": "escudo-1992-44c0d8b9.svg",
         "iconTheme": "brasileirao-londrina-1992"
       }
     ],
