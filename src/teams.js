@@ -2915,7 +2915,7 @@ const times = [
     swatch: "⬛🟥⬜",
     uf: "PB",
     crestLabel: "Botafogo-PB (desde 2019)",
-    // Retrô 1931–1952: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    // Retrô 1952–1956: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     bgColored: true,
     titleOrder: ["estadual", "serieD"],
     titles: {

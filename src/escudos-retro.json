@@ -4442,8 +4442,25 @@
   ],
   "botafogo-pb": [
     {
-      "id": "1931",
+      "id": "1931b",
       "label": "1931–1952",
+      "local": "Botafogo-PB-1931b.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#181010"
+      ]
+    },
+    {
+      "id": "1931",
+      "label": "1952–1956",
       "local": "Botafogo-PB-1931.jpg",
       "vetorizar": "suave",
       "silhueta": "borda",
@@ -4454,14 +4471,120 @@
       "contornoClaro": true
     },
     {
+      "id": "1956",
+      "label": "1956–1970",
+      "local": "Botafogo-PB-1956.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8"
+      ]
+    },
+    {
       "id": "1974",
-      "label": "1974–1978",
+      "label": "1970–1976",
       "local": "Botafogo-PB-1974.png",
       "vetorizar": "suave",
       "silhueta": "borda",
       "refinar": true,
       "vetorizarPaleta": [
         "#000000",
+        "#d83040"
+      ]
+    },
+    {
+      "id": "1977",
+      "label": "1977–1978",
+      "local": "Botafogo-PB-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f80000",
+        "#080808"
+      ]
+    },
+    {
+      "id": "1978",
+      "label": "1978–1998",
+      "local": "Botafogo-PB-1978.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#d83040"
+      ]
+    },
+    {
+      "id": "1998",
+      "label": "1998–2003",
+      "local": "Botafogo-PB-1998.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#d83040"
+      ]
+    },
+    {
+      "id": "2003",
+      "label": "2003–2013",
+      "local": "Botafogo-PB-2003.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
+        "#d83040"
+      ]
+    },
+    {
+      "id": "2013",
+      "label": "2013–2019",
+      "local": "Botafogo-PB-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f8f8f8",
         "#d83040"
       ]
     }
