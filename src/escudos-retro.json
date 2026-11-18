@@ -8283,8 +8283,8 @@
       "macio": true,
       "sobrepor": 1,
       "escala": 4,
-      "suavidade": 6.0,
-      "minimo": 60,
+      "suavidade": 10.0,
+      "minimo": 100,
       "nitidez": 30.0,
       "vetorizarPaleta": [
         "#386090",
@@ -8300,8 +8300,8 @@
       "macio": true,
       "sobrepor": 1,
       "escala": 4,
-      "suavidade": 6.0,
-      "minimo": 60,
+      "suavidade": 10.0,
+      "minimo": 100,
       "nitidez": 30.0,
       "vetorizarPaleta": [
         "#300060",
