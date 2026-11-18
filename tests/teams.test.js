@@ -484,7 +484,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Ceará'), ['Estadual', 'Copa do Nordeste']);
     assert.deepEqual(itens('Bahia'), ['Copa do Nordeste', 'Brasileirão', 'Estadual']);
     assert.deepEqual(itens('Vitória'), ['Copa do Nordeste', 'Série B', 'Estadual']);
-    assert.deepEqual(itens('Sport'), ['Copa do Brasil', 'Brasileirão', 'Copa do Nordeste', 'Série B', 'Estadual']);
+    assert.deepEqual(itens('Sport'), ['Série B', 'Copa do Nordeste', 'Brasileirão', 'Copa do Brasil', 'Estadual']);
     // Copa Verde: Paysandu, Remo, Goiás, Cuiabá e Brasiliense a mostram, logo depois da Copa do Nordeste na ordem padrão.
     assert.deepEqual(itens('Goiás'), ['Copa Verde', 'Série B', 'Estadual']);
     assert.deepEqual(itens('Cuiabá'), ['Estadual', 'Copa Verde']);

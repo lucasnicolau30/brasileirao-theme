@@ -1792,7 +1792,7 @@
   "sport": [
     {
       "id": "1905",
-      "label": "1905–1919",
+      "label": "1905–1930",
       "local": "Sport-1905.jpg",
       "vetorizar": "alfa",
       "fundoBranco": true,
@@ -1802,8 +1802,25 @@
       ]
     },
     {
+      "id": "1930",
+      "label": "1930–1940",
+      "local": "Sport-1930.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8d800",
+        "#000000"
+      ]
+    },
+    {
       "id": "1940",
-      "label": "1940–1949",
+      "label": "1940–1950",
       "local": "Sport-1940.png",
       "vetorizar": "alfa",
       "fundoBranco": true,
@@ -1814,6 +1831,79 @@
       ],
       "sobrepor": 1,
       "nitido": true
+    },
+    {
+      "id": "1950",
+      "label": "1950–1987",
+      "local": "Sport-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8e050",
+        "#000000",
+        "#d83038"
+      ]
+    },
+    {
+      "id": "1987",
+      "label": "1987–1990",
+      "local": "Sport-1987.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8e050",
+        "#000000",
+        "#d83038"
+      ]
+    },
+    {
+      "id": "1990",
+      "label": "1990–2000",
+      "local": "Sport-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8e050",
+        "#000000",
+        "#d83038"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2008",
+      "local": "Sport-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8d858",
+        "#000000",
+        "#d83038",
+        "#b8b8b8"
+      ]
     }
   ],
   "guarani": [

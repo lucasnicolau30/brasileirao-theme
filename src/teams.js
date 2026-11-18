@@ -771,6 +771,7 @@ const times = [
     uf: "PE",
     crestLabel: "Sport (desde 2008)",
     bgColored: true,
+    titleOrder: ["serieB", "copaDoNordeste", "brasileirao", "copaDoBrasil", "estadual"],
     titles: {
       brasileirao: [1987],
       copaDoBrasil: [2008],
