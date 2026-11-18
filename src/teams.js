@@ -4524,7 +4524,9 @@ const times = [
     slug: "parnahyba",
     swatch: "🟦⬜",
     uf: "PI",
+    // Sem retrôs: o clube não tem escudos antigos.
     crestLabel: "Parnahyba",
+    crestUnchanged: true,
     bgColored: true,
     titles: {
       mundial: [],
@@ -4565,7 +4567,9 @@ const times = [
     slug: "piaui",
     swatch: "🟦🟥⬜",
     uf: "PI",
+    // Sem retrôs: o clube não tem escudos antigos.
     crestLabel: "Piauí",
+    crestUnchanged: true,
     bgColored: true,
     titles: {
       mundial: [],
@@ -4603,7 +4607,9 @@ const times = [
     slug: "altos",
     swatch: "🟩🟨🟦",
     uf: "PI",
+    // Sem retrôs: o clube não tem escudos antigos.
     crestLabel: "Altos",
+    crestUnchanged: true,
     bgColored: true,
     titles: {
       mundial: [],
