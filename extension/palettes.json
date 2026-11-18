@@ -8580,9 +8580,9 @@
     "slug": "maringa",
     "uf": "PR",
     "crestLabel": "Atual · desde 2019",
-    "crestIcon": "escudo-22b06192.svg",
-    "listIcon": "escudo-22b06192.svg",
-    "backgroundAspect": 0.633,
+    "crestIcon": "escudo-041d0838.svg",
+    "listIcon": "escudo-041d0838.svg",
+    "backgroundAspect": 0.632,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -8598,11 +8598,52 @@
       "copaVerde": [],
       "estadual": []
     },
-    "retro": [],
+    "retro": [
+      {
+        "id": "2010",
+        "label": "2010",
+        "fullLabel": "2010",
+        "atual": false,
+        "file": "retro-2010-d37b6b28.svg",
+        "aspect": 1.022,
+        "icon": "escudo-2010-b2f332d3.svg",
+        "iconTheme": "brasileirao-maringa-2010"
+      },
+      {
+        "id": "2010b",
+        "label": "2010–2013",
+        "fullLabel": "2010–2013",
+        "atual": false,
+        "file": "retro-2010b-b5e86f2e.svg",
+        "aspect": 1.025,
+        "icon": "escudo-2010b-71f690cb.svg",
+        "iconTheme": "brasileirao-maringa-2010b"
+      },
+      {
+        "id": "2013",
+        "label": "2013",
+        "fullLabel": "2013",
+        "atual": false,
+        "file": "retro-2013-46bfa971.svg",
+        "aspect": 0.883,
+        "icon": "escudo-2013-4b2422f0.svg",
+        "iconTheme": "brasileirao-maringa-2013"
+      },
+      {
+        "id": "2013b",
+        "label": "2013–2019",
+        "fullLabel": "2013–2019",
+        "atual": false,
+        "file": "retro-2013b-9a145012.svg",
+        "aspect": 0.85,
+        "icon": "escudo-2013b-886d7b1e.svg",
+        "iconTheme": "brasileirao-maringa-2013b"
+      }
+    ],
     "alternates": [],
     "swatch": "🟩⬜",
     "primary": "#00a859",
-    "background": "fundo-3057207d.svg",
+    "background": "fundo-a02fe951.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
