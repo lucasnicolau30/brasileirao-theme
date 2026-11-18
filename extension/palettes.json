@@ -8342,10 +8342,10 @@
   "Brasileirão: Operário-PR": {
     "slug": "operario-pr",
     "uf": "PR",
-    "crestLabel": "Atual · desde 2013",
-    "crestIcon": "escudo-b79dc29b.svg",
-    "listIcon": "escudo-b79dc29b.svg",
-    "backgroundAspect": 1,
+    "crestLabel": "Atual · desde 2025",
+    "crestIcon": "escudo-a688e766.svg",
+    "listIcon": "escudo-a688e766.svg",
+    "backgroundAspect": 0.792,
     "titles": {
       "brasileirao": [],
       "copaDoBrasil": [],
@@ -8367,15 +8367,20 @@
         2026
       ]
     },
+    "titleOrder": [
+      "serieD",
+      "serieC",
+      "estadual"
+    ],
     "retro": [
       {
         "id": "1912",
         "label": "1912–1941",
         "fullLabel": "1912–1941",
         "atual": false,
-        "file": "retro-1912-28a4f007.svg",
-        "aspect": 1.004,
-        "icon": "escudo-1912-25a5cc3a.svg",
+        "file": "retro-1912-2d76ca8f.svg",
+        "aspect": 1,
+        "icon": "escudo-1912-81ca89ca.svg",
         "iconTheme": "brasileirao-operario-pr-1912"
       },
       {
@@ -8383,9 +8388,9 @@
         "label": "1941–1947",
         "fullLabel": "1941–1947",
         "atual": false,
-        "file": "retro-1941-915b5127.svg",
-        "aspect": 1.255,
-        "icon": "escudo-1941-2191a9f8.svg",
+        "file": "retro-1941-767acb5f.svg",
+        "aspect": 1.248,
+        "icon": "escudo-1941-6989b308.svg",
         "iconTheme": "brasileirao-operario-pr-1941"
       },
       {
@@ -8393,9 +8398,9 @@
         "label": "1947–1957",
         "fullLabel": "1947–1957",
         "atual": false,
-        "file": "retro-1947-6f3ebf29.svg",
-        "aspect": 0.827,
-        "icon": "escudo-1947-7dcd9738.svg",
+        "file": "retro-1947-c43463d8.svg",
+        "aspect": 0.854,
+        "icon": "escudo-1947-188e4298.svg",
         "iconTheme": "brasileirao-operario-pr-1947"
       },
       {
@@ -8403,19 +8408,29 @@
         "label": "1957–1961",
         "fullLabel": "1957–1961",
         "atual": false,
-        "file": "retro-1957-38bf5991.svg",
-        "aspect": 0.8,
-        "icon": "escudo-1957-dfc10400.svg",
+        "file": "retro-1957-b94475de.svg",
+        "aspect": 0.806,
+        "icon": "escudo-1957-ff1c27a0.svg",
         "iconTheme": "brasileirao-operario-pr-1957"
+      },
+      {
+        "id": "1961",
+        "label": "1961–1976",
+        "fullLabel": "1961–1976",
+        "atual": false,
+        "file": "retro-1961-b5552b12.svg",
+        "aspect": 0.944,
+        "icon": "escudo-1961-d8c3e3d4.svg",
+        "iconTheme": "brasileirao-operario-pr-1961"
       },
       {
         "id": "1976",
         "label": "1976–1979",
         "fullLabel": "1976–1979",
         "atual": false,
-        "file": "retro-1976-8cf65e4a.svg",
-        "aspect": 1.026,
-        "icon": "escudo-1976-f5f8c319.svg",
+        "file": "retro-1976-0ca40aa4.svg",
+        "aspect": 1.023,
+        "icon": "escudo-1976-e8092cd6.svg",
         "iconTheme": "brasileirao-operario-pr-1976"
       },
       {
@@ -8423,9 +8438,9 @@
         "label": "1979–1981",
         "fullLabel": "1979–1981",
         "atual": false,
-        "file": "retro-1979-890a7e6a.svg",
-        "aspect": 0.977,
-        "icon": "escudo-1979-c8878733.svg",
+        "file": "retro-1979-f1384b78.svg",
+        "aspect": 0.979,
+        "icon": "escudo-1979-9811198a.svg",
         "iconTheme": "brasileirao-operario-pr-1979"
       },
       {
@@ -8433,9 +8448,9 @@
         "label": "1981–1987",
         "fullLabel": "1981–1987",
         "atual": false,
-        "file": "retro-1981-b10ed12f.svg",
-        "aspect": 1.042,
-        "icon": "escudo-1981-452d3bef.svg",
+        "file": "retro-1981-b57c095b.svg",
+        "aspect": 1.041,
+        "icon": "escudo-1981-8822712d.svg",
         "iconTheme": "brasileirao-operario-pr-1981"
       },
       {
@@ -8443,9 +8458,9 @@
         "label": "1987–2008",
         "fullLabel": "1987–2008",
         "atual": false,
-        "file": "retro-1987-a037999e.svg",
-        "aspect": 0.912,
-        "icon": "escudo-1987-289807a8.svg",
+        "file": "retro-1987-32529de4.svg",
+        "aspect": 0.917,
+        "icon": "escudo-1987-a2f8da5c.svg",
         "iconTheme": "brasileirao-operario-pr-1987"
       },
       {
@@ -8453,16 +8468,56 @@
         "label": "2008–2013",
         "fullLabel": "2008–2013",
         "atual": false,
-        "file": "retro-2008-e8c50ca1.svg",
-        "aspect": 0.914,
-        "icon": "escudo-2008-54347ed9.svg",
+        "file": "retro-2008-b72e1be2.svg",
+        "aspect": 0.918,
+        "icon": "escudo-2008-e1fb74b5.svg",
         "iconTheme": "brasileirao-operario-pr-2008"
+      },
+      {
+        "id": "2013",
+        "label": "2013–2015",
+        "fullLabel": "2013–2015",
+        "atual": false,
+        "file": "retro-2013-82756586.svg",
+        "aspect": 1,
+        "icon": "escudo-2013-1ff6e44f.svg",
+        "iconTheme": "brasileirao-operario-pr-2013"
+      },
+      {
+        "id": "2015",
+        "label": "2015–2016",
+        "fullLabel": "2015–2016",
+        "atual": false,
+        "file": "retro-2015-c6c72828.svg",
+        "aspect": 0.792,
+        "icon": "escudo-2015-cf706b19.svg",
+        "iconTheme": "brasileirao-operario-pr-2015"
+      },
+      {
+        "id": "2017",
+        "label": "2017",
+        "fullLabel": "2017",
+        "atual": false,
+        "file": "retro-2017-05733f74.svg",
+        "aspect": 0.792,
+        "icon": "escudo-2017-6fc89c4a.svg",
+        "iconTheme": "brasileirao-operario-pr-2017"
+      },
+      {
+        "id": "2018",
+        "label": "2018–2025",
+        "fullLabel": "2018–2025",
+        "atual": false,
+        "file": "retro-2018-9865e3d4.svg",
+        "aspect": 0.792,
+        "icon": "escudo-2018-d3ecc399.svg",
+        "iconTheme": "brasileirao-operario-pr-2018"
       }
     ],
     "alternates": [],
     "swatch": "⬛⬜",
     "primary": "#d0d0d0",
-    "background": "fundo-e431af19.svg",
+    "background": "fundo-d4aa8bec.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
