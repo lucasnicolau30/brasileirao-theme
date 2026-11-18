@@ -3326,7 +3326,7 @@ const times = [
     slug: "bangu",
     swatch: "🟥⬜",
     uf: "RJ",
-    crestLabel: "Bangu (desde 2012)",
+    crestLabel: "Bangu (desde 2019)",
     bgColored: true,
     titles: {
       brasileirao: [],

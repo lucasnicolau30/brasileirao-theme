@@ -6282,9 +6282,9 @@
   ],
   "bangu": [
     {
-      "id": "1906",
-      "label": "1906–1950",
-      "local": "Bangu-1906.png",
+      "id": "1905",
+      "label": "1905–1950",
+      "local": "Bangu-1905.png",
       "vetorizar": "alfa",
       "nitido": true,
       "sobrepor": 1,
@@ -6297,21 +6297,264 @@
       ]
     },
     {
-      "id": "1949",
-      "label": "1949–1956",
-      "local": "Bangu-1949.png",
+      "id": "1950",
+      "label": "1950–1952",
+      "local": "Bangu-1950-1952.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
       "escala": 4,
-      "suavidade": 1.2,
+      "suavidade": 6.0,
       "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#f4f4f0",
-        "#f70400",
-        "#46423a"
+        "#d83030",
+        "#f4f4f4"
       ]
+    },
+    {
+      "id": "1952",
+      "label": "1952–1953",
+      "local": "Bangu-1952-1953.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83030",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1953",
+      "label": "1953–1954",
+      "local": "Bangu-1953-1954.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f00000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1954",
+      "label": "1954–1955",
+      "local": "Bangu-1954-1955.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f00000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1955",
+      "label": "1955–1956",
+      "local": "Bangu-1955-1956.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#d80000"
+      ]
+    },
+    {
+      "id": "1956",
+      "label": "1956–1958",
+      "local": "Bangu-1956-1958.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d81818",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1958",
+      "label": "1958–1959",
+      "local": "Bangu-1958-1959.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d81818",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1959",
+      "label": "1959–1964",
+      "local": "Bangu-1959-1964.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d81818",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1964",
+      "label": "1964–1970",
+      "local": "Bangu-1964-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d81818",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1980",
+      "local": "Bangu-1970-1980.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d80000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1980",
+      "label": "1980–1991",
+      "local": "Bangu-1980-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d80000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1991",
+      "label": "1991–2000",
+      "local": "Bangu-1991-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#c01818",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2007",
+      "local": "Bangu-2000-2007.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#c01818",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2007",
+      "label": "2007–2008",
+      "local": "Bangu-2007-2008.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d81818",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2008",
+      "label": "2008–2012",
+      "local": "Bangu-2008-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#c03018",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2019",
+      "local": "Bangu-2012.svg"
     }
   ],
   "ituano": [
