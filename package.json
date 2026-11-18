@@ -2127,19 +2127,89 @@
         "path": "./icons/athletico-pr/icon-theme.json"
       },
       {
+        "id": "brasileirao-athletico-pr-1912i",
+        "label": "Brasileirão: Athletico-PR (retrô 1912–1924)",
+        "path": "./icons/athletico-pr/icon-theme-1912i.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-1914a",
+        "label": "Brasileirão: Athletico-PR (retrô 1914–1920)",
+        "path": "./icons/athletico-pr/icon-theme-1914a.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-1920a",
+        "label": "Brasileirão: Athletico-PR (retrô 1920–1924)",
+        "path": "./icons/athletico-pr/icon-theme-1920a.json"
+      },
+      {
         "id": "brasileirao-athletico-pr-1924",
         "label": "Brasileirão: Athletico-PR (retrô 1924–1936)",
         "path": "./icons/athletico-pr/icon-theme-1924.json"
       },
       {
         "id": "brasileirao-athletico-pr-1936",
-        "label": "Brasileirão: Athletico-PR (retrô 1936–1944)",
+        "label": "Brasileirão: Athletico-PR (retrô 1936–1937)",
         "path": "./icons/athletico-pr/icon-theme-1936.json"
       },
       {
+        "id": "brasileirao-athletico-pr-1937",
+        "label": "Brasileirão: Athletico-PR (retrô 1937–1938)",
+        "path": "./icons/athletico-pr/icon-theme-1937.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-1938",
+        "label": "Brasileirão: Athletico-PR (retrô 1938–1945)",
+        "path": "./icons/athletico-pr/icon-theme-1938.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-1945",
+        "label": "Brasileirão: Athletico-PR (retrô 1945–1948)",
+        "path": "./icons/athletico-pr/icon-theme-1945.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-1948",
+        "label": "Brasileirão: Athletico-PR (retrô 1948–1950)",
+        "path": "./icons/athletico-pr/icon-theme-1948.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-1950",
+        "label": "Brasileirão: Athletico-PR (retrô 1950–1970)",
+        "path": "./icons/athletico-pr/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-1970",
+        "label": "Brasileirão: Athletico-PR (retrô 1970–1989)",
+        "path": "./icons/athletico-pr/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-1990",
+        "label": "Brasileirão: Athletico-PR (retrô 1990–1997)",
+        "path": "./icons/athletico-pr/icon-theme-1990.json"
+      },
+      {
         "id": "brasileirao-athletico-pr-1997",
-        "label": "Brasileirão: Athletico-PR (retrô 1997–2018)",
+        "label": "Brasileirão: Athletico-PR (retrô 1997–2001)",
         "path": "./icons/athletico-pr/icon-theme-1997.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-2001",
+        "label": "Brasileirão: Athletico-PR (retrô 2001–2002)",
+        "path": "./icons/athletico-pr/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-2003",
+        "label": "Brasileirão: Athletico-PR (retrô 2003–2012)",
+        "path": "./icons/athletico-pr/icon-theme-2003.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-2012",
+        "label": "Brasileirão: Athletico-PR (retrô 2012–2018)",
+        "path": "./icons/athletico-pr/icon-theme-2012.json"
+      },
+      {
+        "id": "brasileirao-athletico-pr-2024",
+        "label": "Brasileirão: Athletico-PR (retrô 2024)",
+        "path": "./icons/athletico-pr/icon-theme-2024.json"
       },
       {
         "id": "brasileirao-coritiba",
