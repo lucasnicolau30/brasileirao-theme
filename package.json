@@ -902,9 +902,24 @@
         "path": "./icons/campo-grande/icon-theme.json"
       },
       {
+        "id": "brasileirao-campo-grande-1908",
+        "label": "Brasileirão: Campo Grande (retrô 1908–1920/1925–1935)",
+        "path": "./icons/campo-grande/icon-theme-1908.json"
+      },
+      {
+        "id": "brasileirao-campo-grande-1920",
+        "label": "Brasileirão: Campo Grande (retrô 1920–1925)",
+        "path": "./icons/campo-grande/icon-theme-1920.json"
+      },
+      {
         "id": "brasileirao-campo-grande-1950",
         "label": "Brasileirão: Campo Grande (retrô 1950–1982)",
         "path": "./icons/campo-grande/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-campo-grande-1982",
+        "label": "Brasileirão: Campo Grande (retrô 1982–1984)",
+        "path": "./icons/campo-grande/icon-theme-1982.json"
       },
       {
         "id": "brasileirao-campo-grande-1984",
@@ -920,6 +935,36 @@
         "id": "brasileirao-volta-redonda-1976",
         "label": "Brasileirão: Volta Redonda (retrô 1976–1980)",
         "path": "./icons/volta-redonda/icon-theme-1976.json"
+      },
+      {
+        "id": "brasileirao-volta-redonda-1980",
+        "label": "Brasileirão: Volta Redonda (retrô 1980–1981)",
+        "path": "./icons/volta-redonda/icon-theme-1980.json"
+      },
+      {
+        "id": "brasileirao-volta-redonda-1981",
+        "label": "Brasileirão: Volta Redonda (retrô 1981–1991)",
+        "path": "./icons/volta-redonda/icon-theme-1981.json"
+      },
+      {
+        "id": "brasileirao-volta-redonda-1991",
+        "label": "Brasileirão: Volta Redonda (retrô 1991–2009)",
+        "path": "./icons/volta-redonda/icon-theme-1991.json"
+      },
+      {
+        "id": "brasileirao-volta-redonda-2009",
+        "label": "Brasileirão: Volta Redonda (retrô 2009–2015)",
+        "path": "./icons/volta-redonda/icon-theme-2009.json"
+      },
+      {
+        "id": "brasileirao-volta-redonda-2015",
+        "label": "Brasileirão: Volta Redonda (retrô 2015–2016)",
+        "path": "./icons/volta-redonda/icon-theme-2015.json"
+      },
+      {
+        "id": "brasileirao-volta-redonda-2016",
+        "label": "Brasileirão: Volta Redonda (retrô 2016–2024)",
+        "path": "./icons/volta-redonda/icon-theme-2016.json"
       },
       {
         "id": "brasileirao-olaria",
