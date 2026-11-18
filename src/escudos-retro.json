@@ -6108,18 +6108,129 @@
     {
       "id": "1976",
       "label": "1976–1980",
-      "local": "Volta-Redonda-1976.png",
+      "local": "Volta-Redonda-1976-1980.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
-      "escala": 2,
-      "suavidade": 1.2,
-      "minimo": 100,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#46423a",
-        "#f4f4f0"
+        "#f4f4f4",
+        "#000000"
       ]
+    },
+    {
+      "id": "1980",
+      "label": "1980–1981",
+      "local": "Volta-Redonda-1980-1981.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1981",
+      "label": "1981–1991",
+      "local": "Volta-Redonda-1981-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f0d800"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1991",
+      "label": "1991–2009",
+      "local": "Volta-Redonda-1991-2009.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f0d800",
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2009",
+      "label": "2009–2015",
+      "local": "Volta-Redonda-2009-2015.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f0c000",
+        "#1c1c1c",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2015",
+      "label": "2015–2016",
+      "local": "Volta-Redonda-2015-2016.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#000000",
+        "#f0d800"
+      ]
+    },
+    {
+      "id": "2016",
+      "label": "2016–2024",
+      "local": "Volta-Redonda-2016-2024.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f0c800"
+      ],
+      "contornoClaro": true
     }
   ],
   "avai": [

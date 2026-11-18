@@ -3676,6 +3676,8 @@ const times = [
     slug: "volta-redonda",
     swatch: "🟨⬛⬜",
     uf: "RJ",
+    // Retrôs 1980–1981, 1981–1991 e 2016–2024: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    // Escudo atual: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     crestLabel: "Volta Redonda (desde 2025)",
     bgColored: true,
     titleOrder: ["serieD", "serieC"],
