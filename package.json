@@ -2332,6 +2332,11 @@
         "path": "./icons/operario-pr/icon-theme-1957.json"
       },
       {
+        "id": "brasileirao-operario-pr-1961",
+        "label": "Brasileirão: Operário-PR (retrô 1961–1976)",
+        "path": "./icons/operario-pr/icon-theme-1961.json"
+      },
+      {
         "id": "brasileirao-operario-pr-1976",
         "label": "Brasileirão: Operário-PR (retrô 1976–1979)",
         "path": "./icons/operario-pr/icon-theme-1976.json"
@@ -2355,6 +2360,26 @@
         "id": "brasileirao-operario-pr-2008",
         "label": "Brasileirão: Operário-PR (retrô 2008–2013)",
         "path": "./icons/operario-pr/icon-theme-2008.json"
+      },
+      {
+        "id": "brasileirao-operario-pr-2013",
+        "label": "Brasileirão: Operário-PR (retrô 2013–2015)",
+        "path": "./icons/operario-pr/icon-theme-2013.json"
+      },
+      {
+        "id": "brasileirao-operario-pr-2015",
+        "label": "Brasileirão: Operário-PR (retrô 2015–2016)",
+        "path": "./icons/operario-pr/icon-theme-2015.json"
+      },
+      {
+        "id": "brasileirao-operario-pr-2017",
+        "label": "Brasileirão: Operário-PR (retrô 2017)",
+        "path": "./icons/operario-pr/icon-theme-2017.json"
+      },
+      {
+        "id": "brasileirao-operario-pr-2018",
+        "label": "Brasileirão: Operário-PR (retrô 2018–2025)",
+        "path": "./icons/operario-pr/icon-theme-2018.json"
       },
       {
         "id": "brasileirao-maringa",
