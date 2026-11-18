@@ -122,7 +122,8 @@ const times = [
     slug: "botafogo",
     swatch: "⬛⬜",
     uf: "RJ",
-    crestLabel: "Botafogo (desde 1942)",
+    // Retrôs 1904–1919, 1904–1942 e 1919–1942: as datas se sobrepõem, pois segundo o Logopedia o Club de Regatas Botafogo e o Botafogo Football Club se fundiram em 1942 para formar o Botafogo de Futebol e Regatas.
+    crestLabel: "Botafogo (desde 2012)",
     bgColored: true,
     titleOrder: ["estadual", "libertadores", "brasileirao"],
     titles: {

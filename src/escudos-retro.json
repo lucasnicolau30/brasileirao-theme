@@ -138,16 +138,262 @@
   "botafogo": [
     {
       "id": "1894",
-      "label": "1894–1919",
-      "local": "CRB.png",
-      "vetorizar": "duas-tintas"
+      "label": "1894–1904",
+      "local": "Botafogo-1894-1904.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
     },
     {
       "id": "1904",
+      "label": "1904–1919",
+      "local": "Botafogo-1904-1919.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#c0c0c0"
+      ]
+    },
+    {
+      "id": "1904b",
       "label": "1904–1942",
-      "commons": "BotafogoFC1904.jpg",
-      "vetorizarAuto": true,
-      "limiarFundo": 150
+      "local": "Botafogo-1904-1942.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1919",
+      "label": "1919–1942",
+      "local": "Botafogo-1919-1942.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1942",
+      "label": "1942–1948",
+      "local": "Botafogo-1942-1948.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1948",
+      "label": "1948–1960",
+      "local": "Botafogo-1948-1960.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1960",
+      "label": "1960–1961",
+      "local": "Botafogo-1960-1961.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1961",
+      "label": "1961–1962",
+      "local": "Botafogo-1961-1962.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1962",
+      "label": "1962–1970",
+      "local": "Botafogo-1962-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1981",
+      "local": "Botafogo-1970-1981.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1981",
+      "label": "1981–1990",
+      "local": "Botafogo-1981-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f0c048"
+      ]
+    },
+    {
+      "id": "1990",
+      "label": "1990–1993",
+      "local": "Botafogo-1990-1993.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1993",
+      "label": "1993–1995",
+      "local": "Botafogo-1993-1995.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f0c048"
+      ]
+    },
+    {
+      "id": "1995",
+      "label": "1995–2002",
+      "local": "Botafogo-1995-2002.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f0c048"
+      ]
+    },
+    {
+      "id": "2002",
+      "label": "2002–2012",
+      "local": "Botafogo-2002-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f0c048",
+        "#a8a8a8"
+      ]
     }
   ],
   "vasco": [
