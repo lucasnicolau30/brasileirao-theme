@@ -723,13 +723,48 @@
       },
       {
         "id": "brasileirao-fluminense-1905",
-        "label": "Brasileirão: Fluminense (retrô 1905–1906)",
+        "label": "Brasileirão: Fluminense (retrô 1905–1938)",
         "path": "./icons/fluminense/icon-theme-1905.json"
+      },
+      {
+        "id": "brasileirao-fluminense-1938",
+        "label": "Brasileirão: Fluminense (retrô 1938–1970)",
+        "path": "./icons/fluminense/icon-theme-1938.json"
+      },
+      {
+        "id": "brasileirao-fluminense-1970",
+        "label": "Brasileirão: Fluminense (retrô 1970–1983)",
+        "path": "./icons/fluminense/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-fluminense-1983",
+        "label": "Brasileirão: Fluminense (retrô 1983–2002)",
+        "path": "./icons/fluminense/icon-theme-1983.json"
+      },
+      {
+        "id": "brasileirao-fluminense-2002a",
+        "label": "Brasileirão: Fluminense (retrô 2002)",
+        "path": "./icons/fluminense/icon-theme-2002a.json"
+      },
+      {
+        "id": "brasileirao-fluminense-2002b",
+        "label": "Brasileirão: Fluminense (retrô 2002–2010)",
+        "path": "./icons/fluminense/icon-theme-2002b.json"
+      },
+      {
+        "id": "brasileirao-fluminense-2010",
+        "label": "Brasileirão: Fluminense (retrô 2010–2011)",
+        "path": "./icons/fluminense/icon-theme-2010.json"
       },
       {
         "id": "brasileirao-fluminense-2011",
         "label": "Brasileirão: Fluminense (retrô 2011–2012)",
         "path": "./icons/fluminense/icon-theme-2011.json"
+      },
+      {
+        "id": "brasileirao-fluminense-2012",
+        "label": "Brasileirão: Fluminense (retrô 2012–2015)",
+        "path": "./icons/fluminense/icon-theme-2012.json"
       },
       {
         "id": "brasileirao-vasco",
