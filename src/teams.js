@@ -1665,7 +1665,9 @@ const times = [
     slug: "santa-cruz",
     swatch: "⬛🟥⬜",
     uf: "PE",
-    crestLabel: "Santa Cruz (desde 1999)",
+    crestLabel: "Santa Cruz (desde 2014)",
+    // Retrô 1914–1947: símbolo em branco em vez de preto, pois o preto não seria visível no fundo escuro do editor.
+    // Retrôs 1977–1980, 1999–2000 e 2000–2012: borda clara por fora das estrelas, das letras e dos números pretos, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     bgColored: true,
     titles: {
       brasileirao: [],
