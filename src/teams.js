@@ -771,7 +771,13 @@ const times = [
     uf: "PE",
     crestLabel: "Sport (desde 2008)",
     bgColored: true,
-    titleOrder: ["serieB", "copaDoNordeste", "brasileirao", "copaDoBrasil", "estadual"],
+    titleOrder: [
+      "serieB",
+      "copaDoNordeste",
+      "brasileirao",
+      "copaDoBrasil",
+      "estadual",
+    ],
     titles: {
       brasileirao: [1987],
       copaDoBrasil: [2008],
@@ -2427,8 +2433,9 @@ const times = [
     slug: "nautico",
     swatch: "🟥⬜",
     uf: "PE",
-    crestLabel: "Náutico (desde 2010)",
+    crestLabel: "Náutico (desde 2008)",
     bgColored: true,
+    titleOrder: ["estadual", "serieC"],
     titles: {
       brasileirao: [],
       copaDoBrasil: [],

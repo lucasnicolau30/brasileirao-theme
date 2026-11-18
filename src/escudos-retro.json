@@ -4186,13 +4186,103 @@
       ]
     },
     {
+      "id": "1931b",
+      "label": "1931–1942",
+      "local": "Nautico-1931b.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f80000",
+        "#f8f8f8"
+      ]
+    },
+    {
       "id": "1931",
-      "label": "1931–1969",
+      "label": "1942–1969",
       "local": "Nautico-1931.png",
       "vetorizar": "finas",
       "cor": "#f01828",
       "ganho": 1.6,
       "preto": "#000000"
+    },
+    {
+      "id": "1969",
+      "label": "1969–1972",
+      "local": "Nautico-1969.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f8f8f8",
+        "#d83038"
+      ]
+    },
+    {
+      "id": "1972",
+      "label": "1972–1973",
+      "local": "Nautico-1972.svg"
+    },
+    {
+      "id": "1973",
+      "label": "1973–1995",
+      "local": "Nautico-1973.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f01818",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "1995",
+      "label": "1995–2002",
+      "local": "Nautico-1995.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83038",
+        "#f8f8f8"
+      ]
+    },
+    {
+      "id": "2002",
+      "label": "2002–2008",
+      "local": "Nautico-2002.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d83038",
+        "#f8f8f8"
+      ]
     }
   ],
   "atletico-go": [
