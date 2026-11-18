@@ -773,8 +773,13 @@
       },
       {
         "id": "brasileirao-vasco-1898",
-        "label": "Brasileirão: Vasco (retrô 1898–1903)",
+        "label": "Brasileirão: Vasco (retrô 1898–1899)",
         "path": "./icons/vasco/icon-theme-1898.json"
+      },
+      {
+        "id": "brasileirao-vasco-1899",
+        "label": "Brasileirão: Vasco (retrô 1899–1903)",
+        "path": "./icons/vasco/icon-theme-1899.json"
       },
       {
         "id": "brasileirao-vasco-1903",
@@ -783,8 +788,98 @@
       },
       {
         "id": "brasileirao-vasco-1920",
-        "label": "Brasileirão: Vasco (retrô 1920–1921)",
+        "label": "Brasileirão: Vasco (retrô 1920–1943)",
         "path": "./icons/vasco/icon-theme-1920.json"
+      },
+      {
+        "id": "brasileirao-vasco-1923",
+        "label": "Brasileirão: Vasco (retrô 1923–1934)",
+        "path": "./icons/vasco/icon-theme-1923.json"
+      },
+      {
+        "id": "brasileirao-vasco-1934",
+        "label": "Brasileirão: Vasco (retrô 1934–1940)",
+        "path": "./icons/vasco/icon-theme-1934.json"
+      },
+      {
+        "id": "brasileirao-vasco-1940",
+        "label": "Brasileirão: Vasco (retrô 1940–1950)",
+        "path": "./icons/vasco/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-vasco-1943",
+        "label": "Brasileirão: Vasco (retrô 1943–1971)",
+        "path": "./icons/vasco/icon-theme-1943.json"
+      },
+      {
+        "id": "brasileirao-vasco-1950",
+        "label": "Brasileirão: Vasco (retrô 1950–1974)",
+        "path": "./icons/vasco/icon-theme-1950.json"
+      },
+      {
+        "id": "brasileirao-vasco-1971",
+        "label": "Brasileirão: Vasco (retrô 1971–1982)",
+        "path": "./icons/vasco/icon-theme-1971.json"
+      },
+      {
+        "id": "brasileirao-vasco-1974",
+        "label": "Brasileirão: Vasco (retrô 1974–1987)",
+        "path": "./icons/vasco/icon-theme-1974.json"
+      },
+      {
+        "id": "brasileirao-vasco-1982",
+        "label": "Brasileirão: Vasco (retrô 1982–1996)",
+        "path": "./icons/vasco/icon-theme-1982.json"
+      },
+      {
+        "id": "brasileirao-vasco-1987",
+        "label": "Brasileirão: Vasco (retrô 1987–1997)",
+        "path": "./icons/vasco/icon-theme-1987.json"
+      },
+      {
+        "id": "brasileirao-vasco-1996",
+        "label": "Brasileirão: Vasco (retrô 1996–2009)",
+        "path": "./icons/vasco/icon-theme-1996.json"
+      },
+      {
+        "id": "brasileirao-vasco-1997",
+        "label": "Brasileirão: Vasco (retrô 1997–1998)",
+        "path": "./icons/vasco/icon-theme-1997.json"
+      },
+      {
+        "id": "brasileirao-vasco-1998",
+        "label": "Brasileirão: Vasco (retrô 1998–2000)",
+        "path": "./icons/vasco/icon-theme-1998.json"
+      },
+      {
+        "id": "brasileirao-vasco-2000",
+        "label": "Brasileirão: Vasco (retrô 2000–2012)",
+        "path": "./icons/vasco/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-vasco-2009",
+        "label": "Brasileirão: Vasco (retrô 2009–2015)",
+        "path": "./icons/vasco/icon-theme-2009.json"
+      },
+      {
+        "id": "brasileirao-vasco-2012",
+        "label": "Brasileirão: Vasco (retrô 2012–2021)",
+        "path": "./icons/vasco/icon-theme-2012.json"
+      },
+      {
+        "id": "brasileirao-vasco-2015",
+        "label": "Brasileirão: Vasco (retrô 2015–2021)",
+        "path": "./icons/vasco/icon-theme-2015.json"
+      },
+      {
+        "id": "brasileirao-vasco-2021b",
+        "label": "Brasileirão: Vasco (Atual · desde 2021)",
+        "path": "./icons/vasco/icon-theme-2021b.json"
+      },
+      {
+        "id": "brasileirao-vasco-2021",
+        "label": "Brasileirão: Vasco (retrô 2021–2024)",
+        "path": "./icons/vasco/icon-theme-2021.json"
       },
       {
         "id": "brasileirao-botafogo",
