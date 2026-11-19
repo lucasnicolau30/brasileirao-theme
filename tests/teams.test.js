@@ -498,7 +498,7 @@ test('a seção Títulos mostra só as competições em que o time tem título (
     assert.deepEqual(itens('Rio Negro-AM'), ['Estadual']);
     assert.deepEqual(itens('São Raimundo-AM'), ['Estadual']);
     assert.deepEqual(itens('Manaus FC'), ['Estadual']);
-    // O Estadual usa o troféu do estado (estadual-<uf>.png: o Amazonense nos times do Amazonas); estado sem a foto não mostra o Estadual (Goiás e Sport, de Goiás e Pernambuco).
+    // O Estadual usa o troféu do estado (estadual-<uf>.png: o Amazonense nos times do Amazonas); todos os 27 estados têm a foto.
     const b64 = (f) => fs.readFileSync(path.join(root, 'images', 'trofeus', f)).toString('base64');
     for (const time of ['Nacional-AM', 'Amazonas FC', 'Rio Negro-AM', 'São Raimundo-AM', 'Manaus FC']) assert.ok(m.exports.titlesHtml(palettes[`${PREFIX}: ${time}`]).includes(b64('estadual-am.png')), `${time}: deve usar o troféu do Amazonense`);
     // Bangu, o único time menor do Rio: o Estadual dele usa a taça do Carioca (estadual-rj.png).

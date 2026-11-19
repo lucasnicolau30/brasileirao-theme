@@ -1,0 +1,60 @@
+name: Sugerir um time novo / Suggest a new team
+description: Peça a inclusão de um clube na coleção. / Ask for a club to be added to the collection.
+title: "[Time novo] "
+labels: ["time-novo"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Antes de pedir, veja o **escopo** em [Regras e exceções](https://github.com/lucasnicolau30/brasileirao-theme#regras-e-exceções): clubes ativos que disputam ou disputaram as Séries A a D, pelo menos um por estado. Clubes extintos e todos os campeonatos estaduais ficam de fora.
+        Before asking, check the **scope** in the README (Rules and exceptions).
+  - type: input
+    id: clube
+    attributes:
+      label: Clube / Club
+      placeholder: "Ex.: Fast Clube"
+    validations:
+      required: true
+  - type: input
+    id: estado
+    attributes:
+      label: Estado (UF) / State
+      placeholder: "Ex.: AM"
+    validations:
+      required: true
+  - type: dropdown
+    id: divisao
+    attributes:
+      label: Divisão em que joga ou jogou / Division
+      options:
+        - Série A
+        - Série B
+        - Série C
+        - Série D
+        - Só estadual / State league only
+        - Não sei / Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: cores
+    attributes:
+      label: Cores do clube / Club colors
+      description: As cores oficiais (e a fonte, se tiver). / Official colors (and the source, if any).
+    validations:
+      required: false
+  - type: textarea
+    id: escudos
+    attributes:
+      label: Escudos / Crests
+      description: |
+        Links ou imagens do escudo atual e dos antigos, com o período de uso de cada um e a fonte (Logopedia, Wikipédia, site do clube).
+        Links or images of the current and old crests, with the period of each and the source.
+    validations:
+      required: false
+  - type: textarea
+    id: titulos
+    attributes:
+      label: Títulos / Titles
+      description: Títulos de Brasileirão (A a D), Copa do Brasil, Libertadores, Copa do Nordeste, Copa Verde e estadual, com os anos e a fonte. / Titles with years and source.
+    validations:
+      required: false

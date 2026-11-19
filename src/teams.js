@@ -13,7 +13,7 @@
 // secondary   (opcional) segunda cor do time: borda da aba ativa, da barra de atividades e do painel
 // bgPosition  (opcional) posição do escudo no fundo do editor, como em background-position; padrão: calc(50% - 50px) 50%
 // Os 12 grandes (Flamengo, Fluminense, Vasco, Botafogo, Palmeiras, Santos, São Paulo, Corinthians, Cruzeiro, Atlético-MG, Grêmio e Internacional) não mostram títulos de Série B, C nem D (serieB, serieC e serieD ficam []).
-// titles      anos dos títulos de Brasileirão (critério CBF, 1959 em diante; o Flamengo conta também 1987), Copa do Brasil e Libertadores, mais mundial (Intercontinental e Mundial da FIFA), sulAmericana, serieB, serieC e serieD (listas oficiais) copaDoNordeste (só os times do Nordeste têm; Copa do Nordeste 1994 em diante, até 2026) e copaVerde (Copa Verde, de 2014 em diante, até 2026; só os times do Norte e do Centro-Oeste têm) e estadual (o campeonato estadual principal do estado do time, anos como na Wikipédia; só os times menores têm, os 12 grandes ficam com []; o troféu só aparece nos estados que têm a foto em images/trofeus/estadual-<uf>.png), até a temporada 2025 (as de 2026 já decididas entram)
+// titles      anos dos títulos de Brasileirão (critério CBF, 1959 em diante; o Flamengo conta também 1987), Copa do Brasil e Libertadores, mais mundial (Intercontinental e Mundial da FIFA), sulAmericana, serieB, serieC e serieD (listas oficiais) copaDoNordeste (só os times do Nordeste têm; Copa do Nordeste 1994 em diante, até 2026) e copaVerde (Copa Verde, de 2014 em diante, até 2026; só os times do Norte e do Centro-Oeste têm) e estadual (o campeonato estadual principal do estado do time, anos como na Wikipédia; todos os times têm, inclusive os 12 grandes; o troféu usa a foto do estado em images/trofeus/estadual-<uf>.png), até a temporada 2025 (as de 2026 já decididas entram)
 // bgColored  (opcional) true: o escudo atual no fundo do editor fica colorido, como em assets/escudos/fundo/<slug>.svg, em vez da silhueta branca (a extensão não aplica o filtro de branco)
 // crestLabel  nome do escudo atual no seletor; entre parênteses, "desde" o ano em que o desenho atual passou a valer, só quando a fonte é clara (Wikipédia pt e imprensa). Sem data firme, fica só o nome
 // crestUnchanged  (opcional) true: o clube nunca trocou de escudo; sem retrôs, a escolha de escudo antigo avisa isso em vez de "ainda não tem escudos antigos"
@@ -266,15 +266,15 @@ const times = [
     // Retrôs 1914 e 1914–1916, 1940–1942, 1942 e 1942–1951, 1970–1983 e 1976–1983, e 1983–2007 com 1989 e 1999–2002: as datas se sobrepõem, pois segundo o Logopedia houve mais de um escudo nesses períodos.
     crestLabel: "Palmeiras (desde 2017)",
     bgColored: true,
-    titles: {
-      brasileirao: [
-        1960, 1967, 1967, 1969, 1972, 1973, 1993, 1994, 2016, 2018, 2022, 2023,
     titleOrder: [
       "copaDoBrasil",
       "brasileirao",
       "libertadores",
       "estadual",
     ],
+    titles: {
+      brasileirao: [
+        1960, 1967, 1967, 1969, 1972, 1973, 1993, 1994, 2016, 2018, 2022, 2023,
       ],
       copaDoBrasil: [1998, 2012, 2015, 2020],
       libertadores: [1999, 2020, 2021],

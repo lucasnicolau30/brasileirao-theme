@@ -1,0 +1,53 @@
+name: Informação errada ou desatualizada / Wrong or outdated information
+description: Uma data, um título, um escudo ou uma foto de troféu errados, ou um escudo que falta. / A wrong date, title, crest or trophy photo, or a missing crest.
+title: "[Informação] "
+labels: ["dados"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A última verificação dos dados está no topo do README. Correções e escudos novos (atuais ou antigos) entram por aqui.
+        The last data verification date is at the top of the README. Corrections and new crests (current or old) come in through here.
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: O que está errado ou falta? / What is wrong or missing?
+      options:
+        - Data de um escudo antigo / Date of an old crest
+        - Título (ano ou quantidade) / Title (year or count)
+        - Escudo atual errado / Wrong current crest
+        - Escudo antigo errado / Wrong old crest
+        - Escudo atual ou antigo que falta / Missing current or old crest
+        - Foto de troféu errada / Wrong trophy photo
+        - Cor do time / Team color
+        - Outro / Other
+    validations:
+      required: true
+  - type: input
+    id: time
+    attributes:
+      label: Time / Club
+      placeholder: "Ex.: Palmeiras"
+    validations:
+      required: true
+  - type: textarea
+    id: errado
+    attributes:
+      label: O que está errado hoje / What is wrong today
+      description: Diga onde aparece (o período do escudo, a competição e o ano, o troféu...). / Say where it shows up.
+    validations:
+      required: true
+  - type: textarea
+    id: certo
+    attributes:
+      label: Como deveria ser / What it should be
+      description: A data, o título ou a imagem corretos. Anexe a imagem, se for o caso. / The right date, title or image. Attach the image if needed.
+    validations:
+      required: true
+  - type: textarea
+    id: fonte
+    attributes:
+      label: Fonte / Source
+      description: Link (Logopedia, Wikipédia, site do clube, CBF...) ou como você confirmou. / Link or how you confirmed it.
+    validations:
+      required: true

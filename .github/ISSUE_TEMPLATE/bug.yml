@@ -1,0 +1,41 @@
+name: Bug
+description: Algo não funciona na extensão. / Something does not work in the extension.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: o-que
+    attributes:
+      label: O que aconteceu / What happened
+      description: O que você esperava e o que viu. Anexe uma captura de tela, se ajudar. / What you expected and what you saw. Attach a screenshot if it helps.
+    validations:
+      required: true
+  - type: textarea
+    id: passos
+    attributes:
+      label: Como reproduzir / Steps to reproduce
+      placeholder: |
+        1. Escolher o time ...
+        2. Abrir ...
+    validations:
+      required: true
+  - type: input
+    id: time
+    attributes:
+      label: Time (ou "todos") / Team (or "all")
+    validations:
+      required: false
+  - type: input
+    id: versoes
+    attributes:
+      label: Versões / Versions
+      description: Versão da extensão, do VS Code e do sistema. / Extension, VS Code and OS versions.
+      placeholder: "Brasileirão Theme 1.1.0 · VS Code 1.9x · Windows 11"
+    validations:
+      required: true
+  - type: checkboxes
+    id: background
+    attributes:
+      label: O problema é com o escudo de fundo? / Is it about the background crest?
+      options:
+        - label: Sim, e já li a seção "Escudo no fundo do editor" do README. / Yes, and I read the README section.
