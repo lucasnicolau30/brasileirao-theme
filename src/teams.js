@@ -365,7 +365,10 @@ const times = [
     slug: "santos",
     swatch: "⬛⬜",
     uf: "SP",
-    crestLabel: "Santos (desde 2023)",
+    // Retrôs 1913–1915, 1916–1925/1942–1944 e 1918: usados só pelos goleiros (o de 1916–1925/1942–1944 só de 1916 a 1925), segundo o Logopedia.
+    // Retrôs 1916, 1916–1925/1942–1944 e 1918; 1925–1991/1993–1997, 1962–1963, 1968–1991/1993–1997 e 1969–1971; 1991–1994 e 1993–1997; 2000–2007 e 2006: as datas se sobrepõem, pois segundo o Logopedia o clube usou variantes dos escudos nesses períodos.
+    // Retrôs 1913–1915, 1915–1916, 1916–1925/1942–1944, 1918, 1925–1991/1993–1997, 1962–1963, 1968–1991/1993–1997, 1969–1971, 1991–1994, 1993–1997, 1997–2000 e 2000–2007: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    crestLabel: "Santos (desde 2022)",
     bgColored: true,
     titleOrder: [
       "copaDoBrasil",
