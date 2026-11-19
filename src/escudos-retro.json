@@ -1162,22 +1162,234 @@
   ],
   "sao-paulo": [
     {
-      "id": "1930",
-      "label": "1930–1935",
-      "commons": "São Paulo da Floresta logo.png",
-      "vetorizarAuto": true
+      "id": "1900",
+      "label": "1900–1919",
+      "local": "Sao-Paulo-1900-1919.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 3.0,
+      "minimo": 20,
+      "nitidez": 35.0,
+      "vetorizarPaleta": [
+        "#c33129",
+        "#f4f4f4",
+        "#d07670",
+        "#feddd9"
+      ]
     },
     {
-      "id": "1935",
-      "label": "1935–1981",
-      "local": "SaoPaulo-1935.png",
-      "vetorizar": "suave",
+      "id": "1902",
+      "label": "1902–1930",
+      "local": "Sao-Paulo-1902-1930.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
         "#000000",
-        "#ff0000"
+        "#f4f4f4",
+        "#a4a3a4"
       ],
-      "silhueta": "borda",
-      "refinar": true
+      "contornoClaro": true
+    },
+    {
+      "id": "1919",
+      "label": "1919–1930",
+      "local": "Sao-Paulo-1919-1930.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 3.0,
+      "minimo": 20,
+      "nitidez": 35.0,
+      "vetorizarPaleta": [
+        "#da3641",
+        "#f4f4f4",
+        "#f7d2d4"
+      ]
+    },
+    {
+      "id": "1930",
+      "label": "1930–1949",
+      "local": "Sao-Paulo-1930-1949.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#da3540",
+        "#a8a8a8"
+      ]
+    },
+    {
+      "id": "1949",
+      "label": "1949–1977",
+      "local": "Sao-Paulo-1949-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#da3540",
+        "#9a9a9a"
+      ]
+    },
+    {
+      "id": "1977",
+      "label": "1977–1986",
+      "local": "Sao-Paulo-1977-1986.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#da3540",
+        "#969696"
+      ]
+    },
+    {
+      "id": "1986",
+      "label": "1986–1991",
+      "local": "Sao-Paulo-1986-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#da3540",
+        "#989898"
+      ]
+    },
+    {
+      "id": "1991",
+      "label": "1991–1993",
+      "local": "Sao-Paulo-1991-1993.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#da3540",
+        "#949494"
+      ]
+    },
+    {
+      "id": "1993",
+      "label": "1993–1995",
+      "local": "Sao-Paulo-1993-1995.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#da3540",
+        "#919191"
+      ]
+    },
+    {
+      "id": "1995",
+      "label": "1995–2000",
+      "local": "Sao-Paulo-1995-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#da3641",
+        "#fec459",
+        "#aaaaaa"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2005",
+      "local": "Sao-Paulo-2000-2005.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#da3540",
+        "#fec459",
+        "#a2a2a2"
+      ]
+    },
+    {
+      "id": "2010",
+      "label": "2010",
+      "local": "Sao-Paulo-2010.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#da3641",
+        "#f6be57",
+        "#a5a5a5"
+      ]
     }
   ],
   "santos": [

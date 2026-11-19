@@ -310,7 +310,9 @@ const times = [
     slug: "sao-paulo",
     swatch: "🟥⬛⬜",
     uf: "SP",
-    crestLabel: "São Paulo (desde 2006)",
+    // Retrô 1902–1930: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    // Retrôs 1900–1919, 1902–1930 e 1919–1930: as datas se sobrepõem, pois o Club Athletico Paulistano (1900–1930) e a Associação Atlética das Palmeiras (1902–1930) se fundiram em 1930 para formar o São Paulo.
+    crestLabel: "São Paulo (desde 2005)",
     bgColored: true,
     titleOrder: [
       "copaDoBrasil",
