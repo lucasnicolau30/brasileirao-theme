@@ -6823,37 +6823,206 @@
   ],
   "ituano": [
     {
-      "id": "1966",
-      "label": "1966–1977",
-      "local": "Ituano-1966.png",
+      "id": "1947",
+      "label": "1947–1966",
+      "local": "Ituano-1947-1966.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
       "escala": 4,
-      "suavidade": 1.2,
+      "suavidade": 6.0,
       "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#f4f4f0",
-        "#f81d24",
-        "#2d309c"
+        "#e04010",
+        "#f4f4f4",
+        "#300060"
       ]
     },
     {
-      "id": "1977",
-      "label": "1977–1990",
-      "local": "Ituano-1977.jpg",
+      "id": "1966",
+      "label": "1966–1968",
+      "local": "Ituano-1966-1968.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
       "escala": 4,
-      "suavidade": 1.2,
+      "suavidade": 6.0,
       "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#f4f4f0",
-        "#e93f02",
-        "#292f81"
+        "#e04010",
+        "#f4f4f4",
+        "#183078"
+      ]
+    },
+    {
+      "id": "1968",
+      "label": "1968–1972",
+      "local": "Ituano-1968-1972.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#183078",
+        "#e04010",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1972",
+      "label": "1972–1976",
+      "local": "Ituano-1972-1976.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#e04010",
+        "#f4f4f4",
+        "#183078"
+      ]
+    },
+    {
+      "id": "1976",
+      "label": "1976–1978",
+      "local": "Ituano-1976-1978.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#183078",
+        "#f4f4f4",
+        "#e04010"
+      ]
+    },
+    {
+      "id": "1978",
+      "label": "1978–1980",
+      "local": "Ituano-1978-1980.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f00000"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1980",
+      "label": "1980–1982",
+      "local": "Ituano-1980-1982.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f00000"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1982",
+      "label": "1982–1991",
+      "local": "Ituano-1982-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f00000"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1991",
+      "label": "1991–1994",
+      "local": "Ituano-1991-1994.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#e81c24"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1994",
+      "label": "1994–1995",
+      "local": "Ituano-1994-1995.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f00000"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1995",
+      "label": "1995–1999",
+      "local": "Ituano-1995-1999.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f4f4f4",
+        "#000000",
+        "#d80000"
       ]
     }
   ],

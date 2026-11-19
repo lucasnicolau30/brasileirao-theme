@@ -3653,6 +3653,7 @@ const times = [
     slug: "ituano",
     swatch: "⬛🟥⬜",
     uf: "SP",
+    // Retrôs 1978–1980, 1980–1982, 1982–1991, 1991–1994 e 1994–1995: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     crestLabel: "Ituano (desde 1999)",
     bgColored: true,
     titleOrder: ["estadual", "serieC"],
