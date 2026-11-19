@@ -8355,7 +8355,7 @@
   "paulista": [
     {
       "id": "1909",
-      "label": "1909–1910",
+      "label": "1909",
       "local": "Paulista-1909.jpg",
       "vetorizar": "alfa",
       "fundoExterno": true,
@@ -8368,6 +8368,111 @@
       "vetorizarPaleta": [
         "#ffffff",
         "#0c0c0a"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1910",
+      "label": "1910–1912",
+      "local": "Paulista-1910-1912.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1913",
+      "label": "1913–1915",
+      "local": "Paulista-1913-1915.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1916",
+      "label": "1916–1920",
+      "local": "Paulista-1916-1920.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1921",
+      "label": "1921–1925",
+      "local": "Paulista-1921-1925.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1926",
+      "label": "1926–1929",
+      "local": "Paulista-1926-1929.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1930",
+      "label": "1930–1950",
+      "local": "Paulista-1930-1950.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f00000",
+        "#000000",
+        "#f4f4f4",
+        "#f0c000"
       ]
     },
     {
@@ -8387,6 +8492,194 @@
         "#db0415",
         "#000000"
       ]
+    },
+    {
+      "id": "1956",
+      "label": "1956–1960",
+      "local": "Paulista-1956-1960.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f00000"
+      ]
+    },
+    {
+      "id": "1961",
+      "label": "1961–1962",
+      "local": "Paulista-1961-1962.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f00000"
+      ]
+    },
+    {
+      "id": "1963",
+      "label": "1963–1964",
+      "local": "Paulista-1963-1964.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f00000"
+      ]
+    },
+    {
+      "id": "1965",
+      "label": "1965",
+      "local": "Paulista-1965.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#f00000"
+      ]
+    },
+    {
+      "id": "1966",
+      "label": "1966–1986",
+      "local": "Paulista-1966-1986.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f00000",
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1987",
+      "label": "1987–1994",
+      "local": "Paulista-1987-1994.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f00000",
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1995",
+      "label": "1995–1997",
+      "local": "Paulista-1995-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f00000",
+        "#000000",
+        "#f4f4f4",
+        "#1c3c9c"
+      ]
+    },
+    {
+      "id": "1998",
+      "label": "1998–2000",
+      "local": "Paulista-1998-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f00000",
+        "#000000",
+        "#f4f4f4",
+        "#f0c000"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "2001",
+      "label": "2001",
+      "local": "Paulista-2001.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f00000",
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2002",
+      "label": "2002",
+      "local": "Paulista-2002.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f00000",
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2003",
+      "label": "2003–2005",
+      "local": "Paulista-FC-2003-2005.svg"
     }
   ],
   "tombense": [

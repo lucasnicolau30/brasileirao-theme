@@ -2176,7 +2176,8 @@ const times = [
     slug: "paulista",
     swatch: "🟥⬛⬜",
     uf: "SP",
-    crestLabel: "Paulista (desde 2005)",
+    // Retrôs 1909 e 1998–2000: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    crestLabel: "Paulista (desde 2006)",
     bgColored: true,
     titleOrder: ["serieC", "copaDoBrasil"],
     titles: {
