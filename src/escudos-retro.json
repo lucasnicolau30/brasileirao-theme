@@ -4587,14 +4587,94 @@
   "santo-andre": [
     {
       "id": "1967",
-      "label": "1967–1975",
+      "label": "1967",
       "local": "Santo-Andre-1967.png",
       "vetorizar": "alfa",
-      "sobrepor": 0,
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#3b8052",
-        "#f5eb38"
+        "#000000",
+        "#f4f4f4",
+        "#40488a",
+        "#f6e83a",
+        "#3f8055"
       ]
+    },
+    {
+      "id": "1968",
+      "label": "1968–1970",
+      "local": "Santo-Andre-1968-1970.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#3f8055",
+        "#fbeb3c"
+      ]
+    },
+    {
+      "id": "1971",
+      "label": "1971–1974",
+      "local": "Santo-Andre-1971-1974.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#3f8055",
+        "#f6eb38"
+      ]
+    },
+    {
+      "id": "1975",
+      "label": "1975",
+      "local": "Santo-Andre-1975.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#3a2878"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1976",
+      "label": "1976–2004",
+      "local": "Santo-Andre-1976-2004.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101890",
+        "#f4f4f4",
+        "#fadc00",
+        "#0f8f3f"
+      ],
+      "contornoClaro": true
     }
   ],
   "santa-cruz": [

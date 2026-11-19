@@ -1640,7 +1640,9 @@ const times = [
     slug: "santo-andre",
     swatch: "🟦⬜🟨",
     uf: "SP",
-    crestLabel: "Santo André (desde 1975)",
+    // Retrôs 1975 e 1976–2004: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    // Escudo atual: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    crestLabel: "Santo André (desde 2005)",
     bgColored: true,
     titles: {
       brasileirao: [],
