@@ -195,7 +195,7 @@ The data lives in the `titles` field of `src/teams.js`, up to the 2025 season (C
 
 A club's official color doesn't always work as text on a dark background (blues, for instance, look dull). So each club has a main color, used on filled areas, and a lighter version for text.
 
-Six clubs are black and white (Botafogo, Vasco, Corinthians, Santos, Atlético-MG and Ceará). They stand apart by subtle details: the tone of the background and of the white (cool or warm), a light or dark status bar, and the border. In those themes the six bracket levels cycle through three tones instead of six colors.
+Seven themes are black and white (Botafogo, Vasco, Corinthians, Santos, Atlético-MG, Ceará and Ponte Preta). They stand apart by subtle details: the tone of the background and of the white (cool or warm), a light or dark status bar, and the border. In those themes the six bracket levels cycle through three tones instead of six colors.
 
 The terminal and the bottom panel use the same color as the Explorer sidebar.
 
@@ -272,6 +272,8 @@ Each exception has a standardized comment in `src/teams.js`, above the club's cu
 - **Light border on the outside** (a dark crest that would vanish on the editor background), on old crests: Flamengo, São Paulo, Corinthians, Santos, Grêmio, Criciúma, Botafogo-PB, Treze, Santa Cruz, Parnahyba, Piauí, Volta Redonda, Olaria, Macaé, América-RJ, Botafogo-SP, Ponte Preta, Osasco Sporting, União Barbarense, Inter de Limeira, Ituano, União São João, Bragantino, Juventus-SP, Santo André and Paulista. On the current crest: Uberlândia, Athletico-PR, Volta Redonda, Ponte Preta, União São João, Juventus-SP and Santo André.
 - **Current crest with a caveat:** Atlético-AC and Palmas.
 - **No old crests:** Ypiranga-AP, Manaus FC, Altos and Novorizontino.
+- **Used only by goalkeepers:** Santos (1913–1915, 1916–1925/1942–1944 and 1918).
+- **White symbol instead of black** (black would not be visible on the editor background): Santa Cruz, on the 1914–1947 crest.
 - **Others:** Vasco has two current crests (the full one and the cross); Flamengo shows only the monogram in the background; in Paraná the two old crests are those of the clubs that merged in 1989, and the 2000 Série B title (Copa João Havelange) is included by the author's decision.
 
 ## Contributing

@@ -195,7 +195,7 @@ Os dados ficam no campo `titles` de `src/teams.js`, até a temporada 2025 (Copa 
 
 A cor oficial do clube nem sempre serve como texto sobre fundo escuro (os azuis, por exemplo, ficam apagados). Por isso cada time tem a cor principal, usada em áreas preenchidas, e uma versão mais clara para texto.
 
-Seis clubes são preto e branco (Botafogo, Vasco, Corinthians, Santos, Atlético-MG e Ceará). Eles se diferenciam por detalhes sutis: o tom do fundo e do branco (frio ou quente), a barra de status clara ou escura e a borda. Nesses temas os seis níveis de colchete alternam três tons, em vez de seis cores.
+Sete temas são preto e branco (Botafogo, Vasco, Corinthians, Santos, Atlético-MG, Ceará e Ponte Preta). Eles se diferenciam por detalhes sutis: o tom do fundo e do branco (frio ou quente), a barra de status clara ou escura e a borda. Nesses temas os seis níveis de colchete alternam três tons, em vez de seis cores.
 
 O terminal e o painel inferior usam a mesma cor da lateral do explorador.
 
@@ -272,6 +272,8 @@ Cada exceção tem um comentário padronizado em `src/teams.js`, acima do nome d
 - **Borda clara por fora** (escudo escuro que sumiria no fundo do editor), em escudos antigos: Flamengo, São Paulo, Corinthians, Santos, Grêmio, Criciúma, Botafogo-PB, Treze, Santa Cruz, Parnahyba, Piauí, Volta Redonda, Olaria, Macaé, América-RJ, Botafogo-SP, Ponte Preta, Osasco Sporting, União Barbarense, Inter de Limeira, Ituano, União São João, Bragantino, Juventus-SP, Santo André e Paulista. No escudo atual: Uberlândia, Athletico-PR, Volta Redonda, Ponte Preta, União São João, Juventus-SP e Santo André.
 - **Escudo atual com ressalva:** Atlético-AC e Palmas.
 - **Sem escudos antigos:** Ypiranga-AP, Manaus FC, Altos e Novorizontino.
+- **Usados só pelos goleiros:** Santos (1913–1915, 1916–1925/1942–1944 e 1918).
+- **Símbolo em branco em vez de preto** (o preto não seria visível no fundo do editor): Santa Cruz, no escudo de 1914–1947.
 - **Outras:** o Vasco tem dois escudos atuais (o completo e a cruz); o Flamengo mostra só o monograma no fundo; no Paraná os dois retrôs são os escudos dos clubes que se fundiram em 1989, e o título da Série B de 2000 (Copa João Havelange) entra por decisão do autor.
 
 ## Contribuir
