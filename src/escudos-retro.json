@@ -3855,19 +3855,143 @@
   ],
   "bragantino": [
     {
-      "id": "2007",
-      "label": "2007–2019",
-      "local": "CAB-estrelas.png",
+      "id": "1928",
+      "label": "1928–1950",
+      "local": "Bragantino-1928-1950.png",
       "vetorizar": "alfa",
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
-      "escala": 1,
-      "suavidade": 1.5,
-      "minimo": 80,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#f4f4f0",
-        "#f2c200",
-        "#4b4345"
+        "#000000",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1950",
+      "label": "1950–1960",
+      "local": "Bragantino-1950-1960.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1960",
+      "label": "1960–1965",
+      "local": "Bragantino-1960-1965.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1965",
+      "label": "1965–1975",
+      "local": "Bragantino-1965-1975.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1975",
+      "label": "1975–1995",
+      "local": "Bragantino-1975-1995.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1995",
+      "label": "1995",
+      "local": "Bragantino-1995.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1996",
+      "label": "1995–2020",
+      "local": "Bragantino-1995-2020.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 3.0,
+      "minimo": 30,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2007",
+      "label": "2007–2020",
+      "local": "Bragantino-2007-2020.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 3.0,
+      "minimo": 20,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101048",
+        "#f4f4f4",
+        "#d81848",
+        "#f0c000"
       ]
     }
   ],

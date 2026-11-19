@@ -985,6 +985,8 @@ const times = [
     slug: "bragantino",
     swatch: "🟥⬜",
     uf: "SP",
+    // Retrôs 1995–2020 e 2007–2020: as datas se sobrepõem, pois segundo o Logopedia houve dois escudos nesses períodos.
+    // Retrôs 1928–1950 e 1960–1965: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     crestLabel: "Bragantino (desde 2020)",
     bgColored: true,
     titles: {
