@@ -179,7 +179,7 @@ def main():
                 if ext == "svg" and not e.get("vetorizar"):
                     # SVG fornecido pelo dono do projeto: já é vetor e vem com o viewBox ajustado; só é copiado.
                     shutil.copyfile(origem, os.path.join(base, slug, f"{e['id']}.svg"))
-                    creditos.append(f"{slug}/{e['id']}.svg: {e['local']} | fornecido pelo dono do projeto, sem autor nem licença conhecidos{(' | ' + e['nota']) if e.get('nota') else ''}")
+                    creditos.append(f"{slug}/{e['id']}.svg: {e['local']} | {e.get('credito', 'fornecido pelo dono do projeto, sem autor nem licença conhecidos')}{(' | ' + e['nota']) if e.get('nota') else ''}")
                     print("ok", slug, e["id"], "(SVG local)")
                     continue
                 if e.get("vetorizar"):
@@ -219,13 +219,30 @@ def main():
                             tmp = destino + ".tmp.png"
                             sem_fundo_branco(origem, tmp, e.get("limiarFundo", 215))
                             estender_borda(tmp, e.get("bordaPx", 2))
-                            if e.get("nitido"):
+                            if e.get("macio"):
+                                vetorizar_escudo.alfa_cores_macio(tmp, destino, e["vetorizarPaleta"], e.get("sobrepor", 1), e.get("escala", 8), e.get("suavidade", 5.0), e.get("minimo", 40), e.get("nitidez", 40.0))
+                            elif e.get("nitido"):
                                 vetorizar_escudo.alfa_cores_nitido(tmp, destino, e["vetorizarPaleta"], e.get("sobrepor", 1), e.get("escala", 6), e.get("suavidade", 1.2), e.get("minimo", 30))
                             else:
                                 vetorizar_escudo.alfa_cores_para_svg(tmp, destino, e["vetorizarPaleta"], e.get("sobrepor", 0))
                             os.remove(tmp)
                         elif e.get("nitido"):
-                            vetorizar_escudo.alfa_cores_nitido(origem, destino, e["vetorizarPaleta"], e.get("sobrepor", 1), e.get("escala", 6), e.get("suavidade", 1.2), e.get("minimo", 30))
+                            if e.get("bordaPx"):
+                                # PNG transparente com halo semitransparente no contorno: o anel externo vira a cor sólida logo abaixo antes de traçar
+                                tmp = destino + ".tmp.png"
+                                shutil.copyfile(origem, tmp)
+                                estender_borda(tmp, e["bordaPx"])
+                                origem_tracado = tmp
+                            else:
+                                tmp = None
+                                origem_tracado = origem
+                            if e.get("macio"):
+                                # pesos de cor suavizados em vez de cor por ponto: contornos e traços finos lisos (ver alfa_cores_macio)
+                                vetorizar_escudo.alfa_cores_macio(origem_tracado, destino, e["vetorizarPaleta"], e.get("sobrepor", 1), e.get("escala", 8), e.get("suavidade", 5.0), e.get("minimo", 40), e.get("nitidez", 40.0), os.path.join(base, slug, "_originais", e["molde"]) if e.get("molde") else None)
+                            else:
+                                vetorizar_escudo.alfa_cores_nitido(origem_tracado, destino, e["vetorizarPaleta"], e.get("sobrepor", 1), e.get("escala", 6), e.get("suavidade", 1.2), e.get("minimo", 30))
+                            if tmp:
+                                os.remove(tmp)
                         else:
                             vetorizar_escudo.alfa_cores_para_svg(origem, destino, e["vetorizarPaleta"], e.get("sobrepor", 0))
                     elif e["vetorizar"] == "auto":
@@ -252,7 +269,7 @@ def main():
                     for resto in (".png", ".icon.png"):
                         if os.path.exists(os.path.join(base, slug, e["id"] + resto)):
                             os.remove(os.path.join(base, slug, e["id"] + resto))
-                    creditos.append(f"{slug}/{e['id']}.svg: {e['local']} (vetorizado) | fornecido pelo dono do projeto, sem autor nem licença conhecidos{(' | ' + e['nota']) if e.get('nota') else ''}")
+                    creditos.append(f"{slug}/{e['id']}.svg: {e['local']} (vetorizado) | {e.get('credito', 'fornecido pelo dono do projeto, sem autor nem licença conhecidos')}{(' | ' + e['nota']) if e.get('nota') else ''}")
                     print("ok", slug, e["id"], "(vetorizado)")
                     continue
             else:
@@ -316,7 +333,7 @@ def main():
             else:
                 recortar_svg(destino, ii["thumburl"])
             if e.get("local"):
-                creditos.append(f"{slug}/{e['id']}.{destino_ext}: {e['local']} | fornecido pelo dono do projeto, sem autor nem licença conhecidos{(' | ' + e['nota']) if e.get('nota') else ''}")
+                creditos.append(f"{slug}/{e['id']}.{destino_ext}: {e['local']} | {e.get('credito', 'fornecido pelo dono do projeto, sem autor nem licença conhecidos')}{(' | ' + e['nota']) if e.get('nota') else ''}")
                 print("ok", slug, e["id"], "(arquivo local)")
                 continue
             meta = ii.get("extmetadata", {})

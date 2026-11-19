@@ -575,6 +575,49 @@ def alfa_cores_nitido(origem, destino, cores_hex, sobrepor=1, escala=6, suavidad
     return w / h
 
 
+def alfa_cores_macio(origem, destino, cores_hex, sobrepor=1, escala=8, suavidade=5.0, minimo=40, nitidez=40.0, molde=None):
+    """Como alfa_cores_nitido, mas sem decidir a cor de cada ponto de uma vez (o que deixava as bordas e os traços finos tortos em imagens de 200 px):
+    cada ponto da imagem ampliada recebe um PESO por cor da paleta (quanto mais perto da cor, maior; `nitidez` é a tolerância de cor) e esses pesos, e
+    não as cores, são suavizados (gaussiana de `suavidade`, em pixels da imagem ampliada). A camada de cada cor é onde o peso dela passa de metade do
+    que há de opaco, então o antisserrilhado da imagem original vira posição subpixel e o contorno sai liso e contínuo. As camadas vão na ordem da
+    paleta, de baixo para cima; todas menos a última são alargadas `sobrepor` px (do original), como em alfa_cores_nitido.
+    `molde`: imagem com fundo transparente de outro escudo do mesmo clube (o atual) cujo contorno, esticado ao tamanho deste, substitui o contorno da
+    imagem (a cor dos pontos que o molde cobre e a imagem não é a do pixel opaco mais próximo): serve para escudos de mesma forma e contorno ruim."""
+    img = Image.open(origem).convert("RGBA")
+    w0, h0 = img.size
+    grande = img.convert("RGBa").resize((w0 * escala, h0 * escala), Image.LANCZOS).convert("RGBA")
+    rgba = np.array(grande).astype(float)
+    alfa = np.clip(rgba[..., 3] / 255.0, 0, 1)
+    caixa = np.where(alfa > 0.5)
+    l0, l1, c0, c1 = caixa[0].min(), caixa[0].max() + 1, caixa[1].min(), caixa[1].max() + 1
+    rgba, alfa = rgba[l0:l1, c0:c1], alfa[l0:l1, c0:c1]
+    h, w = alfa.shape
+    if molde:
+        m_img = Image.open(molde).convert("RGBA")
+        m_alfa = m_img.getchannel("A")
+        m_alfa = m_alfa.crop(m_alfa.point(lambda x: 255 if x > 8 else 0).getbbox())
+        alfa = np.clip(np.array(m_alfa.resize((w, h), Image.BICUBIC)).astype(float) / 255.0, 0, 1)
+        # cor dos pontos fora da imagem original: a do pixel opaco mais próximo
+        _, (ii, jj) = ndimage.distance_transform_edt(rgba[..., 3] < 128, return_indices=True)
+        rgba = rgba[ii, jj]
+    cores = np.array([[int(x[i:i + 2], 16) for i in (1, 3, 5)] for x in cores_hex], dtype=float)
+    d2 = ((rgba[..., None, :3] - cores[None, None]) ** 2).sum(-1)
+    pesos = np.exp(-(d2 - d2.min(axis=-1, keepdims=True)) / (2 * nitidez ** 2))
+    pesos /= pesos.sum(axis=-1, keepdims=True)
+    liso = lambda m: ndimage.gaussian_filter(m, suavidade)
+    total = liso(alfa)
+    silhueta = total > 0.5
+    interior = ndimage.binary_erosion(silhueta, iterations=max(2, escala))
+    camadas = []
+    for i in range(len(cores_hex)):
+        m = (liso(pesos[..., i] * alfa) > 0.5 * total) & silhueta
+        if i < len(cores_hex) - 1:
+            m = ndimage.binary_dilation(m, iterations=max(1, round(sobrepor * escala))) & interior
+        camadas.append((cores_hex[i], _caminho(m, minimo)))
+    open(destino, "w", encoding="utf8").write(_svg(w, h, camadas))
+    return w / h
+
+
 def sombreado_para_svg(origem, destino, base="#3c3735", vermelho="#e6090b", niveis=12, sigma=1.4, escala=5, limites=(70, 235), alisar=0.0, minimo=60, tracos=0, tracos_alisar=0.8,
                        detalhes=(), detalhe_sigma=0.8, detalhe_alisar=0.8, detalhe_tracos=0, retoques=()):
     """Escudo com sombreado de metal (cinzas e bege) mais um vermelho chapado, como o primeiro escudo do Vitória (PNG com fundo transparente).
