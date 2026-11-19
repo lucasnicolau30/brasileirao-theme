@@ -2081,10 +2081,10 @@
   "Brasileirão: São Paulo": {
     "slug": "sao-paulo",
     "uf": "SP",
-    "crestLabel": "Atual · desde 2006",
-    "crestIcon": "escudo-ca39ae05.svg",
-    "listIcon": "escudo-ca39ae05.svg",
-    "backgroundAspect": 0.75,
+    "crestLabel": "Atual · desde 2005",
+    "crestIcon": "escudo-6cb1ef74.svg",
+    "listIcon": "escudo-6cb1ef74.svg",
+    "backgroundAspect": 0.689,
     "titles": {
       "brasileirao": [
         1977,
@@ -2150,30 +2150,130 @@
     ],
     "retro": [
       {
-        "id": "1930",
-        "label": "1930–1935",
-        "fullLabel": "1930–1935",
+        "id": "1900",
+        "label": "1900–1919",
+        "fullLabel": "1900–1919",
         "atual": false,
-        "file": "retro-1930-ce77c52e.svg",
-        "aspect": 1.079,
-        "icon": "escudo-1930-f765bcbb.svg",
+        "file": "retro-1900-c3546300.svg",
+        "aspect": 1.001,
+        "icon": "escudo-1900-fee2e946.svg",
+        "iconTheme": "brasileirao-sao-paulo-1900"
+      },
+      {
+        "id": "1902",
+        "label": "1902–1930",
+        "fullLabel": "1902–1930",
+        "atual": false,
+        "file": "retro-1902-813f43be.svg",
+        "aspect": 0.86,
+        "icon": "escudo-1902-63d45bb2.svg",
+        "iconTheme": "brasileirao-sao-paulo-1902"
+      },
+      {
+        "id": "1919",
+        "label": "1919–1930",
+        "fullLabel": "1919–1930",
+        "atual": false,
+        "file": "retro-1919-60744640.svg",
+        "aspect": 1,
+        "icon": "escudo-1919-2609e407.svg",
+        "iconTheme": "brasileirao-sao-paulo-1919"
+      },
+      {
+        "id": "1930",
+        "label": "1930–1949",
+        "fullLabel": "1930–1949",
+        "atual": false,
+        "file": "retro-1930-f3c6f1a5.svg",
+        "aspect": 0.991,
+        "icon": "escudo-1930-55c54cd0.svg",
         "iconTheme": "brasileirao-sao-paulo-1930"
       },
       {
-        "id": "1935",
-        "label": "1935–1981",
-        "fullLabel": "1935–1981",
+        "id": "1949",
+        "label": "1949–1977",
+        "fullLabel": "1949–1977",
         "atual": false,
-        "file": "retro-1935-dcd228fa.svg",
-        "aspect": 0.993,
-        "icon": "escudo-1935-b6020a3a.svg",
-        "iconTheme": "brasileirao-sao-paulo-1935"
+        "file": "retro-1949-320a722a.svg",
+        "aspect": 0.941,
+        "icon": "escudo-1949-2f125c31.svg",
+        "iconTheme": "brasileirao-sao-paulo-1949"
+      },
+      {
+        "id": "1977",
+        "label": "1977–1986",
+        "fullLabel": "1977–1986",
+        "atual": false,
+        "file": "retro-1977-90dccd5f.svg",
+        "aspect": 0.974,
+        "icon": "escudo-1977-7d9748d6.svg",
+        "iconTheme": "brasileirao-sao-paulo-1977"
+      },
+      {
+        "id": "1986",
+        "label": "1986–1991",
+        "fullLabel": "1986–1991",
+        "atual": false,
+        "file": "retro-1986-d4e1e1e2.svg",
+        "aspect": 1.023,
+        "icon": "escudo-1986-dc284ef6.svg",
+        "iconTheme": "brasileirao-sao-paulo-1986"
+      },
+      {
+        "id": "1991",
+        "label": "1991–1993",
+        "fullLabel": "1991–1993",
+        "atual": false,
+        "file": "retro-1991-0168009c.svg",
+        "aspect": 1.023,
+        "icon": "escudo-1991-6cb2eead.svg",
+        "iconTheme": "brasileirao-sao-paulo-1991"
+      },
+      {
+        "id": "1993",
+        "label": "1993–1995",
+        "fullLabel": "1993–1995",
+        "atual": false,
+        "file": "retro-1993-d27b5e98.svg",
+        "aspect": 1.023,
+        "icon": "escudo-1993-df6d07a1.svg",
+        "iconTheme": "brasileirao-sao-paulo-1993"
+      },
+      {
+        "id": "1995",
+        "label": "1995–2000",
+        "fullLabel": "1995–2000",
+        "atual": false,
+        "file": "retro-1995-0bb5836e.svg",
+        "aspect": 0.842,
+        "icon": "escudo-1995-a3958f9f.svg",
+        "iconTheme": "brasileirao-sao-paulo-1995"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2005",
+        "fullLabel": "2000–2005",
+        "atual": false,
+        "file": "retro-2000-ce90a04d.svg",
+        "aspect": 0.845,
+        "icon": "escudo-2000-b7edbe49.svg",
+        "iconTheme": "brasileirao-sao-paulo-2000"
+      },
+      {
+        "id": "2010",
+        "label": "2010",
+        "fullLabel": "2010",
+        "atual": false,
+        "file": "retro-2010-0b0b0c31.svg",
+        "aspect": 1,
+        "icon": "escudo-2010-925f4ede.svg",
+        "iconTheme": "brasileirao-sao-paulo-2010"
       }
     ],
     "alternates": [],
     "swatch": "🟥⬛⬜",
     "primary": "#d3112d",
-    "background": "fundo-2d478eca.svg",
+    "background": "fundo-75ab571a.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -2235,10 +2335,10 @@
   "Brasileirão: Santos": {
     "slug": "santos",
     "uf": "SP",
-    "crestLabel": "Atual · desde 2023",
-    "crestIcon": "escudo-0fa92876.svg",
-    "listIcon": "escudo-0fa92876.svg",
-    "backgroundAspect": 0.799,
+    "crestLabel": "Atual · desde 2022",
+    "crestIcon": "escudo-1e0e1e60.svg",
+    "listIcon": "escudo-1e0e1e60.svg",
+    "backgroundAspect": 0.829,
     "titles": {
       "brasileirao": [
         1961,
@@ -2306,46 +2406,176 @@
         "label": "1912–1913",
         "fullLabel": "1912–1913",
         "atual": false,
-        "file": "retro-1912-5401d4e3.svg",
-        "aspect": 1,
-        "icon": "escudo-1912-5364a28c.svg",
+        "file": "retro-1912-1937c8a8.svg",
+        "aspect": 0.964,
+        "icon": "escudo-1912-51467dc1.svg",
         "iconTheme": "brasileirao-santos-1912"
       },
       {
-        "id": "1925",
-        "label": "1925–1942/1944–1968",
-        "fullLabel": "1925–1942/1944–1968",
+        "id": "1913",
+        "label": "1913–1915",
+        "fullLabel": "1913–1915",
         "atual": false,
-        "file": "retro-1925-d3da9431.svg",
-        "aspect": 1.056,
-        "icon": "escudo-1925-27e48b6b.svg",
+        "file": "retro-1913-47578a15.svg",
+        "aspect": 1.001,
+        "icon": "escudo-1913-892cd95f.svg",
+        "iconTheme": "brasileirao-santos-1913"
+      },
+      {
+        "id": "1915",
+        "label": "1915–1916",
+        "fullLabel": "1915–1916",
+        "atual": false,
+        "file": "retro-1915-371cb6a1.svg",
+        "aspect": 0.798,
+        "icon": "escudo-1915-f1861cd9.svg",
+        "iconTheme": "brasileirao-santos-1915"
+      },
+      {
+        "id": "1916a",
+        "label": "1916",
+        "fullLabel": "1916",
+        "atual": false,
+        "file": "retro-1916a-03410e6d.svg",
+        "aspect": 1,
+        "icon": "escudo-1916a-21cb3024.svg",
+        "iconTheme": "brasileirao-santos-1916a"
+      },
+      {
+        "id": "1916b",
+        "label": "1916–1925/1942–1944",
+        "fullLabel": "1916–1925/1942–1944",
+        "atual": false,
+        "file": "retro-1916b-285ba053.svg",
+        "aspect": 0.864,
+        "icon": "escudo-1916b-ac736c13.svg",
+        "iconTheme": "brasileirao-santos-1916b"
+      },
+      {
+        "id": "1918",
+        "label": "1918",
+        "fullLabel": "1918",
+        "atual": false,
+        "file": "retro-1918-678163ba.svg",
+        "aspect": 1.001,
+        "icon": "escudo-1918-3f55199b.svg",
+        "iconTheme": "brasileirao-santos-1918"
+      },
+      {
+        "id": "1925",
+        "label": "1925–1991/1993–1997",
+        "fullLabel": "1925–1991/1993–1997",
+        "atual": false,
+        "file": "retro-1925-9e141497.svg",
+        "aspect": 1.039,
+        "icon": "escudo-1925-27359156.svg",
         "iconTheme": "brasileirao-santos-1925"
       },
       {
-        "id": "1942",
-        "label": "1942–1944",
-        "fullLabel": "1942–1944",
+        "id": "1962",
+        "label": "1962–1963",
+        "fullLabel": "1962–1963",
         "atual": false,
-        "file": "retro-1942-df616314.svg",
-        "aspect": 0.87,
-        "icon": "escudo-1942-2683f0c2.svg",
-        "iconTheme": "brasileirao-santos-1942"
+        "file": "retro-1962-6bf06bce.svg",
+        "aspect": 1.036,
+        "icon": "escudo-1962-1903a0e8.svg",
+        "iconTheme": "brasileirao-santos-1962"
       },
       {
         "id": "1968",
-        "label": "1968–2022",
-        "fullLabel": "1968–2022",
+        "label": "1968–1991/1993–1997",
+        "fullLabel": "1968–1991/1993–1997",
         "atual": false,
-        "file": "retro-1968-92a3ffb6.svg",
-        "aspect": 0.893,
-        "icon": "escudo-1968-10fa9887.svg",
+        "file": "retro-1968-42e32419.svg",
+        "aspect": 0.883,
+        "icon": "escudo-1968-b5130598.svg",
         "iconTheme": "brasileirao-santos-1968"
+      },
+      {
+        "id": "1969",
+        "label": "1969–1971",
+        "fullLabel": "1969–1971",
+        "atual": false,
+        "file": "retro-1969-6fe76847.svg",
+        "aspect": 0.75,
+        "icon": "escudo-1969-9e9ed4a4.svg",
+        "iconTheme": "brasileirao-santos-1969"
+      },
+      {
+        "id": "1991",
+        "label": "1991–1994",
+        "fullLabel": "1991–1994",
+        "atual": false,
+        "file": "retro-1991-1508f7a7.svg",
+        "aspect": 0.816,
+        "icon": "escudo-1991-c93b498f.svg",
+        "iconTheme": "brasileirao-santos-1991"
+      },
+      {
+        "id": "1993",
+        "label": "1993–1997",
+        "fullLabel": "1993–1997",
+        "atual": false,
+        "file": "retro-1993-4b01ee9d.svg",
+        "aspect": 0.692,
+        "icon": "escudo-1993-a812bb58.svg",
+        "iconTheme": "brasileirao-santos-1993"
+      },
+      {
+        "id": "1997",
+        "label": "1997–2000",
+        "fullLabel": "1997–2000",
+        "atual": false,
+        "file": "retro-1997-a5a4fd3e.svg",
+        "aspect": 0.769,
+        "icon": "escudo-1997-019efeac.svg",
+        "iconTheme": "brasileirao-santos-1997"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2007",
+        "fullLabel": "2000–2007",
+        "atual": false,
+        "file": "retro-2000-8e14ff59.svg",
+        "aspect": 0.704,
+        "icon": "escudo-2000-f84528e1.svg",
+        "iconTheme": "brasileirao-santos-2000"
+      },
+      {
+        "id": "2006",
+        "label": "2006",
+        "fullLabel": "2006",
+        "atual": false,
+        "file": "retro-2006-d6736508.svg",
+        "aspect": 1,
+        "icon": "escudo-2006-88de1b58.svg",
+        "iconTheme": "brasileirao-santos-2006"
+      },
+      {
+        "id": "2007",
+        "label": "2007–2022",
+        "fullLabel": "2007–2022",
+        "atual": false,
+        "file": "retro-2007-9447734c.svg",
+        "aspect": 0.804,
+        "icon": "escudo-2007-fee00f60.svg",
+        "iconTheme": "brasileirao-santos-2007"
+      },
+      {
+        "id": "2012",
+        "label": "2012",
+        "fullLabel": "2012",
+        "atual": false,
+        "file": "retro-2012-3f141ed6.svg",
+        "aspect": 0.696,
+        "icon": "escudo-2012-11220cbd.svg",
+        "iconTheme": "brasileirao-santos-2012"
       }
     ],
     "alternates": [],
     "swatch": "⬛⬜",
     "primary": "#f3ead8",
-    "background": "fundo-8098eacc.svg",
+    "background": "fundo-97b052fd.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -2407,10 +2637,10 @@
   "Brasileirão: Corinthians": {
     "slug": "corinthians",
     "uf": "SP",
-    "crestLabel": "Atual · desde 1980",
-    "crestIcon": "escudo-db3a5fb8.svg",
-    "listIcon": "escudo-db3a5fb8.svg",
-    "backgroundAspect": 0.792,
+    "crestLabel": "Atual · desde 2010",
+    "crestIcon": "escudo-70451472.svg",
+    "listIcon": "escudo-70451472.svg",
+    "backgroundAspect": 0.803,
     "titles": {
       "brasileirao": [
         1990,
@@ -2483,30 +2713,160 @@
     ],
     "retro": [
       {
-        "id": "1910",
-        "label": "1910–1914",
-        "fullLabel": "1910–1914",
+        "id": "1912",
+        "label": "1912–1914",
+        "fullLabel": "1912–1914",
         "atual": false,
-        "file": "retro-1910-d6df6e6e.svg",
-        "aspect": 0.728,
-        "icon": "escudo-1910-97cb0004.svg",
-        "iconTheme": "brasileirao-corinthians-1910"
+        "file": "retro-1912-730eb943.svg",
+        "aspect": 0.726,
+        "icon": "escudo-1912-063c34f7.svg",
+        "iconTheme": "brasileirao-corinthians-1912"
       },
       {
-        "id": "1939",
-        "label": "1939–1980",
-        "fullLabel": "1939–1980",
+        "id": "1913a",
+        "label": "1913",
+        "fullLabel": "1913",
         "atual": false,
-        "file": "retro-1939-919977d4.svg",
-        "aspect": 0.819,
-        "icon": "escudo-1939-dfbeb810.svg",
-        "iconTheme": "brasileirao-corinthians-1939"
+        "file": "retro-1913a-72c7d3cf.svg",
+        "aspect": 0.844,
+        "icon": "escudo-1913a-943a0b72.svg",
+        "iconTheme": "brasileirao-corinthians-1913a"
+      },
+      {
+        "id": "1913b",
+        "label": "1913–1916",
+        "fullLabel": "1913–1916",
+        "atual": false,
+        "file": "retro-1913b-1b9d7d7e.svg",
+        "aspect": 0.844,
+        "icon": "escudo-1913b-46328931.svg",
+        "iconTheme": "brasileirao-corinthians-1913b"
+      },
+      {
+        "id": "1914",
+        "label": "1914–1916",
+        "fullLabel": "1914–1916",
+        "atual": false,
+        "file": "retro-1914-9e00d6a7.svg",
+        "aspect": 0.724,
+        "icon": "escudo-1914-c5911a28.svg",
+        "iconTheme": "brasileirao-corinthians-1914"
+      },
+      {
+        "id": "1916",
+        "label": "1916–1919",
+        "fullLabel": "1916–1919",
+        "atual": false,
+        "file": "retro-1916-8ed319e8.svg",
+        "aspect": 0.924,
+        "icon": "escudo-1916-81ee81e0.svg",
+        "iconTheme": "brasileirao-corinthians-1916"
+      },
+      {
+        "id": "1917",
+        "label": "1917–1919",
+        "fullLabel": "1917–1919",
+        "atual": false,
+        "file": "retro-1917-c11111a3.svg",
+        "aspect": 1,
+        "icon": "escudo-1917-f2a5e4fa.svg",
+        "iconTheme": "brasileirao-corinthians-1917"
+      },
+      {
+        "id": "1919",
+        "label": "1919–1940",
+        "fullLabel": "1919–1940",
+        "atual": false,
+        "file": "retro-1919-694a329a.svg",
+        "aspect": 1,
+        "icon": "escudo-1919-1ec15122.svg",
+        "iconTheme": "brasileirao-corinthians-1919"
+      },
+      {
+        "id": "1940",
+        "label": "1940–1980/2026",
+        "fullLabel": "1940–1980/2026",
+        "atual": false,
+        "file": "retro-1940-35ecc7f7.svg",
+        "aspect": 0.824,
+        "icon": "escudo-1940-2f9ba28a.svg",
+        "iconTheme": "brasileirao-corinthians-1940"
+      },
+      {
+        "id": "1980",
+        "label": "1980–1990",
+        "fullLabel": "1980–1990",
+        "atual": false,
+        "file": "retro-1980-0aa451a9.svg",
+        "aspect": 0.793,
+        "icon": "escudo-1980-a61f93ef.svg",
+        "iconTheme": "brasileirao-corinthians-1980"
+      },
+      {
+        "id": "1990",
+        "label": "1990–1998",
+        "fullLabel": "1990–1998",
+        "atual": false,
+        "file": "retro-1990-75e3071c.svg",
+        "aspect": 0.666,
+        "icon": "escudo-1990-c6a503b8.svg",
+        "iconTheme": "brasileirao-corinthians-1990"
+      },
+      {
+        "id": "1998",
+        "label": "1998–1999",
+        "fullLabel": "1998–1999",
+        "atual": false,
+        "file": "retro-1998-f66aabe7.svg",
+        "aspect": 0.667,
+        "icon": "escudo-1998-6ae2f554.svg",
+        "iconTheme": "brasileirao-corinthians-1998"
+      },
+      {
+        "id": "1999",
+        "label": "1999–2000",
+        "fullLabel": "1999–2000",
+        "atual": false,
+        "file": "retro-1999-515c4d37.svg",
+        "aspect": 0.656,
+        "icon": "escudo-1999-880190c3.svg",
+        "iconTheme": "brasileirao-corinthians-1999"
+      },
+      {
+        "id": "2000",
+        "label": "2000–2005",
+        "fullLabel": "2000–2005",
+        "atual": false,
+        "file": "retro-2000-ab288362.svg",
+        "aspect": 0.645,
+        "icon": "escudo-2000-e6f9827e.svg",
+        "iconTheme": "brasileirao-corinthians-2000"
+      },
+      {
+        "id": "2005",
+        "label": "2005–2009",
+        "fullLabel": "2005–2009",
+        "atual": false,
+        "file": "retro-2005-29c66fa1.svg",
+        "aspect": 0.647,
+        "icon": "escudo-2005-4df93f1d.svg",
+        "iconTheme": "brasileirao-corinthians-2005"
+      },
+      {
+        "id": "2009",
+        "label": "2009–2010",
+        "fullLabel": "2009–2010",
+        "atual": false,
+        "file": "retro-2009-812d9eec.svg",
+        "aspect": 0.623,
+        "icon": "escudo-2009-b9439ddd.svg",
+        "iconTheme": "brasileirao-corinthians-2009"
       }
     ],
     "alternates": [],
     "swatch": "⬛⬜",
     "primary": "#bdbdbd",
-    "background": "fundo-c481b51b.svg",
+    "background": "fundo-ca4a27c5.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -2568,10 +2928,10 @@
   "Brasileirão: Palmeiras": {
     "slug": "palmeiras",
     "uf": "SP",
-    "crestLabel": "Atual · desde 1959",
-    "crestIcon": "escudo-267d8634.svg",
-    "listIcon": "escudo-267d8634.svg",
-    "backgroundAspect": 0.858,
+    "crestLabel": "Atual · desde 2017",
+    "crestIcon": "escudo-8f32b3de.svg",
+    "listIcon": "escudo-8f32b3de.svg",
+    "backgroundAspect": 0.801,
     "titles": {
       "brasileirao": [
         1960,
@@ -2635,32 +2995,208 @@
         2026
       ]
     },
+    "titleOrder": [
+      "copaDoBrasil",
+      "brasileirao",
+      "libertadores",
+      "estadual"
+    ],
     "retro": [
       {
-        "id": "1914",
-        "label": "1914–1942",
-        "fullLabel": "1914–1942",
+        "id": "1914a",
+        "label": "1914",
+        "fullLabel": "1914",
         "atual": false,
-        "file": "retro-1914-a1f84c1d.svg",
+        "file": "retro-1914a-cff5e9fa.svg",
         "aspect": 1,
-        "icon": "escudo-1914-0718955f.svg",
-        "iconTheme": "brasileirao-palmeiras-1914"
+        "icon": "escudo-1914a-40120e88.svg",
+        "iconTheme": "brasileirao-palmeiras-1914a"
+      },
+      {
+        "id": "1914b",
+        "label": "1914–1916",
+        "fullLabel": "1914–1916",
+        "atual": false,
+        "file": "retro-1914b-b6e24ab2.svg",
+        "aspect": 0.785,
+        "icon": "escudo-1914b-84f66835.svg",
+        "iconTheme": "brasileirao-palmeiras-1914b"
       },
       {
         "id": "1916",
         "label": "1916–1917",
         "fullLabel": "1916–1917",
         "atual": false,
-        "file": "retro-1916-b7d71e8c.svg",
-        "aspect": 0.797,
-        "icon": "escudo-1916-9ffbe264.svg",
+        "file": "retro-1916-09143a36.svg",
+        "aspect": 0.751,
+        "icon": "escudo-1916-4b4bd1f3.svg",
         "iconTheme": "brasileirao-palmeiras-1916"
+      },
+      {
+        "id": "1917",
+        "label": "1917–1918",
+        "fullLabel": "1917–1918",
+        "atual": false,
+        "file": "retro-1917-5e3d0bc8.svg",
+        "aspect": 0.759,
+        "icon": "escudo-1917-b4e1b0ea.svg",
+        "iconTheme": "brasileirao-palmeiras-1917"
+      },
+      {
+        "id": "1918",
+        "label": "1918–1938",
+        "fullLabel": "1918–1938",
+        "atual": false,
+        "file": "retro-1918-e711d947.svg",
+        "aspect": 0.96,
+        "icon": "escudo-1918-663d2456.svg",
+        "iconTheme": "brasileirao-palmeiras-1918"
+      },
+      {
+        "id": "1938",
+        "label": "1938–1940",
+        "fullLabel": "1938–1940",
+        "atual": false,
+        "file": "retro-1938-51929554.svg",
+        "aspect": 0.96,
+        "icon": "escudo-1938-ce461ecc.svg",
+        "iconTheme": "brasileirao-palmeiras-1938"
+      },
+      {
+        "id": "1940",
+        "label": "1940–1942",
+        "fullLabel": "1940–1942",
+        "atual": false,
+        "file": "retro-1940-24381fb4.svg",
+        "aspect": 0.96,
+        "icon": "escudo-1940-a209e3b1.svg",
+        "iconTheme": "brasileirao-palmeiras-1940"
+      },
+      {
+        "id": "1942a",
+        "label": "1942",
+        "fullLabel": "1942",
+        "atual": false,
+        "file": "retro-1942a-8556b407.svg",
+        "aspect": 1,
+        "icon": "escudo-1942a-a56f6cb7.svg",
+        "iconTheme": "brasileirao-palmeiras-1942a"
+      },
+      {
+        "id": "1942b",
+        "label": "1942–1951",
+        "fullLabel": "1942–1951",
+        "atual": false,
+        "file": "retro-1942b-68e69193.svg",
+        "aspect": 1,
+        "icon": "escudo-1942b-5cfec0b4.svg",
+        "iconTheme": "brasileirao-palmeiras-1942b"
+      },
+      {
+        "id": "1951",
+        "label": "1951–1959",
+        "fullLabel": "1951–1959",
+        "atual": false,
+        "file": "retro-1951-8ea2c3a1.svg",
+        "aspect": 1,
+        "icon": "escudo-1951-ff942295.svg",
+        "iconTheme": "brasileirao-palmeiras-1951"
+      },
+      {
+        "id": "1959",
+        "label": "1959–1969",
+        "fullLabel": "1959–1969",
+        "atual": false,
+        "file": "retro-1959-abc8b6d0.svg",
+        "aspect": 1,
+        "icon": "escudo-1959-95bbf385.svg",
+        "iconTheme": "brasileirao-palmeiras-1959"
+      },
+      {
+        "id": "1970",
+        "label": "1970–1983",
+        "fullLabel": "1970–1983",
+        "atual": false,
+        "file": "retro-1970-e5e7511a.svg",
+        "aspect": 1,
+        "icon": "escudo-1970-6fc438e5.svg",
+        "iconTheme": "brasileirao-palmeiras-1970"
+      },
+      {
+        "id": "1976",
+        "label": "1976–1983",
+        "fullLabel": "1976–1983",
+        "atual": false,
+        "file": "retro-1976-eebed873.svg",
+        "aspect": 1,
+        "icon": "escudo-1976-00a9d67d.svg",
+        "iconTheme": "brasileirao-palmeiras-1976"
+      },
+      {
+        "id": "1983",
+        "label": "1983–2007",
+        "fullLabel": "1983–2007",
+        "atual": false,
+        "file": "retro-1983-fb972837.svg",
+        "aspect": 0.999,
+        "icon": "escudo-1983-3e7a36ae.svg",
+        "iconTheme": "brasileirao-palmeiras-1983"
+      },
+      {
+        "id": "1989",
+        "label": "1989",
+        "fullLabel": "1989",
+        "atual": false,
+        "file": "retro-1989-cafc816c.svg",
+        "aspect": 0.891,
+        "icon": "escudo-1989-7b164270.svg",
+        "iconTheme": "brasileirao-palmeiras-1989"
+      },
+      {
+        "id": "1999",
+        "label": "1999–2002",
+        "fullLabel": "1999–2002",
+        "atual": false,
+        "file": "retro-1999-cd044476.svg",
+        "aspect": 0.847,
+        "icon": "escudo-1999-346ae427.svg",
+        "iconTheme": "brasileirao-palmeiras-1999"
+      },
+      {
+        "id": "2007",
+        "label": "2007–2012",
+        "fullLabel": "2007–2012",
+        "atual": false,
+        "file": "retro-2007-60aa1b45.svg",
+        "aspect": 1,
+        "icon": "escudo-2007-a4aea174.svg",
+        "iconTheme": "brasileirao-palmeiras-2007"
+      },
+      {
+        "id": "2012",
+        "label": "2012–2017",
+        "fullLabel": "2012–2017",
+        "atual": false,
+        "file": "retro-2012-0db90019.svg",
+        "aspect": 1,
+        "icon": "escudo-2012-f1e1384f.svg",
+        "iconTheme": "brasileirao-palmeiras-2012"
+      },
+      {
+        "id": "2014",
+        "label": "2014",
+        "fullLabel": "2014",
+        "atual": false,
+        "file": "retro-2014-7badc4bf.svg",
+        "aspect": 1.068,
+        "icon": "escudo-2014-7c017536.svg",
+        "iconTheme": "brasileirao-palmeiras-2014"
       }
     ],
     "alternates": [],
     "swatch": "🟩⬜",
     "primary": "#0b7a43",
-    "background": "fundo-2d9df7c9.svg",
+    "background": "fundo-54cbe9d6.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -2722,9 +3258,9 @@
   "Brasileirão: Guarani": {
     "slug": "guarani",
     "uf": "SP",
-    "crestLabel": "Atual · desde 2014",
-    "crestIcon": "escudo-4cd40e00.svg",
-    "listIcon": "escudo-4cd40e00.svg",
+    "crestLabel": "Atual · desde 2020",
+    "crestIcon": "escudo-554d1ab1.svg",
+    "listIcon": "escudo-554d1ab1.svg",
     "backgroundAspect": 0.818,
     "titles": {
       "brasileirao": [
@@ -2749,50 +3285,130 @@
     ],
     "retro": [
       {
+        "id": "1911",
+        "label": "1911–1916",
+        "fullLabel": "1911–1916",
+        "atual": false,
+        "file": "retro-1911-1c017885.svg",
+        "aspect": 0.951,
+        "icon": "escudo-1911-d71bce21.svg",
+        "iconTheme": "brasileirao-guarani-1911"
+      },
+      {
         "id": "1916",
         "label": "1916–1923",
         "fullLabel": "1916–1923",
         "atual": false,
-        "file": "retro-1916-589414b2.svg",
-        "aspect": 0.822,
-        "icon": "escudo-1916-a0d09107.svg",
+        "file": "retro-1916-e6e4e1e5.svg",
+        "aspect": 0.798,
+        "icon": "escudo-1916-450510b0.svg",
         "iconTheme": "brasileirao-guarani-1916"
       },
       {
-        "id": "1929",
-        "label": "1929–1938",
-        "fullLabel": "1929–1938",
+        "id": "1923",
+        "label": "1923–1924",
+        "fullLabel": "1923–1924",
         "atual": false,
-        "file": "retro-1929-f1471793.svg",
-        "aspect": 1,
-        "icon": "escudo-1929-de2a83df.svg",
-        "iconTheme": "brasileirao-guarani-1929"
+        "file": "retro-1923-f3db0b11.svg",
+        "aspect": 0.896,
+        "icon": "escudo-1923-df02daf5.svg",
+        "iconTheme": "brasileirao-guarani-1923"
       },
       {
-        "id": "1949",
-        "label": "1949–1981",
-        "fullLabel": "1949–1981",
+        "id": "1924",
+        "label": "1924–1930",
+        "fullLabel": "1924–1930",
         "atual": false,
-        "file": "retro-1949-ca52f0d5.svg",
+        "file": "retro-1924-0b49b97f.svg",
         "aspect": 1,
-        "icon": "escudo-1949-ecdaadd0.svg",
-        "iconTheme": "brasileirao-guarani-1949"
+        "icon": "escudo-1924-0e764ca7.svg",
+        "iconTheme": "brasileirao-guarani-1924"
+      },
+      {
+        "id": "1930",
+        "label": "1930–1938",
+        "fullLabel": "1930–1938",
+        "atual": false,
+        "file": "retro-1930-7663f57c.svg",
+        "aspect": 1,
+        "icon": "escudo-1930-53dd578e.svg",
+        "iconTheme": "brasileirao-guarani-1930"
+      },
+      {
+        "id": "1938",
+        "label": "1938–1944",
+        "fullLabel": "1938–1944",
+        "atual": false,
+        "file": "retro-1938-34915f86.svg",
+        "aspect": 0.858,
+        "icon": "escudo-1938-c3141dc4.svg",
+        "iconTheme": "brasileirao-guarani-1938"
+      },
+      {
+        "id": "1944",
+        "label": "1944–1978",
+        "fullLabel": "1944–1978",
+        "atual": false,
+        "file": "retro-1944-64547b98.svg",
+        "aspect": 1,
+        "icon": "escudo-1944-62f5b915.svg",
+        "iconTheme": "brasileirao-guarani-1944"
+      },
+      {
+        "id": "1978",
+        "label": "1978–1981",
+        "fullLabel": "1978–1981",
+        "atual": false,
+        "file": "retro-1978-5d6aa852.svg",
+        "aspect": 0.829,
+        "icon": "escudo-1978-527801b0.svg",
+        "iconTheme": "brasileirao-guarani-1978"
       },
       {
         "id": "1981",
-        "label": "1981–2000",
-        "fullLabel": "1981–2000",
+        "label": "1981–1986",
+        "fullLabel": "1981–1986",
         "atual": false,
-        "file": "retro-1981-b4b8f81d.svg",
-        "aspect": 1,
-        "icon": "escudo-1981-ac926a5d.svg",
+        "file": "retro-1981-1453cc7a.svg",
+        "aspect": 0.812,
+        "icon": "escudo-1981-917545e6.svg",
         "iconTheme": "brasileirao-guarani-1981"
+      },
+      {
+        "id": "1986",
+        "label": "1986–2011",
+        "fullLabel": "1986–2011",
+        "atual": false,
+        "file": "retro-1986-3fdaefe6.svg",
+        "aspect": 0.812,
+        "icon": "escudo-1986-a8b1f281.svg",
+        "iconTheme": "brasileirao-guarani-1986"
+      },
+      {
+        "id": "2011",
+        "label": "2011",
+        "fullLabel": "2011",
+        "atual": false,
+        "file": "retro-2011-966f13eb.svg",
+        "aspect": 0.698,
+        "icon": "escudo-2011-d9d75c7c.svg",
+        "iconTheme": "brasileirao-guarani-2011"
+      },
+      {
+        "id": "2012",
+        "label": "2011–2020",
+        "fullLabel": "2011–2020",
+        "atual": false,
+        "file": "retro-2012-1d85649d.svg",
+        "aspect": 0.818,
+        "icon": "escudo-2012-3d7705fc.svg",
+        "iconTheme": "brasileirao-guarani-2012"
       }
     ],
     "alternates": [],
     "swatch": "🟩⬜",
     "primary": "#18a35a",
-    "background": "fundo-79c0ffa1.svg",
+    "background": "fundo-76e07d99.svg",
     "backgroundColored": true,
     "backgroundSize": null,
     "backgroundPosition": "calc(50% - 50px) 50%",
@@ -2854,7 +3470,7 @@
   "Brasileirão: Paulista": {
     "slug": "paulista",
     "uf": "SP",
-    "crestLabel": "Atual · desde 2005",
+    "crestLabel": "Atual · desde 2006",
     "crestIcon": "escudo-7bf78592.svg",
     "listIcon": "escudo-7bf78592.svg",
     "backgroundAspect": 0.694,
@@ -2882,13 +3498,73 @@
     "retro": [
       {
         "id": "1909",
-        "label": "1909–1910",
-        "fullLabel": "1909–1910",
+        "label": "1909",
+        "fullLabel": "1909",
         "atual": false,
-        "file": "retro-1909-802441d5.svg",
-        "aspect": 0.837,
-        "icon": "escudo-1909-77916623.svg",
+        "file": "retro-1909-c06cca9e.svg",
+        "aspect": 0.839,
+        "icon": "escudo-1909-9232b3bd.svg",
         "iconTheme": "brasileirao-paulista-1909"
+      },
+      {
+        "id": "1910",
+        "label": "1910–1912",
+        "fullLabel": "1910–1912",
+        "atual": false,
+        "file": "retro-1910-a045c30b.svg",
+        "aspect": 0.767,
+        "icon": "escudo-1910-4d39fc01.svg",
+        "iconTheme": "brasileirao-paulista-1910"
+      },
+      {
+        "id": "1913",
+        "label": "1913–1915",
+        "fullLabel": "1913–1915",
+        "atual": false,
+        "file": "retro-1913-d8bbdf11.svg",
+        "aspect": 0.988,
+        "icon": "escudo-1913-74196dcf.svg",
+        "iconTheme": "brasileirao-paulista-1913"
+      },
+      {
+        "id": "1916",
+        "label": "1916–1920",
+        "fullLabel": "1916–1920",
+        "atual": false,
+        "file": "retro-1916-0aac904d.svg",
+        "aspect": 0.824,
+        "icon": "escudo-1916-7c18e78d.svg",
+        "iconTheme": "brasileirao-paulista-1916"
+      },
+      {
+        "id": "1921",
+        "label": "1921–1925",
+        "fullLabel": "1921–1925",
+        "atual": false,
+        "file": "retro-1921-925fd53c.svg",
+        "aspect": 1.022,
+        "icon": "escudo-1921-78968f48.svg",
+        "iconTheme": "brasileirao-paulista-1921"
+      },
+      {
+        "id": "1926",
+        "label": "1926–1929",
+        "fullLabel": "1926–1929",
+        "atual": false,
+        "file": "retro-1926-57378a01.svg",
+        "aspect": 1.026,
+        "icon": "escudo-1926-89c4192c.svg",
+        "iconTheme": "brasileirao-paulista-1926"
+      },
+      {
+        "id": "1930",
+        "label": "1930–1950",
+        "fullLabel": "1930–1950",
+        "atual": false,
+        "file": "retro-1930-37b8133b.svg",
+        "aspect": 0.969,
+        "icon": "escudo-1930-8313c821.svg",
+        "iconTheme": "brasileirao-paulista-1930"
       },
       {
         "id": "1951",
@@ -2899,6 +3575,116 @@
         "aspect": 0.925,
         "icon": "escudo-1951-38b4722b.svg",
         "iconTheme": "brasileirao-paulista-1951"
+      },
+      {
+        "id": "1956",
+        "label": "1956–1960",
+        "fullLabel": "1956–1960",
+        "atual": false,
+        "file": "retro-1956-14344f83.svg",
+        "aspect": 0.786,
+        "icon": "escudo-1956-3fae9211.svg",
+        "iconTheme": "brasileirao-paulista-1956"
+      },
+      {
+        "id": "1961",
+        "label": "1961–1962",
+        "fullLabel": "1961–1962",
+        "atual": false,
+        "file": "retro-1961-bd9c3554.svg",
+        "aspect": 0.818,
+        "icon": "escudo-1961-7e12217a.svg",
+        "iconTheme": "brasileirao-paulista-1961"
+      },
+      {
+        "id": "1963",
+        "label": "1963–1964",
+        "fullLabel": "1963–1964",
+        "atual": false,
+        "file": "retro-1963-78b63c73.svg",
+        "aspect": 0.808,
+        "icon": "escudo-1963-fde89eec.svg",
+        "iconTheme": "brasileirao-paulista-1963"
+      },
+      {
+        "id": "1965",
+        "label": "1965",
+        "fullLabel": "1965",
+        "atual": false,
+        "file": "retro-1965-7e4cd8a5.svg",
+        "aspect": 1.082,
+        "icon": "escudo-1965-61fbc835.svg",
+        "iconTheme": "brasileirao-paulista-1965"
+      },
+      {
+        "id": "1966",
+        "label": "1966–1986",
+        "fullLabel": "1966–1986",
+        "atual": false,
+        "file": "retro-1966-0c7616be.svg",
+        "aspect": 0.906,
+        "icon": "escudo-1966-de0ee282.svg",
+        "iconTheme": "brasileirao-paulista-1966"
+      },
+      {
+        "id": "1987",
+        "label": "1987–1994",
+        "fullLabel": "1987–1994",
+        "atual": false,
+        "file": "retro-1987-0f804421.svg",
+        "aspect": 0.872,
+        "icon": "escudo-1987-6c4b05d4.svg",
+        "iconTheme": "brasileirao-paulista-1987"
+      },
+      {
+        "id": "1995",
+        "label": "1995–1997",
+        "fullLabel": "1995–1997",
+        "atual": false,
+        "file": "retro-1995-fc566768.svg",
+        "aspect": 0.872,
+        "icon": "escudo-1995-70c16a6d.svg",
+        "iconTheme": "brasileirao-paulista-1995"
+      },
+      {
+        "id": "1998",
+        "label": "1998–2000",
+        "fullLabel": "1998–2000",
+        "atual": false,
+        "file": "retro-1998-70ba1581.svg",
+        "aspect": 0.756,
+        "icon": "escudo-1998-52318e66.svg",
+        "iconTheme": "brasileirao-paulista-1998"
+      },
+      {
+        "id": "2001",
+        "label": "2001",
+        "fullLabel": "2001",
+        "atual": false,
+        "file": "retro-2001-7309562e.svg",
+        "aspect": 0.839,
+        "icon": "escudo-2001-8b46b36e.svg",
+        "iconTheme": "brasileirao-paulista-2001"
+      },
+      {
+        "id": "2002",
+        "label": "2002",
+        "fullLabel": "2002",
+        "atual": false,
+        "file": "retro-2002-59e5e068.svg",
+        "aspect": 0.837,
+        "icon": "escudo-2002-8976e56e.svg",
+        "iconTheme": "brasileirao-paulista-2002"
+      },
+      {
+        "id": "2003",
+        "label": "2003–2005",
+        "fullLabel": "2003–2005",
+        "atual": false,
+        "file": "retro-2003-135a03c2.svg",
+        "aspect": 0.872,
+        "icon": "escudo-2003-bbc47f00.svg",
+        "iconTheme": "brasileirao-paulista-2003"
       }
     ],
     "alternates": [],

@@ -1232,14 +1232,64 @@
         "path": "./icons/sao-paulo/icon-theme.json"
       },
       {
+        "id": "brasileirao-sao-paulo-1900",
+        "label": "Brasileirão: São Paulo (retrô 1900–1919)",
+        "path": "./icons/sao-paulo/icon-theme-1900.json"
+      },
+      {
+        "id": "brasileirao-sao-paulo-1902",
+        "label": "Brasileirão: São Paulo (retrô 1902–1930)",
+        "path": "./icons/sao-paulo/icon-theme-1902.json"
+      },
+      {
+        "id": "brasileirao-sao-paulo-1919",
+        "label": "Brasileirão: São Paulo (retrô 1919–1930)",
+        "path": "./icons/sao-paulo/icon-theme-1919.json"
+      },
+      {
         "id": "brasileirao-sao-paulo-1930",
-        "label": "Brasileirão: São Paulo (retrô 1930–1935)",
+        "label": "Brasileirão: São Paulo (retrô 1930–1949)",
         "path": "./icons/sao-paulo/icon-theme-1930.json"
       },
       {
-        "id": "brasileirao-sao-paulo-1935",
-        "label": "Brasileirão: São Paulo (retrô 1935–1981)",
-        "path": "./icons/sao-paulo/icon-theme-1935.json"
+        "id": "brasileirao-sao-paulo-1949",
+        "label": "Brasileirão: São Paulo (retrô 1949–1977)",
+        "path": "./icons/sao-paulo/icon-theme-1949.json"
+      },
+      {
+        "id": "brasileirao-sao-paulo-1977",
+        "label": "Brasileirão: São Paulo (retrô 1977–1986)",
+        "path": "./icons/sao-paulo/icon-theme-1977.json"
+      },
+      {
+        "id": "brasileirao-sao-paulo-1986",
+        "label": "Brasileirão: São Paulo (retrô 1986–1991)",
+        "path": "./icons/sao-paulo/icon-theme-1986.json"
+      },
+      {
+        "id": "brasileirao-sao-paulo-1991",
+        "label": "Brasileirão: São Paulo (retrô 1991–1993)",
+        "path": "./icons/sao-paulo/icon-theme-1991.json"
+      },
+      {
+        "id": "brasileirao-sao-paulo-1993",
+        "label": "Brasileirão: São Paulo (retrô 1993–1995)",
+        "path": "./icons/sao-paulo/icon-theme-1993.json"
+      },
+      {
+        "id": "brasileirao-sao-paulo-1995",
+        "label": "Brasileirão: São Paulo (retrô 1995–2000)",
+        "path": "./icons/sao-paulo/icon-theme-1995.json"
+      },
+      {
+        "id": "brasileirao-sao-paulo-2000",
+        "label": "Brasileirão: São Paulo (retrô 2000–2005)",
+        "path": "./icons/sao-paulo/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-sao-paulo-2010",
+        "label": "Brasileirão: São Paulo (retrô 2010)",
+        "path": "./icons/sao-paulo/icon-theme-2010.json"
       },
       {
         "id": "brasileirao-santos",
@@ -1252,19 +1302,84 @@
         "path": "./icons/santos/icon-theme-1912.json"
       },
       {
+        "id": "brasileirao-santos-1913",
+        "label": "Brasileirão: Santos (retrô 1913–1915)",
+        "path": "./icons/santos/icon-theme-1913.json"
+      },
+      {
+        "id": "brasileirao-santos-1915",
+        "label": "Brasileirão: Santos (retrô 1915–1916)",
+        "path": "./icons/santos/icon-theme-1915.json"
+      },
+      {
+        "id": "brasileirao-santos-1916a",
+        "label": "Brasileirão: Santos (retrô 1916)",
+        "path": "./icons/santos/icon-theme-1916a.json"
+      },
+      {
+        "id": "brasileirao-santos-1916b",
+        "label": "Brasileirão: Santos (retrô 1916–1925/1942–1944)",
+        "path": "./icons/santos/icon-theme-1916b.json"
+      },
+      {
+        "id": "brasileirao-santos-1918",
+        "label": "Brasileirão: Santos (retrô 1918)",
+        "path": "./icons/santos/icon-theme-1918.json"
+      },
+      {
         "id": "brasileirao-santos-1925",
-        "label": "Brasileirão: Santos (retrô 1925–1942/1944–1968)",
+        "label": "Brasileirão: Santos (retrô 1925–1991/1993–1997)",
         "path": "./icons/santos/icon-theme-1925.json"
       },
       {
-        "id": "brasileirao-santos-1942",
-        "label": "Brasileirão: Santos (retrô 1942–1944)",
-        "path": "./icons/santos/icon-theme-1942.json"
+        "id": "brasileirao-santos-1962",
+        "label": "Brasileirão: Santos (retrô 1962–1963)",
+        "path": "./icons/santos/icon-theme-1962.json"
       },
       {
         "id": "brasileirao-santos-1968",
-        "label": "Brasileirão: Santos (retrô 1968–2022)",
+        "label": "Brasileirão: Santos (retrô 1968–1991/1993–1997)",
         "path": "./icons/santos/icon-theme-1968.json"
+      },
+      {
+        "id": "brasileirao-santos-1969",
+        "label": "Brasileirão: Santos (retrô 1969–1971)",
+        "path": "./icons/santos/icon-theme-1969.json"
+      },
+      {
+        "id": "brasileirao-santos-1991",
+        "label": "Brasileirão: Santos (retrô 1991–1994)",
+        "path": "./icons/santos/icon-theme-1991.json"
+      },
+      {
+        "id": "brasileirao-santos-1993",
+        "label": "Brasileirão: Santos (retrô 1993–1997)",
+        "path": "./icons/santos/icon-theme-1993.json"
+      },
+      {
+        "id": "brasileirao-santos-1997",
+        "label": "Brasileirão: Santos (retrô 1997–2000)",
+        "path": "./icons/santos/icon-theme-1997.json"
+      },
+      {
+        "id": "brasileirao-santos-2000",
+        "label": "Brasileirão: Santos (retrô 2000–2007)",
+        "path": "./icons/santos/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-santos-2006",
+        "label": "Brasileirão: Santos (retrô 2006)",
+        "path": "./icons/santos/icon-theme-2006.json"
+      },
+      {
+        "id": "brasileirao-santos-2007",
+        "label": "Brasileirão: Santos (retrô 2007–2022)",
+        "path": "./icons/santos/icon-theme-2007.json"
+      },
+      {
+        "id": "brasileirao-santos-2012",
+        "label": "Brasileirão: Santos (retrô 2012)",
+        "path": "./icons/santos/icon-theme-2012.json"
       },
       {
         "id": "brasileirao-corinthians",
@@ -1272,14 +1387,79 @@
         "path": "./icons/corinthians/icon-theme.json"
       },
       {
-        "id": "brasileirao-corinthians-1910",
-        "label": "Brasileirão: Corinthians (retrô 1910–1914)",
-        "path": "./icons/corinthians/icon-theme-1910.json"
+        "id": "brasileirao-corinthians-1912",
+        "label": "Brasileirão: Corinthians (retrô 1912–1914)",
+        "path": "./icons/corinthians/icon-theme-1912.json"
       },
       {
-        "id": "brasileirao-corinthians-1939",
-        "label": "Brasileirão: Corinthians (retrô 1939–1980)",
-        "path": "./icons/corinthians/icon-theme-1939.json"
+        "id": "brasileirao-corinthians-1913a",
+        "label": "Brasileirão: Corinthians (retrô 1913)",
+        "path": "./icons/corinthians/icon-theme-1913a.json"
+      },
+      {
+        "id": "brasileirao-corinthians-1913b",
+        "label": "Brasileirão: Corinthians (retrô 1913–1916)",
+        "path": "./icons/corinthians/icon-theme-1913b.json"
+      },
+      {
+        "id": "brasileirao-corinthians-1914",
+        "label": "Brasileirão: Corinthians (retrô 1914–1916)",
+        "path": "./icons/corinthians/icon-theme-1914.json"
+      },
+      {
+        "id": "brasileirao-corinthians-1916",
+        "label": "Brasileirão: Corinthians (retrô 1916–1919)",
+        "path": "./icons/corinthians/icon-theme-1916.json"
+      },
+      {
+        "id": "brasileirao-corinthians-1917",
+        "label": "Brasileirão: Corinthians (retrô 1917–1919)",
+        "path": "./icons/corinthians/icon-theme-1917.json"
+      },
+      {
+        "id": "brasileirao-corinthians-1919",
+        "label": "Brasileirão: Corinthians (retrô 1919–1940)",
+        "path": "./icons/corinthians/icon-theme-1919.json"
+      },
+      {
+        "id": "brasileirao-corinthians-1940",
+        "label": "Brasileirão: Corinthians (retrô 1940–1980/2026)",
+        "path": "./icons/corinthians/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-corinthians-1980",
+        "label": "Brasileirão: Corinthians (retrô 1980–1990)",
+        "path": "./icons/corinthians/icon-theme-1980.json"
+      },
+      {
+        "id": "brasileirao-corinthians-1990",
+        "label": "Brasileirão: Corinthians (retrô 1990–1998)",
+        "path": "./icons/corinthians/icon-theme-1990.json"
+      },
+      {
+        "id": "brasileirao-corinthians-1998",
+        "label": "Brasileirão: Corinthians (retrô 1998–1999)",
+        "path": "./icons/corinthians/icon-theme-1998.json"
+      },
+      {
+        "id": "brasileirao-corinthians-1999",
+        "label": "Brasileirão: Corinthians (retrô 1999–2000)",
+        "path": "./icons/corinthians/icon-theme-1999.json"
+      },
+      {
+        "id": "brasileirao-corinthians-2000",
+        "label": "Brasileirão: Corinthians (retrô 2000–2005)",
+        "path": "./icons/corinthians/icon-theme-2000.json"
+      },
+      {
+        "id": "brasileirao-corinthians-2005",
+        "label": "Brasileirão: Corinthians (retrô 2005–2009)",
+        "path": "./icons/corinthians/icon-theme-2005.json"
+      },
+      {
+        "id": "brasileirao-corinthians-2009",
+        "label": "Brasileirão: Corinthians (retrô 2009–2010)",
+        "path": "./icons/corinthians/icon-theme-2009.json"
       },
       {
         "id": "brasileirao-palmeiras",
@@ -1287,9 +1467,14 @@
         "path": "./icons/palmeiras/icon-theme.json"
       },
       {
-        "id": "brasileirao-palmeiras-1914",
-        "label": "Brasileirão: Palmeiras (retrô 1914–1942)",
-        "path": "./icons/palmeiras/icon-theme-1914.json"
+        "id": "brasileirao-palmeiras-1914a",
+        "label": "Brasileirão: Palmeiras (retrô 1914)",
+        "path": "./icons/palmeiras/icon-theme-1914a.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1914b",
+        "label": "Brasileirão: Palmeiras (retrô 1914–1916)",
+        "path": "./icons/palmeiras/icon-theme-1914b.json"
       },
       {
         "id": "brasileirao-palmeiras-1916",
@@ -1297,9 +1482,94 @@
         "path": "./icons/palmeiras/icon-theme-1916.json"
       },
       {
+        "id": "brasileirao-palmeiras-1917",
+        "label": "Brasileirão: Palmeiras (retrô 1917–1918)",
+        "path": "./icons/palmeiras/icon-theme-1917.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1918",
+        "label": "Brasileirão: Palmeiras (retrô 1918–1938)",
+        "path": "./icons/palmeiras/icon-theme-1918.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1938",
+        "label": "Brasileirão: Palmeiras (retrô 1938–1940)",
+        "path": "./icons/palmeiras/icon-theme-1938.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1940",
+        "label": "Brasileirão: Palmeiras (retrô 1940–1942)",
+        "path": "./icons/palmeiras/icon-theme-1940.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1942a",
+        "label": "Brasileirão: Palmeiras (retrô 1942)",
+        "path": "./icons/palmeiras/icon-theme-1942a.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1942b",
+        "label": "Brasileirão: Palmeiras (retrô 1942–1951)",
+        "path": "./icons/palmeiras/icon-theme-1942b.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1951",
+        "label": "Brasileirão: Palmeiras (retrô 1951–1959)",
+        "path": "./icons/palmeiras/icon-theme-1951.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1959",
+        "label": "Brasileirão: Palmeiras (retrô 1959–1969)",
+        "path": "./icons/palmeiras/icon-theme-1959.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1970",
+        "label": "Brasileirão: Palmeiras (retrô 1970–1983)",
+        "path": "./icons/palmeiras/icon-theme-1970.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1976",
+        "label": "Brasileirão: Palmeiras (retrô 1976–1983)",
+        "path": "./icons/palmeiras/icon-theme-1976.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1983",
+        "label": "Brasileirão: Palmeiras (retrô 1983–2007)",
+        "path": "./icons/palmeiras/icon-theme-1983.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1989",
+        "label": "Brasileirão: Palmeiras (retrô 1989)",
+        "path": "./icons/palmeiras/icon-theme-1989.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-1999",
+        "label": "Brasileirão: Palmeiras (retrô 1999–2002)",
+        "path": "./icons/palmeiras/icon-theme-1999.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-2007",
+        "label": "Brasileirão: Palmeiras (retrô 2007–2012)",
+        "path": "./icons/palmeiras/icon-theme-2007.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-2012",
+        "label": "Brasileirão: Palmeiras (retrô 2012–2017)",
+        "path": "./icons/palmeiras/icon-theme-2012.json"
+      },
+      {
+        "id": "brasileirao-palmeiras-2014",
+        "label": "Brasileirão: Palmeiras (retrô 2014)",
+        "path": "./icons/palmeiras/icon-theme-2014.json"
+      },
+      {
         "id": "brasileirao-guarani",
         "label": "Brasileirão: Guarani",
         "path": "./icons/guarani/icon-theme.json"
+      },
+      {
+        "id": "brasileirao-guarani-1911",
+        "label": "Brasileirão: Guarani (retrô 1911–1916)",
+        "path": "./icons/guarani/icon-theme-1911.json"
       },
       {
         "id": "brasileirao-guarani-1916",
@@ -1307,19 +1577,54 @@
         "path": "./icons/guarani/icon-theme-1916.json"
       },
       {
-        "id": "brasileirao-guarani-1929",
-        "label": "Brasileirão: Guarani (retrô 1929–1938)",
-        "path": "./icons/guarani/icon-theme-1929.json"
+        "id": "brasileirao-guarani-1923",
+        "label": "Brasileirão: Guarani (retrô 1923–1924)",
+        "path": "./icons/guarani/icon-theme-1923.json"
       },
       {
-        "id": "brasileirao-guarani-1949",
-        "label": "Brasileirão: Guarani (retrô 1949–1981)",
-        "path": "./icons/guarani/icon-theme-1949.json"
+        "id": "brasileirao-guarani-1924",
+        "label": "Brasileirão: Guarani (retrô 1924–1930)",
+        "path": "./icons/guarani/icon-theme-1924.json"
+      },
+      {
+        "id": "brasileirao-guarani-1930",
+        "label": "Brasileirão: Guarani (retrô 1930–1938)",
+        "path": "./icons/guarani/icon-theme-1930.json"
+      },
+      {
+        "id": "brasileirao-guarani-1938",
+        "label": "Brasileirão: Guarani (retrô 1938–1944)",
+        "path": "./icons/guarani/icon-theme-1938.json"
+      },
+      {
+        "id": "brasileirao-guarani-1944",
+        "label": "Brasileirão: Guarani (retrô 1944–1978)",
+        "path": "./icons/guarani/icon-theme-1944.json"
+      },
+      {
+        "id": "brasileirao-guarani-1978",
+        "label": "Brasileirão: Guarani (retrô 1978–1981)",
+        "path": "./icons/guarani/icon-theme-1978.json"
       },
       {
         "id": "brasileirao-guarani-1981",
-        "label": "Brasileirão: Guarani (retrô 1981–2000)",
+        "label": "Brasileirão: Guarani (retrô 1981–1986)",
         "path": "./icons/guarani/icon-theme-1981.json"
+      },
+      {
+        "id": "brasileirao-guarani-1986",
+        "label": "Brasileirão: Guarani (retrô 1986–2011)",
+        "path": "./icons/guarani/icon-theme-1986.json"
+      },
+      {
+        "id": "brasileirao-guarani-2011",
+        "label": "Brasileirão: Guarani (retrô 2011)",
+        "path": "./icons/guarani/icon-theme-2011.json"
+      },
+      {
+        "id": "brasileirao-guarani-2012",
+        "label": "Brasileirão: Guarani (retrô 2011–2020)",
+        "path": "./icons/guarani/icon-theme-2012.json"
       },
       {
         "id": "brasileirao-paulista",
@@ -1328,13 +1633,98 @@
       },
       {
         "id": "brasileirao-paulista-1909",
-        "label": "Brasileirão: Paulista (retrô 1909–1910)",
+        "label": "Brasileirão: Paulista (retrô 1909)",
         "path": "./icons/paulista/icon-theme-1909.json"
+      },
+      {
+        "id": "brasileirao-paulista-1910",
+        "label": "Brasileirão: Paulista (retrô 1910–1912)",
+        "path": "./icons/paulista/icon-theme-1910.json"
+      },
+      {
+        "id": "brasileirao-paulista-1913",
+        "label": "Brasileirão: Paulista (retrô 1913–1915)",
+        "path": "./icons/paulista/icon-theme-1913.json"
+      },
+      {
+        "id": "brasileirao-paulista-1916",
+        "label": "Brasileirão: Paulista (retrô 1916–1920)",
+        "path": "./icons/paulista/icon-theme-1916.json"
+      },
+      {
+        "id": "brasileirao-paulista-1921",
+        "label": "Brasileirão: Paulista (retrô 1921–1925)",
+        "path": "./icons/paulista/icon-theme-1921.json"
+      },
+      {
+        "id": "brasileirao-paulista-1926",
+        "label": "Brasileirão: Paulista (retrô 1926–1929)",
+        "path": "./icons/paulista/icon-theme-1926.json"
+      },
+      {
+        "id": "brasileirao-paulista-1930",
+        "label": "Brasileirão: Paulista (retrô 1930–1950)",
+        "path": "./icons/paulista/icon-theme-1930.json"
       },
       {
         "id": "brasileirao-paulista-1951",
         "label": "Brasileirão: Paulista (retrô 1951–1955)",
         "path": "./icons/paulista/icon-theme-1951.json"
+      },
+      {
+        "id": "brasileirao-paulista-1956",
+        "label": "Brasileirão: Paulista (retrô 1956–1960)",
+        "path": "./icons/paulista/icon-theme-1956.json"
+      },
+      {
+        "id": "brasileirao-paulista-1961",
+        "label": "Brasileirão: Paulista (retrô 1961–1962)",
+        "path": "./icons/paulista/icon-theme-1961.json"
+      },
+      {
+        "id": "brasileirao-paulista-1963",
+        "label": "Brasileirão: Paulista (retrô 1963–1964)",
+        "path": "./icons/paulista/icon-theme-1963.json"
+      },
+      {
+        "id": "brasileirao-paulista-1965",
+        "label": "Brasileirão: Paulista (retrô 1965)",
+        "path": "./icons/paulista/icon-theme-1965.json"
+      },
+      {
+        "id": "brasileirao-paulista-1966",
+        "label": "Brasileirão: Paulista (retrô 1966–1986)",
+        "path": "./icons/paulista/icon-theme-1966.json"
+      },
+      {
+        "id": "brasileirao-paulista-1987",
+        "label": "Brasileirão: Paulista (retrô 1987–1994)",
+        "path": "./icons/paulista/icon-theme-1987.json"
+      },
+      {
+        "id": "brasileirao-paulista-1995",
+        "label": "Brasileirão: Paulista (retrô 1995–1997)",
+        "path": "./icons/paulista/icon-theme-1995.json"
+      },
+      {
+        "id": "brasileirao-paulista-1998",
+        "label": "Brasileirão: Paulista (retrô 1998–2000)",
+        "path": "./icons/paulista/icon-theme-1998.json"
+      },
+      {
+        "id": "brasileirao-paulista-2001",
+        "label": "Brasileirão: Paulista (retrô 2001)",
+        "path": "./icons/paulista/icon-theme-2001.json"
+      },
+      {
+        "id": "brasileirao-paulista-2002",
+        "label": "Brasileirão: Paulista (retrô 2002)",
+        "path": "./icons/paulista/icon-theme-2002.json"
+      },
+      {
+        "id": "brasileirao-paulista-2003",
+        "label": "Brasileirão: Paulista (retrô 2003–2005)",
+        "path": "./icons/paulista/icon-theme-2003.json"
       },
       {
         "id": "brasileirao-santo-andre",
