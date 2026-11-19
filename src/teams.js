@@ -260,11 +260,18 @@ const times = [
     slug: "palmeiras",
     swatch: "🟩⬜",
     uf: "SP",
-    crestLabel: "Palmeiras (desde 1959)",
+    // Retrôs 1914 e 1914–1916, 1940–1942, 1942 e 1942–1951, 1970–1983 e 1976–1983, e 1983–2007 com 1989 e 1999–2002: as datas se sobrepõem, pois segundo o Logopedia houve mais de um escudo nesses períodos.
+    crestLabel: "Palmeiras (desde 2017)",
     bgColored: true,
     titles: {
       brasileirao: [
         1960, 1967, 1967, 1969, 1972, 1973, 1993, 1994, 2016, 2018, 2022, 2023,
+    titleOrder: [
+      "copaDoBrasil",
+      "brasileirao",
+      "libertadores",
+      "estadual",
+    ],
       ],
       copaDoBrasil: [1998, 2012, 2015, 2020],
       libertadores: [1999, 2020, 2021],

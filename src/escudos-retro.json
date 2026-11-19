@@ -823,26 +823,341 @@
   ],
   "palmeiras": [
     {
-      "id": "1914",
-      "label": "1914–1942",
-      "local": "Palestra-Italia-1914.png",
-      "vetorizar": "suave",
+      "id": "1914a",
+      "label": "1914",
+      "local": "Palmeiras-1914.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#e30613",
-        "#fbb903",
-        "#019440"
-      ],
-      "silhueta": "borda"
+        "#167358",
+        "#f4f4f4",
+        "#d03345",
+        "#ebbe4c"
+      ]
+    },
+    {
+      "id": "1914b",
+      "label": "1914–1916",
+      "local": "Palmeiras-1914-1916.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#cf3245",
+        "#f4f4f4",
+        "#000000"
+      ]
     },
     {
       "id": "1916",
       "label": "1916–1917",
-      "local": "Palmeiras-1916.png",
-      "vetorizar": "suave",
+      "local": "Palmeiras-1916-1917.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#e10101"
-      ],
-      "silhueta": "borda"
+        "#d03245",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1917",
+      "label": "1917–1918",
+      "local": "Palmeiras-1917-1918.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#167358",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1918",
+      "label": "1918–1938",
+      "local": "Palmeiras-1918-1938.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#187359",
+        "#f4f4f4",
+        "#d03346"
+      ]
+    },
+    {
+      "id": "1938",
+      "label": "1938–1940",
+      "local": "Palmeiras-1938-1940.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#157358",
+        "#f4f4f4",
+        "#d93540"
+      ]
+    },
+    {
+      "id": "1940",
+      "label": "1940–1942",
+      "local": "Palmeiras-1940-1942.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#157358",
+        "#f4f4f4",
+        "#d93540"
+      ]
+    },
+    {
+      "id": "1942a",
+      "label": "1942",
+      "local": "Palmeiras-1942.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#378864",
+        "#f4f4f4",
+        "#fad660"
+      ]
+    },
+    {
+      "id": "1942b",
+      "label": "1942–1951",
+      "local": "Palmeiras-1942-1951.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#157358",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1951",
+      "label": "1951–1959",
+      "local": "Palmeiras-1951-1959.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#157358",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1959",
+      "label": "1959–1969",
+      "local": "Palmeiras-1959-1969.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#367557",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1970",
+      "label": "1970–1983",
+      "local": "Palmeiras-1970-1983.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#187359",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1976",
+      "label": "1976–1983",
+      "local": "Palmeiras-1976-1983.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#197359",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1983",
+      "label": "1983–2007",
+      "local": "Palmeiras-1983-2007.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#1b7638",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1989",
+      "label": "1989",
+      "local": "Palmeiras-1989.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#1b7638",
+        "#f4f4f4",
+        "#da353e",
+        "#c4c4c4"
+      ]
+    },
+    {
+      "id": "1999",
+      "label": "1999–2002",
+      "local": "Palmeiras-1999-2002.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#1b7638",
+        "#f4f4f4",
+        "#fed55a"
+      ]
+    },
+    {
+      "id": "2007",
+      "label": "2007–2012",
+      "local": "Palmeiras-2007-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#0b7348",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2017",
+      "local": "Palmeiras-2012-2017.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#0b643d",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2014",
+      "label": "2014",
+      "local": "Palmeiras-2014.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#0d3f25",
+        "#f4f4f4",
+        "#e94626",
+        "#f6b62c",
+        "#062916",
+        "#acb1ab"
+      ]
     }
   ],
   "sao-paulo": [
