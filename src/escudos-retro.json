@@ -3873,18 +3873,114 @@
   ],
   "mirassol": [
     {
-      "id": "1964",
-      "label": "1964–1981",
-      "local": "MAC.png",
+      "id": "1925",
+      "label": "1925–1964/1987–1997",
+      "local": "Mirassol-1925-1964e1987-1997.svg"
+    },
+    {
+      "id": "1972",
+      "label": "1972–1978",
+      "local": "Mirassol-1972-1978.png",
       "vetorizar": "alfa",
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
-      "escala": 1,
-      "suavidade": 1.5,
-      "minimo": 80,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#f4f4f0",
-        "#3d4b9a"
+        "#066030",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1978",
+      "label": "1978–1982",
+      "local": "Mirassol_1978-1982.svg"
+    },
+    {
+      "id": "1982",
+      "label": "1982–1985",
+      "local": "Mirassol_1982-1985.svg"
+    },
+    {
+      "id": "1985",
+      "label": "1985–1987",
+      "local": "Mirassol-1985-1987.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 6,
+      "suavidade": 3.0,
+      "minimo": 20,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101010",
+        "#0c8040",
+        "#ffe600"
+      ]
+    },
+    {
+      "id": "1997",
+      "label": "1997–2001",
+      "local": "Mirassol-1997-2001.svg"
+    },
+    {
+      "id": "2001",
+      "label": "2001–2008",
+      "local": "Mirassol-2001-2008.svg"
+    },
+    {
+      "id": "2008",
+      "label": "2008–2012",
+      "local": "Mirassol-2008-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#167038",
+        "#f4e81c"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2015",
+      "local": "Mirassol-2012-2015.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 3.0,
+      "minimo": 30,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#167038",
+        "#f4e81c"
+      ]
+    },
+    {
+      "id": "2015",
+      "label": "2015–2020",
+      "local": "Mirassol-2015-2020.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 3.0,
+      "minimo": 30,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#167038",
+        "#f4e81c"
       ]
     }
   ],

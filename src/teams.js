@@ -1024,7 +1024,8 @@ const times = [
     slug: "mirassol",
     swatch: "🟨🟩",
     uf: "SP",
-    crestLabel: "Mirassol (desde 2023)",
+    // Retrôs 1964–1972: período vazio, pois segundo o Logopedia o Mirassol Futebol Clube e o Grêmio Recreativo Esportivo e Cultura Mirassol se fundiram em 1964 para formar o Mirassol Atlético Clube, que parou as atividades de 1969 a 1972.
+    crestLabel: "Mirassol (desde 2020)",
     bgColored: true,
     titleOrder: ["serieD", "serieC"],
     titles: {
