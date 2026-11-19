@@ -798,27 +798,301 @@
   ],
   "corinthians": [
     {
-      "id": "1910",
-      "label": "1910–1914",
-      "local": "Corinthians-1910.png",
-      "vetorizar": "monocromo",
-      "cor": "#f2f2f2"
+      "id": "1912",
+      "label": "1912–1914",
+      "local": "Corinthians-1912-1914.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
     },
     {
-      "id": "1939",
-      "label": "1939–1980",
-      "local": "Corinthians-1940.jpg",
-      "vetorizar": "suave",
+      "id": "1913a",
+      "label": "1913",
+      "local": "Corinthians-1913.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#a3a2a3"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1913b",
+      "label": "1913–1916",
+      "local": "Corinthians-1913-1916.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#a6a7a6"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1914",
+      "label": "1914–1916",
+      "local": "Corinthians-1914-1916.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#ecdcc7"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1916",
+      "label": "1916–1919",
+      "local": "Corinthians-1916-1919.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#a2a2a2"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1917",
+      "label": "1917–1919",
+      "local": "Corinthians-1917-1919.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#a0a0a0"
+      ]
+    },
+    {
+      "id": "1919",
+      "label": "1919–1940",
+      "local": "Corinthians-1919-1940.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#d63741",
+        "#a3a3a3"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1940",
+      "label": "1940–1980/2026",
+      "local": "Corinthians-1940-1980-2026.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4",
+        "#d93540",
+        "#a7a7a7"
+      ]
+    },
+    {
+      "id": "1980",
+      "label": "1980–1990",
+      "local": "Corinthians-1980-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
       "vetorizarPaleta": [
         "#010101",
-        "#fe001a"
-      ],
-      "silhueta": "borda",
-      "vazarFuros": [
-        "#fe001a"
-      ],
-      "aroDe": "#010101",
-      "refinar": true
+        "#f4f4f4",
+        "#d83842",
+        "#fdd3d6",
+        "#a2a2a2"
+      ]
+    },
+    {
+      "id": "1990",
+      "label": "1990–1998",
+      "local": "Corinthians-1990-1998.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#040404",
+        "#f4f4f4",
+        "#d53f49",
+        "#fdc458",
+        "#fed7d9",
+        "#a4a4a4"
+      ]
+    },
+    {
+      "id": "1998",
+      "label": "1998–1999",
+      "local": "Corinthians-1998-1999.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#030303",
+        "#f4f4f4",
+        "#d73d47",
+        "#fdc458",
+        "#fed7da",
+        "#a4a4a4"
+      ]
+    },
+    {
+      "id": "1999",
+      "label": "1999–2000",
+      "local": "Corinthians-1999-2000.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#030303",
+        "#f4f4f4",
+        "#d73d47",
+        "#fdc458",
+        "#fed5d9",
+        "#a5a5a5"
+      ]
+    },
+    {
+      "id": "2000",
+      "label": "2000–2005",
+      "local": "Corinthians-2000-2005.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#040404",
+        "#f4f4f4",
+        "#d83e47",
+        "#fdc459",
+        "#fed6d9",
+        "#a7a7a6"
+      ]
+    },
+    {
+      "id": "2005",
+      "label": "2005–2009",
+      "local": "Corinthians-2005-2009.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#030303",
+        "#f4f4f4",
+        "#d73e48",
+        "#fcc459",
+        "#fed5d9",
+        "#a8a8a8"
+      ]
+    },
+    {
+      "id": "2009",
+      "label": "2009–2010",
+      "local": "Corinthians-2009-2010.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 1.8,
+      "minimo": 6,
+      "nitidez": 40.0,
+      "vetorizarPaleta": [
+        "#020202",
+        "#f4f4f4",
+        "#d73e48",
+        "#fdc459",
+        "#fed5d9",
+        "#a1a1a0"
+      ]
     }
   ],
   "palmeiras": [

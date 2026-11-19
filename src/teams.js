@@ -210,7 +210,10 @@ const times = [
     slug: "corinthians",
     swatch: "⬛⬜",
     uf: "SP",
-    crestLabel: "Corinthians (desde 1980)",
+    // Retrôs 1910–1912: período vazio, pois segundo o Logopedia o clube, fundado em 1º de setembro de 1910, não teve escudo nos dois primeiros anos.
+    // Retrôs 1913–1916 e 1914–1916, 1916–1919 e 1917–1919: as datas se sobrepõem, pois segundo o Logopedia houve dois escudos nesses períodos.
+    // Retrôs 1912–1914, 1913, 1913–1916, 1914–1916, 1916–1919 e 1919–1940: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    crestLabel: "Corinthians (desde 2010)",
     bgColored: true,
     titleOrder: [
       "copaDoBrasil",
