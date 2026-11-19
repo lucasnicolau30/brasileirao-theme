@@ -1458,7 +1458,7 @@ const times = [
     swatch: "🟩⬜",
     uf: "RS",
     crestLabel: "Juventude (desde 1999)",
-    // Retrôs 1948–1954, 1949–1957, 1950–1954, 1950–1968, 1963–1974 e 1970–1971: as datas se sobrepõem, pois segundo o Logopedia o Esporte Clube Juventude e o Grêmio Esportivo Flamengo se fundiram para formar a Associação Caxias do Sul de Futebol, que encerrou as atividades em 1975.
+    // Retrôs 1948–1954, 1949–1957, 1950–1954, 1950–1968, 1963–1974 e 1970–1971/1975–1997: as datas se sobrepõem, pois segundo o Logopedia o Esporte Clube Juventude e o Grêmio Esportivo Flamengo se fundiram para formar a Associação Caxias do Sul de Futebol, que encerrou as atividades em 1975.
     bgColored: true,
     titleOrder: ["serieB", "copaDoBrasil"],
     titles: {
