@@ -9882,11 +9882,77 @@
   ],
   "uniao-sao-joao": [
     {
-      "id": "1988",
-      "label": "1988–1992",
-      "local": "USJ-1988.jpg",
-      "vetorizar": "monocromo",
-      "cor": "#f2f2f2"
+      "id": "1981",
+      "label": "1981–1991",
+      "local": "USJ-1981-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 10.0,
+      "minimo": 100,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#006030",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1991",
+      "label": "1991–1993",
+      "local": "USJ-1991-1993.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#006018",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1993",
+      "label": "1993–1994",
+      "local": "USJ-1993-1994.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#006030",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1994",
+      "label": "1994–1997",
+      "local": "USJ-1994-1997.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#e83028",
+        "#f4f4f4",
+        "#000000",
+        "#f0f000",
+        "#00a040"
+      ],
+      "contornoClaro": true
     }
   ],
   "inter-de-limeira": [

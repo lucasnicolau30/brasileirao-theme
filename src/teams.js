@@ -1847,6 +1847,7 @@ const times = [
     slug: "uniao-sao-joao",
     swatch: "🟥⬜🟩",
     uf: "SP",
+    // Retrôs 1993–1994 e 1994–1997: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     crestLabel: "União São João (desde 1997)",
     bgColored: true,
     titleOrder: ["serieC", "serieB"],
