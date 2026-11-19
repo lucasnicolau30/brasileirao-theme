@@ -5048,37 +5048,263 @@
   ],
   "portuguesa": [
     {
-      "id": "1920",
-      "label": "1920–1923",
-      "local": "Portuguesa-1920.png",
-      "vetorizar": "suave",
-      "silhueta": "borda",
-      "refinar": true,
+      "id": "1898",
+      "label": "1898–1922/1923",
+      "local": "Portuguesa-1898-1922e1923.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 8,
+      "suavidade": 3.0,
+      "minimo": 30,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
         "#f01010",
-        "#38a848",
-        "#f0f030",
-        "#2878d0"
+        "#f4f4f4"
       ]
     },
     {
-      "id": "2005",
-      "label": "2005–2015",
-      "local": "Portuguesa-2005.png",
+      "id": "1920",
+      "label": "1920–1922",
+      "local": "Portuguesa-1920-1922.png",
       "vetorizar": "alfa",
-      "fundoExterno": true,
-      "limiarFundo": 215,
-      "bordaPx": 0,
+      "silhueta": "borda",
+      "refinar": true,
+      "vetorizarPaleta": [
+        "#000000",
+        "#00923a",
+        "#fa0000",
+        "#f8ec00",
+        "#1a3ca0",
+        "#f4f4f4"
+      ],
       "nitido": true,
+      "macio": true,
       "sobrepor": 1,
       "escala": 4,
-      "suavidade": 1.2,
+      "suavidade": 6.0,
       "minimo": 60,
+      "nitidez": 30.0
+    },
+    {
+      "id": "1922",
+      "label": "1922–1923",
+      "local": "Portuguesa-1922-1923.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#ffffff",
-        "#c81818",
-        "#409038",
-        "#c0a050"
+        "#f4f4f4",
+        "#00600a",
+        "#f30202",
+        "#f6e600",
+        "#1b3aa6",
+        "#000000"
+      ]
+    },
+    {
+      "id": "1923",
+      "label": "1923–1935",
+      "local": "Portuguesa-1923-1935.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 10.0,
+      "minimo": 100,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#e50606",
+        "#f4f4f4",
+        "#068708"
+      ]
+    },
+    {
+      "id": "1935",
+      "label": "1935–1937",
+      "local": "Portuguesa-1935-1937.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#de0605",
+        "#f4f4f4",
+        "#068104"
+      ]
+    },
+    {
+      "id": "1937",
+      "label": "1937–1938",
+      "local": "Portuguesa-1937-1938.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 10.0,
+      "minimo": 100,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#e30706",
+        "#f4f4f4",
+        "#06802e"
+      ]
+    },
+    {
+      "id": "1938",
+      "label": "1938–1943",
+      "local": "Portuguesa-1938-1943.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 10.0,
+      "minimo": 100,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#fb0202",
+        "#f4f4f4",
+        "#056b32"
+      ]
+    },
+    {
+      "id": "1943",
+      "label": "1943–1952",
+      "local": "Portuguesa-1943-1952.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#b6303f",
+        "#f4f4f4",
+        "#18745a"
+      ]
+    },
+    {
+      "id": "1952",
+      "label": "1952–1955",
+      "local": "Portuguesa-1952-1955.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d03245",
+        "#f4f4f4",
+        "#17745a"
+      ]
+    },
+    {
+      "id": "1955",
+      "label": "1955–1973",
+      "local": "Portuguesa-1955-1973.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#167459",
+        "#f4f4f4",
+        "#d03346"
+      ]
+    },
+    {
+      "id": "1973",
+      "label": "1973–1991",
+      "local": "Portuguesa-1973-1991.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#b6303f",
+        "#f4f4f4",
+        "#167359"
+      ]
+    },
+    {
+      "id": "1991",
+      "label": "1991–1996",
+      "local": "Portuguesa-1991-1996.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#da3641",
+        "#f4f4f4",
+        "#177459"
+      ]
+    },
+    {
+      "id": "1996",
+      "label": "1996–2004",
+      "local": "Portuguesa-1996-2004.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 8.0,
+      "minimo": 80,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#cf3345",
+        "#f4f4f4",
+        "#1b765b"
+      ]
+    },
+    {
+      "id": "2004",
+      "label": "2004–2014",
+      "local": "Portuguesa-2004-2014.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#e0b364",
+        "#d03245",
+        "#f4f4f4",
+        "#167359"
       ]
     }
   ],

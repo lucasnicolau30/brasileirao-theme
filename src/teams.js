@@ -1892,7 +1892,8 @@ const times = [
     slug: "portuguesa",
     swatch: "🟩🟥⬜",
     uf: "SP",
-    crestLabel: "Portuguesa (desde 2015)",
+    // Retrôs 1898–1922/1923, 1920–1922 e 1922–1923: as datas se sobrepõem, pois segundo o Logopedia o clube aparece como Associação Portuguesa de Sports (1920–1922), Associação Atlética Mackenzie College (1898–1922; 1923) e Portuguesa-Mackenzie (1922–1923).
+    crestLabel: "Portuguesa (desde 2014)",
     bgColored: true,
     titleOrder: ["estadual", "serieB"],
     titles: {
