@@ -3575,7 +3575,9 @@ const times = [
     slug: "juventus-sp",
     swatch: "🟪⬜",
     uf: "SP",
-    crestLabel: "Juventus-SP (desde 2015)",
+    // Retrôs 1981–1990, 1991–1998 e 1999–2002: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    // Escudo atual: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
+    crestLabel: "Juventus-SP (desde 2022)",
     bgColored: true,
     titleOrder: ["estadual", "serieB"],
     titles: {

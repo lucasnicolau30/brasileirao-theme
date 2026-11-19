@@ -9343,26 +9343,247 @@
   ],
   "juventus-sp": [
     {
-      "id": "1935",
-      "label": "1935–1954",
-      "local": "Juventus-1935.jpg",
-      "vetorizar": "suave",
+      "id": "1924",
+      "label": "1924–1928",
+      "local": "CRCFC-1924-1928.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#832412",
-        "#ffffff"
-      ],
-      "silhueta": "borda"
+        "#101010",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1929",
+      "label": "1929",
+      "local": "CRCFC-1929.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#f04010",
+        "#f4f4f4",
+        "#201c18"
+      ]
+    },
+    {
+      "id": "1930",
+      "label": "1930–1933",
+      "local": "Juventus-SP-1930-1933.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#8a3820",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1933",
+      "label": "1933",
+      "local": "CA-Fiorentino-1933.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#902840",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1934",
+      "label": "1934",
+      "local": "CA-Fiorentino-1934.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#903048",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1935",
+      "label": "1935–1953",
+      "local": "Juventus-SP-1935-1953.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#8a3820",
+        "#f4f4f4"
+      ]
     },
     {
       "id": "1954",
-      "label": "1954–1985",
-      "local": "Juventus-1954.png",
-      "vetorizar": "suave",
+      "label": "1954–1977",
+      "local": "Juventus-SP-1954-1977.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
       "vetorizarPaleta": [
-        "#833329",
-        "#ffffff"
+        "#a82838",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1978",
+      "label": "1978–1980",
+      "local": "Juventus-SP-1978-1980.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#a82838",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1981",
+      "label": "1981–1990",
+      "local": "Juventus-SP-1981-1990.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#480808",
+        "#f4f4f4"
       ],
-      "silhueta": "borda"
+      "contornoClaro": true
+    },
+    {
+      "id": "1991",
+      "label": "1991–1998",
+      "local": "Juventus-SP-1991-1998.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#480808",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1999",
+      "label": "1999–2002",
+      "local": "Juventus-SP-1999-2002.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#480808",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "2003",
+      "label": "2003–2011",
+      "local": "Juventus-SP-2003-2011.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#980838",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2012–2020",
+      "local": "Juventus-SP-2012-2020.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#980838",
+        "#f4f4f4",
+        "#b0b0b0"
+      ]
+    },
+    {
+      "id": "2021",
+      "label": "2021",
+      "local": "Juventus-SP-2021.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#980838",
+        "#f4f4f4"
+      ]
     }
   ],
   "guarany-de-sobral": [
