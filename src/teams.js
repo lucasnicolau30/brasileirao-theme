@@ -3610,6 +3610,7 @@ const times = [
     slug: "inter-de-limeira",
     swatch: "⬛⬜",
     uf: "SP",
+    // Retrô 1913–1926: borda clara por fora, pois o escudo original é escuro e não dá para enxergar no fundo escuro do editor.
     crestLabel: "Inter de Limeira (desde 2003)",
     bgColored: true,
     titleOrder: ["estadual", "serieB"],

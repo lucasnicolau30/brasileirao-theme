@@ -9723,8 +9723,72 @@
   "inter-de-limeira": [
     {
       "id": "1913",
-      "label": "1913–1975",
-      "local": "Inter-1913.svg"
+      "label": "1913–1926",
+      "local": "Inter-de-Limeira-1913-1926.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101010",
+        "#f4f4f4"
+      ],
+      "contornoClaro": true
+    },
+    {
+      "id": "1926",
+      "label": "1926–1940",
+      "local": "Inter-de-Limeira-1926-1940.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101010",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1940",
+      "label": "1940–1972",
+      "local": "Inter-de-Limeira-1940-1972.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101010",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1972",
+      "label": "1972–1986",
+      "local": "Inter-de-Limeira-1972-1986.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#101010",
+        "#f4f4f4"
+      ]
     }
   ],
   "xv-de-piracicaba": [
