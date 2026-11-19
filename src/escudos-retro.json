@@ -9633,8 +9633,30 @@
   ],
   "xv-de-piracicaba": [
     {
-      "id": "1960",
-      "label": "1960–2013",
+      "id": "1913",
+      "label": "1913",
+      "local": "XV-centenario.svg"
+    },
+    {
+      "id": "1913b",
+      "label": "1913–1954",
+      "local": "XV-1913-1954.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1954",
+      "label": "1954–2002",
       "local": "XV-escudo.jpg",
       "vetorizar": "suave",
       "vetorizarPaleta": [
@@ -9644,9 +9666,40 @@
       "silhueta": "borda"
     },
     {
+      "id": "2002",
+      "label": "2002–2012",
+      "local": "XV-2002-2012.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#000000",
+        "#f4f4f4"
+      ]
+    },
+    {
       "id": "2013",
-      "label": "2013–2014",
-      "local": "XV-centenario.svg"
+      "label": "2013",
+      "local": "XV-2013.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#d89048",
+        "#f4f4f4",
+        "#303030",
+        "#181818"
+      ]
     }
   ],
   "uniao-barbarense": [
