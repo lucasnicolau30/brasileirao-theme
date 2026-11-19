@@ -10115,21 +10115,6 @@
       ]
     }
   ],
-  "novorizontino": [
-    {
-      "id": "1973",
-      "label": "1973–1999",
-      "local": "GE-Novorizontino.png",
-      "vetorizar": "alfa",
-      "vetorizarPaleta": [
-        "#000000",
-        "#f4e800",
-        "#ffffff"
-      ],
-      "nitido": true,
-      "sobrepor": 1
-    }
-  ],
   "treze": [
     {
       "id": "1925",

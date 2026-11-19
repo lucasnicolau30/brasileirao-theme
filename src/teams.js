@@ -2129,7 +2129,9 @@ const times = [
     slug: "novorizontino",
     swatch: "⬛🟨",
     uf: "SP",
+    // Sem retrôs: o clube não tem escudos antigos.
     crestLabel: "Novorizontino (desde 2010)",
+    crestUnchanged: true,
     bgColored: true,
     titles: {
       brasileirao: [],
@@ -2138,7 +2140,7 @@ const times = [
       mundial: [],
       sulAmericana: [],
       serieB: [2026],
-      serieC: [1994],
+      serieC: [],
       serieD: [],
       copaDoNordeste: [],
       copaVerde: [],
