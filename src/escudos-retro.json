@@ -1415,23 +1415,7 @@
     {
       "id": "2014",
       "label": "2014",
-      "local": "Palmeiras-2014.png",
-      "vetorizar": "alfa",
-      "nitido": true,
-      "macio": true,
-      "sobrepor": 1,
-      "escala": 8,
-      "suavidade": 1.8,
-      "minimo": 6,
-      "nitidez": 40.0,
-      "vetorizarPaleta": [
-        "#0d3f25",
-        "#f4f4f4",
-        "#e94626",
-        "#f6b62c",
-        "#062916",
-        "#acb1ab"
-      ]
+      "local": "Palmeiras-2014.svg"
     }
   ],
   "sao-paulo": [
