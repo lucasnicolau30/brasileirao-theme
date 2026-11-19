@@ -946,7 +946,7 @@ const times = [
     slug: "guarani",
     swatch: "🟩⬜",
     uf: "SP",
-    crestLabel: "Guarani (desde 2014)",
+    crestLabel: "Guarani (desde 2020)",
     bgColored: true,
     titleOrder: ["serieB", "brasileirao"],
     titles: {

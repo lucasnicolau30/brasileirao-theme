@@ -2637,32 +2637,215 @@
   ],
   "guarani": [
     {
+      "id": "1911",
+      "label": "1911–1916",
+      "local": "Guarani-1911-1916.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#067a3e",
+        "#f4f4f4"
+      ]
+    },
+    {
       "id": "1916",
       "label": "1916–1923",
-      "commons": "Escudo Guarani 1916.png",
-      "modo": "duas-tintas",
-      "tinta": "#105a39"
+      "local": "Guarani-1916-1923.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#0e6d55",
+        "#f4f4f4"
+      ]
     },
     {
-      "id": "1929",
-      "label": "1929–1938",
-      "local": "Guarani-1930.png",
-      "vetorizar": "duas-tintas",
-      "tinta": "#167358"
+      "id": "1923",
+      "label": "1923–1924",
+      "local": "Guarani-1923-1926.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#167359",
+        "#f4f4f4"
+      ]
     },
     {
-      "id": "1949",
-      "label": "1949–1981",
-      "commons": "Escudo Guarani 1949 - 1981.png",
-      "modo": "duas-tintas",
-      "tinta": "#008400"
+      "id": "1924",
+      "label": "1924–1930",
+      "local": "Guarani-1924-1930.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#167358",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1930",
+      "label": "1930–1938",
+      "local": "Guarani-1930-1938.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#197359",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1938",
+      "label": "1938–1944",
+      "local": "Guarani-1938-1944.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#167358",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1944",
+      "label": "1944–1978",
+      "local": "Guarani-1944-1978.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#167358",
+        "#f4f4f4"
+      ]
+    },
+    {
+      "id": "1978",
+      "label": "1978–1981",
+      "local": "Guarani-1978-1981.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#157358",
+        "#f4f4f4"
+      ]
     },
     {
       "id": "1981",
-      "label": "1981–2000",
-      "local": "Guarani-1981.png",
-      "vetorizar": "duas-tintas",
-      "tinta": "#486838"
+      "label": "1981–1986",
+      "local": "Guarani-1981-1986.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#17745a",
+        "#f4f4f4",
+        "#fec459",
+        "#7f7f7f"
+      ]
+    },
+    {
+      "id": "1986",
+      "label": "1986–2011",
+      "local": "Guarani-1986-2011.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#177459",
+        "#f4f4f4",
+        "#fec459",
+        "#7f7f7f"
+      ]
+    },
+    {
+      "id": "2011",
+      "label": "2011",
+      "local": "Guarani-2011.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#1a7358",
+        "#f4f4f4",
+        "#cea65a"
+      ]
+    },
+    {
+      "id": "2012",
+      "label": "2011–2020",
+      "local": "Guarani-2011-2020.png",
+      "vetorizar": "alfa",
+      "nitido": true,
+      "macio": true,
+      "sobrepor": 1,
+      "escala": 4,
+      "suavidade": 6.0,
+      "minimo": 60,
+      "nitidez": 30.0,
+      "vetorizarPaleta": [
+        "#0a624f",
+        "#f4f4f4",
+        "#fdc55a",
+        "#7f7f7f"
+      ]
     }
   ],
   "paysandu": [
