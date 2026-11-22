@@ -30,6 +30,16 @@ for (const team of teams) {
       console.log(`FALHA  ${team.label}: ${name} = ${ratio.toFixed(2)}:1 (mínimo ${min}:1)  [${a} sobre ${b}]`);
     }
   }
+  // Toda cor de texto do realce de sintaxe (tokenColors) precisa ser legível sobre o fundo do editor (WCAG AA, 4,5:1).
+  for (const rule of theme.tokenColors) {
+    const hex = rule.settings && rule.settings.foreground;
+    if (!hex || !/^#[0-9a-f]{6}/i.test(hex)) continue;
+    const ratio = contrast(hex.slice(0, 7), theme.colors['editor.background']);
+    if (ratio < 4.5) {
+      failures += 1;
+      console.log(`FALHA  ${team.label}: realce "${rule.name || rule.scope}" = ${ratio.toFixed(2)}:1 (mínimo 4.5:1)  [${hex}]`);
+    }
+  }
   // Os 6 níveis de colchete precisam ser legíveis sobre o fundo.
   team.brackets.forEach((hex, i) => {
     const ratio = contrast(hex, theme.colors['editor.background']);
