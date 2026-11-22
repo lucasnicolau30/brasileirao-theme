@@ -107,11 +107,15 @@ const LEGACY_SECTIONS = ['sidebar', 'panel'];
 
 async function syncCrest(context, palette) {
   if (!vscode.extensions.getExtension(BACKGROUND)) {
-    if (palette && !context.globalState.get('background.warned')) {
-      await context.globalState.update('background.warned', true);
+    // Sem a Background não há escudo de fundo: avisa de novo quando o time muda, no máximo uma vez por semana, até instalar ou escolher "Não mostrar mais".
+    const WEEK = 7 * 24 * 60 * 60 * 1000;
+    const last = Number(context.globalState.get('background.warnedAt')) || 0;
+    if (palette && !context.globalState.get('background.neverWarn') && Date.now() - last >= WEEK) {
+      await context.globalState.update('background.warnedAt', Date.now());
       const choice = await vscode.window.showInformationMessage(
-        'Brasileirão Theme: para o escudo no fundo do editor, instale a extensão "Background" (shalldie).', 'Instalar');
+        'Brasileirão Theme: para o escudo no fundo do editor, instale a extensão "Background" (shalldie).', 'Instalar', 'Não mostrar mais');
       if (choice === 'Instalar') vscode.commands.executeCommand('workbench.extensions.installExtension', BACKGROUND);
+      if (choice === 'Não mostrar mais') await context.globalState.update('background.neverWarn', true);
     }
     return;
   }
