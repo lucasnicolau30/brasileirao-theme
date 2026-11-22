@@ -15,6 +15,14 @@ A dark theme and an icon theme for each of 125 clubs of the Brazilian league sys
 
 Teams: Rio Branco-AC, Juventus-AC, Independência, Atlético-AC, CSA, CRB, ASA, Macapá, Trem, Ypiranga-AP, Santos-AP, Amazonas FC, Nacional-AM, Rio Negro-AM, São Raimundo-AM, Manaus FC, Bahia, Vitória, Ypiranga-BA, Fortaleza, Ceará, Ferroviário-CE, Guarany de Sobral, Brasiliense, Gama, Brasília, Rio Branco-ES, Desportiva Ferroviária, Vitória-ES, Serra, Goiás, Atlético-GO, Vila Nova, Aparecidense, Sampaio Corrêa, Moto Club, Maranhão AC, Cuiabá, Luverdense, Mixto, Operário-MS, Comercial-MS, Cruzeiro, Atlético-MG, América-MG, Uberlândia, Villa Nova-MG, Boa Esporte-MG, Tupi, Tombense, Paysandu, Remo, Tuna Luso, São Raimundo-PA, Campinense, Botafogo-PB, Treze, Athletico-PR, Coritiba, Paraná, Londrina, Operário-PR, Maringá, Sport, Santa Cruz, Náutico, Retrô, Flamengo-PI, Parnahyba, Piauí, Altos, Flamengo, Fluminense, Vasco, Botafogo, Campo Grande, Volta Redonda, Olaria, Macaé, América-RJ, Bangu, América-RN, ABC, Grêmio, Internacional, Juventude, Ji-Paraná, Vilhena, Porto Velho, Baré, São Raimundo-RR, GAS, Criciúma, Chapecoense, Joinville, Avaí, Brusque, Barra-SC, Figueirense, São Paulo, Santos, Corinthians, Palmeiras, Guarani, Paulista, Santo André, Bragantino, União São João, Portuguesa, Juventus-SP, Inter de Limeira, Novorizontino, Ituano, Mirassol, XV de Piracicaba, União Barbarense, Osasco Sporting, Ponte Preta, Botafogo-SP, Sergipe, Confiança, Itabaiana, Palmas, Tocantinópolis, Gurupi
 
+## Preview
+
+![Picking a team and switching themes](images/screenshots/trocando-de-time.gif)
+
+| Flamengo | Palmeiras | Amazonas FC |
+| --- | --- | --- |
+| ![Flamengo theme](images/screenshots/flamengo.png) | ![Palmeiras theme](images/screenshots/palmeiras.png) | ![Amazonas FC theme](images/screenshots/amazonas.png) |
+
 ## What you get
 
 - **A color theme per club**, with contrast checked on every theme (editor text at 7:1 or better; comments, line numbers, status bar, buttons and bracket levels at 4.5:1 or better).

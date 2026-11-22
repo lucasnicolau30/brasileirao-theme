@@ -15,6 +15,14 @@ Um tema escuro e um tema de ícones para cada um de 125 times do Brasileirão e 
 
 Times: Rio Branco-AC, Juventus-AC, Independência, Atlético-AC, CSA, CRB, ASA, Macapá, Trem, Ypiranga-AP, Santos-AP, Amazonas FC, Nacional-AM, Rio Negro-AM, São Raimundo-AM, Manaus FC, Bahia, Vitória, Ypiranga-BA, Fortaleza, Ceará, Ferroviário-CE, Guarany de Sobral, Brasiliense, Gama, Brasília, Rio Branco-ES, Desportiva Ferroviária, Vitória-ES, Serra, Goiás, Atlético-GO, Vila Nova, Aparecidense, Sampaio Corrêa, Moto Club, Maranhão AC, Cuiabá, Luverdense, Mixto, Operário-MS, Comercial-MS, Cruzeiro, Atlético-MG, América-MG, Uberlândia, Villa Nova-MG, Boa Esporte-MG, Tupi, Tombense, Paysandu, Remo, Tuna Luso, São Raimundo-PA, Campinense, Botafogo-PB, Treze, Athletico-PR, Coritiba, Paraná, Londrina, Operário-PR, Maringá, Sport, Santa Cruz, Náutico, Retrô, Flamengo-PI, Parnahyba, Piauí, Altos, Flamengo, Fluminense, Vasco, Botafogo, Campo Grande, Volta Redonda, Olaria, Macaé, América-RJ, Bangu, América-RN, ABC, Grêmio, Internacional, Juventude, Ji-Paraná, Vilhena, Porto Velho, Baré, São Raimundo-RR, GAS, Criciúma, Chapecoense, Joinville, Avaí, Brusque, Barra-SC, Figueirense, São Paulo, Santos, Corinthians, Palmeiras, Guarani, Paulista, Santo André, Bragantino, União São João, Portuguesa, Juventus-SP, Inter de Limeira, Novorizontino, Ituano, Mirassol, XV de Piracicaba, União Barbarense, Osasco Sporting, Ponte Preta, Botafogo-SP, Sergipe, Confiança, Itabaiana, Palmas, Tocantinópolis, Gurupi
 
+## Prévia
+
+![Escolhendo um time e trocando de tema](images/screenshots/trocando-de-time.gif)
+
+| Flamengo | Palmeiras | Amazonas FC |
+| --- | --- | --- |
+| ![Tema do Flamengo](images/screenshots/flamengo.png) | ![Tema do Palmeiras](images/screenshots/palmeiras.png) | ![Tema do Amazonas FC](images/screenshots/amazonas.png) |
+
 ## O que você recebe
 
 - **Um tema de cores por clube**, com o contraste checado em todos (texto do editor com 7:1 ou mais; comentários, números de linha, barra de status, botões e níveis de colchete com 4,5:1 ou mais).
