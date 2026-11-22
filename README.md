@@ -61,7 +61,7 @@ All crests have the same total height (80% of the window), stars and crown inclu
 
 The **Titles** section at the bottom of the Explorer shows only the competitions where the club has a title, centered: Copa do Brasil, Libertadores (larger), Brasileirão, Club World Cup, Sudamericana, Copa do Nordeste (northeastern clubs only), Copa Verde (north and center-west clubs only), Série B, C and D and the state championship (with the trophy of each of the 27 states), each with a trophy photo; the 12 big clubs show every trophy except Série B, C and D. A club with a single Série C title shows just the Série C. With 4 or 5 competitions everything fits on a single line (items and text shrink to the sidebar width). The Club World Cup is the apex: right next to the Libertadores and centered when there are 5. All trophies have the same height. Each has a badge in the club's color with the number of titles ("x9"). Hovering a trophy shows the years.
 
-The data lives in the `titles` field of `src/teams.js`, up to the 2025 season (Copa do Nordeste and Copa Verde up to 2026). The Brasileirão follows the CBF's unified criterion (1959 onwards, plus Atlético-MG's 1937); Flamengo also counts 1987. Tests check the years against a table made by hand.
+The data lives in the `titles` field of `src/teams.js`, up to the 2025 season (Brasileirão, Copa do Nordeste and Copa Verde up to 2026). The Brasileirão follows the CBF's unified criterion (1959 onwards, plus Atlético-MG's 1937); Flamengo also counts 1987. Tests check the years against a table made by hand.
 
 ## Palettes
 
@@ -254,7 +254,7 @@ Crests are trademarks of the clubs. The sources live in `assets/escudos/` (and `
 
 - **Titles:** only the competitions where the club has a title appear. The 12 big clubs (Flamengo, Fluminense, Vasco, Botafogo, Palmeiras, Santos, São Paulo, Corinthians, Cruzeiro, Atlético-MG, Grêmio and Internacional) show every trophy except Série B, C and D; the other clubs show Série B, C and D too.
 - **State championship:** the main state championship of the club's state (UF), with the state's trophy. All 27 states have the photo.
-- **Years:** up to the 2025 season (Copa do Nordeste, Copa Verde and state championships up to 2026). The Brasileirão follows the CBF's unified criterion (1959 onwards, plus Atlético-MG's 1937); Flamengo also counts 1987.
+- **Years:** up to the 2025 season (Brasileirão, Copa do Nordeste, Copa Verde and state championships up to 2026). The Brasileirão follows the CBF's unified criterion (1959 onwards, plus Atlético-MG's 1937); Flamengo also counts 1987.
 - **Club order:** in the READMEs, states are alphabetical and, within each, clubs follow the picker's display order. That order is set by the number of titles: Club World Cup, Libertadores and Brasileirão first; on a tie, Copa do Brasil, Sudamericana, Copa do Nordeste, Série B, C and D, Copa Verde and, last, the state championship. With everything equal, the club that won the most important title first comes first.
 - **Current crest:** just one per club, with "desde YYYY" in the name only when the source is clear.
 - **Old crests:** in chronological order, with the **period** of use as the label (never a lone year); no crests nearly identical to each other or to the current one; always smooth, sharp vector.

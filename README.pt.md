@@ -61,7 +61,7 @@ Todos os escudos têm a mesma altura total (80% da janela), estrelas e coroa inc
 
 A seção **Títulos**, no fim do explorador, mostra só as competições em que o clube tem título, centralizadas: Copa do Brasil, Libertadores (maior), Brasileirão, Mundial, Sul-Americana, Copa do Nordeste (só os clubes do Nordeste), Copa Verde (só os do Norte e do Centro-Oeste), Séries B, C e D e o estadual (com a taça de cada um dos 27 estados), cada uma com foto do troféu; os 12 grandes mostram todos os troféus, menos os das Séries B, C e D. Um clube que só tem uma Série C mostra apenas a Série C. Com 4 ou 5 competições, tudo cabe numa linha só (itens e texto encolhem para a largura da barra). O Mundial é o ápice: fica ao lado da Libertadores e no centro quando há 5. Todos os troféus têm a mesma altura. Cada um tem uma bolinha na cor do clube com o número de títulos ("x9"). Passar o mouse num troféu mostra os anos.
 
-Os dados ficam no campo `titles` de `src/teams.js`, até a temporada 2025 (Copa do Nordeste e Copa Verde até 2026). O Brasileirão segue o critério unificado da CBF (1959 em diante, mais o de 1937 do Atlético-MG); o Flamengo conta também 1987. Os testes conferem os anos contra uma tabela feita à mão.
+Os dados ficam no campo `titles` de `src/teams.js`, até a temporada 2025 (Brasileirão, Copa do Nordeste e Copa Verde até 2026). O Brasileirão segue o critério unificado da CBF (1959 em diante, mais o de 1937 do Atlético-MG); o Flamengo conta também 1987. Os testes conferem os anos contra uma tabela feita à mão.
 
 ## Paletas
 
@@ -254,7 +254,7 @@ Os escudos são marca registrada dos clubes. As fontes ficam em `assets/escudos/
 
 - **Títulos:** só aparecem as competições em que o clube tem título. Os 12 grandes (Flamengo, Fluminense, Vasco, Botafogo, Palmeiras, Santos, São Paulo, Corinthians, Cruzeiro, Atlético-MG, Grêmio e Internacional) mostram todos os troféus, menos os das Séries B, C e D; os demais clubes mostram também as Séries B, C e D.
 - **Estadual:** é o campeonato estadual principal do estado do clube (UF), com a taça do estado. Os 27 estados têm a foto.
-- **Anos:** vão até a temporada 2025 (Copa do Nordeste, Copa Verde e estaduais até 2026). O Brasileirão segue o critério unificado da CBF (1959 em diante, mais o Atlético-MG em 1937); o Flamengo conta também 1987.
+- **Anos:** vão até a temporada 2025 (Brasileirão, Copa do Nordeste, Copa Verde e estaduais até 2026). O Brasileirão segue o critério unificado da CBF (1959 em diante, mais o Atlético-MG em 1937); o Flamengo conta também 1987.
 - **Ordem dos times:** nos READMEs, os estados vão em ordem alfabética e, dentro de cada um, os times seguem a ordem de exibição do seletor. Essa ordem vale a quantidade de títulos: Mundial, Libertadores e Brasileirão primeiro; no empate, Copa do Brasil, Sul-Americana, Copa do Nordeste, Séries B, C e D, Copa Verde e, por último, o Estadual. Com tudo igual, vem antes quem ganhou antes o título mais importante.
 - **Escudo atual:** um só por clube, com "desde AAAA" no nome só quando a fonte é clara.
 - **Escudos antigos:** em ordem cronológica, com o **período** de uso no rótulo (nunca um ano solto); sem escudos quase idênticos entre si ou ao atual; sempre em vetor liso e nítido.

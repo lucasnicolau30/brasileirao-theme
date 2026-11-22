@@ -14,7 +14,7 @@ const palettes = require('../extension/palettes.json');
 // Contagens conferidas à mão (independentes dos anos em teams.js): se um ano for apagado ou incluído por engano, falha.
 // Brasileirão pelo critério da CBF (1959 em diante, mais o Atlético-MG em 1937); o Flamengo conta também 1987.
 const EXPECTED = {
-  flamengo: [9, 5, 4],
+  flamengo: [10, 5, 4],
   fluminense: [4, 1, 1],
   botafogo: [3, 0, 1],
   vasco: [4, 1, 1],
@@ -271,6 +271,7 @@ const EXPECTED_OTHER = {
   'ypiranga-ba': [0, 0, 0, 0, 0],
 };
 const LAST_YEAR = 2025; // última temporada incluída
+const LAST_YEAR_BRASILEIRAO = 2026; // o Brasileirão de 2026 já foi decidido (Flamengo, 21/11/2026)
 const LAST_YEAR_NORDESTE = 2026; // a Copa do Nordeste de 2026 já foi decidida (Vitória)
 const LAST_YEAR_VERDE = 2026; // a Copa Verde de 2026 já foi decidida (Paysandu)
 const LAST_YEAR_ESTADUAL = 2026; // os estaduais de 2026 já foram decididos
@@ -328,7 +329,7 @@ for (const team of teams) {
       assert.ok(Array.isArray(years), `${key} deve ser uma lista de anos`);
       years.forEach((y) => {
         assert.ok(Number.isInteger(y), `${key}: ${y} não é inteiro`);
-        const ultimo = key === 'copaDoNordeste' ? LAST_YEAR_NORDESTE : key === 'copaVerde' ? LAST_YEAR_VERDE : key === 'estadual' ? LAST_YEAR_ESTADUAL : key === 'serieD' ? LAST_YEAR_SERIED : key === 'serieC' ? LAST_YEAR_SERIEC : key === 'serieB' ? LAST_YEAR_SERIEB : LAST_YEAR;
+        const ultimo = key === 'copaDoNordeste' ? LAST_YEAR_NORDESTE : key === 'copaVerde' ? LAST_YEAR_VERDE : key === 'estadual' ? LAST_YEAR_ESTADUAL : key === 'serieD' ? LAST_YEAR_SERIED : key === 'serieC' ? LAST_YEAR_SERIEC : key === 'serieB' ? LAST_YEAR_SERIEB : key === 'brasileirao' ? LAST_YEAR_BRASILEIRAO : LAST_YEAR;
         assert.ok(y >= FIRST_YEAR[key] && y <= ultimo, `${key}: ${y} fora de ${FIRST_YEAR[key]}-${ultimo}`);
       });
       assert.deepEqual(years, [...years].sort((a, b) => a - b), `${key}: anos fora de ordem`);
