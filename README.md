@@ -311,7 +311,7 @@ Title counts and years come from the Portuguese and English Wikipedia articles o
 
 ## Disclaimer
 
-Independent extension, with no link to any football club, the CBF or the Brasileirão. Club names, crests and the competition logo are trademarks of their respective owners and appear here only to identify each theme. If an owner asks for removal, the package comes down.
+Independent extension, with no link to any football club, the CBF or the Brasileirão. Club names, crests and the competition logo (which is also the extension's icon) are trademarks of their respective owners and appear here only to identify each theme. If an owner asks for removal, the package comes down.
 
 ## License
 
