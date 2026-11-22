@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.2.1 (2026-11-22)
+
+- **Flamengo campeão do Brasileirão 2026:** o título foi confirmado na 36ª rodada (21/11) e o Flamengo passa a mostrar 10 títulos (contando 1987).
+- **Aviso da Background:** sem a extensão Background, o aviso para instalá-la volta quando o time muda (no máximo uma vez por semana) e ganha o botão "Não mostrar mais". Antes aparecia uma única vez.
+- **Contraste:** a verificação (`npm run check`) confere também todas as cores do realce de sintaxe; nos 125 temas ficam em 4,5:1 ou mais.
+- **`description` do `package.json` em inglês**, para o Marketplace; o português continua nos READMEs.
+- **READMEs (EN e PT):** nova seção "Prévia" com um GIF escolhendo o time e capturas do Flamengo, Palmeiras e Amazonas FC; "Read in:" e "Leia em:" antes da escolha de idioma; o aviso de marca diz que o logo do campeonato é também o ícone da extensão, com o mesmo pedido de retirada.
+- **CI no GitHub Actions:** `npm run test:ci` roda a cada push e pull request (sem os testes que dependem dos escudos, que não vão para o Git).
+
 ## 1.2.0 (2026-11-19)
 
 - **Os 12 grandes mostram o Estadual:** a regra agora é que eles mostram todos os troféus, menos os das Séries B, C e D.
